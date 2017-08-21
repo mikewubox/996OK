@@ -1815,7 +1815,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5800ff;
+  background: #364912;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3092,7 +3092,7 @@ img#github-emoji {
   background: rgba(255,118,0,0.75);
 }
 .aplayer {
-  font-family: Lato, Helvetica, sans-serif;
+  font-family: Lato, Helvetica, sans-serif !important;
 }
 .aplayer-withlrc.aplayer .aplayer-info {
   background: #fff;
