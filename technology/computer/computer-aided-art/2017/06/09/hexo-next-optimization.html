@@ -10,7 +10,7 @@
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta name="theme-color" content="#6200ff">
+<meta name="theme-color" content="#222">
 
 
 
@@ -127,7 +127,6 @@
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f611.png">
 <meta property="og:image" content="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-footnotes.jpg">
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png">
-<meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png">
 <meta property="og:image" content="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/heirenwenhaolian.jpg">
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60f.png">
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png">
@@ -136,7 +135,7 @@
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png">
 <meta property="og:image" content="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif">
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png">
-<meta property="og:updated_time" content="2017-08-21T08:43:39.708Z">
+<meta property="og:updated_time" content="2017-08-21T10:24:59.852Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="打造个性超赞博客Hexo+NexT+GithubPages的超深度优化">
 <meta name="twitter:description" content="人无完人，设想地球上的每个超棒的想法都能汇聚在相应的小河之中，那么文明的大河将会迅速变成大海（赶在太阳将河水蒸干之前）。感谢互联网，让开源共享精神照耀了这个时代，让这个设想有了真正的可能。拥有自己的博客，不仅是记录了自己，反思了自己，而且借助互联网也可能照亮他人，给整个文明光能。本文就是一篇关于利用Github Pages + Hexo + NexT搭建个人博客的文章，教你如何从0到1打造自己">
@@ -485,7 +484,7 @@
                   <span class="post-meta-item-text">字数统计</span>
                 
                 <span title="字数统计">
-                  8,695
+                  8,813
                 </span>
               
 
@@ -584,18 +583,19 @@
 <h3 id="修改字体"><a href="#修改字体" class="headerlink" title="修改字体"></a>修改字体</h3><p>优化了这么多，但还有一个最影响网站形象和阅读体验的项没有优化，瓦特？字体！</p>
 <p>文章字体大小可以编辑<code>～blog/themes/next/source/css/_variables/base.styl</code>：</p>
 <figure class="highlight gams"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="meta"><span class="meta-keyword">$font</span>-size-base           = 15px</span></div></pre></td></tr></table></figure>
-<p>因为不同设备有不同默认字体，如果你也觉得字体也是展示个性以及网站形象的重要组成部分（特别是本站有一个大大的英文<em>Logo</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png" height="20" width="20">），那就开始修改吧！</p>
-<p>首先编辑主题配置文件<code>~/blog/themes/next/_config.yml</code>，点击查看<a href="http://theme-next.iissnan.com/theme-settings.html#fonts-customization" target="_blank" rel="external">NexT官方文档</a>。</p>
 <p>如果你是一个和我一样对字体一脸懵逼的人，推荐阅读：</p>
 <p>1.<a href="http://www.imooc.com/article/11261" target="_blank" rel="external">如何优雅的选择默认字体(font-family)</a></p>
 <p>2.<a href="http://www.voyax.me/2016/09/12/Web%E4%B8%AD%E6%96%87%E5%AD%97%E4%BD%93%E6%8E%92%E7%89%88%E6%8C%87%E5%8D%97/" target="_blank" rel="external">Web中文字体排版指南</a></p>
 <p>3.<a href="http://www.ruanyifeng.com/blog/2014/07/chinese_fonts.html" target="_blank" rel="external">中文字体网页开发指南</a></p>
-<p>4.<a href="https://blog.coding.net/blog/Web-Fonts" target="_blank" rel="external">Web 字体的选择和运用</a></p>
-<p>5.<a href="https://csspod.com/using-the-system-font-in-web-content/" target="_blank" rel="external">在 Web 内容中使用系统字体</a></p>
+<p>4.<a href="https://blog.coding.net/blog/Web-Fonts" target="_blank" rel="external">Web字体的选择和运用</a></p>
+<p>5.<a href="https://csspod.com/using-the-system-font-in-web-content/" target="_blank" rel="external">在Web内容中使用系统字体</a></p>
+<p>首先对于汉字来说，因为其字体库太大，通常都是调用本地中文字体库。而不同设备有不同默认中文字体和中文字体库，想要尽可能在不同设备上有较好的显示效果，就要在调用不同设备的本地字体库中显示效果较好的中文字体。</p>
+<p>中文字体的设置一般无需更改，<em>NexT</em>主题默认的已经够了，如果你想自定义，编辑上面所说的<code>base.styl</code>即可。</p>
+<p><blockquote class="question">注意：要想<em>NexT</em>主题的简体中文字体配置生效，<code>站点配置文件</code>中的<em>language</em>必须为<em>zh-Hans</em>。</blockquote></p>
+
+<p>然后对于英文字体，因为其字体库很小，所以想要个性化就简单多了。首先编辑主题配置文件<code>~/blog/themes/next/_config.yml</code>，点击查看<a href="http://theme-next.iissnan.com/theme-settings.html#fonts-customization" target="_blank" rel="external">NexT官方文档</a>。</p>
 <p>字体自己选，代码字体可以参考<a href="http://www.maoxuner.cn/2017/03/08/coding-font.html" target="_blank" rel="external">这篇文章</a>，下面附上我的供大家参考：</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div></pre></td><td class="code"><pre><div class="line"><span class="attr">font:</span></div><div class="line"><span class="attr">  enable:</span> <span class="literal">true</span></div><div class="line"></div><div class="line">  <span class="comment"># Uri of fonts host. E.g. //fonts.googleapis.com (Default)</span></div><div class="line">  <span class="comment"># 亲测这个可用，如果不可用，自己搜索：Google字体 国内镜像，找个能用的就行</span></div><div class="line"><span class="attr">  host:</span> <span class="attr">https://fonts.proxy.ustclug.org</span></div><div class="line"></div><div class="line">  <span class="comment"># Global font settings used on &lt;body&gt; element.</span></div><div class="line"><span class="attr">  global:</span></div><div class="line">    <span class="comment"># external: true will load this font family from host.</span></div><div class="line"><span class="attr">    external:</span> <span class="literal">true</span></div><div class="line"><span class="attr">    family:</span> <span class="string">Lato</span></div><div class="line"></div><div class="line">  <span class="comment"># Font settings for Headlines (h1, h2, h3, h4, h5, h6)</span></div><div class="line">  <span class="comment"># Fallback to `global` font settings.</span></div><div class="line"><span class="attr">  headings:</span></div><div class="line"><span class="attr">    external:</span> <span class="literal">true</span></div><div class="line"><span class="attr">    family:</span></div><div class="line"></div><div class="line">  <span class="comment"># Font settings for posts</span></div><div class="line">  <span class="comment"># Fallback to `global` font settings.</span></div><div class="line"><span class="attr">  posts:</span></div><div class="line"><span class="attr">    external:</span> <span class="literal">true</span></div><div class="line"><span class="attr">    family:</span></div><div class="line"></div><div class="line">  <span class="comment"># Font settings for Logo</span></div><div class="line">  <span class="comment"># Fallback to `global` font settings.</span></div><div class="line">  <span class="comment"># The `size` option use `px` as unit</span></div><div class="line"><span class="attr">  logo:</span></div><div class="line"><span class="attr">    external:</span> <span class="literal">true</span></div><div class="line"><span class="attr">    family:</span> <span class="string">Lato</span></div><div class="line"><span class="attr">    size:</span></div><div class="line"></div><div class="line">  <span class="comment"># Font settings for &lt;code&gt; and code blocks.</span></div><div class="line"><span class="attr">  codes:</span></div><div class="line"><span class="attr">    external:</span> <span class="literal">true</span></div><div class="line"><span class="attr">    family:</span> <span class="string">"Source Code Pro"</span></div><div class="line"><span class="attr">    size:</span></div></pre></td></tr></table></figure>
-<p><blockquote class="question">问题：中文字体不奏效，哪位大神教教我？</blockquote></p>
-
 <h2 id="进阶-高级功能配置"><a href="#进阶-高级功能配置" class="headerlink" title="进阶 高级功能配置"></a>进阶 高级功能配置</h2><h3 id="更改每篇文章底部上一篇，下一篇的顺序"><a href="#更改每篇文章底部上一篇，下一篇的顺序" class="headerlink" title="更改每篇文章底部上一篇，下一篇的顺序"></a>更改每篇文章底部上一篇，下一篇的顺序</h3><p>进入一篇文章，在文章底部，有上下篇的链接（&lt; &gt;），但是点&gt;发现进入的是页面中的的上面那篇，与操作习惯不符，别扭。</p>
 <p>我猜这是从<code>时间角度</code>设计的，&gt;英语叫<em>next</em> ，而<em>next</em>是更新的。不过别扭就改成习惯的好了，从<code>空间位置角度</code>设计。<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 <p>方法就是修改<code>~/blog/themes/next/layout/_macro/post.swig</code>：</p>
