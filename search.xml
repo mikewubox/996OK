@@ -21,7 +21,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -57,7 +57,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer8"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -69,7 +69,7 @@
 				}
 			});
 		</script>
-<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
+<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer8" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer8 = new DPlayer({"element":document.getElementById("dplayer8"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -1749,7 +1749,7 @@
 
 <h2 id="断章-–-卞之琳"><a href="#断章-–-卞之琳" class="headerlink" title="断章 – 卞之琳"></a><center>断章 – 卞之琳</center></h2><p><center>你站在桥上看风景，<br>看风景的人在楼上看你。<br>明月装饰了你的窗子，<br>你装饰了别人的梦。</center></p>
 
-<h2 id="The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric"><a href="#The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric" class="headerlink" title="The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)"></a><center><i>The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)</i></center></h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"7587669ca42e19e8a9aa89df1c2d901970d2966ddddfc30b86120f3c933a9f5e"}});</script><!-- dplayer used1 -->
+<h2 id="The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric"><a href="#The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric" class="headerlink" title="The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)"></a><center><i>The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)</i></center></h2><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"7587669ca42e19e8a9aa89df1c2d901970d2966ddddfc30b86120f3c933a9f5e"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -1890,7 +1890,7 @@
 </ol>
 <p>技术嘛，很多东东都有人玩过了，玩过了的大神很多都会写自己的教程，放在自己的博客上。能自己写博客，质量要好点，还有些比较<code>新</code>的东东，大神的博客不会让你失望。</p>
 <p>可是<em>Google</em>被墙了啊，这里推荐一下<a href="https://laod.cn/" target="_blank" rel="external">老D的hosts</a>，不过估计能看到这篇文章的人，都已具备这样的能力。</p>
-<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
+<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
 [ti:The Salwater Room]
 [al:Hot Air Balloon]
 [by:https://reuixiy.github.io]
@@ -1945,7 +1945,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2218,7 +2218,7 @@
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开<em>QQ</em>看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着<em>Coldplay</em>的<em>In My Place</em>。码着码着，就码了一个半小时的字，<em>心情也趋于平静</em>。</p>
 <p><div style="text-align:right"><em>2016-12-29 02:43:05</em></div></p>
 
-<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:In My Place]
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
@@ -2259,7 +2259,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2690,17 +2690,68 @@
       <url>/uncategorized/2010/01/01/test.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<p><blockquote>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</blockquote></p>
+<p><blockquote>for test only</blockquote></p>
 
 <a id="more"></a>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h4 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h4><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+<h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
+			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
+			<script>
+				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-fix-you.lrc"},{"title":"Live Forever","author":"Oasis","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg","lrc":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/oasis-live-forever.lrc"},{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-paradise.lrc"}]};
+				options.element = document.getElementById("aplayer4");
+				new APlayer(options);
+			</script>
+
+		
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+[ti:Live Forever]
+[al:Live Forever]
+[by:https://reuixiy.github.io]
+[length:4:38]
+[offset:500]
+[00:00.00]Oasis - Live Forever
+[00:12.69]
+[02:28.88][00:12.70]Maybe I don't really want to know
+[02:32.25][00:17.28]How your garden grows
+[02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain
+[02:42.93][00:28.06]In the morning rain
+[02:45.64][00:30.57]As it soaks it to the bone
+[02:49.35][00:34.49]Maybe I just want to fly
+[02:51.96][00:37.21]I wanna live I don't want to die
+[02:54.55][00:39.63]Maybe I just want to breath
+[02:57.08][00:42.30]Maybe I just don't believe
+[02:59.69][00:44.88]Maybe you're the same as me
+[03:02.25][00:47.48]We see things they'll never see
+[03:05.13][00:50.27]You and I are gonna live forever
+[00:57.74]Maybe I don't really want to know
+[01:02.56]How your garden grows
+[01:05.13]I just want to fly Lately did you ever feel the pain
+[01:13.23]In the morning rain
+[01:15.93]As it soaks it to the bone
+[01:19.41]Maybe I will never be
+[01:22.05]All the things that I want to be
+[01:24.87]But now is not the time to cry
+[01:27.41]Now's the time to find out why
+[01:29.99]I think you're the same as me
+[01:32.56]We see things they'll never see
+[01:35.28]You and I are gonna live forever
+[03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer5"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Live Forever",
+					author: "Oasis",
+					url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3",
+					pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg",
+				}
+			});
+		</script>
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
       
