@@ -26,7 +26,6 @@
 [al:Live Forever]
 [by:https://reuixiy.github.io]
 [length:4:38]
-[offset:500]
 [00:00.00]Oasis - Live Forever
 [00:12.69]
 [02:28.88][00:12.70]Maybe I don't really want to know
@@ -102,9 +101,9 @@
             
             <tag> 悲伤 </tag>
             
-            <tag> 死亡 </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> 死亡 </tag>
             
         </tags>
         
@@ -236,8 +235,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -247,6 +244,8 @@
             <tag> video </tag>
             
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
             
         </tags>
         
@@ -280,19 +279,19 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> association </tag>
             
             <tag> synthesis(综合) </tag>
             
             <tag> questions </tag>
             
-            <tag> beautiful </tag>
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -341,15 +340,15 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
-            <tag> 好奇心 </tag>
+            <tag> questions </tag>
             
             <tag> shape </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
@@ -509,11 +508,11 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> beautiful </tag>
             
             <tag> notnow </tag>
             
@@ -703,10 +702,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -716,6 +711,10 @@
             <tag> video </tag>
             
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> technology </tag>
             
@@ -941,19 +940,19 @@
         
         <tags>
             
+            <tag> share </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
-            
-            <tag> share </tag>
-            
-            <tag> 诗 </tag>
             
             <tag> technology </tag>
             
             <tag> computer </tag>
             
             <tag> computer-aided-art </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -1198,11 +1197,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -1298,15 +1297,15 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> love </tag>
+            
             <tag> association </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -1368,11 +1367,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -1813,10 +1812,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -1828,6 +1823,10 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> 诗 </tag>
             
@@ -2022,11 +2021,11 @@
         
         <tags>
             
+            <tag> music </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
-            
-            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -2068,11 +2067,11 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> love </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2113,10 +2112,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> coldplay </tag>
@@ -2124,6 +2119,10 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2202,15 +2201,17 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
             
             <tag> 真理 </tag>
             
-            <tag> beautiful </tag>
-            
             <tag> 光 </tag>
+            
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2220,8 +2221,6 @@
             
             <tag> 好奇心 </tag>
             
-            <tag> shape </tag>
-            
             <tag> practical-science(实践科学) </tag>
             
             <tag> 对立 </tag>
@@ -2230,9 +2229,9 @@
             
             <tag> 极限 </tag>
             
-            <tag> untitled </tag>
-            
             <tag> 补充 </tag>
+            
+            <tag> untitled </tag>
             
             <tag> 维 </tag>
             
@@ -2272,10 +2271,9 @@
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
 [length:3:48]
-[offset:500]
 [00:00.00]Coldplay - In My Place
-[00:34.23]
-[00:34.24]In my place, in my place
+[00:33.23]
+[00:33.24]In my place, in my place
 [00:38.14]Were lines that I couldn t change
 [00:41.24]I was lost, oh yeah
 [00:47.53]I was lost, I was lost
@@ -2334,6 +2332,12 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> coldplay </tag>
+            
+            <tag> music </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2348,21 +2352,15 @@
             
             <tag> tips </tag>
             
-            <tag> beautiful </tag>
-            
-            <tag> coldplay </tag>
-            
-            <tag> music </tag>
-            
             <tag> 开心 </tag>
+            
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2401,9 +2399,9 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2534,9 +2532,9 @@
             
             <tag> music </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> 音乐可视化 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 发呆 </tag>
             
@@ -2575,9 +2573,9 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 光 </tag>
             
@@ -2620,13 +2618,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
@@ -2716,15 +2714,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
-            <tag> 诗 </tag>
+            <tag> 想象 </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -2754,7 +2752,6 @@
 [al:Live Forever]
 [by:https://reuixiy.github.io]
 [length:4:38]
-[offset:500]
 [00:00.00]Oasis - Live Forever
 [00:12.69]
 [02:28.88][00:12.70]Maybe I don't really want to know
