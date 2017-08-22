@@ -1815,7 +1815,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #5b9ce4;
+  background: #e0b429;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2938,7 +2938,7 @@ ol {
   font-weight: bold;
 }
 .site-state {
-  margin-right: 13px;
+  margin-right: 7px;
 }
 .site-state-item {
   padding: 0 15px;
@@ -3096,4 +3096,14 @@ img#github-emoji {
 }
 .aplayer-withlrc.aplayer .aplayer-info {
   background: #fff;
+}
+.aplayer .aplayer-list ol {
+  background: #fff;
+}
+.post.post-type-normal {
+  -webkit-transform: inherit !important;
+  -moz-transform: inherit !important;
+  -ms-transform: inherit !important;
+  -o-transform: inherit !important;
+  transform: inherit !important;
 }
