@@ -21,7 +21,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -57,7 +57,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer8"),
+				element: document.getElementById("aplayer9"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -152,9 +152,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -206,7 +206,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -552,7 +552,7 @@
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -608,7 +608,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -624,7 +624,7 @@
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -663,7 +663,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -879,11 +879,11 @@
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/music/">music</a>标签里自己找一篇文章看看。</p>
 <p>另：可以支持歌单，详见<a href="https://github.com/MoePlayer/hexo-tag-aplayer" target="_blank" rel="external">README</a>。</p>
 <h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><p>与音频相同，可以用<em>HTML</em>的标签，写法如下：</p>
-<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">video</span> src=<span class="string">"https://什么什么什么.mp4"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">video</span> tag.&lt;/video&gt;</div></pre></td></tr></table></figure>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">video</span> poster=<span class="string">"https://封面图.jpg"</span> src=<span class="string">"https://什么什么什么.mp4"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">video</span> tag.&lt;/video&gt;</div></pre></td></tr></table></figure>
 <p>一样的，还可以用插件，功能更加强大，比如可以弹幕。首先在博客文件夹根目录：</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> <span class="comment">--save hexo-tag-dplayer</span></div></pre></td></tr></table></figure>
 <p>然后按下面的写法：</p>
-<figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://什么什么什么.mp4"</span> <span class="string">"封面图.jpg"</span> <span class="string">"api=https://api.prprpr.me/dplayer/"</span> <span class="string">"id="</span> <span class="string">"loop=true"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
+<figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://什么什么什么.mp4"</span> <span class="string">"https://封面图.jpg"</span> <span class="string">"api=https://api.prprpr.me/dplayer/"</span> <span class="string">"id="</span> <span class="string">"loop=true"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
 <p>要使用弹幕，必须有<code>api</code>和<code>id</code>两项，并且若使用的是官方的<em>api</em>地址（即上面的），<em>id</em>的值不能与<a href="https://api.prprpr.me/dplayer/list" target="_blank" rel="external">这个列表</a>的值一样。<em>id</em>的值自己随便取，唯一要求就是前面这点。</p>
 <p>如果唯一要求难倒了你，可以使用<a href="http://tool.oschina.net/encrypt?type=2" target="_blank" rel="external">这个工具</a>生成哈希值，这样就几乎没有可能会有一样的值。</p>
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/video/">video</a>标签里自己找一篇文章看看。</p>
@@ -1060,8 +1060,57 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p>
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><p><audio src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3" style="max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" controls="controls" loop="loop" preload="meta">Your browser does not support the audio tag.</audio></p>
-
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+[ti:Fix You]
+[al:X&Y]
+[by:https://reuixiy.github.io]
+[length:4:53]
+[00:00.00]Coldplay - Fix You
+[00:13.32]
+[00:13.33]When you try your best but you don't succeed
+[00:20.01]When you get what you want but not what you need
+[00:25.93]When you feel so tired but you can't sleep
+[00:33.07]Stuck in reverse
+[00:40.17]And the tears come streaming down your face
+[00:48.00]When you lose something you can't replace
+[00:55.22]When you love someone but it goes to waste
+[01:01.98]Could it be worse?
+[01:09.00]Lights will guide you home
+[01:19.11]And ignite your bones
+[01:25.51]And I will try to fix you
+[01:44.39]And high up above or down below
+[01:49.86]When you're too in love to let it go
+[01:57.05]But if you never try you'll never know
+[02:04.11]Just what you're worth
+[02:13.44]Lights will guide you home
+[02:21.70]And ignite your bones
+[02:29.00]And I will try to fix you
+[03:29.29]I see a stream down your face
+[03:35.87]when you lose something you cannot replace
+[03:42.72]I see a stream down your face
+[03:49.48]And I
+[03:54.58]I see a stream down your face
+[04:03.57]I promise you I will learn from all my mistakes
+[04:09.90]I see a stream down your face
+[04:16.58]And I
+[04:21.78]Lights will guide you home
+[04:31.62]And ignite your bones
+[04:37.82]And I will try to fix you
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer1"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Fix You",
+					author: "Coldplay",
+					url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",
+					pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",
+				}
+			});
+		</script>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/2.PNG" alt="2.PNG"></p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/3.PNG" alt="3.PNG"></p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/4.PNG" alt="4.PNG"></p>
@@ -1342,7 +1391,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -1890,7 +1939,7 @@
 </ol>
 <p>技术嘛，很多东东都有人玩过了，玩过了的大神很多都会写自己的教程，放在自己的博客上。能自己写博客，质量要好点，还有些比较<code>新</code>的东东，大神的博客不会让你失望。</p>
 <p>可是<em>Google</em>被墙了啊，这里推荐一下<a href="https://laod.cn/" target="_blank" rel="external">老D的hosts</a>，不过估计能看到这篇文章的人，都已具备这样的能力。</p>
-<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
+<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
 [ti:The Salwater Room]
 [al:Hot Air Balloon]
 [by:https://reuixiy.github.io]
@@ -1945,7 +1994,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2218,7 +2267,7 @@
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开<em>QQ</em>看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着<em>Coldplay</em>的<em>In My Place</em>。码着码着，就码了一个半小时的字，<em>心情也趋于平静</em>。</p>
 <p><div style="text-align:right"><em>2016-12-29 02:43:05</em></div></p>
 
-<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:In My Place]
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
@@ -2259,7 +2308,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer7"),
+				element: document.getElementById("aplayer8"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2692,15 +2741,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
-				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"},{"title":"Live Forever","author":"Oasis","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/oasis-live-forever.lrc"},{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"}]};
-				options.element = document.getElementById("aplayer4");
+				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
+				options.element = document.getElementById("aplayer5");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -2736,7 +2785,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,

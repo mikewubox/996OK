@@ -10,7 +10,7 @@
   <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-<meta name="theme-color" content="#222">
+<meta name="theme-color" content="#fff">
 
 
 
@@ -135,7 +135,7 @@
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png">
 <meta property="og:image" content="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif">
 <meta property="og:image" content="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png">
-<meta property="og:updated_time" content="2017-08-22T03:18:45.084Z">
+<meta property="og:updated_time" content="2017-08-22T07:35:32.845Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="打造个性超赞博客Hexo+NexT+GithubPages的超深度优化">
 <meta name="twitter:description" content="人无完人，设想地球上的每个超棒的想法都能汇聚在相应的小河之中，那么文明的大河将会迅速变成大海（赶在太阳将河水蒸干之前）。感谢互联网，让开源共享精神照耀了这个时代，让这个设想有了真正的可能。拥有自己的博客，不仅是记录了自己，反思了自己，而且借助互联网也可能照亮他人，给整个文明光能。本文就是一篇关于利用Github Pages + Hexo + NexT搭建个人博客的文章，教你如何从0到1打造自己">
@@ -484,7 +484,7 @@
                   <span class="post-meta-item-text">字数统计</span>
                 
                 <span title="字数统计">
-                  8,845
+                  8,852
                 </span>
               
 
@@ -650,11 +650,11 @@
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/music/">music</a>标签里自己找一篇文章看看。</p>
 <p>另：可以支持歌单，详见<a href="https://github.com/MoePlayer/hexo-tag-aplayer" target="_blank" rel="external">README</a>。</p>
 <h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><p>与音频相同，可以用<em>HTML</em>的标签，写法如下：</p>
-<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">video</span> src=<span class="string">"https://什么什么什么.mp4"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">video</span> tag.&lt;/video&gt;</div></pre></td></tr></table></figure>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">video</span> poster=<span class="string">"https://封面图.jpg"</span> src=<span class="string">"https://什么什么什么.mp4"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">video</span> tag.&lt;/video&gt;</div></pre></td></tr></table></figure>
 <p>一样的，还可以用插件，功能更加强大，比如可以弹幕。首先在博客文件夹根目录：</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> <span class="comment">--save hexo-tag-dplayer</span></div></pre></td></tr></table></figure>
 <p>然后按下面的写法：</p>
-<figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://什么什么什么.mp4"</span> <span class="string">"封面图.jpg"</span> <span class="string">"api=https://api.prprpr.me/dplayer/"</span> <span class="string">"id="</span> <span class="string">"loop=true"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
+<figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://什么什么什么.mp4"</span> <span class="string">"https://封面图.jpg"</span> <span class="string">"api=https://api.prprpr.me/dplayer/"</span> <span class="string">"id="</span> <span class="string">"loop=true"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
 <p>要使用弹幕，必须有<code>api</code>和<code>id</code>两项，并且若使用的是官方的<em>api</em>地址（即上面的），<em>id</em>的值不能与<a href="https://api.prprpr.me/dplayer/list" target="_blank" rel="external">这个列表</a>的值一样。<em>id</em>的值自己随便取，唯一要求就是前面这点。</p>
 <p>如果唯一要求难倒了你，可以使用<a href="http://tool.oschina.net/encrypt?type=2" target="_blank" rel="external">这个工具</a>生成哈希值，这样就几乎没有可能会有一样的值。</p>
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/video/">video</a>标签里自己找一篇文章看看。</p>
@@ -769,6 +769,16 @@
       
 
       
+      
+        <div class="post-widgets">
+        
+          <div class="wp_rating">
+            <div id="wpac-rating"></div>
+          </div>
+        
+
+        
+        </div>
       
       
 
@@ -1583,6 +1593,23 @@
   
 
   
+  <script type="text/javascript">
+  wpac_init = window.wpac_init || [];
+  wpac_init.push({widget: 'Rating', id: 6748,
+    el: 'wpac-rating',
+    color: 'fc6423'
+  });
+  (function() {
+    if ('WIDGETPACK_LOADED' in window) return;
+    WIDGETPACK_LOADED = true;
+    var mc = document.createElement('script');
+    mc.type = 'text/javascript';
+    mc.async = true;
+    mc.src = '//embed.widgetpack.com/widget.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
+  })();
+  </script>
+
 
   
 
