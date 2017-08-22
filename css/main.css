@@ -1490,8 +1490,9 @@ pre .javascript .function {
   color: #999;
 }
 .posts-expand .post-meta .post-description {
-  font-size: 14px;
-  margin-top: 2px;
+  font-size: 13px;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 .post-wordcount {
   display: inline-block;
@@ -1519,11 +1520,6 @@ pre .javascript .function {
 }
 @media (max-width: 767px) {
   .post-meta-item-text {
-    display: none;
-  }
-}
-@media (max-width: 767px) {
-  .posts-expand .post-comments-count {
     display: none;
   }
 }
@@ -1571,7 +1567,7 @@ pre .javascript .function {
   position: relative;
   display: block;
   line-height: 25px;
-  font-size: 14px;
+  font-size: 15px;
   color: #555;
   border-bottom: none;
 }
@@ -1847,7 +1843,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #4ff6f6;
+  background: #1386ac;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2792,9 +2788,6 @@ body {
 .posts-expand .post-title-link::before {
   background-color: #ff7600;
 }
-.posts-expand .post-comments-count {
-  display: inline-block;
-}
 .post {
   margin-top: 50px;
   padding-top: 15px;
@@ -3047,8 +3040,9 @@ img:hover {
   bottom: 0;
 }
 .posts-expand .post-body img {
-  border-radius: 2px;
-  border: 1px solid rgba(34,244,246,0.5);
+  border-radius: 3px;
+  border: none;
+  padding: 0;
 }
 .posts-collapse::after {
   margin-left: -2px;
@@ -3132,10 +3126,22 @@ img#github-emoji {
 .aplayer .aplayer-list ol {
   background: #fff;
 }
+.dplayer {
+  border-radius: 3px;
+}
 .post.post-type-normal {
   -webkit-transform: inherit !important;
   -moz-transform: inherit !important;
   -ms-transform: inherit !important;
   -o-transform: inherit !important;
   transform: inherit !important;
+}
+.post-widgets {
+  padding-top: 10px;
+  margin-top: 15px;
+}
+.wp_rating {
+  margin-right: 0px;
+  padding-top: 0px;
+  margin-bottom: 20px;
 }
