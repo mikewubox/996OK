@@ -97,7 +97,7 @@
 <link href="/css/main.css?v=5.1.2" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="beautiful,music,音乐可视化,bb-for-fun,发呆,untitled," />
+  <meta name="keywords" content="beautiful,music,bb-for-fun,音乐可视化,发呆,untitled," />
 
 
 
@@ -114,7 +114,7 @@
 
 
 <meta name="description" content="用笔书写是一件神奇的事">
-<meta name="keywords" content="beautiful,music,音乐可视化,bb-for-fun,发呆,untitled">
+<meta name="keywords" content="beautiful,music,bb-for-fun,音乐可视化,发呆,untitled">
 <meta property="og:type" content="article">
 <meta property="og:title" content="给我起个名字吧 - 1">
 <meta property="og:url" content="https://reuixiy.github.io/beautiful/bb-for-fun/2016/10/31/untitled-1.html">
@@ -546,9 +546,9 @@
           
             <a href="/tags/music/" rel="tag"><i class="fa fa-tag"></i> music</a>
           
-            <a href="/tags/music-visualization/" rel="tag"><i class="fa fa-tag"></i> 音乐可视化</a>
-          
             <a href="/tags/bb-for-fun/" rel="tag"><i class="fa fa-tag"></i> bb-for-fun</a>
+          
+            <a href="/tags/music-visualization/" rel="tag"><i class="fa fa-tag"></i> 音乐可视化</a>
           
             <a href="/tags/daydreaming/" rel="tag"><i class="fa fa-tag"></i> 发呆</a>
           
@@ -733,30 +733,7 @@
           </div>
         
 
-        <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
-<script>AV.initialize("5A14i63X6l9sqchS0u2tqvGu-gzGzoHsz", "9CAn8Dpm4zGoi2OmxPk4zzeQ");</script>
-<script type="text/javascript">
-  var time=0
-  var title=""
-  var url=""
-  var query = new AV.Query('Counter');
-  query.notEqualTo('id',0);
-  query.descending('time');
-  query.limit(5);  //最终只返回10条结果
-  query.find().then(function (todo) {
-    for (var i=0;i<10;i++){ 
-      var result=todo[i].attributes;
-      time=result.time;
-      title=result.title;
-      url=result.url;
-      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
-      document.getElementById("heheda").innerHTML+=content
-    }
-  }, function (error) {
-    console.log("error");
-  });
-</script>
-
+        
 
       </section>
 

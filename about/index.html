@@ -122,7 +122,7 @@
 <meta property="og:description" content="关于此博客">
 <meta property="og:locale" content="zh-Hans">
 <meta property="og:image" content="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-19.jpg">
-<meta property="og:updated_time" content="2017-08-23T00:53:22.175Z">
+<meta property="og:updated_time" content="2017-08-24T08:04:02.409Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="ABOUT">
 <meta name="twitter:description" content="关于此博客">
@@ -389,6 +389,30 @@
 		
 <hr>
 
+<script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
+<script>AV.initialize("5A14i63X6l9sqchS0u2tqvGu-gzGzoHsz", "9CAn8Dpm4zGoi2OmxPk4zzeQ");</script>
+<script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(5);
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
+
 <h1 id="有事请留言"><a href="#有事请留言" class="headerlink" title="有事请留言"></a><p><center><font color="FFA6FF"><em>有</em></font><font color="FF8EFF"><em>事</em></font><font color="FF77FF"><em>请</em></font><font color="FF44FF"><em>留</em></font><font color="FF00FF"><em>言</em></font></center></p></h1>
         
       </div>
@@ -533,30 +557,7 @@
           </div>
         
 
-        <script src="https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"></script>
-<script>AV.initialize("5A14i63X6l9sqchS0u2tqvGu-gzGzoHsz", "9CAn8Dpm4zGoi2OmxPk4zzeQ");</script>
-<script type="text/javascript">
-  var time=0
-  var title=""
-  var url=""
-  var query = new AV.Query('Counter');
-  query.notEqualTo('id',0);
-  query.descending('time');
-  query.limit(5);  //最终只返回10条结果
-  query.find().then(function (todo) {
-    for (var i=0;i<10;i++){ 
-      var result=todo[i].attributes;
-      time=result.time;
-      title=result.title;
-      url=result.url;
-      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
-      document.getElementById("heheda").innerHTML+=content
-    }
-  }, function (error) {
-    console.log("error");
-  });
-</script>
-
+        
 
       </section>
 
