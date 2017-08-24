@@ -1843,7 +1843,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #20cde9;
+  background: #ffe4cd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3146,4 +3146,17 @@ img#github-emoji {
 .wp_rating {
   margin-right: 0px;
   padding-top: 10px;
+}
+a.categories {
+  color: #0593d3;
+  border-bottom: none;
+  text-decoration: underline;
+}
+a.categories:hover {
+  color: #ff7600;
+  border-bottom: none;
+  text-decoration: underline;
+}
+h2.love {
+  border-left: none;
 }
