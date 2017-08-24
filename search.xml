@@ -85,9 +85,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -243,9 +243,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
         </tags>
         
@@ -289,13 +289,13 @@
             
             <tag> shape </tag>
             
-            <tag> practical-science(实践科学) </tag>
-            
-            <tag> analysis(分析) </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
+            
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> analysis(分析) </tag>
             
             <tag> 悲伤 </tag>
             
@@ -348,13 +348,13 @@
             
             <tag> 下载 </tag>
             
+            <tag> 好奇心 </tag>
+            
             <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 看书 </tag>
-            
-            <tag> 好奇心 </tag>
             
             <tag> Einstein </tag>
             
@@ -398,6 +398,12 @@
             
             <tag> association </tag>
             
+            <tag> bb-for-fun </tag>
+            
+            <tag> 诗 </tag>
+            
+            <tag> critique(批判) </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> 自省 </tag>
@@ -405,12 +411,6 @@
             <tag> analysis(分析) </tag>
             
             <tag> 尼采 </tag>
-            
-            <tag> bb-for-fun </tag>
-            
-            <tag> 诗 </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> how </tag>
             
@@ -712,9 +712,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -985,9 +985,9 @@
             
             <tag> computer-aided-art </tag>
             
-            <tag> 尼采 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 尼采 </tag>
             
             <tag> hexo </tag>
             
@@ -1065,11 +1065,11 @@
             
             <tag> tips </tag>
             
+            <tag> bb-for-fun </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
-            
-            <tag> bb-for-fun </tag>
             
             <tag> how </tag>
             
@@ -1092,7 +1092,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p>
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1131,7 +1131,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1342,8 +1342,6 @@
             
             <tag> 光 </tag>
             
-            <tag> 看书 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
@@ -1351,6 +1349,8 @@
             <tag> 黑暗 </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> 看书 </tag>
             
             <tag> untitled </tag>
             
@@ -1447,9 +1447,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> arctime </tag>
             
@@ -1471,7 +1471,7 @@
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1510,7 +1510,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1542,9 +1542,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> love </tag>
             
@@ -1788,6 +1788,10 @@
             
             <tag> 真理 </tag>
             
+            <tag> bb-for-fun </tag>
+            
+            <tag> critique(批判) </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> 对立 </tag>
@@ -1797,10 +1801,6 @@
             <tag> 假象 </tag>
             
             <tag> 查拉图斯特拉 </tag>
-            
-            <tag> bb-for-fun </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> 教条 </tag>
             
@@ -1854,9 +1854,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> love </tag>
             
@@ -1922,15 +1922,15 @@
             
             <tag> 开心 </tag>
             
+            <tag> bb-for-fun </tag>
+            
+            <tag> critique(批判) </tag>
+            
             <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
-            
-            <tag> bb-for-fun </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> 大脑 </tag>
             
@@ -2105,11 +2105,11 @@
             
             <tag> love </tag>
             
-            <tag> notnow </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> notnow </tag>
             
             <tag> 摄影 </tag>
             
@@ -2245,12 +2245,6 @@
             
             <tag> shape </tag>
             
-            <tag> practical-science(实践科学) </tag>
-            
-            <tag> 对立 </tag>
-            
-            <tag> 看书 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
@@ -2259,11 +2253,17 @@
             
             <tag> 好奇心 </tag>
             
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 对立 </tag>
+            
+            <tag> 看书 </tag>
+            
             <tag> 极限 </tag>
             
-            <tag> untitled </tag>
-            
             <tag> 补充 </tag>
+            
+            <tag> untitled </tag>
             
             <tag> 维 </tag>
             
@@ -2388,17 +2388,17 @@
             
             <tag> shape </tag>
             
-            <tag> practical-science(实践科学) </tag>
-            
-            <tag> 尼采 </tag>
-            
-            <tag> 看书 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 尼采 </tag>
+            
+            <tag> 看书 </tag>
             
             <tag> how </tag>
             
@@ -2435,13 +2435,13 @@
             
             <tag> beautiful </tag>
             
-            <tag> 对立 </tag>
-            
-            <tag> 尼采 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> 对立 </tag>
+            
+            <tag> 尼采 </tag>
             
             <tag> untitled </tag>
             
@@ -2611,11 +2611,11 @@
             
             <tag> 光 </tag>
             
-            <tag> 尼采 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 尼采 </tag>
             
             <tag> 星空 </tag>
             
@@ -2698,13 +2698,13 @@
             
             <tag> philosophy </tag>
             
-            <tag> practical-science(实践科学) </tag>
-            
-            <tag> 自省 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 自省 </tag>
             
             <tag> how </tag>
             
@@ -2754,11 +2754,11 @@
             
             <tag> 下载 </tag>
             
+            <tag> 诗 </tag>
+            
             <tag> 尼采 </tag>
             
             <tag> 看书 </tag>
-            
-            <tag> 诗 </tag>
             
         </tags>
         
