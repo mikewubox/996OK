@@ -121,7 +121,7 @@
 <meta property="og:site_name" content="reuixiy">
 <meta property="og:description" content="AV.initialize(&quot;5A14i63X6l9sqchS0u2tqvGu-gzGzoHsz&quot;, &quot;9CAn8Dpm4zGoi2OmxPk4zzeQ&quot;);    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);   query.notEqualTo(&apos;id&apos;,0);   query.">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2017-08-24T10:01:46.197Z">
+<meta property="og:updated_time" content="2017-08-24T11:26:59.405Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Top5">
 <meta name="twitter:description" content="AV.initialize(&quot;5A14i63X6l9sqchS0u2tqvGu-gzGzoHsz&quot;, &quot;9CAn8Dpm4zGoi2OmxPk4zzeQ&quot;);    var time=0   var title=&quot;&quot;   var url=&quot;&quot;   var query = new AV.Query(&apos;Counter&apos;);   query.notEqualTo(&apos;id&apos;,0);   query.">
@@ -263,22 +263,22 @@
         </li>
       
         
-        <li class="menu-item menu-item-about">
-          <a href="/about" rel="section">
-            
-              <i class="menu-item-icon fa fa-fw fa-futbol-o"></i> <br />
-            
-            关于
-          </a>
-        </li>
-      
-        
         <li class="menu-item menu-item-top">
           <a href="/top" rel="section">
             
               <i class="menu-item-icon fa fa-fw fa-signal"></i> <br />
             
             Top5
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-futbol-o"></i> <br />
+            
+            关于
           </a>
         </li>
       
@@ -371,7 +371,7 @@
       time=result.time;
       title=result.title;
       url=result.url;
-      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      var content="<a href='"+"https://reuixiy.github.io"+url+"'>"+title+"</font>"+"</a>"+"<br>"+"<font color='#000'>"+"阅读次数："+time+"<br><br>";
       document.getElementById("top").innerHTML+=content
     }
   }, function (error) {
