@@ -97,7 +97,7 @@
 <link href="/css/main.css?v=5.1.2" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="beautiful,share,coldplay,video,music,love," />
+  <meta name="keywords" content="beautiful,share,coldplay,music,video,love," />
 
 
 
@@ -114,7 +114,7 @@
 
 
 <meta name="description" content="视频var dplayer0 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer0&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202">
-<meta name="keywords" content="beautiful,share,coldplay,video,music,love">
+<meta name="keywords" content="beautiful,share,coldplay,music,video,love">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Coldplay - Fix You">
 <meta property="og:url" content="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html">
@@ -493,7 +493,7 @@
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -532,7 +532,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -597,9 +597,9 @@
           
             <a href="/tags/coldplay/" rel="tag"><i class="fa fa-tag"></i> coldplay</a>
           
-            <a href="/tags/video/" rel="tag"><i class="fa fa-tag"></i> video</a>
-          
             <a href="/tags/music/" rel="tag"><i class="fa fa-tag"></i> music</a>
+          
+            <a href="/tags/video/" rel="tag"><i class="fa fa-tag"></i> video</a>
           
             <a href="/tags/love/" rel="tag"><i class="fa fa-tag"></i> love</a>
           
@@ -791,7 +791,27 @@
           </div>
         
 
-        
+        <script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(5);  //最终只返回10条结果
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
 
 
       </section>

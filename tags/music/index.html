@@ -878,7 +878,27 @@
           </div>
         
 
-        
+        <script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(5);  //最终只返回10条结果
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
 
 
       </section>

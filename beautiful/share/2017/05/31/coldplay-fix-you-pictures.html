@@ -521,7 +521,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p>
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -560,7 +560,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -846,7 +846,27 @@
           </div>
         
 
-        
+        <script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(5);  //最终只返回10条结果
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
 
 
       </section>

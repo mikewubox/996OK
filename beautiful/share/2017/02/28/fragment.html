@@ -97,7 +97,7 @@
 <link href="/css/main.css?v=5.1.2" rel="stylesheet" type="text/css" />
 
 
-  <meta name="keywords" content="想象,空间,beautiful,share,coldplay,video,music,love,诗," />
+  <meta name="keywords" content="beautiful,share,coldplay,music,video,love,想象,空间,诗," />
 
 
 
@@ -114,7 +114,7 @@
 
 
 <meta name="description" content="很棒的一首小诗，超级喜欢。">
-<meta name="keywords" content="想象,空间,beautiful,share,coldplay,video,music,love,诗">
+<meta name="keywords" content="beautiful,share,coldplay,music,video,love,想象,空间,诗">
 <meta property="og:type" content="article">
 <meta property="og:title" content="断章">
 <meta property="og:url" content="https://reuixiy.github.io/beautiful/share/2017/02/28/fragment.html">
@@ -545,21 +545,21 @@
       
         <div class="post-tags">
           
-            <a href="/tags/imagination/" rel="tag"><i class="fa fa-tag"></i> 想象</a>
-          
-            <a href="/tags/space/" rel="tag"><i class="fa fa-tag"></i> 空间</a>
-          
             <a href="/tags/beautiful/" rel="tag"><i class="fa fa-tag"></i> beautiful</a>
           
             <a href="/tags/share/" rel="tag"><i class="fa fa-tag"></i> share</a>
           
             <a href="/tags/coldplay/" rel="tag"><i class="fa fa-tag"></i> coldplay</a>
           
-            <a href="/tags/video/" rel="tag"><i class="fa fa-tag"></i> video</a>
-          
             <a href="/tags/music/" rel="tag"><i class="fa fa-tag"></i> music</a>
           
+            <a href="/tags/video/" rel="tag"><i class="fa fa-tag"></i> video</a>
+          
             <a href="/tags/love/" rel="tag"><i class="fa fa-tag"></i> love</a>
+          
+            <a href="/tags/imagination/" rel="tag"><i class="fa fa-tag"></i> 想象</a>
+          
+            <a href="/tags/space/" rel="tag"><i class="fa fa-tag"></i> 空间</a>
           
             <a href="/tags/poetry/" rel="tag"><i class="fa fa-tag"></i> 诗</a>
           
@@ -751,7 +751,27 @@
           </div>
         
 
-        
+        <script type="text/javascript">
+  var time=0
+  var title=""
+  var url=""
+  var query = new AV.Query('Counter');
+  query.notEqualTo('id',0);
+  query.descending('time');
+  query.limit(5);  //最终只返回10条结果
+  query.find().then(function (todo) {
+    for (var i=0;i<10;i++){ 
+      var result=todo[i].attributes;
+      time=result.time;
+      title=result.title;
+      url=result.url;
+      var content="<p>"+"<font color='#0477ab'>"+"【阅读次数:"+time+"】"+"<a href='"+"https://reuixiy.github.io/"+url+"'>"+title+"</font>"+"</a>"+"</p>";
+      document.getElementById("heheda").innerHTML+=content
+    }
+  }, function (error) {
+    console.log("error");
+  });
+</script>
 
 
       </section>
