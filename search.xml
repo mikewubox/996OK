@@ -85,9 +85,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> technology </tag>
             
@@ -243,9 +243,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
         </tags>
         
@@ -712,9 +712,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> technology </tag>
             
@@ -989,11 +989,11 @@
             
             <tag> 尼采 </tag>
             
-            <tag> 补充 </tag>
-            
             <tag> hexo </tag>
             
             <tag> next </tag>
+            
+            <tag> 补充 </tag>
             
         </tags>
         
@@ -1092,7 +1092,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p>
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1131,7 +1131,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1447,9 +1447,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> arctime </tag>
             
@@ -1471,7 +1471,7 @@
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1510,7 +1510,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1542,9 +1542,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> love </tag>
             
@@ -1854,9 +1854,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> love </tag>
             
@@ -2263,11 +2263,11 @@
             
             <tag> untitled </tag>
             
+            <tag> 补充 </tag>
+            
             <tag> 维 </tag>
             
             <tag> 时间 </tag>
-            
-            <tag> 补充 </tag>
             
             <tag> 阿西莫夫 </tag>
             
