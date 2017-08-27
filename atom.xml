@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2017-08-21T08:43:46.860Z</updated>
+  <updated>2017-08-27T00:39:54.978Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -14,6 +14,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>突如其来的小壁虎</title>
+    <link href="https://reuixiy.github.io/uncategorized/2017/08/27/test.html"/>
+    <id>https://reuixiy.github.io/uncategorized/2017/08/27/test.html</id>
+    <published>2017-08-27T00:40:00.000Z</published>
+    <updated>2017-08-27T00:39:54.978Z</updated>
+    
+    <summary type="html">
+    
+      for testing something new only
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>重建博客 - rm的悲剧</title>
@@ -155,11 +171,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -199,11 +215,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -435,13 +451,13 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
     
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -598,56 +614,6 @@
       <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
     
       <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>给我起个名字吧 - 8</title>
-    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html"/>
-    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html</id>
-    <published>2017-05-19T20:24:55.000Z</published>
-    <updated>2017-08-18T09:35:58.769Z</updated>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-
-&lt;p&gt;&lt;div style=&quot;text-align:left&quot;&gt;5/20？我？她？&lt;br&gt;纵使我她如那欧几里得&lt;br&gt;两条平行永不相交的直线&lt;br&gt;我也会扭转出新维度&lt;br&gt;将它们连成丘比特之环&lt;br&gt;
-    
-    </summary>
-    
-      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
-    
-      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
-    
-    
-      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
-    
-      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
-    
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
-      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
-    
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
-      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
-    
-      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
-    
-      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
-    
-      <category term="kindle" scheme="https://reuixiy.github.io/tags/kindle/"/>
     
   </entry>
   
