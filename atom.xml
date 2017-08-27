@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2017-08-27T00:39:54.978Z</updated>
+  <updated>2017-08-27T04:13:08.560Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -17,17 +17,49 @@
   
   <entry>
     <title>突如其来的小壁虎</title>
-    <link href="https://reuixiy.github.io/uncategorized/2017/08/27/test.html"/>
-    <id>https://reuixiy.github.io/uncategorized/2017/08/27/test.html</id>
+    <link href="https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html"/>
+    <id>https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html</id>
     <published>2017-08-27T00:40:00.000Z</published>
-    <updated>2017-08-27T00:39:54.978Z</updated>
+    <updated>2017-08-27T04:13:08.560Z</updated>
     
     <summary type="html">
     
-      for testing something new only
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;昨天&lt;del&gt;早上&lt;/del&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f637.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了&lt;img id=&quot;github-emoji&quot; src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/tuolianhuaji.jpg&quot; height=&quot;50&quot; width=&quot;50&quot;&gt;。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-title.jpg&quot; alt=&quot;a-little-gecko-come-suddenly-title.jpg&quot;&gt;&lt;/p&gt;
     
     </summary>
     
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
+    
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
+    
+      <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
+    
+      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="意外" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
   </entry>
   
@@ -112,7 +144,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/08/01/coldplay-paradise.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/08/01/coldplay-paradise.html</id>
     <published>2017-08-01T07:27:03.000Z</published>
-    <updated>2017-08-21T08:44:11.980Z</updated>
+    <updated>2017-08-27T03:53:24.276Z</updated>
     
     <summary type="html">
     
@@ -171,11 +203,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -215,11 +247,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -451,13 +483,13 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
     
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
