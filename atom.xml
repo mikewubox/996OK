@@ -37,17 +37,17 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
-      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
-      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
@@ -87,9 +87,9 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -150,7 +150,7 @@
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer1&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer1 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer1&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -159,17 +159,17 @@
       <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
   </entry>
   
@@ -195,19 +195,19 @@
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
     
     
-      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
-    
       <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
     
       <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -243,15 +243,15 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -373,11 +373,11 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
-      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
-    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -423,19 +423,19 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
-      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -477,11 +477,13 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/categories/technology/computer/computer-aided-art/"/>
     
     
-      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
-    
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -490,8 +492,6 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -605,11 +605,11 @@
       <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
-    
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
@@ -648,6 +648,1076 @@
       <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
     
       <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 8</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html</id>
+    <published>2017-05-19T20:24:55.000Z</published>
+    <updated>2017-08-18T09:35:58.769Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;div style=&quot;text-align:left&quot;&gt;5/20？我？她？&lt;br&gt;纵使我她如那欧几里得&lt;br&gt;两条平行永不相交的直线&lt;br&gt;我也会扭转出新维度&lt;br&gt;将它们连成丘比特之环&lt;br&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="kindle" scheme="https://reuixiy.github.io/tags/kindle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>品味达·芬奇</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2017/05/15/leonardo-da-vinci.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2017/05/15/leonardo-da-vinci.html</id>
+    <published>2017-05-15T12:38:38.000Z</published>
+    <updated>2017-08-18T07:29:07.657Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;多高清大图，非&lt;em&gt;Wi-Fi&lt;/em&gt;环境慎入，点开&lt;em&gt;35 MB&lt;/em&gt;流量就没啦。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/leonardo-da-vinci-title.png&quot; alt=&quot;leonardo-da-vinci-title.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
+    
+      <category term="达·芬奇" scheme="https://reuixiy.github.io/tags/leonardo-da-vinci/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coldplay - Lost+ ft. Jay-Z</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html</id>
+    <published>2017-04-27T23:37:21.000Z</published>
+    <updated>2017-08-21T08:44:56.348Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;太喜欢这视频了，喜欢到第一次尝试制作字幕，但发现最困难的还是翻译，这才是脑力活&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;。&lt;em&gt;Anyway&lt;/em&gt;，很兴奋，开心&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png&quot; alt=&quot;coldplay-38.png&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="arctime" scheme="https://reuixiy.github.io/tags/arctime/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Coldplay - Fix You</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html</id>
+    <published>2017-04-14T16:00:00.000Z</published>
+    <updated>2017-08-27T03:53:25.640Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大脑-联想-人工智能</title>
+    <link href="https://reuixiy.github.io/philosophy/how/2017/04/04/association-brain-ai.html"/>
+    <id>https://reuixiy.github.io/philosophy/how/2017/04/04/association-brain-ai.html</id>
+    <published>2017-04-04T02:54:42.000Z</published>
+    <updated>2017-08-18T07:55:25.265Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;我们有一个如此聪明的大脑，源于进化（造物主），而进化是随机变化的选择过程。&lt;/blockquote&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
+      <category term="大脑" scheme="https://reuixiy.github.io/tags/brain/"/>
+    
+      <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
+    
+      <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0或其它</title>
+    <link href="https://reuixiy.github.io/philosophy/what/2017/03/12/0-or-others.html"/>
+    <id>https://reuixiy.github.io/philosophy/what/2017/03/12/0-or-others.html</id>
+    <published>2017-03-12T02:46:56.000Z</published>
+    <updated>2017-08-21T02:46:49.043Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;探讨本质途径，若是由树状图的下到上，那么树状图是/\还是\/？亦或，本质是&lt;em&gt;0&lt;/em&gt;还是其它？&lt;/blockquote&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="what" scheme="https://reuixiy.github.io/categories/philosophy/what/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>维是什么？</title>
+    <link href="https://reuixiy.github.io/philosophy/what/2017/03/12/dimension.html"/>
+    <id>https://reuixiy.github.io/philosophy/what/2017/03/12/dimension.html</id>
+    <published>2017-03-12T02:01:55.000Z</published>
+    <updated>2017-08-21T01:32:47.650Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;一种对立就是一个维？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/mengbi.jpg&quot; alt=&quot;mengbi.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="what" scheme="https://reuixiy.github.io/categories/philosophy/what/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Danny MacAskill’s Wee Day Out</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</id>
+    <published>2017-03-11T02:34:03.000Z</published>
+    <updated>2017-08-21T08:45:19.720Z</updated>
+    
+    <summary type="html">
+    
+      膜拜丹尼大神
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="美景" scheme="https://reuixiy.github.io/tags/landscape/"/>
+    
+      <category term="自行车" scheme="https://reuixiy.github.io/tags/bicycle/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>政策能解决贫富分化？</title>
+    <link href="https://reuixiy.github.io/philosophy/why/2017/03/10/policy-polarization-rich-poor.html"/>
+    <id>https://reuixiy.github.io/philosophy/why/2017/03/10/policy-polarization-rich-poor.html</id>
+    <published>2017-03-10T03:54:42.000Z</published>
+    <updated>2017-08-18T12:21:56.693Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;贫富分化，因此给富人增税，这样正确吗？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/policy-polarization-rich-poor-title.jpg&quot; alt=&quot;policy-polarization-rich-poor-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/categories/philosophy/why/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
+    
+      <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
+    
+      <category term="教条" scheme="https://reuixiy.github.io/tags/dogma/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
+    
+      <category term="贫富分化" scheme="https://reuixiy.github.io/tags/polarization-rich-poor/"/>
+    
+      <category term="平等" scheme="https://reuixiy.github.io/tags/equality/"/>
+    
+      <category term="《鬼谷子》" scheme="https://reuixiy.github.io/tags/guigumaster/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>断章</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2017/02/28/fragment.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2017/02/28/fragment.html</id>
+    <published>2017-02-27T18:22:21.000Z</published>
+    <updated>2017-08-21T08:45:30.800Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;很棒的一首小诗，超级喜欢&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/give.jpg&quot; alt=&quot;give.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过去和将来</title>
+    <link href="https://reuixiy.github.io/philosophy/why/2017/02/07/notnow.html"/>
+    <id>https://reuixiy.github.io/philosophy/why/2017/02/07/notnow.html</id>
+    <published>2017-02-07T09:38:42.000Z</published>
+    <updated>2017-08-18T23:20:15.704Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;你真的能改变现在吗？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/notnow-title.jpg&quot; alt=&quot;notnow-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/categories/philosophy/why/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="大脑" scheme="https://reuixiy.github.io/tags/brain/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
+    
+      <category term="时间" scheme="https://reuixiy.github.io/tags/time/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的小Web服务器 - 树莓派 搭建个人博客遇到的问题</title>
+    <link href="https://reuixiy.github.io/technology/embedded/raspberry-pi/2017/02/02/raspberry-pi-wordpress-blog-questions.html"/>
+    <id>https://reuixiy.github.io/technology/embedded/raspberry-pi/2017/02/02/raspberry-pi-wordpress-blog-questions.html</id>
+    <published>2017-02-02T03:54:42.000Z</published>
+    <updated>2017-08-23T12:18:29.621Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;&lt;em&gt;Raspberry Pi&lt;/em&gt;(中文名为“树莓派”，简写为&lt;em&gt;RPi&lt;/em&gt;，或者&lt;em&gt;RasPi / RPI&lt;/em&gt;)是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于&lt;em&gt;Linux&lt;/em&gt;。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。用它作为一台小服务器，在上面运行自己的博客！&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/raspberry-pi-server.jpg&quot; alt=&quot;raspberry-pi-server.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="technology" scheme="https://reuixiy.github.io/categories/technology/"/>
+    
+      <category term="embedded" scheme="https://reuixiy.github.io/categories/technology/embedded/"/>
+    
+      <category term="raspberry-pi" scheme="https://reuixiy.github.io/categories/technology/embedded/raspberry-pi/"/>
+    
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
+    
+      <category term="embedded" scheme="https://reuixiy.github.io/tags/embedded/"/>
+    
+      <category term="raspberry-pi" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 7</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/28/untitled-7.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/28/untitled-7.html</id>
+    <published>2017-01-28T10:31:55.000Z</published>
+    <updated>2017-08-18T09:35:50.933Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;时隔近10年，重回乡下老家过年。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-7-2.jpg&quot; alt=&quot;untitled-7-2.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
+    
+      <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+      <category term="时间" scheme="https://reuixiy.github.io/tags/time/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 6</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html</id>
+    <published>2017-01-17T12:03:40.000Z</published>
+    <updated>2017-08-18T09:58:27.713Z</updated>
+    
+    <summary type="html">
+    
+      阴雨天，想着心中的她，听着Coldplay的Always In My Head，就躺了一下午……
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 5</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/12/untitled-5.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/12/untitled-5.html</id>
+    <published>2017-01-12T10:31:55.000Z</published>
+    <updated>2017-08-18T09:35:29.141Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;大学第一学期&lt;br&gt;滚去，滚回&lt;br&gt;回家后，头晕脑胀&lt;br&gt;&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-5-title.jpg&quot; alt=&quot;untitled-5-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 4</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/31/untitled-4.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/31/untitled-4.html</id>
+    <published>2016-12-30T21:31:55.000Z</published>
+    <updated>2017-08-21T02:07:50.271Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;长这么大，才第一次通宵，惭愧惭愧&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f605.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;。尼玛，通宵就写了这个……&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-4.jpg&quot; alt=&quot;untitled-4.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="时间" scheme="https://reuixiy.github.io/tags/time/"/>
+    
+      <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
+    
+      <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浅谈学哲学 - 那珍贵的喜悦</title>
+    <link href="https://reuixiy.github.io/philosophy/how/2016/12/29/on-philosophy-of-learning.html"/>
+    <id>https://reuixiy.github.io/philosophy/how/2016/12/29/on-philosophy-of-learning.html</id>
+    <published>2016-12-28T18:43:05.000Z</published>
+    <updated>2017-08-21T02:17:05.531Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;哲学从不给予你任何承诺，它只是给予你此时此地。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/on-philosophy-of-learning-title.jpg&quot; alt=&quot;on-philosophy-of-learning-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
+      <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 3</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/07/untitled-3.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/07/untitled-3.html</id>
+    <published>2016-12-06T16:31:55.000Z</published>
+    <updated>2017-08-18T10:32:40.145Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;你们正向着那天空越飞越高，&lt;br&gt;我站在地上，&lt;br&gt;看着你们在我眼中越来越小。&lt;br&gt;很开心，&lt;br&gt;插着腰，&lt;br&gt;大笑！&lt;/blockquote&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>bb-for-fun</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/29/bb-for-fun.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/29/bb-for-fun.html</id>
+    <published>2016-11-28T17:35:00.000Z</published>
+    <updated>2017-08-18T10:27:01.577Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;看得起乞丐吗？我看得起一种乞丐：物质追求定为乞丐，精神追求定为好奇心。为什么是好奇心？因为好奇心，想要看看黑暗里有什么。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/bb-for-fun-title.jpg&quot; alt=&quot;bb-for-fun-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 2</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/19/untitled-2.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/19/untitled-2.html</id>
+    <published>2016-11-19T15:31:55.000Z</published>
+    <updated>2017-08-21T02:19:29.591Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;别看了，真的就是特么瞎逼逼，&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-2.jpg&quot; alt=&quot;untitled-2.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给我起个名字吧 - 1</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/10/31/untitled-1.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/10/31/untitled-1.html</id>
+    <published>2016-10-31T02:01:55.000Z</published>
+    <updated>2017-08-18T10:36:57.845Z</updated>
+    
+    <summary type="html">
+    
+      用笔书写是一件神奇的事
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="音乐可视化" scheme="https://reuixiy.github.io/tags/music-visualization/"/>
+    
+      <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
+    
+      <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>悲伤</title>
+    <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/08/07/sadness.html"/>
+    <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/08/07/sadness.html</id>
+    <published>2016-08-07T12:38:38.000Z</published>
+    <updated>2017-08-18T10:43:15.093Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;我遥望远方悲泣&lt;br&gt;看不到征帆回航&lt;br&gt;噫！&lt;br&gt;谁悲失路之人！？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/sadness-title.jpg&quot; alt=&quot;sadness-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/categories/beautiful/bb-for-fun/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>她走在美的光彩中 - 拜伦</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2016/07/19/she-walks-in-beauty.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2016/07/19/she-walks-in-beauty.html</id>
+    <published>2016-07-18T18:22:21.000Z</published>
+    <updated>2017-08-18T10:47:48.625Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/she-walks-in-beauty-title.jpg&quot; alt=&quot;she-walks-in-beauty-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="拜伦" scheme="https://reuixiy.github.io/tags/Byron/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>性格决定命运？</title>
+    <link href="https://reuixiy.github.io/philosophy/how/2016/07/05/against-disposition.html"/>
+    <id>https://reuixiy.github.io/philosophy/how/2016/07/05/against-disposition.html</id>
+    <published>2016-07-05T02:46:56.000Z</published>
+    <updated>2017-08-18T12:19:05.541Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;播下一种行动，你将收获一种习惯，播下一种习惯，你将收获一种性格；播下一种习惯，你将收获一种命运。大千世界中的芸芸众生，为什么有的人春风得意，有的人却黯然无光？为什么有的人财运亨通，有的人却一贫如洗？每个人的性格不同，正是导致每个人具有不同的命运的原因之一。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/against-disposition-title.jpg&quot; alt=&quot;against-disposition-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
+    
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="自省" scheme="https://reuixiy.github.io/tags/introspection/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
+      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
+    
+      <category term="性格" scheme="https://reuixiy.github.io/tags/disposition/"/>
+    
+      <category term="教条" scheme="https://reuixiy.github.io/tags/dogma/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>尼采 - 太阳沉落了</title>
+    <link href="https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html"/>
+    <id>https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html</id>
+    <published>2015-12-15T03:35:00.000Z</published>
+    <updated>2017-08-18T11:00:33.105Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;银白、轻捷，像一条鱼，&lt;br&gt;我的小船向远方，悄然驶去。&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken-title.jpg&quot; alt=&quot;nietzsche-die-sonne-gesunken-title.jpg&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/categories/beautiful/share/"/>
+    
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
+    
+      <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
+    
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://reuixiy.github.io/uncategorized/2010/01/01/test.html"/>
+    <id>https://reuixiy.github.io/uncategorized/2010/01/01/test.html</id>
+    <published>2009-12-31T16:00:00.000Z</published>
+    <updated>2017-08-23T03:04:21.871Z</updated>
+    
+    <summary type="html">
+    
+      for testing something new only
+    
+    </summary>
+    
     
   </entry>
   
