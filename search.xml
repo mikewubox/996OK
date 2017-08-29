@@ -433,11 +433,11 @@
             
             <tag> questions </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -490,11 +490,11 @@
             
             <tag> questions </tag>
             
-            <tag> 好奇心 </tag>
-            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
@@ -1183,8 +1183,6 @@
             
             <tag> tips </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> technology </tag>
             
             <tag> computer </tag>
@@ -1192,6 +1190,8 @@
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -2449,6 +2449,8 @@
             
             <tag> 光 </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
@@ -2456,8 +2458,6 @@
             <tag> critique(批判) </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2592,13 +2592,13 @@
             
             <tag> 开心 </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2770,9 +2770,9 @@
             
             <tag> music </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> 音乐可视化 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 发呆 </tag>
             
@@ -2958,9 +2958,9 @@
             
             <tag> 想象 </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             

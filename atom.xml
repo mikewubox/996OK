@@ -203,11 +203,11 @@
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -247,11 +247,11 @@
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -483,8 +483,6 @@
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
@@ -492,6 +490,8 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
