@@ -81,9 +81,9 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -127,9 +127,9 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -190,7 +190,7 @@
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer3&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer3 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer3&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -207,9 +207,9 @@
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
   </entry>
   
@@ -243,11 +243,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -287,11 +287,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -473,9 +473,9 @@
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -498,7 +498,7 @@
     <link href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html"/>
     <id>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</id>
     <published>2017-06-08T17:36:42.000Z</published>
-    <updated>2017-08-31T13:12:52.811Z</updated>
+    <updated>2017-08-31T13:57:00.606Z</updated>
     
     <summary type="html">
     
@@ -523,6 +523,8 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
@@ -530,8 +532,6 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -803,9 +803,9 @@
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="arctime" scheme="https://reuixiy.github.io/tags/arctime/"/>
     
@@ -841,9 +841,9 @@
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -1099,9 +1099,9 @@
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -1353,8 +1353,6 @@
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
@@ -1362,6 +1360,8 @@
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1429,13 +1429,13 @@
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1583,9 +1583,9 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="音乐可视化" scheme="https://reuixiy.github.io/tags/music-visualization/"/>
-    
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="音乐可视化" scheme="https://reuixiy.github.io/tags/music-visualization/"/>
     
       <category term="发呆" scheme="https://reuixiy.github.io/tags/daydreaming/"/>
     
@@ -1739,9 +1739,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
