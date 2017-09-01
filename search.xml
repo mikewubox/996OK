@@ -3,6 +3,100 @@
   
     
     <entry>
+      <title><![CDATA[零网（ZeroNet）初探]]></title>
+      <url>/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><blockquote>听说有个暗网，现在接触了个零网……</blockquote></p>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-title.png" alt="first-exploration-of-the-zeronet-title.png" style="width:100%"></p>
+
+<a id="more"></a>
+<h2 id="体验小视频"><a href="#体验小视频" class="headerlink" title="体验小视频"></a>体验小视频</h2><p>打开后，首先感觉界面<em>UI</em>很棒，骚气的紫色，加上渐变，让人眼前一亮(๑•̀ㅂ•́)و✧。</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-1.png" alt="first-exploration-of-the-zeronet-1.png"></p>
+<p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p>
+<p>最后就是小视频了：</p>
+<div id="dplayer15" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer15 = new DPlayer({"element":document.getElementById("dplayer15"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
+<p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p>
+<h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p>
+
+<p><em>ZeroNet</em>是一个去中心化的类似于<em>Internet</em>的网络，由匈牙利的开发者使用<em>Python</em>制作，完全开源。网站特殊的“<em>ZeroNet URL</em>”可以使用一般的浏览器浏览，就像访问本地主机一样。<em>ZeroNet</em>默认并「不」匿名，但是用户可以通过内置的<em>Tor</em>功能进行匿名化。<em>ZeroNet</em>使用<em>Bitcoin</em>加密算法及<em>BitTorrent</em>网络。</p>
+<p><em>ZeroNet</em>是一个利用比特币加密和<em>BT</em>技术提供不受审查的网络与通信的<em>BT</em>平台，<em>ZeroNet</em>网络功能已经得到完整的种子的支持和加密连接，保证用户通信和文件共享的安全。使用<em>ZeroNet</em>，你可以匿名上网，你可以在自己电脑搭建网站，但即使你关机，你的网站依然在全球存在，别人无法关闭你的网站。</p>
+<p><blockquote class="question">防<em>DMCA Take down</em></blockquote></p>
+
+<p>由于<em>ZeroNet</em>去中心化的原因，国外有人制作了一个<em>ZeroNet</em>版本的海盗湾——<em>Play</em>，这个网站可让版权所有者头疼啦……一般的网站服务器都有<em>IP</em>地址，不抗投诉的<em>ISP</em>收到了向<em>IP WHOIS</em>滥用信箱发送的<em>DMCA</em>投诉信的话，你就要和你的网站说再见了……（俗称<em>DMCA Take down</em>）。可用了<em>ZeroNet</em>后，并没有一台服务器是真实的服务器，任何访客都有可能成为服务器，还有些访客使用了<em>Tor</em>，更找不到真正的。</p>
+<p><blockquote class="question">使用<em>ZeroNet</em>的特点</blockquote></p>
+
+<ol>
+<li>可以建自己的网站，且无需备案，无需审核，无需服务器<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>。</li>
+<li>基于<em>P2P</em>原理，你只要建好并有足够的人浏览过，即使你自己关机，你的网站依然在全球存在，别人想关你站，也没门。</li>
+<li>基于<em>P2P</em>原理，支持内网穿透，也就是说你在内网也没关系，手机也没问题。</li>
+<li>基于比特币原理，账号很安全，谁也不知道你是谁，谁也盗不去。</li>
+<li>不需要域名，任何人访问都使用<code>http://127.0.0.1:43110/字符串</code>来访问。</li>
+</ol>
+<p>以上摘改自：<a href="http://jwangkun.github.io/2016/04/18/ZeroNet搭建全球网站/" target="_blank" rel="external">ZeroNet搭建全球网站</a>。</p>
+<p><blockquote class="question">如何安装<em>ZeroNet</em>？</blockquote></p>
+
+<p>安装很简单，按照网站的说明操作即可。</p>
+<ol>
+<li>官网：<a href="https://zeronet.io/" target="_blank" rel="external">https://zeronet.io/</a></li>
+<li><em>Github</em>：<a href="https://github.com/hellozeronet/zeronet" target="_blank" rel="external">https://github.com/hellozeronet/zeronet</a></li>
+</ol>
+<p>使用起来也很简单，一开始可能有点懵，但是多折腾折腾很快就能上手，里面也有中文论坛，有前辈写了很好的入门介绍。</p>
+<p><blockquote class="question">在你尝试前的温馨提醒</blockquote></p>
+
+<p>和暗网一样，防审查和匿名带来的一个后果：里面有些内容可能会使你感到不适。我只能说，并不是所有的人都有你那么高尚，并不是所有的人都有和你一样的信仰，所以请保持你的高尚，尊重别人的信仰，相信自己的信仰。</p>
+<h2 id="bb"><a href="#bb" class="headerlink" title="bb"></a>bb</h2><p>去中心化是个很有意思的想法，去中心化的互联网可以通过<em>P2P</em><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>架构实现。</p>
+<p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，最近很火的新的文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p>
+<p>其实，<em>P2P</em>架构的概念在<em>1969</em>年就已提出<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>，但为什么去中心化的互联网没能发展起来？我觉得主要是：</p>
+<ol>
+<li>技术限制</li>
+<li>政府限制</li>
+</ol>
+<p>版本控制问题，事件处理时间过长，同步的垃圾数据量太多，隐私数据的安全性等等，这些技术问题正在不断被解决（开源有很大功劳），这也是现在去中心化的互联网应用得以迅速发展的主要原因。</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/heirenwenhaolian.jpg" alt="heirenwenhaolian.jpg" style="float:right;height:90px;width:160px;margin-left:10px;"></p>
+
+<p>然而，随着去中心化的互联网的发展，我觉得技术问题将逐渐变得不那么重要，主要的问题将是与政府的冲突。冲突何在？政府的职责之一就是监管，不知为什么，个人总感觉这是去中心化的死对头。<em>WTF</em>？！这就是你的解答？个人感觉？</p>
+<p>嗯……暂时就是这样了，联想到了很多，比如柏拉图的《理想国》中的讨论，以及自己以前的一些想法，但无奈记不太请，还有看到一篇很好的<a href="http://127.0.0.1:43110/19fZz85PJXLAuwpGWe2fLEnU6Z1heprFFJ/?Post:24" target="_blank" rel="external">文章</a>（零网地址），所以先放着，等我多读读书……</p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://www.zhihu.com/question/37439960" target="_blank" rel="external">https://www.zhihu.com/question/37439960</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5</a></span><a href="#fnref:3" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+      
+        <categories>
+            
+            <category> internet </category>
+            
+            <category> zeronet </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> philosophy </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> 看书 </tag>
+            
+            <tag> how </tag>
+            
+            <tag> 补充 </tag>
+            
+            <tag> bitcoin </tag>
+            
+            <tag> 去中心化 </tag>
+            
+            <tag> next </tag>
+            
+            <tag> internet </tag>
+            
+            <tag> zeronet </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[你有你的freestyle吗？]]></title>
       <url>/beautiful/notnow/2017/08/30/robot-do-you-have-your-freestyle.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
@@ -174,9 +268,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> love </tag>
             
@@ -282,9 +376,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -301,6 +395,8 @@
             <tag> 死亡 </tag>
             
             <tag> hexo </tag>
+            
+            <tag> next </tag>
             
         </tags>
         
@@ -349,9 +445,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -403,7 +499,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -441,9 +537,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
         </tags>
         
@@ -486,11 +582,11 @@
             
             <tag> beautiful </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -544,11 +640,11 @@
             
             <tag> beautiful </tag>
             
-            <tag> 好奇心 </tag>
-            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
@@ -751,11 +847,11 @@
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><em>Windows Media Player</em>是<em>Windows</em>自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的<em>SRS(Sound Retrieval System)3D</em>环绕立体声音效听一些歌（比如<em>Taylor Swift</em>的<em>1989</em>里面的歌）超赞<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png" height="20" width="20">，空间感十足。</p>
 <h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>给出自己录的两个视频，先看看效果，戴上耳机哦～渣渣电脑，录的有点卡。视频嘛，<em>Wi-Fi</em>随意，土豪随意。</p>
-<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
+<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -811,7 +907,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -823,11 +919,11 @@
 				}
 			});
 		</script>
-<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
+<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -866,7 +962,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -916,9 +1012,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -954,7 +1050,7 @@
 <p><blockquote class="question"><em>tip</em>：有一些优化的很好的博客，有很多很酷的功能，我当时没收藏，后来非常后悔，提醒大家如果看到很赞的博客，一定要马上收藏。</blockquote></p>
 
 <p>因为目录默认全展开不美观，而不展开又不能让读者对文章内容迅速了解，故在开头加上。</p>
-<figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span> 必读 写在前面</div><div class="line">	<span class="number">1.1</span>. bb和目录</div><div class="line">	<span class="number">1.2</span>. 重要的定义</div><div class="line">	<span class="number">1.3</span>. 我操作的环境</div><div class="line"><span class="number">2.</span> 开始 搭建博客</div><div class="line">	<span class="number">2.1</span>. 在本地安装Hexo</div><div class="line">	<span class="number">2.2</span>. 部署博客到Github Pages</div><div class="line">	<span class="number">2.3</span>. 更新升级提示（可以最后看）</div><div class="line"><span class="number">3.</span> 优化 基本功能配置</div><div class="line">	<span class="number">3.1</span>. 选择主题</div><div class="line">	<span class="number">3.2</span>. 站点配置文件</div><div class="line">	<span class="number">3.3</span>. 主题配置文件</div><div class="line">	<span class="number">3.4</span>. 动态背景</div><div class="line">	<span class="number">3.5</span>. 注脚</div><div class="line"><span class="number">4.</span> 优化 网页样式布局</div><div class="line">	<span class="number">4.1</span>. 怎么更改？</div><div class="line">	<span class="number">4.3</span>. 附上我的custom.styl（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line">	<span class="number">4.4</span>. 修改字体</div><div class="line"><span class="number">5.</span> 进阶 高级功能配置</div><div class="line">	<span class="number">5.1</span>. 大佬的博文</div><div class="line">	<span class="number">5.2</span>. 更改上一篇，下一篇的顺序</div><div class="line">	<span class="number">5.3</span>. 移动端显示back-to-top按钮和侧栏</div><div class="line">	<span class="number">5.4</span>. 谷歌搜索优化</div><div class="line">	<span class="number">5.5</span>. 某一category和tag的页面显示年份（<span class="number">2017.07</span><span class="number">.18</span>更新）</div><div class="line">		<span class="number">5.5</span><span class="number">.1</span>. category的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.2</span>. tag的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.3</span>. 说明</div><div class="line">	<span class="number">5.6</span>. 文章底部加上评分小星星（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">5.7</span>. 侧栏加入已运行的时间（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.8</span>. 添加Top5页面（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.9</span>. 利用gulp压缩代码（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.10</span>. 让页脚的心跳动起来（<span class="number">2017.08</span><span class="number">.28</span>更新）</div><div class="line">	<span class="number">5.11</span>. 页脚加上微信二维码（<span class="number">2017.08</span><span class="number">.29</span>更新）</div><div class="line">	<span class="number">5.12</span>. 更改标签云（tagcloud）的颜色（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line"><span class="number">6.</span> 进阶 写出优雅文章</div><div class="line">	<span class="number">6.1</span>. Markdown的使用</div><div class="line">		<span class="number">6.1</span><span class="number">.1</span>. Markdown相关教程</div><div class="line">		<span class="number">6.1</span><span class="number">.2</span>. 我个人的总结</div><div class="line">	<span class="number">6.2</span>. 如何使用emoji（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">6.3</span>. 插入音乐和视频（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.3</span><span class="number">.1</span>. 音乐</div><div class="line">		<span class="number">6.3</span><span class="number">.2</span>. 视频</div><div class="line">	<span class="number">6.4</span>. 好玩的写作样式</div><div class="line">		<span class="number">6.4</span><span class="number">.1</span>. 在文档中增加图标</div><div class="line">		<span class="number">6.4</span><span class="number">.2</span>. 文本居中的引用</div><div class="line">		<span class="number">6.4</span><span class="number">.3</span>. 自定义标签样式（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">6.5</span>. 文章的模板文件</div><div class="line"><span class="number">7.</span> 结尾 求大佬和结束语</div><div class="line">	<span class="number">7.1</span>. 移动端顶部菜单</div><div class="line">	<span class="number">7.2</span>. 替换fancybox</div><div class="line">	<span class="number">7.3</span>. 结束语</div></pre></td></tr></table></figure>
+<figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span> 必读 写在前面</div><div class="line">	<span class="number">1.1</span>. bb和目录</div><div class="line">	<span class="number">1.2</span>. 重要的定义</div><div class="line">	<span class="number">1.3</span>. 我操作的环境</div><div class="line"><span class="number">2.</span> 开始 搭建博客</div><div class="line">	<span class="number">2.1</span>. 在本地安装Hexo</div><div class="line">	<span class="number">2.2</span>. 部署博客到Github Pages</div><div class="line">	<span class="number">2.3</span>. 更新升级提示（可以最后看）</div><div class="line"><span class="number">3.</span> 优化 基本功能配置</div><div class="line">	<span class="number">3.1</span>. 选择主题</div><div class="line">	<span class="number">3.2</span>. 站点配置文件</div><div class="line">	<span class="number">3.3</span>. 主题配置文件</div><div class="line">	<span class="number">3.4</span>. 动态背景</div><div class="line">	<span class="number">3.5</span>. 注脚</div><div class="line"><span class="number">4.</span> 优化 网页样式布局</div><div class="line">	<span class="number">4.1</span>. 怎么更改？</div><div class="line">	<span class="number">4.3</span>. 附上我的custom.styl（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line">	<span class="number">4.4</span>. 修改字体</div><div class="line"><span class="number">5.</span> 进阶 高级功能配置</div><div class="line">	<span class="number">5.1</span>. 大佬的博文</div><div class="line">	<span class="number">5.2</span>. 更改上一篇，下一篇的顺序</div><div class="line">	<span class="number">5.3</span>. 移动端显示back-to-top按钮和侧栏</div><div class="line">	<span class="number">5.4</span>. 谷歌搜索优化</div><div class="line">	<span class="number">5.5</span>. 某一category和tag的页面年份分割（<span class="number">2017.07</span><span class="number">.18</span>更新）</div><div class="line">		<span class="number">5.5</span><span class="number">.1</span>. category的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.2</span>. tag的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.3</span>. 说明</div><div class="line">	<span class="number">5.6</span>. 文章底部加上评分小星星（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">5.7</span>. 侧栏加入已运行的时间（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.8</span>. 添加Top5页面（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.9</span>. 利用gulp压缩代码（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.10</span>. 让页脚的心跳动起来（<span class="number">2017.08</span><span class="number">.28</span>更新）</div><div class="line">	<span class="number">5.11</span>. 页脚加上微信二维码（<span class="number">2017.08</span><span class="number">.29</span>更新）</div><div class="line">	<span class="number">5.12</span>. 更改标签云（tagcloud）的颜色（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line"><span class="number">6.</span> 进阶 写出优雅文章</div><div class="line">	<span class="number">6.1</span>. Markdown的使用</div><div class="line">		<span class="number">6.1</span><span class="number">.1</span>. Markdown相关教程</div><div class="line">		<span class="number">6.1</span><span class="number">.2</span>. 我个人的总结</div><div class="line">	<span class="number">6.2</span>. 如何使用emoji（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">6.3</span>. 插入音乐和视频（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.3</span><span class="number">.1</span>. 音乐</div><div class="line">		<span class="number">6.3</span><span class="number">.2</span>. 视频</div><div class="line">	<span class="number">6.4</span>. 好玩的写作样式</div><div class="line">		<span class="number">6.4</span><span class="number">.1</span>. 在文档中增加图标</div><div class="line">		<span class="number">6.4</span><span class="number">.2</span>. 文本居中的引用</div><div class="line">		<span class="number">6.4</span><span class="number">.3</span>. 自定义标签样式（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">6.5</span>. 文章的模板文件</div><div class="line"><span class="number">7.</span> 结尾 求大佬和结束语</div><div class="line">	<span class="number">7.1</span>. 移动端顶部菜单</div><div class="line">	<span class="number">7.2</span>. 替换fancybox</div><div class="line">	<span class="number">7.3</span>. 结束语</div></pre></td></tr></table></figure>
 <h3 id="重要的定义"><a href="#重要的定义" class="headerlink" title="重要的定义"></a>重要的定义</h3><p><blockquote class="question">了解这些定义，防止懵逼和大脑混乱。</blockquote></p>
 
 <p>站点配置文件和主题配置文件，名字都叫<code>_config.yml</code>，容易乱。</p>
@@ -1058,6 +1154,8 @@
 <p>文件位置：<code>~/blog/themes/next/source/css/_custom/custom.styl</code></p>
 <p>怎么知道要修改这个文件呢？强烈推荐阅读<a href="http://www.cduyzh.com/hexo-settings-3/" target="_blank" rel="external">2017年最新基于hexo搭建个人免费博客——自定义页面样式一</a>。感觉这是<em>NexT</em>主题非常棒的设计，因为这让我们能够很方便自定义网站的样式。</p>
 <h3 id="怎么更改？"><a href="#怎么更改？" class="headerlink" title="怎么更改？"></a>怎么更改？</h3><p>浏览器按<em>F12</em>即可，建议用<a href="http://www.firefox.com.cn/download/" target="_blank" rel="external">火狐浏览器</a>，或者<a href="http://down.tech.sina.com.cn/content/40975.html" target="_blank" rel="external">Google Chrome浏览器</a>（有梯子的直接去<em>Google</em>下载<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">）。如果你按下<em>F12</em>后简直特么一脸懵逼，那么别急，硬着头皮慢慢折腾吧哈哈哈嗝～</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/css.gif" alt="css.gif" style="float:right;height:90px;width:160px;margin-left:10px;"></p>
+
 <p>方法其实很简单，基本就是<a href="http://ookamiantd.top/2017/build-blog-hexo-advanced/#定位元素" target="_blank" rel="external">这篇博文</a>中的这张图的三步骤，但是要熟练还是要多折腾，毕竟如果你和我一样之前没学过<em>CSS</em>，那么一开始对里面的各个元素大脑肯定毫无概念，建议还是多百度。如果想深入了解，这里可以给份我<em>Google</em>的资料<a href="https://leeon.gitbooks.io/devtools/content/learn_basic/overview.html" target="_blank" rel="external">Chrome开发者工具</a>（自己没看）。</p>
 <h3 id="附上我的custom-styl"><a href="#附上我的custom-styl" class="headerlink" title="附上我的custom.styl"></a>附上我的custom.styl</h3><p>一定是先<em>F12</em>找到要改的元素，调试成自己喜欢的值，然后再复制到<code>custom.styl</code>，而不是直接复制我给出的，我给出的仅供参考。</p>
 <p><blockquote class="question">请先找对元素，不然可能会制造出新<em>bug</em>，建议大家修改一个，就加个注释，方便以后调试修改。</blockquote></p>
@@ -1157,7 +1255,7 @@
 <figure class="highlight javascript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">var</span> gulp = <span class="built_in">require</span>(<span class="string">'gulp'</span>);</div><div class="line"><span class="keyword">var</span> minifycss = <span class="built_in">require</span>(<span class="string">'gulp-minify-css'</span>);</div><div class="line"><span class="keyword">var</span> htmlmin = <span class="built_in">require</span>(<span class="string">'gulp-htmlmin'</span>);</div><div class="line"><span class="keyword">var</span> htmlclean = <span class="built_in">require</span>(<span class="string">'gulp-htmlclean'</span>);</div><div class="line"><span class="comment">// 压缩 public 目录 css</span></div><div class="line">gulp.task(<span class="string">'minify-css'</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">    <span class="keyword">return</span> gulp.src(<span class="string">'./public/**/*.css'</span>)</div><div class="line">        .pipe(minifycss())</div><div class="line">        .pipe(gulp.dest(<span class="string">'./public'</span>));</div><div class="line">&#125;);</div><div class="line"><span class="comment">// 压缩 public 目录 html</span></div><div class="line">gulp.task(<span class="string">'minify-html'</span>, <span class="function"><span class="keyword">function</span>(<span class="params"></span>) </span>&#123;</div><div class="line">  <span class="keyword">return</span> gulp.src(<span class="string">'./public/**/*.html'</span>)</div><div class="line">    .pipe(htmlclean())</div><div class="line">    .pipe(htmlmin(&#123;</div><div class="line">         removeComments: <span class="literal">true</span>,</div><div class="line">         minifyJS: <span class="literal">true</span>,</div><div class="line">         minifyCSS: <span class="literal">true</span>,</div><div class="line">         minifyURLs: <span class="literal">true</span>,</div><div class="line">    &#125;))</div><div class="line">    .pipe(gulp.dest(<span class="string">'./public'</span>))</div><div class="line">&#125;);</div><div class="line"><span class="comment">// 执行 gulp 命令时执行的任务</span></div><div class="line">gulp.task(<span class="string">'default'</span>, [<span class="string">'minify-html'</span>, <span class="string">'minify-css'</span>]);</div></pre></td></tr></table></figure>
 <p>最后：</p>
 <figure class="highlight ebnf"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">hexo clean</span></div><div class="line"></div><div class="line"><span class="attribute">hexo g</span></div><div class="line"></div><div class="line"><span class="attribute">gulp</span></div><div class="line"></div><div class="line"><span class="attribute">hexo d</span></div></pre></td></tr></table></figure>
-<p>我没有压缩<em>javascript</em>，因为我发现会报错，实际也并不需要，因为大部分<em>javascript</em>都已压缩过。</p>
+<p>我没有压缩<em>JavaScript</em>，因为我发现会报错，实际也并不需要，因为大部分<em>JavaScript</em>都已压缩过。</p>
 <p>其次，这里的这段代码执行<em>gulp</em>后不支持<em>hexo s</em>本地调试，且必须<em>deploy</em>到<em>Github Pages</em>上才能查看到效果，记得在哪看过有人有解决方法，需要的自己<em>Google</em>。</p>
 <h3 id="让页脚的心跳动起来"><a href="#让页脚的心跳动起来" class="headerlink" title="让页脚的心跳动起来"></a>让页脚的心跳动起来</h3><p>首先编辑<code>~/blog/themes/next/layout/_partials/footer.swig</code>：</p>
 <figure class="highlight routeros"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">在下面这行代码中，加上<span class="attribute">id</span>=<span class="string">"heart"</span></div><div class="line">&lt;span <span class="attribute">class</span>=<span class="string">"with-love"</span> <span class="attribute">id</span>=<span class="string">"heart"</span>&gt;</div></pre></td></tr></table></figure>
@@ -1266,12 +1364,18 @@
 <p><blockquote class="question">内容</blockquote></p>
 
 <p>用相同方法，可以私人定制其它<em>HTML</em>标签的样式，如果你是一个和我一样的小白，可以点击<a href="http://www.divcss5.com/rumen/r3.shtml" target="_blank" rel="external">这里</a>了解了解。</p>
-<h3 id="文章的模板文件"><a href="#文章的模板文件" class="headerlink" title="文章的模板文件"></a>文章的模板文件</h3><p>如果你是用<em>hexo new post “title”</em>新建的文章，那么其实它就是从<code>~/blog/scaffolds/post.md</code>“复制”了一份到<code>~/blog/source/_posts</code>下，所以这也意味着你可以直接通过在<code>~/blog/source/_posts</code>下新建<em>.md</em>结尾的文件来写新的文章，需注意的是编码请用<em>UTF-8</em>。</p>
-<p>但是注意，如果自己直接新建文件，一定要记得加上文件最上方的参数，即下面的相关内容。</p>
-<p>关于此模板文件，里面的参数说明参见<a href="https://hexo.io/zh-cn/docs/front-matter.html" target="_blank" rel="external">Hexo官方文档</a>。另附上我的说明：</p>
-<figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div></pre></td><td class="code"><pre><div class="line"><span class="meta">---</span></div><div class="line"><span class="string">注意！每一项的:后面均有一个空格</span></div><div class="line"></div><div class="line"><span class="attr">title:</span> <span class="string">&#123;&#123;</span> <span class="string">title</span> <span class="string">&#125;&#125;</span> <span class="string">/*文章标题*/</span></div><div class="line"></div><div class="line"><span class="attr">date:</span> <span class="string">&#123;&#123;</span> <span class="string">date</span> <span class="string">&#125;&#125;</span> <span class="string">/*日期*/</span></div><div class="line"></div><div class="line"><span class="attr">permalink:</span> <span class="string">/*永久链接，如果设置，且在站点配置文件下的permalink写了title，则可以替换title*/</span></div><div class="line"></div><div class="line"><span class="attr">categories:</span> <span class="string">/*分类，支持多级，比如：</span></div><div class="line"><span class="bullet">-</span> <span class="string">technology</span></div><div class="line"><span class="bullet">-</span> <span class="string">computer</span></div><div class="line"><span class="bullet">-</span> <span class="string">computer-aided-art</span></div><div class="line"><span class="string">则为technology/computer/computer-aided-art*/</span></div><div class="line"></div><div class="line"><span class="attr">tags:</span> <span class="string">/*标签，多个可以这样写[标签1,标签2,标签3]*/</span></div><div class="line"></div><div class="line"><span class="attr">description:</span> <span class="string">/*描述，加了会在每篇文章的开头显示，并且作为网页的description元数据。如果不写，则自动取&lt;!--</span> <span class="string">more</span> <span class="bullet">--&gt;之前作为网页的description元数据*/</span></div><div class="line"></div><div class="line"><span class="attr">keywords:</span> <span class="string">/*关键字，并且作为网页的keywords元数据。如果不写，则取tags里的项作为网页的keywords元数据*/</span></div><div class="line"></div><div class="line"><span class="attr">comments:</span> <span class="string">/*是否开启评论*/</span></div><div class="line"></div><div class="line"><span class="attr">type:</span> <span class="string">/*类型*/</span></div><div class="line"></div><div class="line"><span class="attr">layout:</span> <span class="string">/*页面布局，404页面可能可以用到，将其值改为false*/</span></div><div class="line"></div><div class="line"><span class="attr">top:</span> <span class="string">/*文章置顶，此项只有参考操作26(http://shenzekun.cn/hexo的next主题个性化配置教程.html)，否则请勿添加*/</span></div><div class="line"></div><div class="line"><span class="attr">password:</span> <span class="string">/*文章密码，此项只有参考操作24(http://shenzekun.cn/hexo的next主题个性化配置教程.html)，否则请勿添加。发现还是有bug的，就是右键在新标签中打开，然后无论是否输入密码，都能看到内容*/</span></div><div class="line"><span class="meta">---</span></div></pre></td></tr></table></figure>
+<h3 id="文章的模板文件"><a href="#文章的模板文件" class="headerlink" title="文章的模板文件"></a>文章的模板文件</h3><p>如果你是用<em>hexo new post “title”</em>新建的文章，那么其实它就是从<code>~/blog/scaffolds/post.md</code>“复制”了一份到<code>~/blog/source/_posts</code>下，所以这也意味着：</p>
+<ol>
+<li>你可以直接通过在<code>~/blog/source/_posts</code>下新建<em>.md</em>结尾的文件来写新的文章。</li>
+<li>你可以自定义<code>~/blog/scaffolds/post.md</code>，从而每次命令行新建的文章都会有你自定义的内容。</li>
+</ol>
+<p>但是注意，如果自己直接新建文件，一定要记得加上文件最上方的参数，即下面的相关内容，还有编码请用<em>UTF-8</em>。</p>
+<p>关于文件最上方的参数，参见<a href="https://hexo.io/zh-cn/docs/front-matter.html" target="_blank" rel="external">Hexo官方文档</a>，下面是我的总结：</p>
+<figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div></pre></td><td class="code"><pre><div class="line">注意！每一项的:后面均有一个空格</div><div class="line"></div><div class="line"><span class="symbol">title:</span> <span class="comment">/*文章标题，可以为中文*/</span></div><div class="line"></div><div class="line"><span class="symbol">date:</span> <span class="comment">/*日期，如果自己手动添加，请按固定格式*/</span></div><div class="line"></div><div class="line"><span class="symbol">permalink:</span> <span class="comment">/*永久链接，如果设置，且在站点配置文件下的permalink配置了title，则可以替换title*/</span></div><div class="line"></div><div class="line"><span class="symbol">categories:</span> <span class="comment">/*分类，支持多级，比如：</span></div><div class="line"><span class="comment">- technology</span></div><div class="line"><span class="comment">- computer</span></div><div class="line"><span class="comment">- computer-aided-art</span></div><div class="line"><span class="comment">则为technology/computer/computer-aided-art*/</span></div><div class="line"></div><div class="line"><span class="symbol">tags:</span> <span class="comment">/*标签，多个可以这样写[标签1,标签2,标签3]*/</span></div><div class="line"></div><div class="line"><span class="symbol">description:</span> <span class="comment">/*描述，加了会在每篇文章的开头显示，并且作为网页的description元数据。如果不写，则自动取&lt;!-- more --&gt;之前作为网页的description元数据*/</span></div><div class="line"></div><div class="line"><span class="symbol">keywords:</span> <span class="comment">/*关键字，并且作为网页的keywords元数据。如果不写，则自动取tags里的项作为网页的keywords元数据*/</span></div><div class="line"></div><div class="line"><span class="symbol">comments:</span> <span class="comment">/*是否开启评论*/</span></div><div class="line"></div><div class="line"><span class="symbol">type:</span> <span class="comment">/*类型*/</span></div><div class="line"></div><div class="line"><span class="symbol">layout:</span> <span class="comment">/*页面布局，404页面可能可以用到，将其值改为false*/</span></div><div class="line"></div><div class="line"><span class="symbol">top:</span> <span class="comment">/*文章置顶，此项只有参考操作26(http://shenzekun.cn/hexo的next主题个性化配置教程.html)，否则请勿添加*/</span></div><div class="line"></div><div class="line"><span class="symbol">password:</span> <span class="comment">/*文章密码，此项只有参考操作24(http://shenzekun.cn/hexo的next主题个性化配置教程.html)，否则请勿添加。发现还是有bug的，就是右键在新标签中打开，然后无论是否输入密码，都能看到内容*/</span></div></pre></td></tr></table></figure>
 <p><blockquote class="question"><em>tip</em>：灵活利用<em>permalink</em>，如果你是一个和我一样希望链接不会出现中文的人。</blockquote></p>
 
+<p>最后贴出我的<code>post.md</code>：</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div></pre></td><td class="code"><pre><div class="line"><span class="meta">---</span></div><div class="line"><span class="attr">title:</span> <span class="string">&#123;&#123;</span> <span class="string">title</span> <span class="string">&#125;&#125;</span></div><div class="line"><span class="attr">date:</span> <span class="string">&#123;&#123;</span> <span class="string">date</span> <span class="string">&#125;&#125;</span></div><div class="line"><span class="attr">permalink:</span></div><div class="line"><span class="attr">categories:</span></div><div class="line"><span class="attr">tags:</span> <span class="string">[]</span></div><div class="line"><span class="attr">description:</span></div><div class="line"><span class="attr">keywords:</span></div><div class="line"><span class="meta">---</span></div><div class="line"><span class="string">&lt;hr&gt;</span></div><div class="line"></div><div class="line"><span class="string">&lt;p&gt;&lt;blockquote&gt;&lt;/blockquote&gt;&lt;/p&gt;</span></div><div class="line"></div><div class="line"><span class="string">&lt;p&gt;&lt;img</span> <span class="string">src="https://"</span> <span class="string">alt=""</span> <span class="string">style="width:100%"&gt;&lt;/p&gt;</span></div><div class="line"></div><div class="line"><span class="string">&lt;!--</span> <span class="string">more</span> <span class="bullet">--&gt;</span></div><div class="line"></div><div class="line"><span class="comment">##</span></div><div class="line"></div><div class="line"><span class="comment">##</span></div><div class="line"></div><div class="line"><span class="comment">##</span></div><div class="line"></div><div class="line"><span class="string">&lt;hr&gt;</span></div></pre></td></tr></table></figure>
 <h2 id="结尾-求大佬和结束语"><a href="#结尾-求大佬和结束语" class="headerlink" title="结尾 求大佬和结束语"></a>结尾 求大佬和结束语</h2><p>终于结束了，哈哈哈哈哈～折腾一番，有了自己的博客，另外知道了一点<em>HTML</em>，<em>CSS</em>和<em>JavaScript</em>的知识，收藏夹里多了很多大佬的博客。</p>
 <h3 id="移动端顶部菜单"><a href="#移动端顶部菜单" class="headerlink" title="移动端顶部菜单"></a>移动端顶部菜单</h3><p><em>NexT</em>主题移动端的顶部菜单个人感觉没啥特色，但自己的能力又还没到自己造轮子的地步，所以求大佬。个人比较喜欢这两个<em>Hexo</em>主题的移动端顶部菜单：</p>
 <ol>
@@ -1307,8 +1411,6 @@
             
             <tag> share </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> technology </tag>
             
             <tag> computer </tag>
@@ -1316,6 +1418,8 @@
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -1410,6 +1514,8 @@
             
             <tag> bitcoin </tag>
             
+            <tag> 去中心化 </tag>
+            
         </tags>
         
     </entry>
@@ -1424,7 +1530,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1463,7 +1569,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1782,9 +1888,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> arctime </tag>
             
@@ -1806,7 +1912,7 @@
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1845,7 +1951,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1877,9 +1983,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> love </tag>
             
@@ -2045,7 +2151,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -2193,9 +2299,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> music </tag>
-            
             <tag> video </tag>
+            
+            <tag> music </tag>
             
             <tag> love </tag>
             
@@ -2587,6 +2693,8 @@
             
             <tag> 光 </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
@@ -2594,8 +2702,6 @@
             <tag> critique(批判) </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2733,13 +2839,13 @@
             
             <tag> 开心 </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2914,9 +3020,9 @@
             
             <tag> music </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> 音乐可视化 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 发呆 </tag>
             
@@ -3106,9 +3212,9 @@
             
             <tag> share </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -3125,15 +3231,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer5");
+				options.element = document.getElementById("aplayer4");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -3168,7 +3274,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3180,7 +3286,7 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
