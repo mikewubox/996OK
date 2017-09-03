@@ -1813,7 +1813,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d27391;
+  background: #b5d939;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3044,7 +3044,7 @@ img:hover {
 }
 @media (max-width: 767px) {
   .posts-collapse {
-    margin: 50px;
+    margin: 50px 20px;
   }
 }
 .posts-collapse::after {
@@ -3061,7 +3061,7 @@ img:hover {
   z-index: initial;
 }
 .category-all-page {
-  margin: 0 50px;
+  margin: 0 20px;
 }
 .category-all-page .category-list-count {
   color: rgba(0,0,0,0.5);
