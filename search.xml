@@ -75,23 +75,23 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> questions </tag>
-            
             <tag> technology </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> 看书 </tag>
             
             <tag> how </tag>
             
+            <tag> questions </tag>
+            
             <tag> 补充 </tag>
+            
+            <tag> next </tag>
             
             <tag> bitcoin </tag>
             
             <tag> 去中心化 </tag>
-            
-            <tag> next </tag>
             
             <tag> internet </tag>
             
@@ -138,13 +138,13 @@
             
             <tag> notnow </tag>
             
-            <tag> 阿西莫夫 </tag>
-            
             <tag> 人工智能 </tag>
             
-            <tag> 性格 </tag>
-            
             <tag> 科幻 </tag>
+            
+            <tag> 阿西莫夫 </tag>
+            
+            <tag> 性格 </tag>
             
         </tags>
         
@@ -277,13 +277,13 @@
             
             <tag> love </tag>
             
-            <tag> questions </tag>
-            
             <tag> 开心 </tag>
             
             <tag> shape </tag>
             
             <tag> notnow </tag>
+            
+            <tag> questions </tag>
             
             <tag> 摄影 </tag>
             
@@ -452,7 +452,7 @@
 
 <h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -504,7 +504,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -581,21 +581,21 @@
             
             <tag> beautiful </tag>
             
-            <tag> association </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
             
+            <tag> shape </tag>
+            
+            <tag> association </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> synthesis(综合) </tag>
             
             <tag> 悲伤 </tag>
             
@@ -643,19 +643,19 @@
             
             <tag> beautiful </tag>
             
-            <tag> questions </tag>
+            <tag> 好奇心 </tag>
             
             <tag> shape </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 看书 </tag>
+            
+            <tag> questions </tag>
             
             <tag> Einstein </tag>
             
@@ -696,15 +696,15 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -754,17 +754,17 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> what </tag>
-            
             <tag> 想象 </tag>
-            
-            <tag> 真理 </tag>
             
             <tag> notnow </tag>
             
+            <tag> philosophy </tag>
+            
             <tag> 看书 </tag>
+            
+            <tag> 真理 </tag>
+            
+            <tag> what </tag>
             
             <tag> 量子 </tag>
             
@@ -814,11 +814,11 @@
             
             <tag> beautiful </tag>
             
+            <tag> notnow </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -852,11 +852,11 @@
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><em>Windows Media Player</em>是<em>Windows</em>自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的<em>SRS(Sound Retrieval System)3D</em>环绕立体声音效听一些歌（比如<em>Taylor Swift</em>的<em>1989</em>里面的歌）超赞<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png" height="20" width="20">，空间感十足。</p>
 <h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>给出自己录的两个视频，先看看效果，戴上耳机哦～渣渣电脑，录的有点卡。视频嘛，<em>Wi-Fi</em>随意，土豪随意。</p>
-<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
+<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -912,7 +912,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -924,11 +924,11 @@
 				}
 			});
 		</script>
-<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
+<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -967,7 +967,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1019,13 +1019,13 @@
             
             <tag> 想象 </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> technology </tag>
             
             <tag> computer </tag>
             
             <tag> system-software </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> computer-aided-art </tag>
             
@@ -1217,7 +1217,7 @@
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># Star rating support to each article.</span></div><div class="line"><span class="comment"># To get your ID visit https://widgetpack.com</span></div><div class="line"><span class="attr">rating:</span></div><div class="line"><span class="attr">  enable:</span> <span class="literal">true</span></div><div class="line"><span class="attr">  id:</span>     </div><div class="line"><span class="attr">  color:</span>  <span class="string">ff7600</span></div></pre></td></tr></table></figure>
 <p>先去注释中的网站，首页点<em>Rating</em>，然后注册个帐号，填一下自己网站的信息，左上角有个<em>ID</em>，填进<code>主题</code>配置文件中就行，<code>color</code>改成自己喜欢的即可。另：</p>
 <ol>
-<li>可以配置评分方式，侧栏&gt;<em>Rating</em>&gt;<em>Setting</em>，建议用<em>IP address</em>和<em>Device(cookie)</em>。</li>
+<li>可以配置评分方式，侧栏&gt;<em>Rating</em>&gt;<em>Setting</em>，建议用<em>IP address</em>或<em>Device(cookie)</em>，免登录，毕竟<em>Socials</em>里面的选项几乎都被墙，不适合国内网络环境。</li>
 <li>建议侧栏&gt;<em>Site</em>&gt;<em>Setting</em>中勾选<em>Private</em>选项。</li>
 <li>上面两步勾选后别忘了点击页面右下方的<code>SAVE SETTING</code>绿色按钮保存。</li>
 </ol>
@@ -1271,8 +1271,8 @@
 <p>首先编辑<code>~/blog/themes/next/layout/_partials/footer.swig</code>，在最后加上下面代码：</p>
 <figure class="highlight applescript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-box"</span>&gt;</div><div class="line">  &lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-menu"</span>&gt;</div><div class="line">    &lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-hover"</span>&gt;&lt;/<span class="keyword">div</span>&gt;</div><div class="line">  &lt;/<span class="keyword">div</span>&gt;</div><div class="line">&lt;/<span class="keyword">div</span>&gt;</div></pre></td></tr></table></figure>
 <p>然后编辑<code>custom.styl</code>，加入：</p>
-<figure class="highlight scss"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 微信订阅号</span></div><div class="line"><span class="selector-class">.weixin-box</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">43px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">10px</span>;</div><div class="line">    <span class="attribute">text-align</span>: center;</div><div class="line">    <span class="attribute">font-size</span>: <span class="number">10px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span> &#123;</div><div class="line">    <span class="attribute">position</span>: relative;</div><div class="line">    <span class="attribute">height</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">cursor</span>: pointer;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">5px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/wechat.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">24px</span> <span class="number">24px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">3px</span>;</div><div class="line">    <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">1.5px</span> <span class="number">10px</span> <span class="number">0</span> rgba(<span class="number">197</span>, <span class="number">197</span>, <span class="number">197</span>, <span class="number">0.5</span>);</div><div class="line">    <span class="attribute">background</span>: url(https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/reuixiy.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">    <span class="attribute">transition</span>: all <span class="number">0.35s</span> ease-in-out;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span>:hover <span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/reuixiy.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>图片务必用矢量图<em>svg</em>格式，否则手机上显示效果很差。微信logo的图片我准备好了，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/wechat.svg" target="_blank" rel="external"><i class="fa fa-download"></i>wechat.svg(1.6 KB)</a>。二维码怎么弄成<em>svg</em>格式呢，安利个<a href="https://cli.im/weixin" target="_blank" rel="external">网站</a>，下载svg格式的就行。</p>
+<figure class="highlight scss"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 微信订阅号</span></div><div class="line"><span class="selector-class">.weixin-box</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">43px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">10px</span>;</div><div class="line">    <span class="attribute">text-align</span>: center;</div><div class="line">    <span class="attribute">font-size</span>: <span class="number">10px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span> &#123;</div><div class="line">    <span class="attribute">position</span>: relative;</div><div class="line">    <span class="attribute">height</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">cursor</span>: pointer;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">5px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://微信的logo.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">24px</span> <span class="number">24px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">3px</span>;</div><div class="line">    <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">1.5px</span> <span class="number">10px</span> <span class="number">0</span> rgba(<span class="number">197</span>, <span class="number">197</span>, <span class="number">197</span>, <span class="number">0.5</span>);</div><div class="line">    <span class="attribute">background</span>: url(https://二维码.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">    <span class="attribute">transition</span>: all <span class="number">0.35s</span> ease-in-out;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span>:hover <span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://二维码.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
+<p>图片务必用矢量图<em>svg</em>格式，否则手机上显示效果很差，其它的自己看情况更改。微信logo的图片我准备好了，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/wechat.svg" target="_blank" rel="external"><i class="fa fa-download"></i>wechat.svg(1.6 KB)</a>。二维码怎么弄成<em>svg</em>格式呢，安利个<a href="https://cli.im/weixin" target="_blank" rel="external">网站</a>，下载svg格式的就行。</p>
 <p>改好后效果超赞有木有<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60c.png" height="20" width="20">？我参考了<a href="https://codepen.io/hj624608494/pen/dpQyJo" target="_blank" rel="external">这个</a>代码。</p>
 <h3 id="更改标签云（tagcloud）的颜色"><a href="#更改标签云（tagcloud）的颜色" class="headerlink" title="更改标签云（tagcloud）的颜色"></a>更改标签云（tagcloud）的颜色</h3><p>如果你和我一样个性化了网站的整体布局颜色，那么默认的标签云页面可能看起来很丑，怎么更改？</p>
 <p>修改<code>~/blog/themes/next/layout/page.swig</code>：</p>
@@ -1306,7 +1306,7 @@
 <p>在这个表情横行的时代，使用<em>emoji</em>似乎已经是日常。之前一直搜索相关插件，安装了很多，但都失败了。后来发现直接<em>Copy</em>，<em>Paste</em>就能用😆，可以去<a href="https://www.emojicopy.com/" target="_blank" rel="external">这个网站</a><em>Copy</em>。</p>
 <p>但是有个缺点，就是不同系统，不同浏览器，渲染的效果不同，有些甚至不能显示。</p>
 <p><em>[2017.08.20更新]</em></p>
-<p>上面方法<em>Copy</em>的是<em>Unicode</em>，因此显示时有上面这个缺点，但是我们也可以直接调用图片，保证显示效果一致。但是<em>NexT</em>主题的<em>fancybox</em>插件会干扰<em>emoji</em>图片的显示效果，所以要在<code>custom.styl</code>中加代码，修改样式。</p>
+<p>上面方法<em>Copy</em>的是<em>Unicode</em>，因此显示时有上面这个缺点，但是我们也可以直接调用图片，保证显示效果一致。但是<em>NexT</em>主题的相关样式会干扰<em>emoji</em>图片的显示效果，所以要在<code>custom.styl</code>中加代码，修改样式。</p>
 <p>另：无论主题配置文件中的<em>fancybox</em>的值是<em>true</em>还是<em>false</em>，对此都没影响。</p>
 <p>1.首先编辑<code>~/blog/themes/next/source/css/_custom/custom.styl</code>，往里面加入：</p>
 <figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 自定义emoji样式</span></div><div class="line">img<span class="selector-id">#github-emoji</span> &#123;</div><div class="line">    <span class="attribute">margin</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">padding</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">display</span>: inline !important;</div><div class="line">    <span class="attribute">vertical-align</span>: bottom;</div><div class="line">    <span class="attribute">border</span>: none;</div><div class="line">    <span class="attribute">cursor</span>: text;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// 文章超链接样式（为emoji特设）</span></div><div class="line"><span class="comment">// color的值可以改成你博客自己的！</span></div><div class="line"><span class="selector-class">.post-body</span> <span class="selector-tag">a</span> &#123;</div><div class="line">    <span class="attribute">color</span>: <span class="number">#0593d3</span>;</div><div class="line">    <span class="attribute">border-bottom</span>: none;</div><div class="line">    <span class="attribute">text-decoration</span>: underline;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.post-body</span> <span class="selector-tag">a</span>:hover &#123;</div><div class="line">    <span class="attribute">color</span>: <span class="number">#ff7600</span>;</div><div class="line">    <span class="attribute">border-bottom</span>: none;</div><div class="line">    <span class="attribute">text-decoration</span>: underline;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// 标签云页面样式（为emoji特设）</span></div><div class="line"><span class="selector-class">.tag-cloud</span> <span class="selector-tag">a</span> &#123;</div><div class="line">    <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="number">#0593d3</span>;</div><div class="line">    <span class="attribute">text-decoration</span>: none;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.tag-cloud</span> <span class="selector-tag">a</span>:hover &#123;</div><div class="line">    <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="number">#ff7600</span>;</div><div class="line">    <span class="attribute">text-decoration</span>: none;</div><div class="line">&#125;</div><div class="line"></div><div class="line"><span class="comment">// 阅读更多按钮样式（为emoji特设）</span></div><div class="line"><span class="selector-class">.post-button</span> <span class="selector-class">.btn</span> &#123;</div><div class="line">    <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="number">#0593d3</span>;</div><div class="line">    <span class="attribute">text-decoration</span>: none;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.post-button</span> <span class="selector-class">.btn</span>:hover &#123;</div><div class="line">    <span class="attribute">border-bottom</span>: <span class="number">1px</span> solid <span class="number">#ff7600</span>;</div><div class="line">    <span class="attribute">text-decoration</span>: none;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
@@ -1412,9 +1412,7 @@
             
             <tag> share </tag>
             
-            <tag> questions </tag>
-            
-            <tag> tips </tag>
+            <tag> 诗 </tag>
             
             <tag> technology </tag>
             
@@ -1424,9 +1422,11 @@
             
             <tag> 下载 </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 尼采 </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> tips </tag>
             
             <tag> 补充 </tag>
             
@@ -1497,21 +1497,21 @@
         
         <tags>
             
+            <tag> bb-for-fun </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
             
             <tag> how </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> tips </tag>
             
             <tag> 树莓派 </tag>
             
@@ -1535,7 +1535,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1574,7 +1574,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1779,23 +1779,23 @@
             
             <tag> love </tag>
             
-            <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
             <tag> 想象 </tag>
-            
-            <tag> 光 </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
+            <tag> 光 </tag>
+            
             <tag> 黑暗 </tag>
             
             <tag> 好奇心 </tag>
             
+            <tag> association </tag>
+            
             <tag> 看书 </tag>
+            
+            <tag> after-physics(形而上学) </tag>
             
             <tag> untitled </tag>
             
@@ -1869,7 +1869,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -1897,11 +1897,11 @@
             
             <tag> music </tag>
             
-            <tag> arctime </tag>
+            <tag> 开心 </tag>
             
             <tag> 光 </tag>
             
-            <tag> 开心 </tag>
+            <tag> arctime </tag>
             
         </tags>
         
@@ -2024,27 +2024,27 @@
         
         <tags>
             
+            <tag> computer </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
+            
+            <tag> how </tag>
+            
+            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
-            <tag> computer </tag>
-            
-            <tag> how </tag>
+            <tag> 大脑 </tag>
             
             <tag> 人工智能 </tag>
             
-            <tag> 科幻 </tag>
-            
-            <tag> 大脑 </tag>
-            
             <tag> 极限 </tag>
+            
+            <tag> 科幻 </tag>
             
         </tags>
         
@@ -2078,25 +2078,25 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> philosophy </tag>
             
-            <tag> what </tag>
-            
             <tag> association </tag>
+            
+            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> tips </tag>
             
             <tag> 真理 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2127,25 +2127,25 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> philosophy </tag>
             
-            <tag> what </tag>
-            
             <tag> association </tag>
+            
+            <tag> 对立 </tag>
+            
+            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
-            <tag> 想象 </tag>
-            
             <tag> tips </tag>
             
-            <tag> 对立 </tag>
-            
             <tag> 维 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2156,7 +2156,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -2229,17 +2229,13 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> 真理 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2253,7 +2249,11 @@
             
             <tag> 教条 </tag>
             
+            <tag> tips </tag>
+            
             <tag> why </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> 贫富分化 </tag>
             
@@ -2308,9 +2308,9 @@
             
             <tag> 想象 </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 空间 </tag>
             
         </tags>
         
@@ -2359,17 +2359,7 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> what </tag>
-            
-            <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
             <tag> 想象 </tag>
-            
-            <tag> tips </tag>
             
             <tag> 开心 </tag>
             
@@ -2379,15 +2369,25 @@
             
             <tag> notnow </tag>
             
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
             
+            <tag> after-physics(形而上学) </tag>
+            
             <tag> 大脑 </tag>
+            
+            <tag> tips </tag>
             
             <tag> why </tag>
             
             <tag> 时间 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2507,15 +2507,15 @@
             
             <tag> music </tag>
             
-            <tag> questions </tag>
-            
-            <tag> tips </tag>
-            
             <tag> technology </tag>
+            
+            <tag> questions </tag>
             
             <tag> embedded </tag>
             
             <tag> raspberry-pi </tag>
+            
+            <tag> tips </tag>
             
             <tag> 树莓派 </tag>
             
@@ -2556,11 +2556,11 @@
             
             <tag> love </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> notnow </tag>
             
@@ -2607,11 +2607,11 @@
             
             <tag> 想象 </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> 星空 </tag>
             
@@ -2690,23 +2690,19 @@
             
             <tag> beautiful </tag>
             
-            <tag> after-physics(形而上学) </tag>
-            
             <tag> 想象 </tag>
-            
-            <tag> 真理 </tag>
-            
-            <tag> 光 </tag>
-            
-            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
+            <tag> 光 </tag>
+            
             <tag> critique(批判) </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2714,11 +2710,15 @@
             
             <tag> 看书 </tag>
             
-            <tag> 阿西莫夫 </tag>
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> 极限 </tag>
             
             <tag> 科幻 </tag>
             
-            <tag> 极限 </tag>
+            <tag> 阿西莫夫 </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> untitled </tag>
             
@@ -2828,29 +2828,23 @@
             
             <tag> music </tag>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
-            
             <tag> 想象 </tag>
             
-            <tag> 空间 </tag>
-            
-            <tag> tips </tag>
-            
             <tag> 开心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> 空间 </tag>
+            
+            <tag> shape </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2860,7 +2854,13 @@
             
             <tag> how </tag>
             
+            <tag> questions </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
             <tag> 极限 </tag>
+            
+            <tag> tips </tag>
             
         </tags>
         
@@ -2891,11 +2891,11 @@
             
             <tag> beautiful </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> 对立 </tag>
             
@@ -2940,11 +2940,11 @@
             
             <tag> love </tag>
             
-            <tag> 光 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 光 </tag>
             
             <tag> critique(批判) </tag>
             
@@ -2984,11 +2984,11 @@
             
             <tag> beautiful </tag>
             
-            <tag> 光 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 光 </tag>
             
             <tag> 星空 </tag>
             
@@ -3025,9 +3025,9 @@
             
             <tag> music </tag>
             
-            <tag> 音乐可视化 </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> 音乐可视化 </tag>
             
             <tag> 发呆 </tag>
             
@@ -3071,11 +3071,11 @@
             
             <tag> 想象 </tag>
             
-            <tag> 光 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 光 </tag>
             
             <tag> 尼采 </tag>
             
@@ -3160,11 +3160,11 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -3217,9 +3217,9 @@
             
             <tag> 想象 </tag>
             
-            <tag> 下载 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 下载 </tag>
             
             <tag> 尼采 </tag>
             
@@ -3236,15 +3236,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer5");
+				options.element = document.getElementById("aplayer3");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -3279,7 +3279,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3291,7 +3291,7 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
