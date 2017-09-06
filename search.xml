@@ -269,8 +269,6 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
             <tag> video </tag>
@@ -278,6 +276,8 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> questions </tag>
             
             <tag> 开心 </tag>
             
@@ -534,8 +534,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -545,6 +543,8 @@
             <tag> video </tag>
             
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
             
         </tags>
         
@@ -579,19 +579,19 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> association </tag>
             
             <tag> synthesis(综合) </tag>
             
             <tag> questions </tag>
             
-            <tag> beautiful </tag>
-            
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
+            
+            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -641,15 +641,15 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> questions </tag>
             
-            <tag> beautiful </tag>
+            <tag> 好奇心 </tag>
             
             <tag> shape </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
@@ -812,11 +812,11 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> beautiful </tag>
             
             <tag> notnow </tag>
             
@@ -1007,10 +1007,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -1020,6 +1016,10 @@
             <tag> video </tag>
             
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> technology </tag>
             
@@ -1051,7 +1051,7 @@
 <h2 id="必读-写在前面"><a href="#必读-写在前面" class="headerlink" title="必读 写在前面"></a>必读 写在前面</h2><p>本文主要内容是<em>NexT</em>主题的细节优化。搭建的过程，已有的优化，<em>Markdown</em>的使用，都直接贴出大佬的博文链接。</p>
 <h3 id="bb和目录"><a href="#bb和目录" class="headerlink" title="bb和目录"></a>bb和目录</h3><p>首先肯定是感谢各位大佬的博文，我一个小白，没学<em>HTML</em>，没学<em>CSS</em>，没学<em>JavaScript</em>，连<em>C</em>也还没学会……如果你是一个和我一样的小白，且对本博客感觉还蛮满意，恭喜你！看完这篇博文，你自己也可以拥有一个这样的博客啦！</p>
 <p>给小白（像我一样，也许还有完美主义和强迫症<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">）却想搭建个性化博客提供参考，是我写这篇博文的主要目的，所以如果本文有幸被大佬读到，文中的不足还请大佬见谅。</p>
-<p>本文参考的文章都会直接给出原文链接或者以注脚的形式标记出处，但<em>Google</em>参考了实在太多太多了，有些我当时没做记录，如有遗漏，欢迎指正。</p>
+<p>本文参考的文章都会直接给出原文链接或者以注脚的形式标记出处，但<em>Google</em>参考了实在太多太多了，有些我当时没做记录，如有遗漏，欢迎指出。</p>
 <p><blockquote class="question"><em>tip</em>：有一些优化的很好的博客，有很多很酷的功能，我当时没收藏，后来非常后悔，提醒大家如果看到很赞的博客，一定要马上收藏。</blockquote></p>
 
 <p>因为目录默认全展开不美观，而不展开又不能让读者对文章内容迅速了解，故在开头加上。</p>
@@ -1412,11 +1412,13 @@
         
         <tags>
             
+            <tag> share </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
             
-            <tag> share </tag>
+            <tag> 诗 </tag>
             
             <tag> technology </tag>
             
@@ -1425,8 +1427,6 @@
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -1676,11 +1676,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -1777,15 +1777,15 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> love </tag>
+            
             <tag> association </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -1848,11 +1848,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -2296,10 +2296,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
@@ -2311,6 +2307,10 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> 诗 </tag>
             
@@ -2507,11 +2507,11 @@
         
         <tags>
             
+            <tag> music </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
-            
-            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -2554,11 +2554,11 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> love </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2599,10 +2599,6 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> coldplay </tag>
@@ -2610,6 +2606,10 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2690,17 +2690,15 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
             
             <tag> 真理 </tag>
             
-            <tag> beautiful </tag>
-            
             <tag> 光 </tag>
-            
-            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2709,6 +2707,8 @@
             <tag> critique(批判) </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2824,6 +2824,12 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> coldplay </tag>
+            
+            <tag> music </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2838,21 +2844,15 @@
             
             <tag> tips </tag>
             
-            <tag> beautiful </tag>
-            
-            <tag> coldplay </tag>
-            
-            <tag> music </tag>
-            
             <tag> 开心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2891,9 +2891,9 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3027,9 +3027,9 @@
             
             <tag> music </tag>
             
-            <tag> 音乐可视化 </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> 音乐可视化 </tag>
             
             <tag> 发呆 </tag>
             
@@ -3069,9 +3069,9 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 光 </tag>
             
@@ -3115,13 +3115,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
@@ -3213,15 +3213,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
-            <tag> 下载 </tag>
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 下载 </tag>
             
             <tag> 尼采 </tag>
             
