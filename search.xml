@@ -75,15 +75,15 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> questions </tag>
-            
             <tag> technology </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> 看书 </tag>
             
             <tag> how </tag>
+            
+            <tag> questions </tag>
             
             <tag> 补充 </tag>
             
@@ -277,13 +277,13 @@
             
             <tag> love </tag>
             
-            <tag> questions </tag>
-            
             <tag> 开心 </tag>
             
             <tag> shape </tag>
             
             <tag> notnow </tag>
+            
+            <tag> questions </tag>
             
             <tag> 摄影 </tag>
             
@@ -581,21 +581,21 @@
             
             <tag> beautiful </tag>
             
-            <tag> association </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> 黑暗 </tag>
             
-            <tag> shape </tag>
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> synthesis(综合) </tag>
             
             <tag> 悲伤 </tag>
             
@@ -643,19 +643,19 @@
             
             <tag> beautiful </tag>
             
-            <tag> questions </tag>
-            
-            <tag> 好奇心 </tag>
-            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 好奇心 </tag>
             
             <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 看书 </tag>
+            
+            <tag> questions </tag>
             
             <tag> Einstein </tag>
             
@@ -696,15 +696,15 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -754,17 +754,17 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> what </tag>
-            
             <tag> 想象 </tag>
-            
-            <tag> 真理 </tag>
             
             <tag> notnow </tag>
             
+            <tag> philosophy </tag>
+            
             <tag> 看书 </tag>
+            
+            <tag> 真理 </tag>
+            
+            <tag> what </tag>
             
             <tag> 量子 </tag>
             
@@ -814,11 +814,11 @@
             
             <tag> beautiful </tag>
             
+            <tag> notnow </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1019,13 +1019,13 @@
             
             <tag> 想象 </tag>
             
-            <tag> 空间 </tag>
-            
             <tag> technology </tag>
             
             <tag> computer </tag>
             
             <tag> system-software </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> computer-aided-art </tag>
             
@@ -1320,14 +1320,14 @@
 <li>输入法输入想用的<em>emoji</em>直接<em>Google</em>到其名字，或者打开<a href="https://www.webpagefx.com/tools/emoji-cheat-sheet/" target="_blank" rel="external">Emoji Cheat Sheet</a>找到<em>emoji</em>的名字。</li>
 <li>然后打开<a href="https://api.github.com/emojis" target="_blank" rel="external">Github Emojis API</a>快捷键搜索（<em>Ctrl + F</em>），输入<em>emoji</em>的名字，即可找到<em>emoji</em>的图片名。</li>
 </ol>
-<p>方法是我看一个<em>Hexo</em>插件的<a href="https://github.com/crimx/hexo-filter-github-emojis" target="_blank" rel="external">README</a>自己摸索出来的，当然用途不止于<em>emoji</em>。手机里的各种表情包，传到自己的云盘，然后改下<em>URL</em>，看情况改下<em>height</em>和<em>width</em>的值即可啦，<em>GIF</em>也可以哦<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">～</p>
+<p>方法是我看一个<em>Hexo</em>插件的<a href="https://github.com/crimx/hexo-filter-github-emojis" target="_blank" rel="external">README</a>自己摸索出来的，当然用途不止于<em>emoji</em>。手机里的各种表情包，传到自己的云存储，然后改下<em>URL</em>，看情况改下<em>height</em>和<em>width</em>的值即可啦，<em>GIF</em>也可以哦<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">～</p>
 <p>当然，还有<a href="http://www.yanwenzi.com/" target="_blank" rel="external">颜文字</a>(ﾉ*･ω･)ﾉ。</p>
-<h3 id="插入音乐和视频"><a href="#插入音乐和视频" class="headerlink" title="插入音乐和视频"></a>插入音乐和视频</h3><p>音乐的话，网易云音乐的外链很好用，不仅有可以单曲，还能有歌单，有兴趣的自己去<a href="https://music.163.com/" target="_blank" rel="external">网易云音乐</a>找首歌尝试。但是有一些音乐因为版权原因放不了，还有就是不完全支持<em>https</em>，导致小绿锁不见了。</p>
-<h4 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h4><p>可以用<em>HTML</em>的标签，写法如下：</p>
+<h3 id="插入音乐和视频"><a href="#插入音乐和视频" class="headerlink" title="插入音乐和视频"></a>插入音乐和视频</h3><p>音乐的话，网易云音乐的外链很好用，不仅有可以单曲，还能有歌单，有兴趣的自己去<a href="https://music.163.com/" target="_blank" rel="external">网易云音乐</a>找首歌尝试。但是有一些音乐因为版权原因放不了，还有就是不完全支持<em>https</em>，导致小绿锁不见了。要解决这些缺点，就需要安装插件。</p>
+<h4 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h4><p>可以直接用<em>HTML</em>的标签，写法如下：</p>
 <figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">audio</span> src=<span class="string">"https://什么什么什么.mp3"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">audio</span> tag.&lt;/audio&gt;</div></pre></td></tr></table></figure>
-<p>其次就是用插件，有显示<code>歌词</code>功能，也美观。首先在博客文件夹根目录：</p>
+<p>其次就是用插件，有显示<code>歌词</code>功能，也美观，建议使用这种方法。首先在博客文件夹根目录：</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> <span class="comment">--save hexo-tag-aplayer</span></div></pre></td></tr></table></figure>
-<p>然后按下面的写法：</p>
+<p>然后文章中加入下面的内容：</p>
 <figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> aplayer <span class="string">"歌曲名"</span> <span class="string">"歌手名"</span> <span class="string">"https://什么什么什么.mp3"</span> <span class="string">"https://封面图.jpg"</span> <span class="string">"lrc:https://歌词.lrc"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/music/">music</a>标签里自己找一篇文章看看。</p>
 <p><blockquote class="question">注意：如果<code>lrc</code>用的是这种<em>URL</em>形式，<code>hexo g</code>时请保持网络通畅，否则你可以试试<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</blockquote></p>
@@ -1340,14 +1340,14 @@
 
 <p>当然，如果那歌词很操蛋，有错误（比如字母大小写和标点符号乱加）或者时间完全对不上，然后你也和我一样是个完美主义者，那接下来就是令人窒息的操作了，一句一句自己查看修改……</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lingrenzhixidecaozuo.jpg" alt="lingrenzhixidecaozuo.jpg"></p>
-<h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><p>与音频相同，可以用<em>HTML</em>的标签，写法如下：</p>
+<h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><p>与音频相同，可以直接用<em>HTML</em>的标签，写法如下：</p>
 <figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="selector-tag">video</span> poster=<span class="string">"https://封面图.jpg"</span> src=<span class="string">"https://什么什么什么.mp4"</span> style=<span class="string">"max-height :100%; max-width: 100%; display: block; margin-left: auto; margin-right: auto;"</span> controls=<span class="string">"controls"</span> loop=<span class="string">"loop"</span> preload=<span class="string">"meta"</span>&gt;Your browser does not support the <span class="selector-tag">video</span> tag.&lt;/video&gt;</div></pre></td></tr></table></figure>
-<p>一样的，还可以用插件，功能更加强大，比如可以<code>弹幕</code>。首先在博客文件夹根目录：</p>
+<p>一样的，还可以用插件，功能更加强大，比如可以<code>弹幕</code>，非常建议使用。首先在博客文件夹根目录：</p>
 <figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> <span class="comment">--save hexo-tag-dplayer</span></div></pre></td></tr></table></figure>
-<p>然后按下面的写法：</p>
+<p>然后文章中加入下面的内容：</p>
 <figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://什么什么什么.mp4"</span> <span class="string">"https://封面图.jpg"</span> <span class="string">"api=https://api.prprpr.me/dplayer/"</span> <span class="string">"id="</span> <span class="string">"loop=true"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure>
 <p>要使用弹幕，必须有<code>api</code>和<code>id</code>两项，并且若使用的是官方的<em>api</em>地址（即上面的），<em>id</em>的值不能与<a href="https://api.prprpr.me/dplayer/list" target="_blank" rel="external">这个列表</a>的值一样。<em>id</em>的值自己随便取，唯一要求就是前面这点。</p>
-<p>如果唯一要求难倒了你，可以使用<a href="http://tool.oschina.net/encrypt?type=2" target="_blank" rel="external">这个工具</a>生成哈希值，这样就几乎没有可能会有一样的值。</p>
+<p>如果唯一要求难倒了你，可以使用<a href="http://tool.oschina.net/encrypt?type=2" target="_blank" rel="external">这个工具</a>将一段与众不同的文字<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">生成一段看起来毫无意义的哈希值，这样看起来是不是好多了。</p>
 <p>效果，在这博客的<a href="https://reuixiy.github.io/tags/video/">video</a>标签里自己找一篇文章看看。</p>
 <p>当然，这个插件的功能还有很多，可以去<a href="https://github.com/MoePlayer/hexo-tag-dplayer" target="_blank" rel="external">README</a>和这插件的“母亲”<em>Dplayer</em>的<a href="http://dplayer.js.org/docs/#/" target="_blank" rel="external">官方文档</a>看看。</p>
 <h3 id="好玩的写作样式"><a href="#好玩的写作样式" class="headerlink" title="好玩的写作样式"></a>好玩的写作样式</h3><p>用一些特殊的样式，可以增加文章的可读性。</p>
@@ -1386,8 +1386,8 @@
 <h2 id="结尾-求大佬和结束语"><a href="#结尾-求大佬和结束语" class="headerlink" title="结尾 求大佬和结束语"></a>结尾 求大佬和结束语</h2><p>终于结束了，哈哈哈哈哈～折腾一番，有了自己的博客，另外知道了一点<em>HTML</em>，<em>CSS</em>和<em>JavaScript</em>的知识，收藏夹里多了很多大佬的博客。</p>
 <h3 id="移动端顶部菜单"><a href="#移动端顶部菜单" class="headerlink" title="移动端顶部菜单"></a>移动端顶部菜单</h3><p><em>NexT</em>主题移动端的顶部菜单个人感觉没啥特色，但自己的能力又还没到自己造轮子的地步，所以求大佬。个人比较喜欢这两个<em>Hexo</em>主题的移动端顶部菜单：</p>
 <ol>
-<li><em>hexo-theme-tranquilpeak</em>，<a href="https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/" target="_blank" rel="external">demo</a>。</li>
-<li><em>hexo-theme-yilia</em>，<a href="http://litten.me/" target="_blank" rel="external">demo</a>。</li>
+<li><em>hexo-theme-tranquilpeak</em>，<a href="https://louisbarranqueiro.github.io/hexo-theme-tranquilpeak/2015/05/28/Elements-showcase/" target="_blank" rel="external">demo</a>。</li>
+<li><em>hexo-theme-yilia</em>，<a href="http://litten.me/2017/07/09/prevent-spiders/" target="_blank" rel="external">demo</a>。</li>
 </ol>
 <h3 id="替换fancybox"><a href="#替换fancybox" class="headerlink" title="替换fancybox"></a>替换fancybox</h3><p>个人感觉<em>fancybox</em>用着不太爽，上面两个主题的感觉就很棒：</p>
 <ol>
@@ -1414,12 +1414,6 @@
             
             <tag> share </tag>
             
-            <tag> questions </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> 诗 </tag>
-            
             <tag> technology </tag>
             
             <tag> computer </tag>
@@ -1428,7 +1422,13 @@
             
             <tag> 下载 </tag>
             
+            <tag> 诗 </tag>
+            
             <tag> 尼采 </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> tips </tag>
             
             <tag> 补充 </tag>
             
@@ -1499,21 +1499,21 @@
         
         <tags>
             
+            <tag> bb-for-fun </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
             
             <tag> how </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> tips </tag>
             
             <tag> 树莓派 </tag>
             
@@ -1680,9 +1680,9 @@
             
             <tag> share </tag>
             
-            <tag> 想象 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 星空 </tag>
             
@@ -1781,13 +1781,9 @@
             
             <tag> love </tag>
             
-            <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
+            <tag> 光 </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> 光 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1797,7 +1793,11 @@
             
             <tag> 好奇心 </tag>
             
+            <tag> association </tag>
+            
             <tag> 看书 </tag>
+            
+            <tag> after-physics(形而上学) </tag>
             
             <tag> untitled </tag>
             
@@ -1852,9 +1852,9 @@
             
             <tag> share </tag>
             
-            <tag> 想象 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 达·芬奇 </tag>
             
@@ -2026,23 +2026,23 @@
         
         <tags>
             
+            <tag> computer </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> computer </tag>
             
             <tag> how </tag>
             
             <tag> 人工智能 </tag>
             
             <tag> 科幻 </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> synthesis(综合) </tag>
             
             <tag> 大脑 </tag>
             
@@ -2080,25 +2080,25 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> philosophy </tag>
             
-            <tag> what </tag>
-            
             <tag> association </tag>
+            
+            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> tips </tag>
             
             <tag> 真理 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2129,25 +2129,25 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> philosophy </tag>
             
-            <tag> what </tag>
-            
             <tag> association </tag>
+            
+            <tag> 对立 </tag>
+            
+            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
-            <tag> 想象 </tag>
-            
             <tag> tips </tag>
             
-            <tag> 对立 </tag>
-            
             <tag> 维 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2231,17 +2231,13 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> 真理 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2255,7 +2251,11 @@
             
             <tag> 教条 </tag>
             
+            <tag> tips </tag>
+            
             <tag> why </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> 贫富分化 </tag>
             
@@ -2361,19 +2361,9 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
-            <tag> what </tag>
-            
-            <tag> association </tag>
-            
-            <tag> after-physics(形而上学) </tag>
+            <tag> 开心 </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> tips </tag>
-            
-            <tag> 开心 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2381,15 +2371,25 @@
             
             <tag> notnow </tag>
             
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
             
+            <tag> after-physics(形而上学) </tag>
+            
             <tag> 大脑 </tag>
+            
+            <tag> tips </tag>
             
             <tag> why </tag>
             
             <tag> 时间 </tag>
+            
+            <tag> what </tag>
             
         </tags>
         
@@ -2509,15 +2509,15 @@
             
             <tag> music </tag>
             
-            <tag> questions </tag>
-            
-            <tag> tips </tag>
-            
             <tag> technology </tag>
+            
+            <tag> questions </tag>
             
             <tag> embedded </tag>
             
             <tag> raspberry-pi </tag>
+            
+            <tag> tips </tag>
             
             <tag> 树莓派 </tag>
             
@@ -2692,13 +2692,11 @@
             
             <tag> beautiful </tag>
             
-            <tag> after-physics(形而上学) </tag>
+            <tag> 光 </tag>
             
             <tag> 想象 </tag>
             
-            <tag> 真理 </tag>
-            
-            <tag> 光 </tag>
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2707,8 +2705,6 @@
             <tag> critique(批判) </tag>
             
             <tag> 好奇心 </tag>
-            
-            <tag> shape </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2720,7 +2716,11 @@
             
             <tag> 科幻 </tag>
             
+            <tag> after-physics(形而上学) </tag>
+            
             <tag> 极限 </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> untitled </tag>
             
@@ -2830,21 +2830,13 @@
             
             <tag> music </tag>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
+            <tag> 开心 </tag>
             
             <tag> 想象 </tag>
             
             <tag> 空间 </tag>
             
-            <tag> tips </tag>
-            
-            <tag> 开心 </tag>
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2852,7 +2844,9 @@
             
             <tag> 好奇心 </tag>
             
-            <tag> shape </tag>
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2862,7 +2856,13 @@
             
             <tag> how </tag>
             
+            <tag> questions </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
             <tag> 极限 </tag>
+            
+            <tag> tips </tag>
             
         </tags>
         
@@ -3027,9 +3027,9 @@
             
             <tag> music </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> 音乐可视化 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 发呆 </tag>
             
@@ -3071,9 +3071,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> 想象 </tag>
-            
             <tag> 光 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3162,11 +3162,11 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -3219,9 +3219,9 @@
             
             <tag> 想象 </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 下载 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
