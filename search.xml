@@ -49,7 +49,7 @@
 
 <p>和暗网一样，防审查和匿名带来的一个后果：里面有些内容可能会使你感到不适。我只能说，并不是所有的人都有你那么高尚，并不是所有的人都有和你一样的信仰，所以请保持你的高尚，尊重别人的信仰，相信自己的信仰。</p>
 <h2 id="bb"><a href="#bb" class="headerlink" title="bb"></a>bb</h2><p>去中心化是个很有意思的想法，去中心化的互联网可以通过<em>P2P</em><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>架构实现。</p>
-<p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，最近很火的新的文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p>
+<p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p>
 <p>其实，<em>P2P</em>架构的概念在<em>1969</em>年就已提出<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>，但为什么去中心化的互联网没能发展起来？我觉得主要是：</p>
 <ol>
 <li>技术限制</li>
@@ -75,15 +75,15 @@
         
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> philosophy </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> technology </tag>
             
             <tag> 看书 </tag>
             
             <tag> how </tag>
-            
-            <tag> questions </tag>
             
             <tag> 补充 </tag>
             
@@ -269,21 +269,21 @@
         
         <tags>
             
-            <tag> beautiful </tag>
+            <tag> questions </tag>
             
-            <tag> video </tag>
+            <tag> beautiful </tag>
             
             <tag> music </tag>
             
-            <tag> love </tag>
+            <tag> video </tag>
             
             <tag> 开心 </tag>
+            
+            <tag> love </tag>
             
             <tag> shape </tag>
             
             <tag> notnow </tag>
-            
-            <tag> questions </tag>
             
             <tag> 摄影 </tag>
             
@@ -381,9 +381,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> technology </tag>
             
@@ -450,9 +450,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -504,7 +504,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -534,17 +534,17 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
             
-            <tag> 想象 </tag>
+            <tag> video </tag>
             
         </tags>
         
@@ -579,6 +579,12 @@
         
         <tags>
             
+            <tag> association </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
+            <tag> questions </tag>
+            
             <tag> beautiful </tag>
             
             <tag> shape </tag>
@@ -587,15 +593,9 @@
             
             <tag> 黑暗 </tag>
             
-            <tag> association </tag>
-            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> synthesis(综合) </tag>
             
             <tag> 悲伤 </tag>
             
@@ -641,6 +641,8 @@
         
         <tags>
             
+            <tag> questions </tag>
+            
             <tag> beautiful </tag>
             
             <tag> shape </tag>
@@ -654,8 +656,6 @@
             <tag> practical-science(实践科学) </tag>
             
             <tag> 看书 </tag>
-            
-            <tag> questions </tag>
             
             <tag> Einstein </tag>
             
@@ -696,15 +696,15 @@
         
         <tags>
             
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 诗 </tag>
             
             <tag> critique(批判) </tag>
-            
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -754,17 +754,17 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> notnow </tag>
-            
             <tag> philosophy </tag>
             
-            <tag> 看书 </tag>
+            <tag> what </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 真理 </tag>
             
-            <tag> what </tag>
+            <tag> notnow </tag>
+            
+            <tag> 看书 </tag>
             
             <tag> 量子 </tag>
             
@@ -812,13 +812,13 @@
         
         <tags>
             
-            <tag> beautiful </tag>
-            
-            <tag> notnow </tag>
-            
             <tag> philosophy </tag>
             
             <tag> association </tag>
+            
+            <tag> beautiful </tag>
+            
+            <tag> notnow </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1007,25 +1007,25 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
             
-            <tag> 想象 </tag>
+            <tag> video </tag>
             
             <tag> technology </tag>
             
             <tag> computer </tag>
             
             <tag> system-software </tag>
-            
-            <tag> 空间 </tag>
             
             <tag> computer-aided-art </tag>
             
@@ -1274,7 +1274,7 @@
 <figure class="highlight applescript"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">&lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-box"</span>&gt;</div><div class="line">  &lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-menu"</span>&gt;</div><div class="line">    &lt;<span class="keyword">div</span> <span class="built_in">class</span>=<span class="string">"weixin-hover"</span>&gt;&lt;/<span class="keyword">div</span>&gt;</div><div class="line">  &lt;/<span class="keyword">div</span>&gt;</div><div class="line">&lt;/<span class="keyword">div</span>&gt;</div></pre></td></tr></table></figure>
 <p>然后编辑<code>custom.styl</code>，加入：</p>
 <figure class="highlight scss"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 微信订阅号</span></div><div class="line"><span class="selector-class">.weixin-box</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">43px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">10px</span>;</div><div class="line">    <span class="attribute">text-align</span>: center;</div><div class="line">    <span class="attribute">font-size</span>: <span class="number">10px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span> &#123;</div><div class="line">    <span class="attribute">position</span>: relative;</div><div class="line">    <span class="attribute">height</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">cursor</span>: pointer;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">5px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://微信的logo.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">24px</span> <span class="number">24px</span>;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">position</span>: absolute;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">0</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">0px</span>;</div><div class="line">    <span class="attribute">border-radius</span>: <span class="number">3px</span>;</div><div class="line">    <span class="attribute">box-shadow</span>: <span class="number">0</span> <span class="number">1.5px</span> <span class="number">10px</span> <span class="number">0</span> rgba(<span class="number">197</span>, <span class="number">197</span>, <span class="number">197</span>, <span class="number">0.5</span>);</div><div class="line">    <span class="attribute">background</span>: url(https://二维码.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">    <span class="attribute">transition</span>: all <span class="number">0.35s</span> ease-in-out;</div><div class="line">&#125;</div><div class="line"><span class="selector-class">.weixin-menu</span>:hover <span class="selector-class">.weixin-hover</span> &#123;</div><div class="line">    <span class="attribute">bottom</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">left</span>: <span class="number">24px</span>;</div><div class="line">    <span class="attribute">height</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">width</span>: <span class="number">150px</span>;</div><div class="line">    <span class="attribute">background</span>: url(https://二维码.svg);</div><div class="line">    <span class="attribute">background-size</span>: <span class="number">150px</span> <span class="number">150px</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
-<p>图片务必用矢量图<em>svg</em>格式，否则手机上显示效果很差，其它的自己看情况更改。微信logo的图片我准备好了，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/wechat.svg" target="_blank" rel="external"><i class="fa fa-download"></i>wechat.svg(1.6 KB)</a>。二维码怎么弄成<em>svg</em>格式呢，安利个<a href="https://cli.im/weixin" target="_blank" rel="external">网站</a>，下载svg格式的就行。</p>
+<p>图片务必用矢量图<em>svg</em>格式，否则手机上显示效果很差，其它的自己看情况更改。微信<em>logo</em>的图片我准备好了，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/wechat.svg" target="_blank" rel="external"><i class="fa fa-download"></i>wechat.svg(1.6 KB)</a>。二维码怎么弄成<em>svg</em>格式呢，安利个<a href="https://cli.im/weixin" target="_blank" rel="external">网站</a>，下载<em>svg</em>格式的就行。</p>
 <p>改好后效果超赞有木有<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60c.png" height="20" width="20">？我参考了<a href="https://codepen.io/hj624608494/pen/dpQyJo" target="_blank" rel="external">这个</a>代码。</p>
 <h3 id="更改标签云（tagcloud）的颜色"><a href="#更改标签云（tagcloud）的颜色" class="headerlink" title="更改标签云（tagcloud）的颜色"></a>更改标签云（tagcloud）的颜色</h3><p>如果你和我一样个性化了网站的整体布局颜色，那么默认的标签云页面可能看起来很丑，怎么更改？</p>
 <p>修改<code>~/blog/themes/next/layout/page.swig</code>：</p>
@@ -1412,6 +1412,10 @@
         
         <tags>
             
+            <tag> questions </tag>
+            
+            <tag> tips </tag>
+            
             <tag> share </tag>
             
             <tag> technology </tag>
@@ -1425,10 +1429,6 @@
             <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> tips </tag>
             
             <tag> 补充 </tag>
             
@@ -1499,11 +1499,15 @@
         
         <tags>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> philosophy </tag>
             
             <tag> association </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> tips </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1511,13 +1515,9 @@
             
             <tag> how </tag>
             
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> tips </tag>
+            <tag> why </tag>
             
             <tag> 树莓派 </tag>
-            
-            <tag> why </tag>
             
             <tag> bitcoin </tag>
             
@@ -1537,7 +1537,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1576,7 +1576,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1676,13 +1676,13 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> 图片 </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> 星空 </tag>
             
@@ -1777,13 +1777,17 @@
         
         <tags>
             
-            <tag> beautiful </tag>
+            <tag> association </tag>
             
-            <tag> love </tag>
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> beautiful </tag>
             
             <tag> 光 </tag>
             
-            <tag> 想象 </tag>
+            <tag> love </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1793,11 +1797,7 @@
             
             <tag> 好奇心 </tag>
             
-            <tag> association </tag>
-            
             <tag> 看书 </tag>
-            
-            <tag> after-physics(形而上学) </tag>
             
             <tag> untitled </tag>
             
@@ -1848,13 +1848,13 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> 图片 </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> 达·芬奇 </tag>
             
@@ -1871,7 +1871,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -1895,9 +1895,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> arctime </tag>
             
@@ -1914,12 +1914,12 @@
       <url>/beautiful/share/2017/04/15/coldplay-fix-you.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1958,7 +1958,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1990,9 +1990,9 @@
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
+            
+            <tag> video </tag>
             
             <tag> love </tag>
             
@@ -2026,23 +2026,23 @@
         
         <tags>
             
-            <tag> computer </tag>
-            
             <tag> philosophy </tag>
             
             <tag> association </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> computer </tag>
             
             <tag> how </tag>
             
             <tag> 人工智能 </tag>
             
             <tag> 科幻 </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> synthesis(综合) </tag>
             
             <tag> 大脑 </tag>
             
@@ -2080,25 +2080,25 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> philosophy </tag>
             
-            <tag> association </tag>
+            <tag> what </tag>
             
-            <tag> questions </tag>
+            <tag> association </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
+            <tag> questions </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> tips </tag>
             
             <tag> 真理 </tag>
-            
-            <tag> what </tag>
             
         </tags>
         
@@ -2129,25 +2129,25 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> philosophy </tag>
             
+            <tag> what </tag>
+            
             <tag> association </tag>
-            
-            <tag> 对立 </tag>
-            
-            <tag> questions </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
             
+            <tag> questions </tag>
+            
+            <tag> 想象 </tag>
+            
             <tag> tips </tag>
             
-            <tag> 维 </tag>
+            <tag> 对立 </tag>
             
-            <tag> what </tag>
+            <tag> 维 </tag>
             
         </tags>
         
@@ -2231,13 +2231,17 @@
         
         <tags>
             
-            <tag> bb-for-fun </tag>
-            
-            <tag> critique(批判) </tag>
-            
             <tag> philosophy </tag>
             
             <tag> association </tag>
+            
+            <tag> tips </tag>
+            
+            <tag> 真理 </tag>
+            
+            <tag> bb-for-fun </tag>
+            
+            <tag> critique(批判) </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -2251,11 +2255,7 @@
             
             <tag> 教条 </tag>
             
-            <tag> tips </tag>
-            
             <tag> why </tag>
-            
-            <tag> 真理 </tag>
             
             <tag> 贫富分化 </tag>
             
@@ -2296,21 +2296,21 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> coldplay </tag>
             
-            <tag> video </tag>
-            
             <tag> music </tag>
             
+            <tag> video </tag>
+            
             <tag> love </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
             
             <tag> 诗 </tag>
             
@@ -2361,9 +2361,19 @@
         
         <tags>
             
-            <tag> 开心 </tag>
+            <tag> philosophy </tag>
+            
+            <tag> what </tag>
+            
+            <tag> association </tag>
+            
+            <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
+            
+            <tag> tips </tag>
+            
+            <tag> 开心 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2371,25 +2381,15 @@
             
             <tag> notnow </tag>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
             <tag> practical-science(实践科学) </tag>
             
             <tag> analysis(分析) </tag>
             
-            <tag> after-physics(形而上学) </tag>
-            
             <tag> 大脑 </tag>
-            
-            <tag> tips </tag>
             
             <tag> why </tag>
             
             <tag> 时间 </tag>
-            
-            <tag> what </tag>
             
         </tags>
         
@@ -2507,17 +2507,17 @@
         
         <tags>
             
+            <tag> questions </tag>
+            
+            <tag> tips </tag>
+            
             <tag> music </tag>
             
             <tag> technology </tag>
             
-            <tag> questions </tag>
-            
             <tag> embedded </tag>
             
             <tag> raspberry-pi </tag>
-            
-            <tag> tips </tag>
             
             <tag> 树莓派 </tag>
             
@@ -2554,11 +2554,11 @@
         
         <tags>
             
+            <tag> 空间 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> love </tag>
-            
-            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2599,6 +2599,10 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> coldplay </tag>
@@ -2606,10 +2610,6 @@
             <tag> music </tag>
             
             <tag> love </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2690,11 +2690,15 @@
         
         <tags>
             
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 真理 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> 光 </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> shape </tag>
             
@@ -2716,11 +2720,7 @@
             
             <tag> 科幻 </tag>
             
-            <tag> after-physics(形而上学) </tag>
-            
             <tag> 极限 </tag>
-            
-            <tag> 真理 </tag>
             
             <tag> untitled </tag>
             
@@ -2824,6 +2824,20 @@
         
         <tags>
             
+            <tag> philosophy </tag>
+            
+            <tag> association </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
+            <tag> questions </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
+            
+            <tag> tips </tag>
+            
             <tag> beautiful </tag>
             
             <tag> coldplay </tag>
@@ -2831,10 +2845,6 @@
             <tag> music </tag>
             
             <tag> 开心 </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
             
             <tag> shape </tag>
             
@@ -2844,10 +2854,6 @@
             
             <tag> 好奇心 </tag>
             
-            <tag> philosophy </tag>
-            
-            <tag> association </tag>
-            
             <tag> practical-science(实践科学) </tag>
             
             <tag> 尼采 </tag>
@@ -2856,13 +2862,7 @@
             
             <tag> how </tag>
             
-            <tag> questions </tag>
-            
-            <tag> synthesis(综合) </tag>
-            
             <tag> 极限 </tag>
-            
-            <tag> tips </tag>
             
         </tags>
         
@@ -2891,9 +2891,9 @@
         
         <tags>
             
-            <tag> beautiful </tag>
-            
             <tag> 空间 </tag>
+            
+            <tag> beautiful </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2940,9 +2940,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> love </tag>
-            
             <tag> 光 </tag>
+            
+            <tag> love </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3069,11 +3069,11 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> 光 </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3115,13 +3115,13 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> love </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
@@ -3162,11 +3162,11 @@
         
         <tags>
             
+            <tag> philosophy </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> critique(批判) </tag>
-            
-            <tag> philosophy </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -3213,11 +3213,11 @@
         
         <tags>
             
+            <tag> 想象 </tag>
+            
             <tag> beautiful </tag>
             
             <tag> share </tag>
-            
-            <tag> 想象 </tag>
             
             <tag> 下载 </tag>
             
