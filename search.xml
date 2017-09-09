@@ -3,6 +3,95 @@
   
     
     <entry>
+      <title><![CDATA[Now My Feet Won't Touch The Ground]]></title>
+      <url>/beautiful/bb-for-fun/2017/09/09/Now-My-Feet-Won-t-Touch-The-Ground.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><blockquote>小时候侧着头遥指星空，我要去那！然后接受教育，接触社会，进入了自己的象牙塔，从此便在这一个维度上等待死亡，再也看不到那不在一线上的星空了。</blockquote></p>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-37.jpg" alt="coldplay-37.jpg" style="width:100%"></p>
+
+<a id="more"></a>
+<p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p>
+
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+[ti:Now My Feet Won't Touch The Ground]
+[al:Prospekt's March EP]
+[by:https://reuixiy.github.io]
+[length:2:26]
+[00:00.00]Coldplay - Now My Feet Won't Touch The Ground
+[00:09.71]
+[00:09.72]Let me go
+[00:12.19]Boys, let me go
+[00:17.34]Push my boat from the highest cliff
+[00:21.04]To the sea below
+[00:25.00]Rocks awaiting
+[00:27.72]Boys, rocks awaiting
+[00:33.07]Swoop down from the sky and catch me
+[00:36.55]Like a bird of prey
+[00:41.60]Now my feet won't touch the ground
+[00:49.62]Now my head won't stop
+[00:57.04]You wait a lifetime
+[01:01.20]To be found
+[01:05.12]Now my feet won't touch the ground
+[01:45.30]Now my feet won't touch the ground
+[01:53.48]Now my head won't stop
+[02:01.05]You wait a lifetime
+[02:05.16]To be found
+[02:08.89]Now my feet won't touch the ground
+[02:16.86]Now my feet won't touch the ground
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer3"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Now My Feet Won't Touch The Ground",
+					author: "Coldplay",
+					url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3",
+					pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg",
+				}
+			});
+		</script>
+<hr>
+]]></content>
+      
+        <categories>
+            
+            <category> beautiful </category>
+            
+            <category> bb-for-fun </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> 想象 </tag>
+            
+            <tag> beautiful </tag>
+            
+            <tag> coldplay </tag>
+            
+            <tag> music </tag>
+            
+            <tag> bb-for-fun </tag>
+            
+            <tag> 维 </tag>
+            
+            <tag> critique(批判) </tag>
+            
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 诗 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[零网（ZeroNet）初探]]></title>
       <url>/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
@@ -190,7 +279,7 @@
 <li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li>
 </ol>
 <p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p>
-<div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -242,7 +331,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer9"),
+				element: document.getElementById("aplayer10"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -277,9 +366,9 @@
             
             <tag> video </tag>
             
-            <tag> 开心 </tag>
-            
             <tag> love </tag>
+            
+            <tag> 开心 </tag>
             
             <tag> shape </tag>
             
@@ -317,7 +406,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -352,7 +441,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer10"),
+				element: document.getElementById("aplayer11"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -452,7 +541,7 @@
 
 <h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -504,7 +593,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -587,13 +676,13 @@
             
             <tag> beautiful </tag>
             
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> practical-science(实践科学) </tag>
             
             <tag> 黑暗 </tag>
             
-            <tag> practical-science(实践科学) </tag>
+            <tag> shape </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -645,15 +734,15 @@
             
             <tag> beautiful </tag>
             
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 好奇心 </tag>
+            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
             
-            <tag> 好奇心 </tag>
-            
             <tag> notnow </tag>
-            
-            <tag> practical-science(实践科学) </tag>
             
             <tag> 看书 </tag>
             
@@ -702,11 +791,11 @@
             
             <tag> bb-for-fun </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> critique(批判) </tag>
             
             <tag> practical-science(实践科学) </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 自省 </tag>
             
@@ -818,9 +907,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> notnow </tag>
-            
             <tag> practical-science(实践科学) </tag>
+            
+            <tag> notnow </tag>
             
             <tag> 自省 </tag>
             
@@ -852,11 +941,11 @@
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><em>Windows Media Player</em>是<em>Windows</em>自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的<em>SRS(Sound Retrieval System)3D</em>环绕立体声音效听一些歌（比如<em>Taylor Swift</em>的<em>1989</em>里面的歌）超赞<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png" height="20" width="20">，空间感十足。</p>
 <h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>给出自己录的两个视频，先看看效果，戴上耳机哦～渣渣电脑，录的有点卡。视频嘛，<em>Wi-Fi</em>随意，土豪随意。</p>
-<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
+<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -912,7 +1001,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -924,11 +1013,11 @@
 				}
 			});
 		</script>
-<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
+<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -967,7 +1056,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1137,7 +1226,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-1.png" alt="hexo-next-optimization-1.png"></p>
 <p>然后进入目录<code>~/blog/themes</code>：</p>
 <figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">git clone https:<span class="regexp">//gi</span>thub.com<span class="regexp">/iissnan/</span>hexo-theme-<span class="keyword">next</span>.git</div></pre></td></tr></table></figure>
-<p>把<em>hexo-theme-next</em>改名为<em>next</em>，再在站点配置文件中修改如下下即可：</p>
+<p>把<em>hexo-theme-next</em>改名为<em>next</em>，再在站点配置文件中修改如下即可：</p>
 <figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">## Themes: https:<span class="comment">//hexo.io/themes/</span></div><div class="line">theme: next</div></pre></td></tr></table></figure>
 <h3 id="站点配置文件"><a href="#站点配置文件" class="headerlink" title="站点配置文件"></a>站点配置文件</h3><p>请先查看<a href="https://hexo.io/zh-cn/docs/configuration.html" target="_blank" rel="external">Hexo官方文档</a>，如果你的文件中没有相关内容，请勿直接添加。另：所有的<code>:</code>都为英文字符，且它后面都有一个空格。</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div><div class="line">99</div><div class="line">100</div><div class="line">101</div><div class="line">102</div><div class="line">103</div><div class="line">104</div><div class="line">105</div><div class="line">106</div><div class="line">107</div><div class="line">108</div><div class="line">109</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># Hexo Configuration</span></div><div class="line"><span class="comment">## Docs: https://hexo.io/docs/configuration.html</span></div><div class="line"><span class="comment">## Source: https://github.com/hexojs/hexo/</span></div><div class="line"></div><div class="line"><span class="comment"># Site</span></div><div class="line"><span class="attr">title:</span> <span class="string">reuixiy</span></div><div class="line"><span class="attr">subtitle:</span> <span class="string">Viva</span> <span class="string">La</span> <span class="string">Vida</span></div><div class="line"><span class="attr">description:</span> <span class="string">易</span> <span class="string">象</span> <span class="string">辞</span></div><div class="line"><span class="attr">author:</span> <span class="string">reuixiy</span></div><div class="line"><span class="attr">language:</span> <span class="string">zh-Hans</span></div><div class="line"><span class="attr">timezone:</span></div><div class="line"></div><div class="line"><span class="comment"># URL</span></div><div class="line"><span class="comment">## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'</span></div><div class="line"><span class="attr">url:</span> <span class="attr">https://reuixiy.github.io/</span></div><div class="line"><span class="attr">root:</span> <span class="string">/</span></div><div class="line"><span class="comment"># 文章的永久链接结构，请务必写文章之前就想好，详细参数请查看https://hexo.io/docs/permalinks.html</span></div><div class="line"><span class="comment"># 当然最好不要参考我的，我的太不利于SEO了，除非……</span></div><div class="line"><span class="attr">permalink:</span> <span class="string">:category/:year/:month/:day/:title.html</span></div><div class="line"><span class="attr">permalink_defaults:</span></div><div class="line"></div><div class="line"><span class="comment"># Directory</span></div><div class="line"><span class="attr">source_dir:</span> <span class="string">source</span></div><div class="line"><span class="attr">public_dir:</span> <span class="string">public</span></div><div class="line"><span class="attr">tag_dir:</span> <span class="string">tags</span></div><div class="line"><span class="attr">archive_dir:</span> <span class="string">archives</span></div><div class="line"><span class="attr">category_dir:</span> <span class="string">categories</span></div><div class="line"><span class="attr">code_dir:</span> <span class="string">downloads/code</span></div><div class="line"><span class="attr">i18n_dir:</span> <span class="string">:lang</span></div><div class="line"><span class="attr">skip_render:</span></div><div class="line"></div><div class="line"><span class="comment"># Writing</span></div><div class="line"><span class="attr">new_post_name:</span> <span class="string">:title.md</span> <span class="comment"># File name of new posts</span></div><div class="line"><span class="attr">default_layout:</span> <span class="string">post</span></div><div class="line"><span class="attr">titlecase:</span> <span class="literal">false</span> <span class="comment"># Transform title into titlecase</span></div><div class="line"><span class="attr">external_link:</span> <span class="literal">true</span> <span class="comment"># Open external links in new tab</span></div><div class="line"><span class="attr">filename_case:</span> <span class="number">0</span></div><div class="line"><span class="attr">render_drafts:</span> <span class="literal">false</span></div><div class="line"><span class="attr">post_asset_folder:</span> <span class="literal">false</span></div><div class="line"><span class="attr">relative_link:</span> <span class="literal">false</span></div><div class="line"><span class="attr">future:</span> <span class="literal">true</span></div><div class="line"><span class="attr">highlight:</span></div><div class="line"><span class="attr">  enable:</span> <span class="literal">true</span></div><div class="line"><span class="attr">  line_number:</span> <span class="literal">true</span></div><div class="line"><span class="comment"># 代码自动高亮</span></div><div class="line"><span class="attr">  auto_detect:</span> <span class="literal">true</span></div><div class="line"><span class="attr">  tab_replace:</span></div><div class="line"></div><div class="line"><span class="comment"># Home page setting</span></div><div class="line"><span class="comment"># path: Root path for your blogs index page. (default = '')</span></div><div class="line"><span class="comment"># per_page: Posts displayed per page. (0 = disable pagination)</span></div><div class="line"><span class="comment"># order_by: Posts order. (Order by date descending by default)</span></div><div class="line"><span class="attr">index_generator:</span></div><div class="line"><span class="attr">  path:</span> <span class="string">''</span></div><div class="line"><span class="attr">  per_page:</span> <span class="number">10</span></div><div class="line"><span class="attr">  order_by:</span> <span class="bullet">-date</span></div><div class="line"></div><div class="line"><span class="comment"># Category &amp; Tag</span></div><div class="line"><span class="attr">default_category:</span> <span class="string">uncategorized</span></div><div class="line"><span class="comment"># 分类和标签的路径设置成英文，见https://github.com/hexojs/hexo/issues/1162</span></div><div class="line"><span class="attr">category_map:</span></div><div class="line"><span class="attr">tag_map:</span></div><div class="line"></div><div class="line"><span class="comment"># Date / Time format</span></div><div class="line"><span class="comment">## Hexo uses Moment.js to parse and display date</span></div><div class="line"><span class="comment">## You can customize the date format as defined in</span></div><div class="line"><span class="comment">## http://momentjs.com/docs/#/displaying/format/</span></div><div class="line"><span class="attr">date_format:</span> <span class="string">YYYY-MM-DD</span></div><div class="line"><span class="attr">time_format:</span> <span class="attr">HH:mm:ss</span></div><div class="line"></div><div class="line"><span class="comment"># Pagination</span></div><div class="line"><span class="comment">## Set per_page to 0 to disable pagination</span></div><div class="line"><span class="comment"># 这个我有点懵，上面不是有啊……</span></div><div class="line"><span class="attr">per_page:</span> <span class="number">10</span></div><div class="line"><span class="attr">pagination_dir:</span> <span class="string">page</span></div><div class="line"></div><div class="line"><span class="comment">## 修改归档页面、某一分类页面、某一标签页面的显示篇数，参考http://theme-next.iissnan.com/faqs.html#setting-page-size</span></div><div class="line"><span class="attr">archive_generator:</span></div><div class="line"><span class="attr">  per_page:</span> <span class="number">0</span></div><div class="line"><span class="attr">  yearly:</span> <span class="literal">false</span></div><div class="line"><span class="attr">  monthly:</span> <span class="literal">false</span></div><div class="line"><span class="attr">  daily:</span> <span class="literal">false</span></div><div class="line">  </div><div class="line"><span class="attr">category_generator:</span></div><div class="line"><span class="attr">  per_page:</span> <span class="number">0</span></div><div class="line">  </div><div class="line"><span class="attr">tag_generator:</span></div><div class="line"><span class="attr">  per_page:</span> <span class="number">0</span></div><div class="line"></div><div class="line"><span class="comment"># Extensions</span></div><div class="line"><span class="comment">## Plugins: https://hexo.io/plugins/</span></div><div class="line"><span class="comment"># RSS，进入博客文件夹根目录安装，npm install hexo-generator-feed --save即可，无需更多配置</span></div><div class="line"><span class="attr">feed:</span></div><div class="line"><span class="attr">  type:</span> <span class="string">atom</span></div><div class="line"><span class="attr">  path:</span> <span class="string">atom.xml</span></div><div class="line"><span class="attr">  limit:</span> <span class="number">0</span></div><div class="line"><span class="attr">  hub:</span></div><div class="line"><span class="attr">  content:</span></div><div class="line"></div><div class="line"><span class="comment">## Themes: https://hexo.io/themes/</span></div><div class="line"><span class="comment"># 主题配置</span></div><div class="line"><span class="attr">theme:</span> <span class="string">next</span></div><div class="line"></div><div class="line"><span class="comment"># Deployment</span></div><div class="line"><span class="comment">## Docs: https://hexo.io/docs/deployment.html</span></div><div class="line"><span class="attr">deploy:</span></div><div class="line"><span class="attr">  type:</span> <span class="string">git</span></div><div class="line"><span class="attr">  repository:</span> <span class="attr">https://github.com/reuixiy/reuixiy.github.io.git</span></div><div class="line"><span class="attr">  branch:</span> <span class="string">master</span></div></pre></td></tr></table></figure>
@@ -1418,6 +1507,8 @@
             
             <tag> share </tag>
             
+            <tag> 诗 </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
@@ -1425,8 +1516,6 @@
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> 诗 </tag>
             
             <tag> 尼采 </tag>
             
@@ -1515,9 +1604,9 @@
             
             <tag> how </tag>
             
-            <tag> why </tag>
-            
             <tag> 树莓派 </tag>
+            
+            <tag> why </tag>
             
             <tag> bitcoin </tag>
             
@@ -1785,11 +1874,13 @@
             
             <tag> beautiful </tag>
             
-            <tag> 光 </tag>
-            
             <tag> love </tag>
             
+            <tag> 光 </tag>
+            
             <tag> bb-for-fun </tag>
+            
+            <tag> 维 </tag>
             
             <tag> 诗 </tag>
             
@@ -1800,8 +1891,6 @@
             <tag> 看书 </tag>
             
             <tag> untitled </tag>
-            
-            <tag> 维 </tag>
             
             <tag> kindle </tag>
             
@@ -1871,7 +1960,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -1899,11 +1988,11 @@
             
             <tag> video </tag>
             
+            <tag> 开心 </tag>
+            
             <tag> arctime </tag>
             
             <tag> 光 </tag>
-            
-            <tag> 开心 </tag>
             
         </tags>
         
@@ -1914,12 +2003,12 @@
       <url>/beautiful/share/2017/04/15/coldplay-fix-you.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1958,7 +2047,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2145,9 +2234,9 @@
             
             <tag> tips </tag>
             
-            <tag> 对立 </tag>
-            
             <tag> 维 </tag>
+            
+            <tag> 对立 </tag>
             
         </tags>
         
@@ -2158,7 +2247,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -2379,9 +2468,9 @@
             
             <tag> critique(批判) </tag>
             
-            <tag> notnow </tag>
-            
             <tag> practical-science(实践科学) </tag>
+            
+            <tag> notnow </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -2424,7 +2513,7 @@
 </ol>
 <p>技术嘛，很多东东都有人玩过了，玩过了的大神很多都会写自己的教程，放在自己的博客上。能自己写博客，质量要好点，还有些比较<code>新</code>的东东，大神的博客不会让你失望。</p>
 <p>可是<em>Google</em>被墙了啊，这里推荐一下<a href="https://laod.cn/" target="_blank" rel="external">老D的hosts</a>，不过估计能看到这篇文章的人，都已具备这样的能力。</p>
-<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
+<h2 id="为你点首歌"><a href="#为你点首歌" class="headerlink" title="为你点首歌"></a>为你点首歌</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Owl City]
 [ti:The Salwater Room]
 [al:Hot Air Balloon]
 [by:https://reuixiy.github.io]
@@ -2479,7 +2568,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer7"),
+				element: document.getElementById("aplayer8"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2700,17 +2789,19 @@
             
             <tag> 光 </tag>
             
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
             
-            <tag> 诗 </tag>
+            <tag> 维 </tag>
             
             <tag> critique(批判) </tag>
             
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 诗 </tag>
+            
             <tag> 好奇心 </tag>
             
-            <tag> practical-science(实践科学) </tag>
+            <tag> shape </tag>
             
             <tag> 对立 </tag>
             
@@ -2723,8 +2814,6 @@
             <tag> 极限 </tag>
             
             <tag> untitled </tag>
-            
-            <tag> 维 </tag>
             
             <tag> 时间 </tag>
             
@@ -2758,7 +2847,7 @@
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开<em>QQ</em>看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着<em>Coldplay</em>的<em>In My Place</em>。码着码着，就码了一个半小时的字，<em>心情也趋于平静</em>。</p>
 <p><div style="text-align:right"><em>2016-12-29 02:43:05</em></div></p>
 
-<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:In My Place]
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
@@ -2798,7 +2887,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer8"),
+				element: document.getElementById("aplayer9"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2846,15 +2935,15 @@
             
             <tag> 开心 </tag>
             
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> practical-science(实践科学) </tag>
             
             <tag> 诗 </tag>
             
             <tag> 好奇心 </tag>
             
-            <tag> practical-science(实践科学) </tag>
+            <tag> shape </tag>
             
             <tag> 尼采 </tag>
             
@@ -2940,15 +3029,15 @@
             
             <tag> beautiful </tag>
             
-            <tag> 光 </tag>
-            
             <tag> love </tag>
+            
+            <tag> 光 </tag>
             
             <tag> bb-for-fun </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> critique(批判) </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 黑暗 </tag>
             
@@ -3027,9 +3116,9 @@
             
             <tag> music </tag>
             
-            <tag> 音乐可视化 </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> 音乐可视化 </tag>
             
             <tag> 发呆 </tag>
             
@@ -3219,9 +3308,9 @@
             
             <tag> share </tag>
             
-            <tag> 下载 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 下载 </tag>
             
             <tag> 尼采 </tag>
             
@@ -3238,15 +3327,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer5");
+				options.element = document.getElementById("aplayer4");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -3281,7 +3370,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3293,7 +3382,7 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
