@@ -3,6 +3,98 @@
   
     
     <entry>
+      <title><![CDATA[生于战争 死于和平]]></title>
+      <url>/philosophy/how/2017/09/25/born-in-war-and-died-in-peace.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><blockquote>古希腊哲学家赫拉克利特说：”人不能两次踏进同一条河流”，世界是不断变化的，即「易」。因世界必定是混乱的，故没有和平，只有战争，和平只会灭亡。</blockquote></p>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/born-in-war-and-died-in-peace-title.jpg" alt="born-in-war-and-died-in-peace-title.jpg" style="width:100%"></p>
+
+<a id="more"></a>
+<p>生于忧患 死于安乐</p>
+<p>没有和平 唯有战争</p>
+<p>黑暗中才能看到光芒</p>
+<p>战争中才有天堂</p>
+<p>和平“天堂”的光芒只有虚假</p>
+<h2 id="“天堂”的光芒-1"><a href="#“天堂”的光芒-1" class="headerlink" title="“天堂”的光芒 - 1"></a>“天堂”的光芒 - 1</h2><p>娱乐在和平时代兴起</p>
+<p>游戏在娱乐市场火热</p>
+<p>战争在游戏题材不灭</p>
+<h2 id="“光芒”中的人-1"><a href="#“光芒”中的人-1" class="headerlink" title="“光芒”中的人 - 1"></a>“光芒”中的人 - 1</h2><p>游戏是因为无聊</p>
+<p>娱乐是因为无聊</p>
+<p>无聊是因为和平</p>
+<h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平</p>
+<p>火热是因为娱乐</p>
+<p>不灭是因为战争</p>
+<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt]
+[ti:Barbossa Is Hungry]
+[al:Pirates of the Caribbean: The Curse of the Black Pearl]
+[by:https://reuixiy.github.io]
+[length:4:06]
+[00:00.00]Klaus Badelt - Barbossa Is Hungry
+[00:05.00]纯音乐，请您欣赏
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer10"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Barbossa Is Hungry",
+					author: "Klaus Badelt",
+					url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3",
+					pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
+				}
+			});
+		</script>
+<hr>
+]]></content>
+      
+        <categories>
+            
+            <category> philosophy </category>
+            
+            <category> how </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> critique(批判) </tag>
+            
+            <tag> 星空 </tag>
+            
+            <tag> philosophy </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> synthesis(综合) </tag>
+            
+            <tag> 真理 </tag>
+            
+            <tag> 光 </tag>
+            
+            <tag> practical-science(实践科学) </tag>
+            
+            <tag> 黑暗 </tag>
+            
+            <tag> 对立 </tag>
+            
+            <tag> 假象 </tag>
+            
+            <tag> how </tag>
+            
+            <tag> 易 </tag>
+            
+            <tag> 战争 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[解决更新Kali Linux后网易云音乐歌词乱码的问题]]></title>
       <url>/technology/computer/system-software/2017/09/23/lyrics-messy-code-after-dist-upgrade.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
@@ -92,7 +184,7 @@
 <h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="external">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p>
 <p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p>
 
-<h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 -->
+<h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -107,11 +199,11 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> video </tag>
             
             <tag> 好奇心 </tag>
             
@@ -121,7 +213,7 @@
             
             <tag> 星空 </tag>
             
-            <tag> video </tag>
+            <tag> questions </tag>
             
         </tags>
         
@@ -194,15 +286,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> coldplay </tag>
             
             <tag> music </tag>
+            
+            <tag> critique(批判) </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -291,9 +383,9 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
             <tag> questions </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> technology </tag>
             
@@ -350,9 +442,9 @@
             
             <tag> share </tag>
             
-            <tag> 科幻 </tag>
-            
             <tag> video </tag>
+            
+            <tag> 科幻 </tag>
             
             <tag> notnow </tag>
             
@@ -406,7 +498,7 @@
 <li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li>
 </ol>
 <p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p>
-<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -458,7 +550,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer10"),
+				element: document.getElementById("aplayer11"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -485,8 +577,6 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
             <tag> video </tag>
@@ -494,6 +584,8 @@
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> questions </tag>
             
             <tag> 开心 </tag>
             
@@ -533,7 +625,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer12" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -568,7 +660,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer11"),
+				element: document.getElementById("aplayer12"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -668,9 +760,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -722,7 +814,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -752,17 +844,17 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
             
+            <tag> video </tag>
+            
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
             
         </tags>
         
@@ -797,13 +889,13 @@
         
         <tags>
             
-            <tag> association </tag>
-            
-            <tag> synthesis(综合) </tag>
+            <tag> beautiful </tag>
             
             <tag> questions </tag>
             
-            <tag> beautiful </tag>
+            <tag> association </tag>
+            
+            <tag> synthesis(综合) </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -818,6 +910,8 @@
             <tag> 悲伤 </tag>
             
             <tag> why </tag>
+            
+            <tag> 战争 </tag>
             
             <tag> 死亡 </tag>
             
@@ -859,11 +953,11 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> questions </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -914,11 +1008,11 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1030,11 +1124,11 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> beautiful </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1070,11 +1164,11 @@
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><em>Windows Media Player</em>是<em>Windows</em>自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的<em>SRS(Sound Retrieval System)3D</em>环绕立体声音效听一些歌（比如<em>Taylor Swift</em>的<em>1989</em>里面的歌）超赞<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png" height="20" width="20">，空间感十足。</p>
 <h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>给出自己录的两个视频，先看看效果，戴上耳机哦～渣渣电脑，录的有点卡。视频嘛，<em>Wi-Fi</em>随意，土豪随意。</p>
-<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
+<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -1130,7 +1224,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer6"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1142,11 +1236,11 @@
 				}
 			});
 		</script>
-<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
+<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -1185,7 +1279,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1225,19 +1319,19 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
             
+            <tag> video </tag>
+            
             <tag> music </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> technology </tag>
             
@@ -1630,11 +1724,11 @@
         
         <tags>
             
+            <tag> share </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
-            
-            <tag> share </tag>
             
             <tag> 诗 </tag>
             
@@ -1648,9 +1742,9 @@
             
             <tag> 尼采 </tag>
             
-            <tag> linux </tag>
-            
             <tag> 补充 </tag>
+            
+            <tag> linux </tag>
             
             <tag> hexo </tag>
             
@@ -1735,11 +1829,11 @@
             
             <tag> how </tag>
             
+            <tag> why </tag>
+            
             <tag> 树莓派 </tag>
             
             <tag> linux </tag>
-            
-            <tag> why </tag>
             
             <tag> bitcoin </tag>
             
@@ -1759,7 +1853,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1798,7 +1892,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1898,13 +1992,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -1999,17 +2093,17 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> love </tag>
+            
+            <tag> 好奇心 </tag>
+            
             <tag> association </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> 好奇心 </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -2070,11 +2164,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -2093,7 +2187,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -2115,9 +2209,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -2136,7 +2230,7 @@
       <url>/beautiful/share/2017/04/15/coldplay-fix-you.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2>
 
@@ -2210,9 +2304,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -2248,6 +2342,10 @@
         
         <tags>
             
+            <tag> 科幻 </tag>
+            
+            <tag> questions </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2255,10 +2353,6 @@
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
-            
-            <tag> 科幻 </tag>
             
             <tag> computer </tag>
             
@@ -2302,6 +2396,8 @@
         
         <tags>
             
+            <tag> questions </tag>
+            
             <tag> philosophy </tag>
             
             <tag> what </tag>
@@ -2311,8 +2407,6 @@
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
             
             <tag> 想象 </tag>
             
@@ -2351,6 +2445,8 @@
         
         <tags>
             
+            <tag> questions </tag>
+            
             <tag> philosophy </tag>
             
             <tag> what </tag>
@@ -2360,8 +2456,6 @@
             <tag> after-physics(形而上学) </tag>
             
             <tag> synthesis(综合) </tag>
-            
-            <tag> questions </tag>
             
             <tag> 想象 </tag>
             
@@ -2453,6 +2547,8 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2460,8 +2556,6 @@
             <tag> tips </tag>
             
             <tag> 真理 </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2518,21 +2612,21 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> 诗 </tag>
             
@@ -2583,6 +2677,8 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> what </tag>
@@ -2594,8 +2690,6 @@
             <tag> 想象 </tag>
             
             <tag> tips </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> 开心 </tag>
             
@@ -2729,11 +2823,11 @@
         
         <tags>
             
+            <tag> music </tag>
+            
             <tag> questions </tag>
             
             <tag> tips </tag>
-            
-            <tag> music </tag>
             
             <tag> technology </tag>
             
@@ -2778,11 +2872,11 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> love </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2823,19 +2917,19 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
-            
-            <tag> 星空 </tag>
             
             <tag> coldplay </tag>
             
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2914,12 +3008,6 @@
         
         <tags>
             
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 真理 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 好奇心 </tag>
@@ -2927,6 +3015,12 @@
             <tag> critique(批判) </tag>
             
             <tag> 科幻 </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> 光 </tag>
             
@@ -2948,11 +3042,11 @@
             
             <tag> 极限 </tag>
             
+            <tag> 补充 </tag>
+            
             <tag> untitled </tag>
             
             <tag> 时间 </tag>
-            
-            <tag> 补充 </tag>
             
         </tags>
         
@@ -3048,27 +3142,27 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> coldplay </tag>
+            
+            <tag> music </tag>
+            
+            <tag> 好奇心 </tag>
+            
+            <tag> questions </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
             
             <tag> synthesis(综合) </tag>
             
-            <tag> questions </tag>
-            
             <tag> 想象 </tag>
             
             <tag> 空间 </tag>
             
             <tag> tips </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> 好奇心 </tag>
-            
-            <tag> coldplay </tag>
-            
-            <tag> music </tag>
             
             <tag> 开心 </tag>
             
@@ -3115,11 +3209,11 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3164,11 +3258,11 @@
             
             <tag> beautiful </tag>
             
+            <tag> love </tag>
+            
             <tag> 好奇心 </tag>
             
             <tag> critique(批判) </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -3293,11 +3387,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 光 </tag>
             
@@ -3339,15 +3433,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
+            <tag> love </tag>
+            
             <tag> 星空 </tag>
             
-            <tag> love </tag>
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
@@ -3386,9 +3480,9 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3418,10 +3512,12 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken-title.jpg" alt="nietzsche-die-sonne-gesunken-title.jpg" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="诗"><a href="#诗" class="headerlink" title="诗"></a>诗</h2><p><div style="text-align:left">太阳在沉西。<br>你不会长久焦渴了，<br>燃烧的心！<br>有一种凉爽，在空气里，<br>我从陌生的嘴里呼吸到这种气息，<br>超乎寻常的大凉爽即将来临。<br><br>正午的太阳在燃烧，烈日当空，<br>向你致敬哦，你这阵阵袭来的<br>迅疾的风，<br>午后凉爽的精灵。<br><br>空气在流动，平和而纯净。<br>向我投来斜睨的<br>富有魅力之一瞥的<br>不是这夜的眸子？<br><br>坚强些吧，勇敢的心灵！<br>为什么？不用问询。<br>呵，我生命的黄昏呦！<br>太阳总要沉西。<br><br>我的生命之日啊，<br>在黄昏中沉落！<br>你的眼睛闪烁出<br>半被灼红的微光；<br>你的泪水流淌着<br>露珠一样的晶莹；<br>你爱情的紫霞<br>你最后迟到的至福<br>悄然流过，在这白茫茫的大海里……<br><br>四周只有波浪、波浪的嬉戏。<br>往日沉重的一切<br>早在蓝色的遗忘中沉去——<br>我的小船正搁浅。<br>多陌生呀——风暴与航行<br>希望和心愿久已淹没，<br>心灵与大海恬然静眠。<br><br>第七重孤寂<br>我从未感到过<br>更真切的美妙的静谧<br>更温暖的阳光的辐射。<br>——那不在闪烁，我绝顶上的冰？<br><br>银白、轻捷，像一条鱼，<br>我的小船向远方，悄然驶去。</div></p>
+<p><div style="text-align:left">太阳在沉西。<br>你不会长久焦渴了，<br>燃烧的心！<br>有一种凉爽，在空气里，<br>我从陌生的嘴里呼吸到这种气息，<br>超乎寻常的大凉爽即将来临。<br><br>正午的太阳在燃烧，烈日当空，<br>向你致敬哦，你这阵阵袭来的<br>迅疾的风，<br>午后凉爽的精灵。<br><br>空气在流动，平和而纯净。<br>向我投来斜睨的<br>富有魅力之一瞥的<br>不是这夜的眸子？<br><br>坚强些吧，勇敢的心灵！<br>为什么？不用问询。<br>呵，我生命的黄昏呦！<br>太阳总要沉西。<br><br>我的生命之日啊，<br>在黄昏中沉落！<br>你的眼睛闪烁出<br>半被灼红的微光；<br>你的泪水流淌着<br>露珠一样的晶莹；<br>你爱情的紫霞<br>你最后迟到的至福<br>悄然流过，在这白茫茫的大海里……<br><br>四周只有波浪、波浪的嬉戏。<br>往日沉重的一切<br>早在蓝色的遗忘中沉去——<br>我的小船正搁浅。<br>多陌生呀——风暴与航行<br>希望和心愿久已淹没，<br>心灵与大海恬然静眠。<br><br>第七重孤寂<br>我从未感到过<br>更真切的美妙的静谧<br>更温暖的阳光的辐射。<br>——那不在闪烁，我绝顶上的冰？<br><br>银白、轻捷，像一条鱼，<br>我的小船向远方，悄然驶去。</div></p>
 
 <h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>摘抄自高中图书馆借的《尼采大传》，时间我记不太清楚😂😂😂。这诗是两部分加起来的，在书中的不同位置。记得当时是英语课，还是偷偷在桌子里看，看到诗的后一部分，马上拿纸抄下。英语老师（平时很严格）在上课？脑子里这时哪里特么有这概念？！？！</p>
-<p>不久前我找到了《尼采大传》电子书版，同一出版社，同一译者，但是版次估计与我看那的不同，因为里面的诗与我抄的不同，有需要的，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/books/%E5%B0%BC%E9%87%87%E5%A4%A7%E4%BC%A0.mobi" target="_blank" rel="external"><i class="fa fa-download"></i>尼采大传.mobi(2.1 MB)</a>。</p>
+<p>不久前我找到了《尼采大传》电子书版，<del>同一出版社，同一译者，但是版次估计与我看那的不同，因为里面的诗与我抄的不同</del>，有需要的，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/books/%E5%B0%BC%E9%87%87%E5%A4%A7%E4%BC%A0.mobi" target="_blank" rel="external"><i class="fa fa-download"></i>尼采大传.mobi(2.1 MB)</a>。</p>
+<h2 id="勘误和补充-2017-09-25"><a href="#勘误和补充-2017-09-25" class="headerlink" title="勘误和补充(2017.09.25)"></a>勘误和补充(2017.09.25)</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken.jpg" alt="nietzsche-die-sonne-gesunken.jpg"></p>
+<p>整理文件时，找到一张图片（上图），不是同一出版社，也不是同一译者。</p>
 <h2 id="尼采的照片"><a href="#尼采的照片" class="headerlink" title="尼采的照片"></a>尼采的照片</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche.jpg" alt="nietzsche.jpg"></p>
 <hr>
 ]]></content>
@@ -3437,11 +3533,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
@@ -3450,6 +3546,10 @@
             <tag> 尼采 </tag>
             
             <tag> 看书 </tag>
+            
+            <tag> 补充 </tag>
+            
+            <tag> 勘误 </tag>
             
         </tags>
         
@@ -3462,15 +3562,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer6");
+				options.element = document.getElementById("aplayer4");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -3505,7 +3605,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer7"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3517,7 +3617,7 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
