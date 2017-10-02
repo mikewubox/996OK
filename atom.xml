@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2017-09-25T13:31:35.527Z</updated>
+  <updated>2017-10-02T12:02:39.134Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -15,6 +15,76 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何安装GNOME Shell插件？</title>
+    <link href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html"/>
+    <id>https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html</id>
+    <published>2017-10-02T11:38:39.000Z</published>
+    <updated>2017-10-02T12:02:39.134Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;感谢开源，让Linux下的有了Gnome桌面环境，感谢开源，有了许多“外挂”似的Gnome Shell插件，开起后效果绝对秒杀Windows！问题是：怎么安装GNOME Shell Extensions呢？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/how-to-install-gnome-shell-extensions-title.png&quot; alt=&quot;how-to-install-gnome-shell-extensions-title.png&quot; style=&quot;width:100%&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="technology" scheme="https://reuixiy.github.io/categories/technology/"/>
+    
+      <category term="computer" scheme="https://reuixiy.github.io/categories/technology/computer/"/>
+    
+      <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
+    
+    
+      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
+    
+      <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
+    
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux开启护眼模式，降低蓝光伤害</title>
+    <link href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html"/>
+    <id>https://reuixiy.github.io/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html</id>
+    <published>2017-10-02T09:45:47.000Z</published>
+    <updated>2017-10-02T12:05:39.324Z</updated>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+
+&lt;p&gt;&lt;blockquote&gt;手机上有个护眼模式，PC上咋搞呢？&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-title.jpg&quot; alt=&quot;configure-redshift-in-linux-title.jpg&quot; style=&quot;width:100%&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="technology" scheme="https://reuixiy.github.io/categories/technology/"/>
+    
+      <category term="computer" scheme="https://reuixiy.github.io/categories/technology/computer/"/>
+    
+      <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
+    
+    
+      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
+    
+      <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
+    
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
+  </entry>
   
   <entry>
     <title>生于战争 死于和平</title>
@@ -54,6 +124,8 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
       <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
     
       <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
@@ -61,8 +133,6 @@
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
@@ -387,11 +457,11 @@
     
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
-      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
     
@@ -444,7 +514,7 @@
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer3&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer3 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer3&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -503,13 +573,13 @@
     
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
     
       <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
-    
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
@@ -697,10 +767,10 @@
   
   <entry>
     <title>Windows Media Player + 音乐可视化 + 音乐倒放</title>
-    <link href="https://reuixiy.github.io/technology/computer/system-software/2017/06/18/music-visualization.html"/>
-    <id>https://reuixiy.github.io/technology/computer/system-software/2017/06/18/music-visualization.html</id>
+    <link href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/18/music-visualization.html"/>
+    <id>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/18/music-visualization.html</id>
     <published>2017-06-18T08:25:45.000Z</published>
-    <updated>2017-08-31T05:38:22.018Z</updated>
+    <updated>2017-10-02T10:16:40.235Z</updated>
     
     <summary type="html">
     
@@ -716,7 +786,7 @@
     
       <category term="computer" scheme="https://reuixiy.github.io/categories/technology/computer/"/>
     
-      <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
+      <category term="computer-aided-art" scheme="https://reuixiy.github.io/categories/technology/computer/computer-aided-art/"/>
     
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
@@ -785,6 +855,8 @@
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
     
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
@@ -792,8 +864,6 @@
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
       <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
-    
-      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
@@ -835,13 +905,13 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
-    
-      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
       <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
@@ -993,9 +1063,9 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
-    
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
     
       <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
     
@@ -1042,7 +1112,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html</id>
     <published>2017-04-27T23:37:21.000Z</published>
-    <updated>2017-08-21T08:44:56.348Z</updated>
+    <updated>2017-10-02T10:20:48.453Z</updated>
     
     <summary type="html">
     
@@ -1069,11 +1139,9 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="arctime" scheme="https://reuixiy.github.io/tags/arctime/"/>
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
   </entry>
   
@@ -1457,6 +1525,8 @@
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
+      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
+    
       <category term="embedded" scheme="https://reuixiy.github.io/tags/embedded/"/>
     
       <category term="raspberry-pi" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
@@ -1464,8 +1534,6 @@
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
-    
-      <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
   </entry>
   
@@ -2022,7 +2090,7 @@
     <link href="https://reuixiy.github.io/uncategorized/2010/01/01/test.html"/>
     <id>https://reuixiy.github.io/uncategorized/2010/01/01/test.html</id>
     <published>2009-12-31T16:00:00.000Z</published>
-    <updated>2017-09-03T10:03:01.372Z</updated>
+    <updated>2017-09-26T16:25:27.611Z</updated>
     
     <summary type="html">
     

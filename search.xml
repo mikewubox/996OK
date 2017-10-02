@@ -3,6 +3,148 @@
   
     
     <entry>
+      <title><![CDATA[如何安装GNOME Shell插件？]]></title>
+      <url>/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><blockquote>感谢开源，让Linux下的有了Gnome桌面环境，感谢开源，有了许多“外挂”似的Gnome Shell插件，开起后效果绝对秒杀Windows！问题是：怎么安装GNOME Shell Extensions呢？</blockquote></p>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/how-to-install-gnome-shell-extensions-title.png" alt="how-to-install-gnome-shell-extensions-title.png" style="width:100%"></p>
+
+<a id="more"></a>
+<p>首先贴出网站，<a href="https://extensions.gnome.org/" target="_blank" rel="external">GNOME Shell Extensions</a>，自己去发现更多来开启更多“外挂”功能。</p>
+<h2 id="下载安装包安装"><a href="#下载安装包安装" class="headerlink" title="下载安装包安装"></a>下载安装包安装</h2><p>安装包解压缩复制到目录<code>/usr/share/gnome-shell/extensions/</code>，或<code>~/.local/share/gnome-shell/extensions/</code>下，然后关闭Tweak Tool再打开，应该就能在<code>Extensions</code>上看到。</p>
+<h2 id="浏览器插件安装"><a href="#浏览器插件安装" class="headerlink" title="浏览器插件安装"></a>浏览器插件安装</h2><p>最好用Firefox，我在Chrome的没用。打开插件网页，会有个提示啥允许好像，然后<code>Allow</code>即可，刷新页面即可安装。</p>
+<h2 id="apt-get方式"><a href="#apt-get方式" class="headerlink" title="apt-get方式"></a>apt-get方式</h2><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">apt-<span class="built_in">get</span> <span class="keyword">update</span></div><div class="line">apt-cache <span class="built_in">search</span> gnome-<span class="keyword">shell</span>-extension</div><div class="line">apt-<span class="built_in">get</span> install gnome-<span class="keyword">shell</span>-extension-插件名</div></pre></td></tr></table></figure>
+<p>不过只能搜到少部分，另还可以安装下面这个包，里面有一些插件：</p>
+<figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-get install gnome-<span class="keyword">shell</span><span class="bash">-extensions</span></div></pre></td></tr></table></figure>
+<p>安装好后，点击按钮打开即可，如果有设置按钮，可以设置，并且如果有错误则会显示报错信息。</p>
+<h2 id="安利几个插件"><a href="#安利几个插件" class="headerlink" title="安利几个插件"></a>安利几个插件</h2><ul>
+<li>Redshift（护眼模式）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/685/redshift/" target="_blank" rel="external">https://extensions.gnome.org/extension/685/redshift/</a></p>
+<p>安装配置方法见<a href="https//reuixiy.github.io/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html">这篇文章</a>。</p>
+<ul>
+<li>Topicons plus（将左下脚的托盘图标放在顶栏托盘）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/1031/topicons/" target="_blank" rel="external">https://extensions.gnome.org/extension/1031/topicons/</a></p>
+<ul>
+<li>Simple net speed（顶栏实时网速显示）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/1085/simple-net-speed/" target="_blank" rel="external">https://extensions.gnome.org/extension/1085/simple-net-speed/</a></p>
+<ul>
+<li>Openweather（顶栏显示天气）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/750/openweather/" target="_blank" rel="external">https://extensions.gnome.org/extension/750/openweather/</a></p>
+<ul>
+<li>EasyScreenCast（录屏）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/690/easyscreencast/" target="_blank" rel="external">https://extensions.gnome.org/extension/690/easyscreencast/</a></p>
+<ul>
+<li>Coverflow alt-tab（效果超赞的alt-tab切换效果）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/97/coverflow-alt-tab/" target="_blank" rel="external">https://extensions.gnome.org/extension/97/coverflow-alt-tab/</a></p>
+<ul>
+<li>Dash to dock（自己试试，突然无法表达）</li>
+</ul>
+<p><a href="https://extensions.gnome.org/extension/307/dash-to-dock/" target="_blank" rel="external">https://extensions.gnome.org/extension/307/dash-to-dock/</a></p>
+<hr>]]></content>
+      
+        <categories>
+            
+            <category> technology </category>
+            
+            <category> computer </category>
+            
+            <category> system-software </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> technology </tag>
+            
+            <tag> computer </tag>
+            
+            <tag> system-software </tag>
+            
+            <tag> linux </tag>
+            
+            <tag> how </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[Linux开启护眼模式，降低蓝光伤害]]></title>
+      <url>/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><blockquote>手机上有个护眼模式，PC上咋搞呢？</blockquote></p>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-title.jpg" alt="configure-redshift-in-linux-title.jpg" style="width:100%"></p>
+
+<a id="more"></a>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>现在几乎每部手机都有护眼模式了，减少<a href="https://www.zhihu.com/question/29440984" target="_blank" rel="external">蓝光</a>，保护眼睛，人人有则，23333～</p>
+<p>现在买的电脑，很多Windows系统也自带了这样的功能，当然还有个大名鼎鼎的软件，<a href="https://justgetflux.com/" target="_blank" rel="external">f.lux</a>，Windows下很好用，不过Linux下我没试过，因为我用了<a href="https://github.com/jonls/redshift" target="_blank" rel="external">Redshift</a>。</p>
+<p>先贴出我的操作环境，系统是Kali Linux，桌面环境是Gnome3。</p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>首先更新包信息：</p>
+<figure class="highlight q"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-<span class="built_in">get</span> <span class="keyword">update</span></div></pre></td></tr></table></figure>
+<p>然后查找相关包：</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">root@kali:~# apt-cache search redshift</div><div class="line">awscli - Universal Command Line Environment <span class="keyword">for</span> AWS</div><div class="line">gnome-shell-extension-redshift - redshift extension <span class="keyword">for</span> GNOME Shell</div><div class="line">gtk-redshift - transitional dummy package</div><div class="line">plasma-applet-redshift-control - Adjusts the color temperature of your screen</div><div class="line">redshift - Adjusts the color temperature of your screen</div><div class="line">redshift-gtk - Adjusts the color temperature of your<span class="built_in"> screen </span>with GTK+ integration</div><div class="line">sct - <span class="builtin-name">Set</span><span class="built_in"> screen </span>color temperature</div></pre></td></tr></table></figure>
+<p>要图形界面，安装<code>redshift-gtk</code>即可：</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-<span class="builtin-name">get</span> install redshift-gtk</div></pre></td></tr></table></figure>
+<p>如果没有其它依赖的话，应该会安装<code>redshift-gtk</code>和<code>redshift</code>两个包。</p>
+<h2 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h2><p>图形界面的配置就不说了，要开机自启，在托盘（tray）图标鼠标右键，设置开机启动即可。如果报错，可能是默认要系统开启<code>Location</code>，在Setting&gt;Privacy&gt;Location Services这设置<code>on</code>开启即可。</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-1.jpg" alt="configure-redshift-in-linux-1.jpg"></p>
+<p>当然，如果你不想这样，可以换一种模式，自己输入经纬，百度一下经纬，按格式（见下文）填入即可。或者自己写个配置文件手动配置：</p>
+<p>首先在目录<code>~/.config/</code>下新建文件<code>redshift.conf</code>，然后写入：<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
+<figure class="highlight ini"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="section">[manual]</span></div><div class="line"><span class="attr">lat</span>=<span class="number">39.90</span></div><div class="line"><span class="attr">lon</span>=<span class="number">116.38</span></div></pre></td></tr></table></figure>
+<p>怎么写，可以输入命令查询：</p>
+<figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">root@kali:~# redshift -<span class="keyword">l</span> manua<span class="variable">l:help</span></div><div class="line">Specify location manually.</div><div class="line"></div><div class="line">  <span class="keyword">lat</span>=<span class="keyword">N</span>		Latitude</div><div class="line">  lon=<span class="keyword">N</span>		Longitude</div><div class="line"></div><div class="line">Both <span class="built_in">values</span> are expected <span class="keyword">to</span> <span class="keyword">be</span> floating point numbers,</div><div class="line">negative <span class="built_in">values</span> representing west / south, respectively.</div></pre></td></tr></table></figure>
+<p>lat就是经度，lon是纬度，必须是浮点值，西经和南纬是负数。比如北京天安门广场，百度到：北纬39°54′，东经116°23′。一度（°）被分为60角分（′），换算一下：39+54/60=39.90，116+23/60≈116.38。<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup></p>
+<h2 id="Gnome-Shell插件"><a href="#Gnome-Shell插件" class="headerlink" title="Gnome Shell插件"></a>Gnome Shell插件</h2><p>在user menu会出来一个开关按钮：</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-2.jpg" alt="configure-redshift-in-linux-2.jpg"></p>
+<p>可以在Tweak Tool直接配置：</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-3.jpg" alt="configure-redshift-in-linux-3.jpg"></p>
+<p>挺方便的，插件地址：<a href="https://extensions.gnome.org/extension/685/redshift/" target="_blank" rel="external">https://extensions.gnome.org/extension/685/redshift/</a></p>
+<p>如果安装了<code>redshift-gtk</code>，建议先卸载。上面查询到有<code>gnome-shell-extension-redshift</code>这个包，故直接apt-get安装：</p>
+<figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-get install gnome-<span class="keyword">shell</span><span class="bash">-extension-redshift</span></div></pre></td></tr></table></figure>
+<p>然后打开Tweak Tool开启即可，如果显示<code>error</code>，可能是由于未安装<code>redshift</code>这个包导致的，安装一下即可：</p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">apt-<span class="builtin-name">get</span> install redshift</div></pre></td></tr></table></figure>
+<p>如果你想安装最新版插件按照方法可以参考<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html">这篇文章</a>，另亲测Kali Linux下，不是<code>apt-get</code>方式安装的，按钮开关可能失效。</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/configure-redshift-in-linux-4.jpg" alt="configure-redshift-in-linux-4.jpg"></p>
+<p>最后，Gnome3好像已经内置了类似的功能（上图），在Setting&gt;Displays&gt;Night Light。</p>
+<div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://wiki.archlinux.org/index.php/redshift#Configuration" target="_blank" rel="external">https://wiki.archlinux.org/index.php/redshift#Configuration</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="http://www.cnblogs.com/qumao5736/archive/2012/03/10/2389287.html" target="_blank" rel="external">http://www.cnblogs.com/qumao5736/archive/2012/03/10/2389287.html</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+      
+        <categories>
+            
+            <category> technology </category>
+            
+            <category> computer </category>
+            
+            <category> system-software </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> technology </tag>
+            
+            <tag> computer </tag>
+            
+            <tag> system-software </tag>
+            
+            <tag> linux </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[生于战争 死于和平]]></title>
       <url>/philosophy/how/2017/09/25/born-in-war-and-died-in-peace.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
@@ -78,6 +220,8 @@
             
             <tag> practical-science(实践科学) </tag>
             
+            <tag> 黑暗 </tag>
+            
             <tag> 对立 </tag>
             
             <tag> 假象 </tag>
@@ -85,8 +229,6 @@
             <tag> how </tag>
             
             <tag> 易 </tag>
-            
-            <tag> 黑暗 </tag>
             
             <tag> 战争 </tag>
             
@@ -699,11 +841,11 @@
             
             <tag> system-software </tag>
             
+            <tag> linux </tag>
+            
             <tag> notnow </tag>
             
             <tag> 易 </tag>
-            
-            <tag> linux </tag>
             
             <tag> 悲伤 </tag>
             
@@ -760,9 +902,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -814,7 +956,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -903,13 +1045,13 @@
             
             <tag> shape </tag>
             
+            <tag> 黑暗 </tag>
+            
             <tag> analysis(分析) </tag>
             
             <tag> 悲伤 </tag>
             
             <tag> why </tag>
-            
-            <tag> 黑暗 </tag>
             
             <tag> 战争 </tag>
             
@@ -1154,7 +1296,7 @@
     
     <entry>
       <title><![CDATA[Windows Media Player + 音乐可视化 + 音乐倒放]]></title>
-      <url>/technology/computer/system-software/2017/06/18/music-visualization.html</url>
+      <url>/technology/computer/computer-aided-art/2017/06/18/music-visualization.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
 <p><blockquote>利用<em>Windows</em>自带的多媒体播放器<em>Windows Media Player</em>，呈现多彩，超强空间感的音乐可视化效果，另外还有音乐倒放<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f643.png" height="20" width="20">。</blockquote></p>
@@ -1312,7 +1454,7 @@
             
             <category> computer </category>
             
-            <category> system-software </category>
+            <category> computer-aided-art </category>
             
         </categories>
         
@@ -1736,6 +1878,8 @@
             
             <tag> computer </tag>
             
+            <tag> linux </tag>
+            
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
@@ -1743,8 +1887,6 @@
             <tag> 尼采 </tag>
             
             <tag> 补充 </tag>
-            
-            <tag> linux </tag>
             
             <tag> hexo </tag>
             
@@ -1825,13 +1967,13 @@
             
             <tag> practical-science(实践科学) </tag>
             
+            <tag> linux </tag>
+            
             <tag> analysis(分析) </tag>
             
             <tag> how </tag>
             
             <tag> 树莓派 </tag>
-            
-            <tag> linux </tag>
             
             <tag> why </tag>
             
@@ -1853,7 +1995,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -1892,7 +2034,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2113,9 +2255,9 @@
             
             <tag> 诗 </tag>
             
-            <tag> 看书 </tag>
-            
             <tag> 黑暗 </tag>
+            
+            <tag> 看书 </tag>
             
             <tag> untitled </tag>
             
@@ -2187,10 +2329,10 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
-<h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>喜欢英语歌的同学可以点击链接，看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
+<h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单，另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
       
@@ -2215,11 +2357,9 @@
             
             <tag> music </tag>
             
-            <tag> arctime </tag>
+            <tag> 开心 </tag>
             
             <tag> 光 </tag>
-            
-            <tag> 开心 </tag>
             
         </tags>
         
@@ -2474,7 +2614,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -2831,6 +2971,8 @@
             
             <tag> technology </tag>
             
+            <tag> linux </tag>
+            
             <tag> embedded </tag>
             
             <tag> raspberry-pi </tag>
@@ -2838,8 +2980,6 @@
             <tag> 树莓派 </tag>
             
             <tag> wordpress </tag>
-            
-            <tag> linux </tag>
             
         </tags>
         
