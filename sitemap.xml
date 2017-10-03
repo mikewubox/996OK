@@ -2,16 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html</loc>
+    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/03/make-linux-looks-like-macos.html</loc>
     
-    <lastmod>2017-10-02T12:05:39.324Z</lastmod>
+    <lastmod>2017-10-03T08:41:15.904Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/03/install-fcitx-in-kali-linux-to-input-chinese.html</loc>
+    
+    <lastmod>2017-10-03T08:39:09.940Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</loc>
+    
+    <lastmod>2017-10-03T07:18:23.038Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html</loc>
+    
+    <lastmod>2017-10-03T07:17:15.877Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/beautiful/share/2017/09/22/cassini-s-grand-finale.html</loc>
+    
+    <lastmod>2017-10-03T07:16:20.104Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html</loc>
     
-    <lastmod>2017-10-02T12:02:39.134Z</lastmod>
+    <lastmod>2017-10-03T07:03:58.960Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/02/configure-redshift-in-linux.html</loc>
+    
+    <lastmod>2017-10-02T12:05:39.324Z</lastmod>
     
   </url>
   
@@ -65,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</loc>
-    
-    <lastmod>2017-09-23T04:43:20.661Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://reuixiy.github.io/technology/embedded/raspberry-pi/2017/02/02/raspberry-pi-wordpress-blog-questions.html</loc>
     
     <lastmod>2017-09-23T04:42:40.869Z</lastmod>
@@ -100,13 +128,6 @@
   </url>
   
   <url>
-    <loc>https://reuixiy.github.io/beautiful/share/2017/09/22/cassini-s-grand-finale.html</loc>
-    
-    <lastmod>2017-09-22T17:55:21.055Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://reuixiy.github.io/beautiful/share/2017/09/23/a-touching-tv-commercial.html</loc>
     
     <lastmod>2017-09-22T16:39:22.734Z</lastmod>
@@ -117,13 +138,6 @@
     <loc>https://reuixiy.github.io/beautiful/bb-for-fun/2017/09/09/Now-My-Feet-Won-t-Touch-The-Ground.html</loc>
     
     <lastmod>2017-09-09T08:40:36.734Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html</loc>
-    
-    <lastmod>2017-09-06T22:44:49.337Z</lastmod>
     
   </url>
   
