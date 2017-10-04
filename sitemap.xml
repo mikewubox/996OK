@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</loc>
+    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/03/make-linux-looks-like-macos.html</loc>
     
-    <lastmod>2017-10-04T13:19:45.915Z</lastmod>
+    <lastmod>2017-10-04T14:25:00.808Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/03/make-linux-looks-like-macos.html</loc>
+    <loc>https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html</loc>
     
-    <lastmod>2017-10-03T14:19:58.702Z</lastmod>
+    <lastmod>2017-10-04T13:49:25.104Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</loc>
+    
+    <lastmod>2017-10-04T13:19:45.915Z</lastmod>
     
   </url>
   
@@ -68,13 +75,6 @@
     <loc>https://reuixiy.github.io/uncategorized/2010/01/01/test.html</loc>
     
     <lastmod>2017-09-26T16:25:27.611Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html</loc>
-    
-    <lastmod>2017-09-25T14:35:34.426Z</lastmod>
     
   </url>
   

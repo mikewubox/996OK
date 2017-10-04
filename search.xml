@@ -92,7 +92,7 @@
 <figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">root@kali:~<span class="comment"># gnome-shell --version</span></div><div class="line">GNOME <span class="keyword">Shell</span><span class="bash"> 3.22.3</span></div></pre></td></tr></table></figure>
 <p>我的是GTK3，如果你的不是这个版本，不要紧，下面的不一定不能装，自己去页面查看说明。</p>
 <p>首先打开Tweak Tool，里面的GTK+、Shell theme都可以在<a href="https://www.gnome-look.org/" target="_blank" rel="external">gnome-look</a>网站上找到，可以找到自己喜欢的下载，然后放到<code>/usr/share/themes</code>目录下，或者<code>~/.themes/</code>（没有自己创建，并且要安装插件<a href="https://extensions.gnome.org/extension/19/user-themes/" target="_blank" rel="external">User Themes</a>，gnome shell插件安装方法见<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html">这篇文章</a>）目录下即可。</p>
-<p><blockquote class="question">tip：新加个<code>Theme</code>，要关闭Tweak Tool再打开才能看到新加的，如果切换后没有效果，重启Gnome，Alt+F2，输入<code>r</code>回车，再不行就重启。</blockquote></p>
+<p><blockquote class="question">tip：新加个<code>Theme</code>，要关闭Tweak Tool再打开才能看到新加的，如果切换后没有效果，重启Gnome，Alt+F2，输入<code>r</code>回车，再不行就重启系统。</blockquote></p>
 
 <h3 id="GTK-amp-Shell-theme"><a href="#GTK-amp-Shell-theme" class="headerlink" title="GTK+ &amp; Shell theme"></a>GTK+ &amp; Shell theme</h3><p>下面的三个主题既有GTK+又有Shell的主题，另：有Github地址，且会用Github的，尽量去<code>相应目录</code>直接<code>git clone</code>，这样以后更新就可以直接<code>git pull</code>。</p>
 <ul>
@@ -139,8 +139,8 @@
 <p>为啥要安装OCS-Store，<code>gnome-look</code>网站页面左上方有个叫Opendesktop的东东，应该就是这个搞的鬼，看起来像是个强大的组织<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/mengbi.jpg" height="50" width="50">。</p>
 <p>当然，有Github页面的，可以直接到<code>/usr/share/icons/</code>目录，或者<code>~/.local/share/icons/</code>目录，然后<code>git clone</code>，以后更新简单。</p>
 <h3 id="Terminal主题"><a href="#Terminal主题" class="headerlink" title="Terminal主题"></a>Terminal主题</h3><p><a href="https://github.com/Mayccoll/Gogh" target="_blank" rel="external">https://github.com/Mayccoll/Gogh</a></p>
-<h3 id="GDM登录界面主题"><a href="#GDM登录界面主题" class="headerlink" title="GDM登录界面主题"></a>GDM登录界面主题</h3><p>GDM登录界面只有通过替换目录<code>/usr/share/gnome-shell/</code>下的gnome-shell-theme.gresource文件实现更改，壁纸自定义可以通过<a href="https://wiki.archlinux.org/index.php/GDM" target="_blank" rel="external">这种方法</a>重新生成gnome-shell-theme.gresource实现，其它元素自定义困难。</p>
-<p>建议直接Google搜索gnome-shell-theme.gresource，找一个提供这一文件的GTK主题，并且和自己口味，比如<a href="https://github.com/nana-4/Flat-Plat" target="_blank" rel="external">Flat-Plat</a>（下载后，先执行脚本安装主题，然后才会生成，再去<code>/usr/share/themes/Flat-Plat/gnome-shell/</code>下找），<a href="https://github.com/LinxGem33/OSX-Arc-White/blob/master/gnome-shell/gnome-shell-theme.gresource" target="_blank" rel="external">OSX-Arc-White</a>（直接下载），然后下载文件即可，壁纸可按上面链接方法自定义。</p>
+<h3 id="GDM登录界面主题"><a href="#GDM登录界面主题" class="headerlink" title="GDM登录界面主题"></a>GDM登录界面主题</h3><p>GDM登录界面只有通过替换目录<code>/usr/share/gnome-shell/</code>下的gnome-shell-theme.gresource文件实现更改（替换前务必先备份原文件），壁纸自定义可以通过<a href="https://wiki.archlinux.org/index.php/GDM" target="_blank" rel="external">这种方法</a>重新生成gnome-shell-theme.gresource实现，其它元素自定义困难。</p>
+<p>建议直接Google搜索gnome-shell-theme.gresource，找一个提供这一文件并且合自己口味GTK主题，比如<a href="https://github.com/nana-4/Flat-Plat" target="_blank" rel="external">Flat-Plat</a>（下载后，先执行脚本安装主题，然后才会生成这个文件，再去<code>/usr/share/themes/Flat-Plat/gnome-shell/</code>下找这个文件），<a href="https://github.com/LinxGem33/OSX-Arc-White/blob/master/gnome-shell/gnome-shell-theme.gresource" target="_blank" rel="external">OSX-Arc-White</a>（直接下载），然后将文件放到上文所提到的目录即可，壁纸可按上文链接中的方法自定义。</p>
 <h3 id="博主的配置"><a href="#博主的配置" class="headerlink" title="博主的配置"></a>博主的配置</h3><table>
 <thead>
 <tr>
@@ -176,7 +176,7 @@
 <p>的确，这厮用了三个月，界面效果确与其它两个不同，自己对比一下其它两个即能感受出。正如作者所言，细节真的很棒，比如渐变！</p>
 <p>但是，Gnome OSX-III-1.0自带的<code>Shell theme</code>不咋地，所以我用了OSX Arc White的Shell theme，没话说，就是赞！</p>
 <p><code>Icons</code>我用的Shadow，感觉很喜欢这个风格，虽然不太好辨认，但是很合我口味<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">！</p>
-<p><code>Terminal</code>用的Gogh的Aci，自己再在Performance&gt;Profiles&gt;Aci&gt;Edit自定义了一下。</p>
+<p><code>Terminal</code>用的Gogh的Aci，然后自己再在Performance&gt;Profiles&gt;Aci&gt;Edit自定义了一下。</p>
 <p><code>GDM</code>用的OSX Arc White自带的（将OSX-Arc-White/gnome-shell/gnome-shell-theme.gresource复制到/usr/share/gnome-shell/下，替换原来的，替换前记得先备份），与Shell theme保持一致吧。</p>
 <h3 id="“bugs”"><a href="#“bugs”" class="headerlink" title="“bugs”"></a>“bugs”</h3><table>
 <thead>
@@ -486,6 +486,10 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
+            <tag> 星空 </tag>
+            
             <tag> philosophy </tag>
             
             <tag> after-physics(形而上学) </tag>
@@ -493,10 +497,6 @@
             <tag> synthesis(综合) </tag>
             
             <tag> 真理 </tag>
-            
-            <tag> critique(批判) </tag>
-            
-            <tag> 星空 </tag>
             
             <tag> 光 </tag>
             
@@ -708,11 +708,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> coldplay </tag>
             
@@ -777,7 +777,7 @@
 
 <p>和暗网一样，防审查和匿名带来的一个后果：里面有些内容可能会使你感到不适。我只能说，并不是所有的人都有你那么高尚，并不是所有的人都有和你一样的信仰，所以请保持你的高尚，尊重别人的信仰，相信自己的信仰。</p>
 <p>最后附上我的零网博客地址：<a href="http://127.0.0.1:43110/yixiuer.bit/" target="_blank" rel="external">http://127.0.0.1:43110/yixiuer.bit/</a></p>
-<p>公网可以通过代理访问：<a href="https://bit.surf:43110/yixiuer.bit/" target="_blank" rel="external">https://bit.surf:43110/yixiuer.bit/</a></p>
+<p>公网可以通过代理访问：<a href="https://fuckcf.cf/yixiuer.bit" target="_blank" rel="external">https://fuckcf.cf/yixiuer.bit</a></p>
 <h2 id="bb"><a href="#bb" class="headerlink" title="bb"></a>bb</h2><p>去中心化是个很有意思的想法，去中心化的互联网可以通过<em>P2P</em><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>架构实现。</p>
 <p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p>
 <p>其实，<em>P2P</em>架构的概念在<em>1969</em>年就已提出<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>，但为什么去中心化的互联网没能发展起来？我觉得主要是：</p>
@@ -1180,7 +1180,7 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
@@ -1264,13 +1264,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> video </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> coldplay </tag>
             
@@ -1309,21 +1309,21 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> association </tag>
             
             <tag> synthesis(综合) </tag>
             
             <tag> questions </tag>
             
-            <tag> beautiful </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
-            <tag> shape </tag>
-            
             <tag> 黑暗 </tag>
+            
+            <tag> shape </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -1373,11 +1373,11 @@
         
         <tags>
             
-            <tag> questions </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 好奇心 </tag>
+            
+            <tag> questions </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1428,11 +1428,11 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1544,11 +1544,11 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
-            
-            <tag> beautiful </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1739,15 +1739,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> video </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> coldplay </tag>
             
@@ -2144,9 +2144,9 @@
         
         <tags>
             
-            <tag> tips </tag>
-            
             <tag> share </tag>
+            
+            <tag> tips </tag>
             
             <tag> technology </tag>
             
@@ -2410,13 +2410,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -2511,15 +2511,15 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> 好奇心 </tag>
+            
             <tag> association </tag>
             
             <tag> after-physics(形而上学) </tag>
             
             <tag> 想象 </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> 好奇心 </tag>
             
             <tag> love </tag>
             
@@ -2582,11 +2582,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 图片 </tag>
             
@@ -2605,7 +2605,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单，另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -2758,6 +2758,8 @@
         
         <tags>
             
+            <tag> 科幻 </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2767,8 +2769,6 @@
             <tag> synthesis(综合) </tag>
             
             <tag> questions </tag>
-            
-            <tag> 科幻 </tag>
             
             <tag> computer </tag>
             
@@ -2963,6 +2963,8 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -2970,8 +2972,6 @@
             <tag> tips </tag>
             
             <tag> 真理 </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3028,15 +3028,15 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> video </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> coldplay </tag>
             
@@ -3093,6 +3093,8 @@
         
         <tags>
             
+            <tag> critique(批判) </tag>
+            
             <tag> philosophy </tag>
             
             <tag> what </tag>
@@ -3104,8 +3106,6 @@
             <tag> 想象 </tag>
             
             <tag> tips </tag>
-            
-            <tag> critique(批判) </tag>
             
             <tag> 开心 </tag>
             
@@ -3288,9 +3288,9 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> love </tag>
             
@@ -3333,13 +3333,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> coldplay </tag>
             
@@ -3424,12 +3424,6 @@
         
         <tags>
             
-            <tag> after-physics(形而上学) </tag>
-            
-            <tag> 想象 </tag>
-            
-            <tag> 真理 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 好奇心 </tag>
@@ -3437,6 +3431,12 @@
             <tag> critique(批判) </tag>
             
             <tag> 科幻 </tag>
+            
+            <tag> after-physics(形而上学) </tag>
+            
+            <tag> 想象 </tag>
+            
+            <tag> 真理 </tag>
             
             <tag> 光 </tag>
             
@@ -3558,6 +3558,10 @@
         
         <tags>
             
+            <tag> beautiful </tag>
+            
+            <tag> 好奇心 </tag>
+            
             <tag> philosophy </tag>
             
             <tag> association </tag>
@@ -3571,10 +3575,6 @@
             <tag> 空间 </tag>
             
             <tag> tips </tag>
-            
-            <tag> beautiful </tag>
-            
-            <tag> 好奇心 </tag>
             
             <tag> coldplay </tag>
             
@@ -3625,11 +3625,11 @@
         
         <tags>
             
-            <tag> 空间 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> critique(批判) </tag>
+            
+            <tag> 空间 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3803,11 +3803,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 光 </tag>
             
@@ -3849,13 +3849,13 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
             
             <tag> 星空 </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> love </tag>
             
@@ -3896,9 +3896,9 @@
         
         <tags>
             
-            <tag> philosophy </tag>
-            
             <tag> critique(批判) </tag>
+            
+            <tag> philosophy </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3949,11 +3949,11 @@
         
         <tags>
             
-            <tag> 想象 </tag>
-            
             <tag> beautiful </tag>
             
             <tag> share </tag>
+            
+            <tag> 想象 </tag>
             
             <tag> 诗 </tag>
             
