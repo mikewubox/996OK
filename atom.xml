@@ -40,11 +40,11 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -63,7 +63,7 @@
 
 &lt;p&gt;&lt;blockquote&gt;折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起&lt;a href=&quot;http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度经验&lt;/a&gt;上面的apt-get介绍，有个强力推荐，于是然后&lt;code&gt;apt-get autoremove gstreamer* --purge&lt;/code&gt;卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;……&lt;/blockquote&gt;&lt;/p&gt;
 
-&lt;div id=&quot;dplayer4&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer4 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer4&quot;),&quot;loop&quot;:0,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;div id=&quot;dplayer5&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer5 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer5&quot;),&quot;loop&quot;:0,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -74,11 +74,11 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -108,11 +108,11 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -144,11 +144,11 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -232,11 +232,11 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -446,7 +446,7 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html</id>
     <published>2017-08-27T00:40:00.000Z</published>
-    <updated>2017-10-03T07:17:15.877Z</updated>
+    <updated>2017-10-09T10:38:30.007Z</updated>
     
     <summary type="html">
     
@@ -515,11 +515,11 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -578,7 +578,7 @@
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer18&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer18 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer18&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -635,9 +635,9 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
@@ -867,11 +867,11 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
-    
-      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
@@ -973,9 +973,9 @@
     
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
-      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
       <category term="bitcoin" scheme="https://reuixiy.github.io/tags/bitcoin/"/>
     
@@ -1174,7 +1174,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html</id>
     <published>2017-04-27T23:37:21.000Z</published>
-    <updated>2017-10-02T10:20:48.453Z</updated>
+    <updated>2017-10-09T10:19:14.831Z</updated>
     
     <summary type="html">
     
@@ -1204,6 +1204,8 @@
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
   </entry>
   
@@ -1560,7 +1562,7 @@
     <link href="https://reuixiy.github.io/technology/embedded/raspberry-pi/2017/02/02/raspberry-pi-wordpress-blog-questions.html"/>
     <id>https://reuixiy.github.io/technology/embedded/raspberry-pi/2017/02/02/raspberry-pi-wordpress-blog-questions.html</id>
     <published>2017-02-02T03:54:42.000Z</published>
-    <updated>2017-09-23T04:42:40.869Z</updated>
+    <updated>2017-10-09T10:13:54.818Z</updated>
     
     <summary type="html">
     
@@ -1648,7 +1650,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html</id>
     <published>2017-01-17T12:03:40.000Z</published>
-    <updated>2017-08-18T09:58:27.713Z</updated>
+    <updated>2017-10-09T10:00:35.910Z</updated>
     
     <summary type="html">
     
@@ -1769,9 +1771,9 @@
     
       <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
     
-      <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
-    
       <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+      <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
     
       <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
     
@@ -2110,7 +2112,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html</id>
     <published>2015-12-15T03:35:00.000Z</published>
-    <updated>2017-09-25T13:51:50.796Z</updated>
+    <updated>2017-10-09T09:19:09.119Z</updated>
     
     <summary type="html">
     

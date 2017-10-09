@@ -52,11 +52,11 @@
         
         <tags>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -71,7 +71,7 @@
 
 <p><blockquote>折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起<a href="http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html" target="_blank" rel="external">百度经验</a>上面的apt-get介绍，有个强力推荐，于是然后<code>apt-get autoremove gstreamer* --purge</code>卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">……</blockquote></p>
 
-<div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 -->
+<div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>产生了三个悲剧。</p>
 <ul>
@@ -254,11 +254,11 @@
         
         <tags>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -345,11 +345,11 @@
         
         <tags>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -414,11 +414,11 @@
         
         <tags>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -450,7 +450,7 @@
 <h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平</p>
 <p>火热是因为娱乐</p>
 <p>不灭是因为战争</p>
-<div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt]
+<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt]
 [ti:Barbossa Is Hungry]
 [al:Pirates of the Caribbean: The Curse of the Black Pearl]
 [by:https://reuixiy.github.io]
@@ -460,7 +460,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer9"),
+				element: document.getElementById("aplayer10"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -549,11 +549,11 @@
             
             <tag> music </tag>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -653,7 +653,7 @@
 <a id="more"></a>
 <p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p>
 
-<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Now My Feet Won't Touch The Ground]
 [al:Prospekt's March EP]
 [by:https://reuixiy.github.io]
@@ -682,7 +682,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -745,7 +745,7 @@
 <p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p>
 <p>最后就是小视频了：</p>
-<div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
+<div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
 <p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p>
 <h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p>
 
@@ -841,7 +841,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/robot-do-you-have-your-freestyle-title.gif" alt="robot-do-you-have-your-freestyle-title.gif" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="freestyle"><a href="#freestyle" class="headerlink" title="freestyle"></a>freestyle</h2><div id="dplayer8" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer8 = new DPlayer({"element":document.getElementById("dplayer8"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/%E3%80%8A%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%E5%B7%B2%E5%88%B0%E6%9D%A5%E3%80%8B%E7%BA%A2%E6%9D%89-%E7%9C%9F%E6%A0%BC%20AI%E5%8F%8C%E5%9F%8E%E8%AE%B0.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0a15466f937d60f53d709ac8a1ecff01db0c3202b453de6f621626ae19e9e2bf"}});</script><!-- dplayer used1 -->
+<h2 id="freestyle"><a href="#freestyle" class="headerlink" title="freestyle"></a>freestyle</h2><div id="dplayer10" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer10 = new DPlayer({"element":document.getElementById("dplayer10"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/%E3%80%8A%E7%9C%8B%E8%A7%81%E6%9C%AA%E6%9D%A5%E5%B7%B2%E5%88%B0%E6%9D%A5%E3%80%8B%E7%BA%A2%E6%9D%89-%E7%9C%9F%E6%A0%BC%20AI%E5%8F%8C%E5%9F%8E%E8%AE%B0.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0a15466f937d60f53d709ac8a1ecff01db0c3202b453de6f621626ae19e9e2bf"}});</script><!-- dplayer used1 -->
 <h2 id="截改一部分"><a href="#截改一部分" class="headerlink" title="截改一部分"></a>截改一部分</h2><p><center><strong>《看见未来已到来》</strong><br><br>儿时仰望银河星系<br><br>感受科学万有引力<br><br>每天痴迷图灵霍金 那么多定理<br><br>看着 <em>ET</em> 三体 感叹宇宙的神奇<br><br>思想不会防弹 未来充满契机<br><br><em>Dream will be flying</em> 要探寻算法秘密<br><br><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/robot-do-you-have-your-freestyle-1.gif" alt="robot-do-you-have-your-freestyle-1.gif"><br><br>创新维艰一胜九败仍要寻求新含义<br><br>否则无声无息平淡无奇人生不给力<br><br>人类简史未来简史都在讲述时间的秘密<br><br>网络时代智能时代让我思考算法的终极<br><br><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/robot-do-you-have-your-freestyle-2.gif" alt="robot-do-you-have-your-freestyle-2.gif"><br><br>从基础到创新 从地球到星系<br><br>改变世界就是我们创新的真谛<br><br>创新是一种勇气<br><br>长路漫漫求索 一起突破科学边际<br><br>天地悠悠寻觅 一起解开世界的秘密<br><br>人工智能突飞猛进</center></p>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/robot-do-you-have-your-freestyle-3.gif" alt="robot-do-you-have-your-freestyle-3.gif"></p>
@@ -895,22 +895,22 @@
 <p>这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">，我猜它在洗手间门口也许就是为了水而来吧……</p>
 <h2 id="小视频"><a href="#小视频" class="headerlink" title="小视频"></a>小视频</h2><p>晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>来监控它，晚上偷录个小视频，哈哈哈嗝<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">～</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-2.jpg" alt="a-little-gecko-come-suddenly-2.jpg"></p>
-<h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer11" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer11 = new DPlayer({"element":document.getElementById("dplayer11"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"6f57da27229e228a2a7bf664d34c50a26f435caa8dc7e0f4ea05c16f949f04c3"}});</script><!-- dplayer used1 -->
+<h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer12" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer12 = new DPlayer({"element":document.getElementById("dplayer12"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"6f57da27229e228a2a7bf664d34c50a26f435caa8dc7e0f4ea05c16f949f04c3"}});</script><!-- dplayer used1 -->
 <p><blockquote class="question">第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。</blockquote></p>
 
-<h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer12" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer12 = new DPlayer({"element":document.getElementById("dplayer12"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9fbb0a160bd9fab68da279fbebe5597eb8771b594b0b8ff7695165fd944892de"}});</script><!-- dplayer used1 -->
+<h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer13" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer13 = new DPlayer({"element":document.getElementById("dplayer13"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9fbb0a160bd9fab68da279fbebe5597eb8771b594b0b8ff7695165fd944892de"}});</script><!-- dplayer used1 -->
 <p><blockquote class="question">看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。</blockquote></p>
 
-<h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer13" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer13 = new DPlayer({"element":document.getElementById("dplayer13"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0df538e7322027a22f82bc660ce64babf6844aee2a442ab5f68b6432b4bfbf05"}});</script><!-- dplayer used1 -->
+<h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer14" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer14 = new DPlayer({"element":document.getElementById("dplayer14"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0df538e7322027a22f82bc660ce64babf6844aee2a442ab5f68b6432b4bfbf05"}});</script><!-- dplayer used1 -->
 <p><blockquote class="question">欣赏一下这优雅的步伐<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png" height="20" width="20">～</blockquote></p>
 
-<h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer14" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer14 = new DPlayer({"element":document.getElementById("dplayer14"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"b910305030b528abb26d3bb153322636a8f58426b0e676375e0e45024c4e328f"}});</script><!-- dplayer used1 -->
+<h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer15" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer15 = new DPlayer({"element":document.getElementById("dplayer15"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"b910305030b528abb26d3bb153322636a8f58426b0e676375e0e45024c4e328f"}});</script><!-- dplayer used1 -->
 <p><blockquote class="question">看起来都想逃走的两个小家伙。</blockquote></p>
 
-<h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer15" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer15 = new DPlayer({"element":document.getElementById("dplayer15"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"5432bef6e68e50152e2ff03a30b05055ccd2f8aa2ed70c2437c1efa06dffbe15"}});</script><!-- dplayer used1 -->
+<h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer16" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer16 = new DPlayer({"element":document.getElementById("dplayer16"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"5432bef6e68e50152e2ff03a30b05055ccd2f8aa2ed70c2437c1efa06dffbe15"}});</script><!-- dplayer used1 -->
 <p><blockquote class="question">这……<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png" height="20" width="20">我没看懂哎……</blockquote></p>
 
-<p>其实，晚上一共录了51个视频，这里挑出几个有代表的来。关于视频，这个叫<em>motion</em>的监控软件是捕捉到有动作（画面变化）就开始记录的，然后保存视频，视频右下角有时间，可以看出有时视频的<em>1 s</em>并非真实的<em>1 s</em><img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">。</p>
+<p>其实，晚上一共录了51个视频，这里挑出几个有代表的来。关于视频，这个叫<em>motion</em>的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的<em>1 s</em>并非真实的<em>1 s</em><img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">。</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-3.png" alt="a-little-gecko-come-suddenly-3.png"></p>
 <p>最后？虫子还在，小壁虎还在……为啥虫子还在？不造……</p>
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>看着视频观察一下这个小家伙还是蛮有意思的：</p>
@@ -920,7 +920,7 @@
 <li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li>
 </ol>
 <p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p>
-<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -972,7 +972,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer10"),
+				element: document.getElementById("aplayer11"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1045,7 +1045,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer13" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -1080,7 +1080,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer11"),
+				element: document.getElementById("aplayer13"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1092,7 +1092,7 @@
 				}
 			});
 		</script>
-<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer16" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer16 = new DPlayer({"element":document.getElementById("dplayer16"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
+<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -1113,11 +1113,11 @@
             
             <tag> music </tag>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> linux </tag>
             
@@ -1180,9 +1180,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer12" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -1234,7 +1234,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer12"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1321,9 +1321,9 @@
             
             <tag> practical-science(实践科学) </tag>
             
-            <tag> 黑暗 </tag>
-            
             <tag> shape </tag>
+            
+            <tag> 黑暗 </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -1588,7 +1588,7 @@
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -1644,7 +1644,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1660,7 +1660,7 @@
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -1699,7 +1699,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1753,11 +1753,11 @@
             
             <tag> music </tag>
             
+            <tag> system-software </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> system-software </tag>
             
             <tag> computer-aided-art </tag>
             
@@ -2249,9 +2249,9 @@
             
             <tag> how </tag>
             
-            <tag> why </tag>
-            
             <tag> 树莓派 </tag>
+            
+            <tag> why </tag>
             
             <tag> bitcoin </tag>
             
@@ -2605,10 +2605,10 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
-<h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单，另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
+<h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
       
@@ -2636,6 +2636,8 @@
             <tag> 光 </tag>
             
             <tag> 开心 </tag>
+            
+            <tag> system-software </tag>
             
         </tags>
         
@@ -2890,7 +2892,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -3013,7 +3015,7 @@
 
 <h2 id="断章-–-卞之琳"><a href="#断章-–-卞之琳" class="headerlink" title="断章 – 卞之琳"></a><center>断章 – 卞之琳</center></h2><p><center>你站在桥上看风景，<br>看风景的人在楼上看你。<br>明月装饰了你的窗子，<br>你装饰了别人的梦。</center></p>
 
-<h2 id="The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric"><a href="#The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric" class="headerlink" title="The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)"></a><center><i>The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)</i></center></h2><div id="dplayer10" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer10 = new DPlayer({"element":document.getElementById("dplayer10"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"7587669ca42e19e8a9aa89df1c2d901970d2966ddddfc30b86120f3c933a9f5e"}});</script><!-- dplayer used1 -->
+<h2 id="The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric"><a href="#The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric" class="headerlink" title="The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)"></a><center><i>The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)</i></center></h2><div id="dplayer11" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer11 = new DPlayer({"element":document.getElementById("dplayer11"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"7587669ca42e19e8a9aa89df1c2d901970d2966ddddfc30b86120f3c933a9f5e"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -3138,7 +3140,7 @@
 
 <a id="more"></a>
 <h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb-for-bb"></a>bb-for-bb</h2><p>宝宝只想用树莓派搭建个人博客玩玩啊，特么为啥如此麻烦？遇到的问题，百度，<em>Google</em>，最后还是解决了，<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/270c.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/270c.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/270c.png" height="20" width="20">。</p>
-<p>现将问题收集如下，希望对看到的人有用。我搭建的网站架构：<em>Linux(Raspbian)+Nginx+MySQL+PHP+WordPress</em>。</p>
+<p>现将问题收集如下，希望对看到的人有用。我用树莓派搭建的网站的架构：<em>Linux(Raspbian)+Nginx+MySQL+PHP+WordPress</em>。</p>
 <h2 id="未能找到WordPress内容目录"><a href="#未能找到WordPress内容目录" class="headerlink" title="未能找到WordPress内容目录"></a>未能找到WordPress内容目录</h2><p>找到<em>WordPress</em>的根目录，找到<code>wp-config.php</code>文件，在文件最后添加如下代码：</p>
 <figure class="highlight lasso"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/** Override default file permissions */</span></div><div class="line"><span class="keyword">if</span>(is_admin()) &#123;</div><div class="line">add_filter(<span class="string">'filesystem_method'</span>, create_function(<span class="string">'$a'</span>, <span class="string">'return "direct";'</span> ));</div><div class="line"><span class="class"><span class="keyword">define</span></span>( <span class="string">'FS_CHMOD_DIR'</span>, <span class="number">0751</span> );</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <h2 id="WordPress需要访问您网页服务器的权限，请输入您的FTP登录凭据以继续"><a href="#WordPress需要访问您网页服务器的权限，请输入您的FTP登录凭据以继续" class="headerlink" title="WordPress需要访问您网页服务器的权限，请输入您的FTP登录凭据以继续"></a>WordPress需要访问您网页服务器的权限，请输入您的FTP登录凭据以继续</h2><p>在<code>wp-config.php</code>文件中添加：</p>
@@ -3319,6 +3321,46 @@
 
 <p><blockquote class="blockquote-center">品味一种纯糖果，各式口感竟皆有<br>单曲循环却病躺，随机播放即变换<br>困于倦于这现实，拥抱梦想何不试<br>星辰大海应忽现，近处视界皆将变</blockquote></p>
 
+<div id="aplayer12" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+[ti:Always In My Head]
+[al:Ghost Stories]
+[by:https://reuixiy.github.io]
+[length:3:36]
+[00:00.00]Coldplay - Always In My Head
+[01:04.42]
+[01:04.43]I think of you
+[01:11.93]I haven't slept
+[01:19.71]I think I do
+[01:21.97]But, I don't forget
+[01:30.59]My body moves
+[01:34.14]Goes where I will
+[01:37.70]But though I try my heart stays still
+[01:45.61]It never moves
+[01:48.68]Just won't be led
+[01:51.53]And so my mouth waters, to be fed
+[01:58.79]And you're always in my head
+[02:06.53]You're always in my head
+[02:13.61]You're always in my head
+[02:21.01]You're always in my head
+[02:43.23]You're always in my head
+[02:50.91]Always in my...
+[02:54.72]Always in my...
+[03:00.15]This, I guess, is to tell you you're chosen out from the rest...
+</pre></div>
+		<script>
+			new APlayer({
+				element: document.getElementById("aplayer12"),
+				narrow: false,
+				autoplay: false,
+				showlrc: 2,
+				music: {
+					title: "Always In My Head",
+					author: "Coldplay",
+					url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Always%20In%20My%20Head.mp3",
+					pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-ghost-stories.jpg",
+				}
+			});
+		</script>
 <hr>
 ]]></content>
       
@@ -3456,9 +3498,9 @@
             
             <tag> 阿西莫夫 </tag>
             
-            <tag> 补充 </tag>
-            
             <tag> 极限 </tag>
+            
+            <tag> 补充 </tag>
             
             <tag> untitled </tag>
             
@@ -3492,7 +3534,7 @@
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开<em>QQ</em>看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着<em>Coldplay</em>的<em>In My Place</em>。码着码着，就码了一个半小时的字，<em>心情也趋于平静</em>。</p>
 <p><div style="text-align:right"><em>2016-12-29 02:43:05</em></div></p>
 
-<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:In My Place]
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
@@ -3532,7 +3574,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer7"),
+				element: document.getElementById("aplayer9"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3930,7 +3972,7 @@
 <a id="more"></a>
 <p><div style="text-align:left">太阳在沉西。<br>你不会长久焦渴了，<br>燃烧的心！<br>有一种凉爽，在空气里，<br>我从陌生的嘴里呼吸到这种气息，<br>超乎寻常的大凉爽即将来临。<br><br>正午的太阳在燃烧，烈日当空，<br>向你致敬哦，你这阵阵袭来的<br>迅疾的风，<br>午后凉爽的精灵。<br><br>空气在流动，平和而纯净。<br>向我投来斜睨的<br>富有魅力之一瞥的<br>不是这夜的眸子？<br><br>坚强些吧，勇敢的心灵！<br>为什么？不用问询。<br>呵，我生命的黄昏呦！<br>太阳总要沉西。<br><br>我的生命之日啊，<br>在黄昏中沉落！<br>你的眼睛闪烁出<br>半被灼红的微光；<br>你的泪水流淌着<br>露珠一样的晶莹；<br>你爱情的紫霞<br>你最后迟到的至福<br>悄然流过，在这白茫茫的大海里……<br><br>四周只有波浪、波浪的嬉戏。<br>往日沉重的一切<br>早在蓝色的遗忘中沉去——<br>我的小船正搁浅。<br>多陌生呀——风暴与航行<br>希望和心愿久已淹没，<br>心灵与大海恬然静眠。<br><br>第七重孤寂<br>我从未感到过<br>更真切的美妙的静谧<br>更温暖的阳光的辐射。<br>——那不在闪烁，我绝顶上的冰？<br><br>银白、轻捷，像一条鱼，<br>我的小船向远方，悄然驶去。</div></p>
 
-<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>摘抄自高中图书馆借的《尼采大传》，时间我记不太清楚😂😂😂。这诗是两部分加起来的，在书中的不同位置。记得当时是英语课，还是偷偷在桌子里看，看到诗的后一部分，马上拿纸抄下。英语老师（平时很严格）在上课？脑子里这时哪里特么有这概念？！？！</p>
+<h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><p>摘抄自高中图书馆借的《尼采大传》，时间我记不太清楚<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。这诗是两部分加起来的，在书中的不同位置。记得当时是英语课，还是偷偷在桌子里看，看到诗的后一部分，马上拿纸抄下。英语老师（平时很严格）在上课？脑子里这时哪里特么有这概念？！？！</p>
 <p>不久前我找到了《尼采大传》电子书版，<del>同一出版社，同一译者，但是版次估计与我看那的不同，因为里面的诗与我抄的不同</del>，有需要的，点击下载<a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/books/%E5%B0%BC%E9%87%87%E5%A4%A7%E4%BC%A0.mobi" target="_blank" rel="external"><i class="fa fa-download"></i>尼采大传.mobi(2.1 MB)</a>。</p>
 <h2 id="勘误和补充-2017-09-25"><a href="#勘误和补充-2017-09-25" class="headerlink" title="勘误和补充(2017.09.25)"></a>勘误和补充(2017.09.25)</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken.jpg" alt="nietzsche-die-sonne-gesunken.jpg"></p>
 <p>整理文件时，找到一张图片（上图），不是同一出版社，也不是同一译者。</p>
@@ -3978,15 +4020,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer3");
+				options.element = document.getElementById("aplayer6");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -4021,7 +4063,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -4033,7 +4075,7 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer8" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer8 = new DPlayer({"element":document.getElementById("dplayer8"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <hr>
 ]]></content>
