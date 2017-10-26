@@ -59,7 +59,7 @@
     <published>2017-10-03T07:05:22.000Z</published>
     <updated>2017-10-04T14:25:00.808Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起<a href="http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html" target="_blank" rel="external">百度经验</a>上面的apt-get介绍，有个强力推荐，于是然后<code>apt-get autoremove gstreamer* --purge</code>卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">……</blockquote></p><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>产生了三个悲剧。</p><ul><li>导致EasyScreenCast没用</li></ul><p>在Tweak Tool那显示Error，提到什么Required Gst，无奈只好Google这个插件，找到Github页面，看到依赖gstreamer，恍然大悟，赶紧apt-get install gstreamer*安装，最后终于解决。</p><ul><li>导致文件浏览器（Nautilus）无法自动显示图片略缩图（thumbnails）</li></ul><p><del>至今还没解决，只有安装gThumb，点击一个文件夹的图片，然后会自动生成当前文件夹的thumbnails，再重新加载文件夹，便能显示。</del></p><p>已解决，apt-cache search gstreamer，把相关的包全部安装。</p><ul><li>悲剧它自己</li></ul><p>其中折腾EasyScreenCast时，在<a href="https://extensions.gnome.org" target="_blank" rel="external">Gnome Exitesions</a>看到很多插件，于是Google <code>Top Gnome Exitesions</code>，看Youtube视频，突然发现它的界面好好看啊！然后折腾Theme咯，突然想把自己一直Globe Dark的Gnome界面折腾成<a href="https://baike.baidu.com/item/Mac%20OS" target="_blank" rel="external">macOS</a>风格，于是……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lingrenzhixidecaozuo.jpg" alt="lingrenzhixidecaozuo.jpg"></p><h2 id="Theme"><a href="#Theme" class="headerlink" title="Theme"></a>Theme</h2><p>进入正题，先把我的版本贴出来：</p><figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">root@kali:~<span class="comment"># gnome-shell --version</span></div><div class="line">GNOME <span class="keyword">Shell</span><span class="bash"> 3.22.3</span></div></pre></td></tr></table></figure><p>我的是GTK3，如果你的不是这个版本，不要紧，下面的不一定不能装，自己去页面查看说明。</p><p>首先打开Tweak Tool，里面的GTK+、Shell theme都可以在<a href="https://www.gnome-look.org/" target="_blank" rel="external">gnome-look</a>网站上找到，可以找到自己喜欢的下载，然后放到<code>/usr/share/themes</code>目录下，或者<code>~/.themes/</code>（没有自己创建，并且要安装插件<a href="https://extensions.gnome.org/extension/19/user-themes/" target="_blank" rel="external">User Themes</a>，gnome shell插件安装方法见<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html">这篇文章</a>）目录下即可。</p><p><blockquote class="question">tip：新加个<code>Theme</code>，要关闭Tweak Tool再打开才能看到新加的，如果切换后没有效果，重启Gnome，Alt+F2，输入<code>r</code>回车，再不行就重启系统。</blockquote></p><h3 id="GTK-amp-Shell-theme"><a href="#GTK-amp-Shell-theme" class="headerlink" title="GTK+ &amp; Shell theme"></a>GTK+ &amp; Shell theme</h3><p>下面的三个主题既有GTK+又有Shell的主题，另：有Github地址，且会用Github的，尽量去<code>相应目录</code>直接<code>git clone</code>，这样以后更新就可以直接<code>git pull</code>。</p><ul><li>Gnome OSX-III-1.0</li></ul><p><a href="https://www.gnome-look.org/p/1171688/" target="_blank" rel="external">https://www.gnome-look.org/p/1171688/</a></p><p>把Gnome OSX-III-1.0.tar.gz、Gnome-OSX-Shell-themes-1.0.tar.gz、Extra-1.0.tar.gz（里面有壁纸）都下载，然后将Gnome-OSX-Shell-themes-1.0.tar.gz解压的文件夹里面的Gnome-OSX-Light-Shell里面的gnome-shell文件夹复制到Gnome OSX-III-1.0文件夹里。</p><p>安装字体，把两个文件复制到<code>/usr/share/fonts/truetype/</code>目录下，然后<code>fc-cache -f -v</code>即可。</p><ul><li>OSX Arc White</li></ul><p><a href="https://www.gnome-look.org/p/1167049/" target="_blank" rel="external">https://www.gnome-look.org/p/1167049/</a></p><p>下载OSX-Arc-White-v1.4.3.tar.gz，当然这是我现在看到的最新的，如果有新版就下新版。</p><p><a href="https://github.com/LinxGem33/OSX-Arc-White" target="_blank" rel="external">https://github.com/LinxGem33/OSX-Arc-White</a></p><ul><li>macOS Sierra</li></ul><p><a href="https://www.gnome-look.org/p/1013490/" target="_blank" rel="external">https://www.gnome-look.org/p/1013490/</a></p><p>下载<code>Description</code>为macOS Sierra Github (latest)的。</p><h3 id="Shell-theme"><a href="#Shell-theme" class="headerlink" title="Shell theme"></a>Shell theme</h3><ul><li>Human</li></ul><p><a href="https://www.gnome-look.org/p/1171095/" target="_blank" rel="external">https://www.gnome-look.org/p/1171095/</a></p><h3 id="Icons"><a href="#Icons" class="headerlink" title="Icons"></a>Icons</h3><p>下载<code>Date</code>最新的，别只看大小，因为压缩方式可能不同。</p><ul><li>Shadow</li></ul><p><a href="https://www.gnome-look.org/p/1012532/" target="_blank" rel="external">https://www.gnome-look.org/p/1012532/</a></p><p><a href="https://github.com/rudrab/Shadow" target="_blank" rel="external">https://github.com/rudrab/Shadow</a></p><ul><li>La Capitaine</li></ul><p><a href="https://www.gnome-look.org/p/1148695/" target="_blank" rel="external">https://www.gnome-look.org/p/1148695/</a></p><p><a href="https://github.com/keeferrourke/la-capitaine-icon-theme" target="_blank" rel="external">https://github.com/keeferrourke/la-capitaine-icon-theme</a></p><ul><li>macOS</li></ul><p><a href="https://www.gnome-look.org/p/1102582/" target="_blank" rel="external">https://www.gnome-look.org/p/1102582/</a></p><ul><li>Arc-OSX-Icons</li></ul><p><a href="https://github.com/LinxGem33/Arc-OSX-Icons" target="_blank" rel="external">https://github.com/LinxGem33/Arc-OSX-Icons</a></p><p>图标安装，<code>gnome-look</code>网站无法直接下载，而是要先安装<a href="https://www.linux-apps.com/p/1175480/" target="_blank" rel="external">OCS-Store</a>，然后可以就可以直接安装，OCS-Store会安装到<code>~/.local/share/icons/</code>目录下。</p><p>为啥要安装OCS-Store，<code>gnome-look</code>网站页面左上方有个叫Opendesktop的东东，应该就是这个搞的鬼，看起来像是个强大的组织<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/mengbi.jpg" height="50" width="50">。</p><p>当然，有Github页面的，可以直接到<code>/usr/share/icons/</code>目录，或者<code>~/.local/share/icons/</code>目录，然后<code>git clone</code>，以后更新简单。</p><h3 id="Terminal主题"><a href="#Terminal主题" class="headerlink" title="Terminal主题"></a>Terminal主题</h3><p><a href="https://github.com/Mayccoll/Gogh" target="_blank" rel="external">https://github.com/Mayccoll/Gogh</a></p><h3 id="GDM登录界面主题"><a href="#GDM登录界面主题" class="headerlink" title="GDM登录界面主题"></a>GDM登录界面主题</h3><p>GDM登录界面只有通过替换目录<code>/usr/share/gnome-shell/</code>下的gnome-shell-theme.gresource文件实现更改（替换前务必先备份原文件），壁纸自定义可以通过<a href="https://wiki.archlinux.org/index.php/GDM" target="_blank" rel="external">这种方法</a>重新生成gnome-shell-theme.gresource实现，其它元素自定义困难。</p><p>建议直接Google搜索gnome-shell-theme.gresource，找一个提供这一文件并且合自己口味GTK主题，比如<a href="https://github.com/nana-4/Flat-Plat" target="_blank" rel="external">Flat-Plat</a>（下载后，先执行脚本安装主题，然后才会生成这个文件，再去<code>/usr/share/themes/Flat-Plat/gnome-shell/</code>下找这个文件），<a href="https://github.com/LinxGem33/OSX-Arc-White/blob/master/gnome-shell/gnome-shell-theme.gresource" target="_blank" rel="external">OSX-Arc-White</a>（直接下载），然后将文件放到上文所提到的目录即可，壁纸可按上文链接中的方法自定义。</p><h3 id="博主的配置"><a href="#博主的配置" class="headerlink" title="博主的配置"></a>博主的配置</h3><table><thead><tr><th>类型</th><th>主题</th></tr></thead><tbody><tr><td>GTK+</td><td>Gnome OSX-III-1.0</td></tr><tr><td>Icons</td><td>Shadow</td></tr><tr><td>Shell theme</td><td>OSX Arc White</td></tr><tr><td>GDM</td><td>OSX Arc White</td></tr><tr><td>Terminal</td><td>Gogh Aci</td></tr></tbody></table><p>为啥<code>GTK+</code>用Gnome OSX-III-1.0？附上页面上该作者的吐槽：</p><p><em>This is a gnome-desktop-interpretation of Mac OSX. I’ve tried to implement the feel of OSX on the gnome-applications. In version 3.0 I’ve modernized it in every little detail. There is nothing (not a single item) that is not new. Resulting in a completely rewritten GTK.CSS-file four times bigger than the previous one, while the theme feels more responsive. I’ve also added a dark theme, so Terminal, Photo’s, and Video’s are automatically dark-themed. I’ve spend a great deal of time (3 months) and effort on this theme into fine-tuning it, so I hope you try before you judge !</em></p><p>的确，这厮用了三个月，界面效果确与其它两个不同，自己对比一下其它两个即能感受出。正如作者所言，细节真的很棒，比如渐变！</p><p>但是，Gnome OSX-III-1.0自带的<code>Shell theme</code>不咋地，所以我用了OSX Arc White的Shell theme，没话说，就是赞！</p><p><code>Icons</code>我用的Shadow，感觉很喜欢这个风格，虽然不太好辨认，但是很合我口味<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">！</p><p><code>Terminal</code>用的Gogh的Aci，然后自己再在Performance&gt;Profiles&gt;Aci&gt;Edit自定义了一下。</p><p><code>GDM</code>用的OSX Arc White自带的（将OSX-Arc-White/gnome-shell/gnome-shell-theme.gresource复制到/usr/share/gnome-shell/下，替换原来的，替换前记得先备份），与Shell theme保持一致吧。</p><h3 id="“bugs”"><a href="#“bugs”" class="headerlink" title="“bugs”"></a>“bugs”</h3><table><thead><tr><th>类型</th><th>问题</th></tr></thead><tbody><tr><td>GTK+：Gnome OSX-III-1.0</td><td>Gnome的自带应用和其它应用，两种风格的窗口，其它应用的窗口边界控制都有问题。</td></tr><tr><td>Shell theme：OSX-Arc-White</td><td>右下角Applications按钮后的视图，二级菜单背景色为难看的不透明色，另Dock最右端（屏幕最右）有黑边，鼠标过去可以发现。</td></tr></tbody></table><h2 id="细节呐"><a href="#细节呐" class="headerlink" title="细节呐"></a>细节呐</h2><p><blockquote class="question">折腾不息！<br><div style="text-align:right">——强迫症患者</div></blockquote></p><h3 id="顶栏Gnome图标顺序"><a href="#顶栏Gnome图标顺序" class="headerlink" title="顶栏Gnome图标顺序"></a>顶栏Gnome图标顺序</h3><p>安装了几个插件，弄上顶栏（Top bar），发现网速显示的插件左边空白太大<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f615.png" height="20" width="20">，于是折腾，将它显示在右半部分的最左边。</p><p>参考：<a href="https://askubuntu.com/questions/453969/how-can-i-order-gnome3-shell-extensions-at-the-top" target="_blank" rel="external">https://askubuntu.com/questions/453969/how-can-i-order-gnome3-shell-extensions-at-the-top</a></p><p>本来是可以直接更改Simple net speed插件的，但是它的代码看不懂，无奈只好从它左边的两个插件（Openweather，EasyScreenCast）入手。</p><table><thead><tr><th>已安装插件</th><th>插件的功能</th></tr></thead><tbody><tr><td>Topicons plus</td><td>将左下脚的托盘图标放在顶栏托盘</td></tr><tr><td>Simple net speed</td><td>顶栏实时网速显示</td></tr><tr><td>Openweather</td><td>顶栏显示天气</td></tr><tr><td>EasyScreenCast</td><td>录屏</td></tr></tbody></table><p>首先文件位置取决于你安装插件的方式，apt-get方式安装的在<code>/usr/share/gnome-shell/extensions/</code>，如果是用Firefox网页安装的则是在<code>~/.local/share/gnome-shell/extensions/</code>。</p><p>修改Openweather插件，文件位置：<code>/usr/share/gnome-shell/extensions/openweather-extension@jenslody.de/extensions.js</code></p><p>Ctrl+F搜索<code>WeatherPosition.RIGHT</code>，搜到3处，改2处：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-tag">Main</span><span class="selector-class">.panel</span><span class="selector-class">._rightBox</span><span class="selector-class">.insert_child_at_index</span>(<span class="selector-tag">this</span><span class="selector-class">.actor</span>, 2);</div></pre></td></tr></table></figure><p>修改EasyScreenCast插件，文件位置：<code>/usr/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/extensions.js</code></p><p>文件最后面，找到这行，添加内容：</p><figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-tag">Main</span><span class="selector-class">.panel</span><span class="selector-class">.addToStatusArea</span>(<span class="string">'EasyScreenCast-indicator'</span>, Indicator, <span class="number">1</span>);</div></pre></td></tr></table></figure><p>数字依情况而定，可以改后，Alt+F2输入<code>r</code>回车重启Gnome调试。另外，还需在Tweak Tool的Extensions里更改Topicons plus插件的Tray offset的值。</p><h3 id="Fcitx输入法皮肤"><a href="#Fcitx输入法皮肤" class="headerlink" title="Fcitx输入法皮肤"></a>Fcitx输入法皮肤</h3><p>直接查看<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/03/install-fcitx-in-kali-linux-to-input-chinese.html">Kali Linux安装Fcitx</a>。</p><p>Ok！(๑•̀ㅂ•́)و✧</p><p>最后，标题就是骗你的23333……</p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起<a href="http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html" target="_blank" rel="external">百度经验</a>上面的apt-get介绍，有个强力推荐，于是然后<code>apt-get autoremove gstreamer* --purge</code>卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">……</blockquote></p><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>产生了三个悲剧。</p><ul><li>导致EasyScreenCast没用</li></ul><p>在Tweak Tool那显示Error，提到什么Required Gst，无奈只好Google这个插件，找到Github页面，看到依赖gstreamer，恍然大悟，赶紧apt-get install gstreamer*安装，最后终于解决。</p><ul><li>导致文件浏览器（Nautilus）无法自动显示图片略缩图（thumbnails）</li></ul><p><del>至今还没解决，只有安装gThumb，点击一个文件夹的图片，然后会自动生成当前文件夹的thumbnails，再重新加载文件夹，便能显示。</del></p><p>已解决，apt-cache search gstreamer，把相关的包全部安装。</p><ul><li>悲剧它自己</li></ul><p>其中折腾EasyScreenCast时，在<a href="https://extensions.gnome.org" target="_blank" rel="external">Gnome Exitesions</a>看到很多插件，于是Google <code>Top Gnome Exitesions</code>，看Youtube视频，突然发现它的界面好好看啊！然后折腾Theme咯，突然想把自己一直Globe Dark的Gnome界面折腾成<a href="https://baike.baidu.com/item/Mac%20OS" target="_blank" rel="external">macOS</a>风格，于是……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lingrenzhixidecaozuo.jpg" alt="lingrenzhixidecaozuo.jpg"></p><h2 id="Theme"><a href="#Theme" class="headerlink" title="Theme"></a>Theme</h2><p>进入正题，先把我的版本贴出来：</p><figure class="highlight dockerfile"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">root@kali:~<span class="comment"># gnome-shell --version</span></div><div class="line">GNOME <span class="keyword">Shell</span><span class="bash"> 3.22.3</span></div></pre></td></tr></table></figure><p>我的是GTK3，如果你的不是这个版本，不要紧，下面的不一定不能装，自己去页面查看说明。</p><p>首先打开Tweak Tool，里面的GTK+、Shell theme都可以在<a href="https://www.gnome-look.org/" target="_blank" rel="external">gnome-look</a>网站上找到，可以找到自己喜欢的下载，然后放到<code>/usr/share/themes</code>目录下，或者<code>~/.themes/</code>（没有自己创建，并且要安装插件<a href="https://extensions.gnome.org/extension/19/user-themes/" target="_blank" rel="external">User Themes</a>，gnome shell插件安装方法见<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/02/how-to-install-gnome-shell-extensions.html">这篇文章</a>）目录下即可。</p><p><blockquote class="question">tip：新加个<code>Theme</code>，要关闭Tweak Tool再打开才能看到新加的，如果切换后没有效果，重启Gnome，Alt+F2，输入<code>r</code>回车，再不行就重启系统。</blockquote></p><h3 id="GTK-amp-Shell-theme"><a href="#GTK-amp-Shell-theme" class="headerlink" title="GTK+ &amp; Shell theme"></a>GTK+ &amp; Shell theme</h3><p>下面的三个主题既有GTK+又有Shell的主题，另：有Github地址，且会用Github的，尽量去<code>相应目录</code>直接<code>git clone</code>，这样以后更新就可以直接<code>git pull</code>。</p><ul><li>Gnome OSX-III-1.0</li></ul><p><a href="https://www.gnome-look.org/p/1171688/" target="_blank" rel="external">https://www.gnome-look.org/p/1171688/</a></p><p>把Gnome OSX-III-1.0.tar.gz、Gnome-OSX-Shell-themes-1.0.tar.gz、Extra-1.0.tar.gz（里面有壁纸）都下载，然后将Gnome-OSX-Shell-themes-1.0.tar.gz解压的文件夹里面的Gnome-OSX-Light-Shell里面的gnome-shell文件夹复制到Gnome OSX-III-1.0文件夹里。</p><p>安装字体，把两个文件复制到<code>/usr/share/fonts/truetype/</code>目录下，然后<code>fc-cache -f -v</code>即可。</p><ul><li>OSX Arc White</li></ul><p><a href="https://www.gnome-look.org/p/1167049/" target="_blank" rel="external">https://www.gnome-look.org/p/1167049/</a></p><p>下载OSX-Arc-White-v1.4.3.tar.gz，当然这是我现在看到的最新的，如果有新版就下新版。</p><p><a href="https://github.com/LinxGem33/OSX-Arc-White" target="_blank" rel="external">https://github.com/LinxGem33/OSX-Arc-White</a></p><ul><li>macOS Sierra</li></ul><p><a href="https://www.gnome-look.org/p/1013490/" target="_blank" rel="external">https://www.gnome-look.org/p/1013490/</a></p><p>下载<code>Description</code>为macOS Sierra Github (latest)的。</p><h3 id="Shell-theme"><a href="#Shell-theme" class="headerlink" title="Shell theme"></a>Shell theme</h3><ul><li>Human</li></ul><p><a href="https://www.gnome-look.org/p/1171095/" target="_blank" rel="external">https://www.gnome-look.org/p/1171095/</a></p><h3 id="Icons"><a href="#Icons" class="headerlink" title="Icons"></a>Icons</h3><p>下载<code>Date</code>最新的，别只看大小，因为压缩方式可能不同。</p><ul><li>Shadow</li></ul><p><a href="https://www.gnome-look.org/p/1012532/" target="_blank" rel="external">https://www.gnome-look.org/p/1012532/</a></p><p><a href="https://github.com/rudrab/Shadow" target="_blank" rel="external">https://github.com/rudrab/Shadow</a></p><ul><li>La Capitaine</li></ul><p><a href="https://www.gnome-look.org/p/1148695/" target="_blank" rel="external">https://www.gnome-look.org/p/1148695/</a></p><p><a href="https://github.com/keeferrourke/la-capitaine-icon-theme" target="_blank" rel="external">https://github.com/keeferrourke/la-capitaine-icon-theme</a></p><ul><li>macOS</li></ul><p><a href="https://www.gnome-look.org/p/1102582/" target="_blank" rel="external">https://www.gnome-look.org/p/1102582/</a></p><ul><li>Arc-OSX-Icons</li></ul><p><a href="https://github.com/LinxGem33/Arc-OSX-Icons" target="_blank" rel="external">https://github.com/LinxGem33/Arc-OSX-Icons</a></p><p>图标安装，<code>gnome-look</code>网站无法直接下载，而是要先安装<a href="https://www.linux-apps.com/p/1175480/" target="_blank" rel="external">OCS-Store</a>，然后可以就可以直接安装，OCS-Store会安装到<code>~/.local/share/icons/</code>目录下。</p><p>为啥要安装OCS-Store，<code>gnome-look</code>网站页面左上方有个叫Opendesktop的东东，应该就是这个搞的鬼，看起来像是个强大的组织<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/mengbi.jpg" height="50" width="50">。</p><p>当然，有Github页面的，可以直接到<code>/usr/share/icons/</code>目录，或者<code>~/.local/share/icons/</code>目录，然后<code>git clone</code>，以后更新简单。</p><h3 id="Terminal主题"><a href="#Terminal主题" class="headerlink" title="Terminal主题"></a>Terminal主题</h3><p><a href="https://github.com/Mayccoll/Gogh" target="_blank" rel="external">https://github.com/Mayccoll/Gogh</a></p><h3 id="GDM登录界面主题"><a href="#GDM登录界面主题" class="headerlink" title="GDM登录界面主题"></a>GDM登录界面主题</h3><p>GDM登录界面只有通过替换目录<code>/usr/share/gnome-shell/</code>下的gnome-shell-theme.gresource文件实现更改（替换前务必先备份原文件），壁纸自定义可以通过<a href="https://wiki.archlinux.org/index.php/GDM" target="_blank" rel="external">这种方法</a>重新生成gnome-shell-theme.gresource实现，其它元素自定义困难。</p><p>建议直接Google搜索gnome-shell-theme.gresource，找一个提供这一文件并且合自己口味GTK主题，比如<a href="https://github.com/nana-4/Flat-Plat" target="_blank" rel="external">Flat-Plat</a>（下载后，先执行脚本安装主题，然后才会生成这个文件，再去<code>/usr/share/themes/Flat-Plat/gnome-shell/</code>下找这个文件），<a href="https://github.com/LinxGem33/OSX-Arc-White/blob/master/gnome-shell/gnome-shell-theme.gresource" target="_blank" rel="external">OSX-Arc-White</a>（直接下载），然后将文件放到上文所提到的目录即可，壁纸可按上文链接中的方法自定义。</p><h3 id="博主的配置"><a href="#博主的配置" class="headerlink" title="博主的配置"></a>博主的配置</h3><table><thead><tr><th>类型</th><th>主题</th></tr></thead><tbody><tr><td>GTK+</td><td>Gnome OSX-III-1.0</td></tr><tr><td>Icons</td><td>Shadow</td></tr><tr><td>Shell theme</td><td>OSX Arc White</td></tr><tr><td>GDM</td><td>OSX Arc White</td></tr><tr><td>Terminal</td><td>Gogh Aci</td></tr></tbody></table><p>为啥<code>GTK+</code>用Gnome OSX-III-1.0？附上页面上该作者的吐槽：</p><p><em>This is a gnome-desktop-interpretation of Mac OSX. I’ve tried to implement the feel of OSX on the gnome-applications. In version 3.0 I’ve modernized it in every little detail. There is nothing (not a single item) that is not new. Resulting in a completely rewritten GTK.CSS-file four times bigger than the previous one, while the theme feels more responsive. I’ve also added a dark theme, so Terminal, Photo’s, and Video’s are automatically dark-themed. I’ve spend a great deal of time (3 months) and effort on this theme into fine-tuning it, so I hope you try before you judge !</em></p><p>的确，这厮用了三个月，界面效果确与其它两个不同，自己对比一下其它两个即能感受出。正如作者所言，细节真的很棒，比如渐变！</p><p>但是，Gnome OSX-III-1.0自带的<code>Shell theme</code>不咋地，所以我用了OSX Arc White的Shell theme，没话说，就是赞！</p><p><code>Icons</code>我用的Shadow，感觉很喜欢这个风格，虽然不太好辨认，但是很合我口味<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">！</p><p><code>Terminal</code>用的Gogh的Aci，然后自己再在Performance&gt;Profiles&gt;Aci&gt;Edit自定义了一下。</p><p><code>GDM</code>用的OSX Arc White自带的（将OSX-Arc-White/gnome-shell/gnome-shell-theme.gresource复制到/usr/share/gnome-shell/下，替换原来的，替换前记得先备份），与Shell theme保持一致吧。</p><h3 id="“bugs”"><a href="#“bugs”" class="headerlink" title="“bugs”"></a>“bugs”</h3><table><thead><tr><th>类型</th><th>问题</th></tr></thead><tbody><tr><td>GTK+：Gnome OSX-III-1.0</td><td>Gnome的自带应用和其它应用，两种风格的窗口，其它应用的窗口边界控制都有问题。</td></tr><tr><td>Shell theme：OSX-Arc-White</td><td>右下角Applications按钮后的视图，二级菜单背景色为难看的不透明色，另Dock最右端（屏幕最右）有黑边，鼠标过去可以发现。</td></tr></tbody></table><h2 id="细节呐"><a href="#细节呐" class="headerlink" title="细节呐"></a>细节呐</h2><p><blockquote class="question">折腾不息！<br><div style="text-align:right">——强迫症患者</div></blockquote></p><h3 id="顶栏Gnome图标顺序"><a href="#顶栏Gnome图标顺序" class="headerlink" title="顶栏Gnome图标顺序"></a>顶栏Gnome图标顺序</h3><p>安装了几个插件，弄上顶栏（Top bar），发现网速显示的插件左边空白太大<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f615.png" height="20" width="20">，于是折腾，将它显示在右半部分的最左边。</p><p>参考：<a href="https://askubuntu.com/questions/453969/how-can-i-order-gnome3-shell-extensions-at-the-top" target="_blank" rel="external">https://askubuntu.com/questions/453969/how-can-i-order-gnome3-shell-extensions-at-the-top</a></p><p>本来是可以直接更改Simple net speed插件的，但是它的代码看不懂，无奈只好从它左边的两个插件（Openweather，EasyScreenCast）入手。</p><table><thead><tr><th>已安装插件</th><th>插件的功能</th></tr></thead><tbody><tr><td>Topicons plus</td><td>将左下脚的托盘图标放在顶栏托盘</td></tr><tr><td>Simple net speed</td><td>顶栏实时网速显示</td></tr><tr><td>Openweather</td><td>顶栏显示天气</td></tr><tr><td>EasyScreenCast</td><td>录屏</td></tr></tbody></table><p>首先文件位置取决于你安装插件的方式，apt-get方式安装的在<code>/usr/share/gnome-shell/extensions/</code>，如果是用Firefox网页安装的则是在<code>~/.local/share/gnome-shell/extensions/</code>。</p><p>修改Openweather插件，文件位置：<code>/usr/share/gnome-shell/extensions/openweather-extension@jenslody.de/extensions.js</code></p><p>Ctrl+F搜索<code>WeatherPosition.RIGHT</code>，搜到3处，改2处：</p><figure class="highlight css"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-tag">Main</span><span class="selector-class">.panel</span><span class="selector-class">._rightBox</span><span class="selector-class">.insert_child_at_index</span>(<span class="selector-tag">this</span><span class="selector-class">.actor</span>, 2);</div></pre></td></tr></table></figure><p>修改EasyScreenCast插件，文件位置：<code>/usr/share/gnome-shell/extensions/EasyScreenCast@iacopodeenosee.gmail.com/extensions.js</code></p><p>文件最后面，找到这行，添加内容：</p><figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="selector-tag">Main</span><span class="selector-class">.panel</span><span class="selector-class">.addToStatusArea</span>(<span class="string">'EasyScreenCast-indicator'</span>, Indicator, <span class="number">1</span>);</div></pre></td></tr></table></figure><p>数字依情况而定，可以改后，Alt+F2输入<code>r</code>回车重启Gnome调试。另外，还需在Tweak Tool的Extensions里更改Topicons plus插件的Tray offset的值。</p><h3 id="Fcitx输入法皮肤"><a href="#Fcitx输入法皮肤" class="headerlink" title="Fcitx输入法皮肤"></a>Fcitx输入法皮肤</h3><p>直接查看<a href="https://reuixiy.github.io/technology/computer/system-software/2017/10/03/install-fcitx-in-kali-linux-to-input-chinese.html">Kali Linux安装Fcitx</a>。</p><p>Ok！(๑•̀ㅂ•́)و✧</p><p>最后，标题就是骗你的23333……</p><hr>]]></content>
     
     <summary type="html">
     
@@ -67,7 +67,7 @@
 
 &lt;p&gt;&lt;blockquote&gt;折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起&lt;a href=&quot;http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;百度经验&lt;/a&gt;上面的apt-get介绍，有个强力推荐，于是然后&lt;code&gt;apt-get autoremove gstreamer* --purge&lt;/code&gt;卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;&lt;img id=&quot;github-emoji&quot; src=&quot;https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png&quot; height=&quot;20&quot; width=&quot;20&quot;&gt;……&lt;/blockquote&gt;&lt;/p&gt;
 
-&lt;div id=&quot;dplayer5&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer5 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer5&quot;),&quot;loop&quot;:0,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;div id=&quot;dplayer4&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer4 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer4&quot;),&quot;loop&quot;:0,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -169,7 +169,7 @@
     <published>2017-09-25T12:39:49.000Z</published>
     <updated>2017-09-25T13:31:35.527Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>古希腊哲学家赫拉克利特说：”人不能两次踏进同一条河流”，世界是不断变化的，即「易」。因世界必定是混乱的，故没有和平，只有战争，和平只会灭亡。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/born-in-war-and-died-in-peace-title.jpg" alt="born-in-war-and-died-in-peace-title.jpg" style="width:100%"></p><a id="more"></a><p>生于忧患 死于安乐</p><p>没有和平 唯有战争</p><p>黑暗中才能看到光芒</p><p>战争中才有天堂</p><p>和平“天堂”的光芒只有虚假</p><h2 id="“天堂”的光芒-1"><a href="#“天堂”的光芒-1" class="headerlink" title="“天堂”的光芒 - 1"></a>“天堂”的光芒 - 1</h2><p>娱乐在和平时代兴起</p><p>游戏在娱乐市场火热</p><p>战争在游戏题材不灭</p><h2 id="“光芒”中的人-1"><a href="#“光芒”中的人-1" class="headerlink" title="“光芒”中的人 - 1"></a>“光芒”中的人 - 1</h2><p>游戏是因为无聊</p><p>娱乐是因为无聊</p><p>无聊是因为和平</p><h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平</p><p>火热是因为娱乐</p><p>不灭是因为战争</p><div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt][ti:Barbossa Is Hungry][al:Pirates of the Caribbean: The Curse of the Black Pearl][by:https://reuixiy.github.io][length:4:06][00:00.00]Klaus Badelt - Barbossa Is Hungry[00:05.00]纯音乐，请您欣赏</pre></div><script>new APlayer({element: document.getElementById("aplayer10"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Barbossa Is Hungry",author: "Klaus Badelt",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",}});</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>古希腊哲学家赫拉克利特说：”人不能两次踏进同一条河流”，世界是不断变化的，即「易」。因世界必定是混乱的，故没有和平，只有战争，和平只会灭亡。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/born-in-war-and-died-in-peace-title.jpg" alt="born-in-war-and-died-in-peace-title.jpg" style="width:100%"></p><a id="more"></a><p>生于忧患 死于安乐</p><p>没有和平 唯有战争</p><p>黑暗中才能看到光芒</p><p>战争中才有天堂</p><p>和平“天堂”的光芒只有虚假</p><h2 id="“天堂”的光芒-1"><a href="#“天堂”的光芒-1" class="headerlink" title="“天堂”的光芒 - 1"></a>“天堂”的光芒 - 1</h2><p>娱乐在和平时代兴起</p><p>游戏在娱乐市场火热</p><p>战争在游戏题材不灭</p><h2 id="“光芒”中的人-1"><a href="#“光芒”中的人-1" class="headerlink" title="“光芒”中的人 - 1"></a>“光芒”中的人 - 1</h2><p>游戏是因为无聊</p><p>娱乐是因为无聊</p><p>无聊是因为和平</p><h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平</p><p>火热是因为娱乐</p><p>不灭是因为战争</p><div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt][ti:Barbossa Is Hungry][al:Pirates of the Caribbean: The Curse of the Black Pearl][by:https://reuixiy.github.io][length:4:06][00:00.00]Klaus Badelt - Barbossa Is Hungry[00:05.00]纯音乐，请您欣赏</pre></div><script>new APlayer({element: document.getElementById("aplayer11"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Barbossa Is Hungry",author: "Klaus Badelt",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",}});</script><hr>]]></content>
     
     <summary type="html">
     
@@ -190,6 +190,8 @@
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
@@ -197,8 +199,6 @@
       <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
     
       <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
-    
-      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -294,7 +294,7 @@
     <published>2017-09-22T14:49:42.000Z</published>
     <updated>2017-10-03T07:16:20.104Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="external">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="external">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
     
     <summary type="html">
     
@@ -315,8 +315,6 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
@@ -324,6 +322,8 @@
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
   </entry>
   
@@ -334,7 +334,7 @@
     <published>2017-09-09T08:04:20.000Z</published>
     <updated>2017-09-09T08:40:36.734Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>小时候侧着头遥指星空，我要去那！然后接受教育，接触社会，进入了自己的象牙塔，从此便在这一个维度上等待死亡，再也看不到那不在一线上的星空了。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-37.jpg" alt="coldplay-37.jpg" style="width:100%"></p><a id="more"></a><p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Now My Feet Won't Touch The Ground][al:Prospekt's March EP][by:https://reuixiy.github.io][length:2:26][00:00.00]Coldplay - Now My Feet Won't Touch The Ground[00:09.71][00:09.72]Let me go[00:12.19]Boys, let me go[00:17.34]Push my boat from the highest cliff[00:21.04]To the sea below[00:25.00]Rocks awaiting[00:27.72]Boys, rocks awaiting[00:33.07]Swoop down from the sky and catch me[00:36.55]Like a bird of prey[00:41.60]Now my feet won't touch the ground[00:49.62]Now my head won't stop[00:57.04]You wait a lifetime[01:01.20]To be found[01:05.12]Now my feet won't touch the ground[01:45.30]Now my feet won't touch the ground[01:53.48]Now my head won't stop[02:01.05]You wait a lifetime[02:05.16]To be found[02:08.89]Now my feet won't touch the ground[02:16.86]Now my feet won't touch the ground</pre></div><script>new APlayer({element: document.getElementById("aplayer3"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Now My Feet Won't Touch The Ground",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg",}});</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>小时候侧着头遥指星空，我要去那！然后接受教育，接触社会，进入了自己的象牙塔，从此便在这一个维度上等待死亡，再也看不到那不在一线上的星空了。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-37.jpg" alt="coldplay-37.jpg" style="width:100%"></p><a id="more"></a><p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Now My Feet Won't Touch The Ground][al:Prospekt's March EP][by:https://reuixiy.github.io][length:2:26][00:00.00]Coldplay - Now My Feet Won't Touch The Ground[00:09.71][00:09.72]Let me go[00:12.19]Boys, let me go[00:17.34]Push my boat from the highest cliff[00:21.04]To the sea below[00:25.00]Rocks awaiting[00:27.72]Boys, rocks awaiting[00:33.07]Swoop down from the sky and catch me[00:36.55]Like a bird of prey[00:41.60]Now my feet won't touch the ground[00:49.62]Now my head won't stop[00:57.04]You wait a lifetime[01:01.20]To be found[01:05.12]Now my feet won't touch the ground[01:45.30]Now my feet won't touch the ground[01:53.48]Now my head won't stop[02:01.05]You wait a lifetime[02:05.16]To be found[02:08.89]Now my feet won't touch the ground[02:16.86]Now my feet won't touch the ground</pre></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Now My Feet Won't Touch The Ground",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg",}});</script><hr>]]></content>
     
     <summary type="html">
     
@@ -353,11 +353,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
@@ -378,7 +378,7 @@
     <published>2017-09-01T01:33:18.000Z</published>
     <updated>2017-10-04T13:49:25.104Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>听说有个暗网，现在接触了个零网……</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-title.png" alt="first-exploration-of-the-zeronet-title.png" style="width:100%"></p><a id="more"></a><h2 id="体验小视频"><a href="#体验小视频" class="headerlink" title="体验小视频"></a>体验小视频</h2><p>打开后，首先感觉界面<em>UI</em>很棒，骚气的紫色，加上渐变，让人眼前一亮(๑•̀ㅂ•́)و✧。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-1.png" alt="first-exploration-of-the-zeronet-1.png"></p><p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p><p>最后就是小视频了：</p><div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 --><p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p><h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p><p><em>ZeroNet</em>是一个去中心化的类似于<em>Internet</em>的网络，由匈牙利的开发者使用<em>Python</em>制作，完全开源。网站特殊的“<em>ZeroNet URL</em>”可以使用一般的浏览器浏览，就像访问本地主机一样。<em>ZeroNet</em>默认并「不」匿名，但是用户可以通过内置的<em>Tor</em>功能进行匿名化。<em>ZeroNet</em>使用<em>Bitcoin</em>加密算法及<em>BitTorrent</em>网络。</p><p><em>ZeroNet</em>是一个利用比特币加密和<em>BT</em>技术提供不受审查的网络与通信的<em>BT</em>平台，<em>ZeroNet</em>网络功能已经得到完整的种子的支持和加密连接，保证用户通信和文件共享的安全。使用<em>ZeroNet</em>，你可以匿名上网，你可以在自己电脑搭建网站，但即使你关机，你的网站依然在全球存在，别人无法关闭你的网站。</p><p><blockquote class="question">防<em>DMCA Take down</em></blockquote></p><p>由于<em>ZeroNet</em>去中心化的原因，国外有人制作了一个<em>ZeroNet</em>版本的海盗湾——<em>Play</em>，这个网站可让版权所有者头疼啦……一般的网站服务器都有<em>IP</em>地址，不抗投诉的<em>ISP</em>收到了向<em>IP WHOIS</em>滥用信箱发送的<em>DMCA</em>投诉信的话，你就要和你的网站说再见了……（俗称<em>DMCA Take down</em>）。可用了<em>ZeroNet</em>后，并没有一台服务器是真实的服务器，任何访客都有可能成为服务器，还有些访客使用了<em>Tor</em>，更找不到真正的。</p><p><blockquote class="question">使用<em>ZeroNet</em>的特点</blockquote></p><ol><li>可以建自己的网站，且无需备案，无需审核，无需服务器<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>。</li><li>基于<em>P2P</em>原理，你只要建好并有足够的人浏览过，即使你自己关机，你的网站依然在全球存在，别人想关你站，也没门。</li><li>基于<em>P2P</em>原理，支持内网穿透，也就是说你在内网也没关系，手机也没问题。</li><li>基于比特币原理，账号很安全，谁也不知道你是谁，谁也盗不去。</li><li>不需要域名，任何人访问都使用<code>http://127.0.0.1:43110/字符串</code>来访问。</li></ol><p>以上摘改自：<a href="http://jwangkun.github.io/2016/04/18/ZeroNet搭建全球网站/" target="_blank" rel="external">ZeroNet搭建全球网站</a>。</p><p><blockquote class="question">如何安装<em>ZeroNet</em>？</blockquote></p><p>安装很简单，按照网站的说明操作即可：</p><ol><li>官网：<a href="https://zeronet.io/" target="_blank" rel="external">https://zeronet.io/</a></li><li><em>Github</em>：<a href="https://github.com/hellozeronet/zeronet" target="_blank" rel="external">https://github.com/hellozeronet/zeronet</a></li><li>官方文档的中文翻译：<a href="https://stgapr.github.io/zeronet-Documentation-ZH_CN/" target="_blank" rel="external">https://stgapr.github.io/zeronet-Documentation-ZH_CN/</a></li></ol><p>使用起来也很简单，并且已支持中文了，点界面左上角的<code>┇</code>，点击<em>zh</em>即可。一开始可能有点懵，但是多折腾折腾很快就能上手，里面也有中文论坛，有前辈写了很好的入门介绍。</p><p><blockquote class="question">在你尝试前的温馨提醒</blockquote></p><p>和暗网一样，防审查和匿名带来的一个后果：里面有些内容可能会使你感到不适。我只能说，并不是所有的人都有你那么高尚，并不是所有的人都有和你一样的信仰，所以请保持你的高尚，尊重别人的信仰，相信自己的信仰。</p><p>最后附上我的零网博客地址：<a href="http://127.0.0.1:43110/yixiuer.bit/" target="_blank" rel="external">http://127.0.0.1:43110/yixiuer.bit/</a></p><p>公网可以通过代理访问：<a href="https://fuckcf.cf/yixiuer.bit" target="_blank" rel="external">https://fuckcf.cf/yixiuer.bit</a></p><h2 id="bb"><a href="#bb" class="headerlink" title="bb"></a>bb</h2><p>去中心化是个很有意思的想法，去中心化的互联网可以通过<em>P2P</em><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>架构实现。</p><p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p><p>其实，<em>P2P</em>架构的概念在<em>1969</em>年就已提出<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>，但为什么去中心化的互联网没能发展起来？我觉得主要是：</p><ol><li>技术限制</li><li>政府限制</li></ol><p>版本控制问题，事件处理时间过长，同步的垃圾数据量太多，隐私数据的安全性等等，这些技术问题正在不断被解决（开源有很大功劳），这也是现在去中心化的互联网应用得以迅速发展的主要原因。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/heirenwenhaolian.jpg" alt="heirenwenhaolian.jpg" style="float:right;height:90px;width:160px;margin-left:10px;"></p><p>然而，随着去中心化的互联网的发展，我觉得技术问题将逐渐变得不那么重要，主要的问题将是与政府的冲突。冲突何在？政府的职责之一就是监管，不知为什么，个人总感觉这是去中心化的死对头。<em>WTF</em>？！这就是你的解答？个人感觉？</p><p>嗯……暂时就是这样了，联想到了很多，比如柏拉图的《理想国》中的讨论，以及自己以前的一些想法，但无奈记不太请，还有看到一篇很好的<a href="http://127.0.0.1:43110/19fZz85PJXLAuwpGWe2fLEnU6Z1heprFFJ/?Post:24" target="_blank" rel="external">文章</a>（零网地址），所以先放着，等我多读读书……</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://www.zhihu.com/question/37439960" target="_blank" rel="external">https://www.zhihu.com/question/37439960</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5</a></span><a href="#fnref:3" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>听说有个暗网，现在接触了个零网……</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-title.png" alt="first-exploration-of-the-zeronet-title.png" style="width:100%"></p><a id="more"></a><h2 id="体验小视频"><a href="#体验小视频" class="headerlink" title="体验小视频"></a>体验小视频</h2><p>打开后，首先感觉界面<em>UI</em>很棒，骚气的紫色，加上渐变，让人眼前一亮(๑•̀ㅂ•́)و✧。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-1.png" alt="first-exploration-of-the-zeronet-1.png"></p><p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p><p>最后就是小视频了：</p><div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 --><p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p><h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p><p><em>ZeroNet</em>是一个去中心化的类似于<em>Internet</em>的网络，由匈牙利的开发者使用<em>Python</em>制作，完全开源。网站特殊的“<em>ZeroNet URL</em>”可以使用一般的浏览器浏览，就像访问本地主机一样。<em>ZeroNet</em>默认并「不」匿名，但是用户可以通过内置的<em>Tor</em>功能进行匿名化。<em>ZeroNet</em>使用<em>Bitcoin</em>加密算法及<em>BitTorrent</em>网络。</p><p><em>ZeroNet</em>是一个利用比特币加密和<em>BT</em>技术提供不受审查的网络与通信的<em>BT</em>平台，<em>ZeroNet</em>网络功能已经得到完整的种子的支持和加密连接，保证用户通信和文件共享的安全。使用<em>ZeroNet</em>，你可以匿名上网，你可以在自己电脑搭建网站，但即使你关机，你的网站依然在全球存在，别人无法关闭你的网站。</p><p><blockquote class="question">防<em>DMCA Take down</em></blockquote></p><p>由于<em>ZeroNet</em>去中心化的原因，国外有人制作了一个<em>ZeroNet</em>版本的海盗湾——<em>Play</em>，这个网站可让版权所有者头疼啦……一般的网站服务器都有<em>IP</em>地址，不抗投诉的<em>ISP</em>收到了向<em>IP WHOIS</em>滥用信箱发送的<em>DMCA</em>投诉信的话，你就要和你的网站说再见了……（俗称<em>DMCA Take down</em>）。可用了<em>ZeroNet</em>后，并没有一台服务器是真实的服务器，任何访客都有可能成为服务器，还有些访客使用了<em>Tor</em>，更找不到真正的。</p><p><blockquote class="question">使用<em>ZeroNet</em>的特点</blockquote></p><ol><li>可以建自己的网站，且无需备案，无需审核，无需服务器<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>。</li><li>基于<em>P2P</em>原理，你只要建好并有足够的人浏览过，即使你自己关机，你的网站依然在全球存在，别人想关你站，也没门。</li><li>基于<em>P2P</em>原理，支持内网穿透，也就是说你在内网也没关系，手机也没问题。</li><li>基于比特币原理，账号很安全，谁也不知道你是谁，谁也盗不去。</li><li>不需要域名，任何人访问都使用<code>http://127.0.0.1:43110/字符串</code>来访问。</li></ol><p>以上摘改自：<a href="http://jwangkun.github.io/2016/04/18/ZeroNet搭建全球网站/" target="_blank" rel="external">ZeroNet搭建全球网站</a>。</p><p><blockquote class="question">如何安装<em>ZeroNet</em>？</blockquote></p><p>安装很简单，按照网站的说明操作即可：</p><ol><li>官网：<a href="https://zeronet.io/" target="_blank" rel="external">https://zeronet.io/</a></li><li><em>Github</em>：<a href="https://github.com/hellozeronet/zeronet" target="_blank" rel="external">https://github.com/hellozeronet/zeronet</a></li><li>官方文档的中文翻译：<a href="https://stgapr.github.io/zeronet-Documentation-ZH_CN/" target="_blank" rel="external">https://stgapr.github.io/zeronet-Documentation-ZH_CN/</a></li></ol><p>使用起来也很简单，并且已支持中文了，点界面左上角的<code>┇</code>，点击<em>zh</em>即可。一开始可能有点懵，但是多折腾折腾很快就能上手，里面也有中文论坛，有前辈写了很好的入门介绍。</p><p><blockquote class="question">在你尝试前的温馨提醒</blockquote></p><p>和暗网一样，防审查和匿名带来的一个后果：里面有些内容可能会使你感到不适。我只能说，并不是所有的人都有你那么高尚，并不是所有的人都有和你一样的信仰，所以请保持你的高尚，尊重别人的信仰，相信自己的信仰。</p><p>最后附上我的零网博客地址：<a href="http://127.0.0.1:43110/yixiuer.bit/" target="_blank" rel="external">http://127.0.0.1:43110/yixiuer.bit/</a></p><p>公网可以通过代理访问：<a href="https://fuckcf.cf/yixiuer.bit" target="_blank" rel="external">https://fuckcf.cf/yixiuer.bit</a></p><h2 id="bb"><a href="#bb" class="headerlink" title="bb"></a>bb</h2><p>去中心化是个很有意思的想法，去中心化的互联网可以通过<em>P2P</em><sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup>架构实现。</p><p>自从基于<em>P2P</em>架构的加密货币——比特币火了之后，出现了很多<em>P2P</em>架构的文件传输应用，声称可以取代<em>HTTP</em>的<a href="https://ipfs.io/" target="_blank" rel="external">IPFS</a>，文件同步工具<a href="https://www.resilio.com/" target="_blank" rel="external">Resilio Sync</a>，以及这里所言的零网。</p><p>其实，<em>P2P</em>架构的概念在<em>1969</em>年就已提出<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>，但为什么去中心化的互联网没能发展起来？我觉得主要是：</p><ol><li>技术限制</li><li>政府限制</li></ol><p>版本控制问题，事件处理时间过长，同步的垃圾数据量太多，隐私数据的安全性等等，这些技术问题正在不断被解决（开源有很大功劳），这也是现在去中心化的互联网应用得以迅速发展的主要原因。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/heirenwenhaolian.jpg" alt="heirenwenhaolian.jpg" style="float:right;height:90px;width:160px;margin-left:10px;"></p><p>然而，随着去中心化的互联网的发展，我觉得技术问题将逐渐变得不那么重要，主要的问题将是与政府的冲突。冲突何在？政府的职责之一就是监管，不知为什么，个人总感觉这是去中心化的死对头。<em>WTF</em>？！这就是你的解答？个人感觉？</p><p>嗯……暂时就是这样了，联想到了很多，比如柏拉图的《理想国》中的讨论，以及自己以前的一些想法，但无奈记不太请，还有看到一篇很好的<a href="http://127.0.0.1:43110/19fZz85PJXLAuwpGWe2fLEnU6Z1heprFFJ/?Post:24" target="_blank" rel="external">文章</a>（零网地址），所以先放着，等我多读读书……</p><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://www.zhihu.com/question/37439960" target="_blank" rel="external">https://www.zhihu.com/question/37439960</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;"><a href="https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5" target="_blank" rel="external">https://en.wikipedia.org/wiki/Peer-to-peer#cite_ref-5</a></span><a href="#fnref:3" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
     
     <summary type="html">
     
@@ -409,8 +409,6 @@
     
       <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
     
-      <category term="next" scheme="https://reuixiy.github.io/tags/next/"/>
-    
       <category term="bitcoin" scheme="https://reuixiy.github.io/tags/bitcoin/"/>
     
       <category term="去中心化" scheme="https://reuixiy.github.io/tags/decentralization/"/>
@@ -418,6 +416,8 @@
       <category term="internet" scheme="https://reuixiy.github.io/tags/internet/"/>
     
       <category term="zeronet" scheme="https://reuixiy.github.io/tags/zeronet/"/>
+    
+      <category term="next" scheme="https://reuixiy.github.io/tags/next/"/>
     
   </entry>
   
@@ -449,17 +449,17 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
-      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
       <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
     
       <category term="性格" scheme="https://reuixiy.github.io/tags/disposition/"/>
+    
+      <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
     
   </entry>
   
@@ -468,9 +468,9 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2017/08/27/a-little-gecko-come-suddenly.html</id>
     <published>2017-08-27T00:40:00.000Z</published>
-    <updated>2017-10-09T10:38:30.007Z</updated>
+    <updated>2017-10-26T11:41:02.975Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>昨天<del>早上</del><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f637.png" height="20" width="20">上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/tuolianhuaji.jpg" height="50" width="50">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-title.jpg" alt="a-little-gecko-come-suddenly-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-1.jpg" alt="a-little-gecko-come-suddenly-1.jpg"></p><p>这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">，我猜它在洗手间门口也许就是为了水而来吧……</p><h2 id="小视频"><a href="#小视频" class="headerlink" title="小视频"></a>小视频</h2><p>晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>来监控它，晚上偷录个小视频，哈哈哈嗝<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-2.jpg" alt="a-little-gecko-come-suddenly-2.jpg"></p><h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer12" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer12 = new DPlayer({"element":document.getElementById("dplayer12"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"6f57da27229e228a2a7bf664d34c50a26f435caa8dc7e0f4ea05c16f949f04c3"}});</script><!-- dplayer used1 --><p><blockquote class="question">第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。</blockquote></p><h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer13" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer13 = new DPlayer({"element":document.getElementById("dplayer13"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9fbb0a160bd9fab68da279fbebe5597eb8771b594b0b8ff7695165fd944892de"}});</script><!-- dplayer used1 --><p><blockquote class="question">看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。</blockquote></p><h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer14" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer14 = new DPlayer({"element":document.getElementById("dplayer14"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0df538e7322027a22f82bc660ce64babf6844aee2a442ab5f68b6432b4bfbf05"}});</script><!-- dplayer used1 --><p><blockquote class="question">欣赏一下这优雅的步伐<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png" height="20" width="20">～</blockquote></p><h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer15" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer15 = new DPlayer({"element":document.getElementById("dplayer15"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"b910305030b528abb26d3bb153322636a8f58426b0e676375e0e45024c4e328f"}});</script><!-- dplayer used1 --><p><blockquote class="question">看起来都想逃走的两个小家伙。</blockquote></p><h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer16" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer16 = new DPlayer({"element":document.getElementById("dplayer16"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"5432bef6e68e50152e2ff03a30b05055ccd2f8aa2ed70c2437c1efa06dffbe15"}});</script><!-- dplayer used1 --><p><blockquote class="question">这……<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png" height="20" width="20">我没看懂哎……</blockquote></p><p>其实，晚上一共录了51个视频，这里挑出几个有代表的来。关于视频，这个叫<em>motion</em>的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的<em>1 s</em>并非真实的<em>1 s</em><img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-3.png" alt="a-little-gecko-come-suddenly-3.png"></p><p>最后？虫子还在，小壁虎还在……为啥虫子还在？不造……</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>看着视频观察一下这个小家伙还是蛮有意思的：</p><ol><li>等我走了半个多小时，才开始行动，有耐心。</li><li>一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。</li><li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li></ol><p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p><div id="aplayer11" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer11"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;"><em>Raspberry Pi</em>(中文名为“树莓派”，简写为<em>RPi</em>，或者<em>RasPi / RPI</em>)是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于<em>Linux</em>。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。</span><a href="#fnref:1" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>昨天<del>早上</del><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f637.png" height="20" width="20">上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/tuolianhuaji.jpg" height="50" width="50">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-title.jpg" alt="a-little-gecko-come-suddenly-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-1.jpg" alt="a-little-gecko-come-suddenly-1.jpg"></p><p>这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">，我猜它在洗手间门口也许就是为了水而来吧……</p><h2 id="小视频"><a href="#小视频" class="headerlink" title="小视频"></a>小视频</h2><p>晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>来监控它，晚上偷录个小视频，哈哈哈嗝<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-2.jpg" alt="a-little-gecko-come-suddenly-2.jpg"></p><h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer12" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer12 = new DPlayer({"element":document.getElementById("dplayer12"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"6f57da27229e228a2a7bf664d34c50a26f435caa8dc7e0f4ea05c16f949f04c3"}});</script><!-- dplayer used1 --><p><blockquote class="question">第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。</blockquote></p><h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer13" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer13 = new DPlayer({"element":document.getElementById("dplayer13"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9fbb0a160bd9fab68da279fbebe5597eb8771b594b0b8ff7695165fd944892de"}});</script><!-- dplayer used1 --><p><blockquote class="question">看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。</blockquote></p><h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer14" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer14 = new DPlayer({"element":document.getElementById("dplayer14"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"0df538e7322027a22f82bc660ce64babf6844aee2a442ab5f68b6432b4bfbf05"}});</script><!-- dplayer used1 --><p><blockquote class="question">欣赏一下这优雅的步伐<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png" height="20" width="20">～</blockquote></p><h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer15" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer15 = new DPlayer({"element":document.getElementById("dplayer15"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"b910305030b528abb26d3bb153322636a8f58426b0e676375e0e45024c4e328f"}});</script><!-- dplayer used1 --><p><blockquote class="question">看起来都想逃走的两个小家伙。</blockquote></p><h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer16" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer16 = new DPlayer({"element":document.getElementById("dplayer16"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"5432bef6e68e50152e2ff03a30b05055ccd2f8aa2ed70c2437c1efa06dffbe15"}});</script><!-- dplayer used1 --><p><blockquote class="question">这……<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png" height="20" width="20">我没看懂哎……</blockquote></p><p>其实，晚上一共录了51个视频，这里挑出几个有代表的来。关于视频，这个叫<em>motion</em>的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的<em>1 s</em>并非真实的<em>1 s</em><img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-3.png" alt="a-little-gecko-come-suddenly-3.png"></p><p>最后？虫子还在，小壁虎还在……为啥虫子还在？不造……</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>看着视频观察一下这个小家伙还是蛮有意思的：</p><ol><li>等我走了半个多小时，才开始行动，有耐心。</li><li>一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。</li><li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li></ol><p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p><div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer10"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;"><em>Raspberry Pi</em>(中文名为“树莓派”，简写为<em>RPi</em>，或者<em>RasPi / RPI</em>)是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于<em>Linux</em>。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。</span><a href="#fnref:1" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
     
     <summary type="html">
     
@@ -493,13 +493,13 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
     
@@ -518,7 +518,7 @@
     <published>2017-08-21T03:00:49.000Z</published>
     <updated>2017-09-23T04:41:49.853Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>2017.08.07</em>下午，昏昏欲睡的我，还在折腾电脑的驱动。紧张地<em>Google</em>解决方法，直接<em>Copy</em>一条命令回车，没想到这一操作就宣告了我博客的死亡<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/rebuild-this-blog-due-to-rm-title.jpg" alt="rebuild-this-blog-due-to-rm-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="死亡的味道"><a href="#死亡的味道" class="headerlink" title="死亡的味道"></a>死亡的味道</h2><p>回车后，过了很久，当时也没太在意，继续操作。一会重启系统，感觉画风不对<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">，桌面变了，后脑勺一凉，开终端，<code>ls</code>一看，没了，我的“家”都没了……</p><p>机智的我赶紧敲了一条<code>history</code>命令，看到（别问我为啥还能看到，神特么知道）：</p><figure class="highlight stata"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">rm</span> -rf ~/ .<span class="keyword">local</span>/……</div></pre></td></tr></table></figure><p>发现了没，<code>~/</code>后面多了个空格，卧槽！那个网站上贴这行代码的人！￥%×%%&amp;×%&amp;×%&amp;×￥%……#%……&amp;×%&amp;（×……&amp;+）——+（——）（&amp;（×！</p><h2 id="删而后重建"><a href="#删而后重建" class="headerlink" title="删而后重建"></a>删而后重建</h2><p>之后试着恢复数据，无奈失败。把自己的“家”都给删了，半年多在这系统上的努力都废了，特别是博客文件夹，想到还要从<em>0</em>开始弄，头皮发麻……</p><p>无奈归无奈，还好我电脑双系统，第二天就进<em>Windows</em>下载镜像烧<em>U</em>盘，重装系统，顺便（当然没那么顺便<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">）把引导由<em>BIOS+MBR</em>改为<em>UEFI+GPT</em>。</p><p>最后终于进了新<em>Linux</em>系统，更新系统，解决驱动问题，装软件。接下来就是重新搭建<em>Hexo</em>，优化<em>NexT</em>主题，将网站上的38篇文章全部写成<em>Markdown</em>文档。</p><h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p><p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p><p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p><h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer13" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis][ti:Live Forever][al:Live Forever][by:https://reuixiy.github.io][length:4:38][00:00.00]Oasis - Live Forever[00:12.69][02:28.88][00:12.70]Maybe I don't really want to know[02:32.25][00:17.28]How your garden grows[02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain[02:42.93][00:28.06]In the morning rain[02:45.64][00:30.57]As it soaks it to the bone[02:49.35][00:34.49]Maybe I just want to fly[02:51.96][00:37.21]I wanna live I don't want to die[02:54.55][00:39.63]Maybe I just want to breath[02:57.08][00:42.30]Maybe I just don't believe[02:59.69][00:44.88]Maybe you're the same as me[03:02.25][00:47.48]We see things they'll never see[03:05.13][00:50.27]You and I are gonna live forever[00:57.74]Maybe I don't really want to know[01:02.56]How your garden grows[01:05.13]I just want to fly Lately did you ever feel the pain[01:13.23]In the morning rain[01:15.93]As it soaks it to the bone[01:19.41]Maybe I will never be[01:22.05]All the things that I want to be[01:24.87]But now is not the time to cry[01:27.41]Now's the time to find out why[01:29.99]I think you're the same as me[01:32.56]We see things they'll never see[01:35.28]You and I are gonna live forever[03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever</pre></div><script>new APlayer({element: document.getElementById("aplayer13"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Live Forever",author: "Oasis",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg",}});</script><h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 --><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>2017.08.07</em>下午，昏昏欲睡的我，还在折腾电脑的驱动。紧张地<em>Google</em>解决方法，直接<em>Copy</em>一条命令回车，没想到这一操作就宣告了我博客的死亡<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/rebuild-this-blog-due-to-rm-title.jpg" alt="rebuild-this-blog-due-to-rm-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="死亡的味道"><a href="#死亡的味道" class="headerlink" title="死亡的味道"></a>死亡的味道</h2><p>回车后，过了很久，当时也没太在意，继续操作。一会重启系统，感觉画风不对<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="50" width="50">，桌面变了，后脑勺一凉，开终端，<code>ls</code>一看，没了，我的“家”都没了……</p><p>机智的我赶紧敲了一条<code>history</code>命令，看到（别问我为啥还能看到，神特么知道）：</p><figure class="highlight stata"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">rm</span> -rf ~/ .<span class="keyword">local</span>/……</div></pre></td></tr></table></figure><p>发现了没，<code>~/</code>后面多了个空格，卧槽！那个网站上贴这行代码的人！￥%×%%&amp;×%&amp;×%&amp;×￥%……#%……&amp;×%&amp;（×……&amp;+）——+（——）（&amp;（×！</p><h2 id="删而后重建"><a href="#删而后重建" class="headerlink" title="删而后重建"></a>删而后重建</h2><p>之后试着恢复数据，无奈失败。把自己的“家”都给删了，半年多在这系统上的努力都废了，特别是博客文件夹，想到还要从<em>0</em>开始弄，头皮发麻……</p><p>无奈归无奈，还好我电脑双系统，第二天就进<em>Windows</em>下载镜像烧<em>U</em>盘，重装系统，顺便（当然没那么顺便<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="50" width="50">）把引导由<em>BIOS+MBR</em>改为<em>UEFI+GPT</em>。</p><p>最后终于进了新<em>Linux</em>系统，更新系统，解决驱动问题，装软件。接下来就是重新搭建<em>Hexo</em>，优化<em>NexT</em>主题，将网站上的38篇文章全部写成<em>Markdown</em>文档。</p><h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p><p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="external">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p><p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p><h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer13" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis][ti:Live Forever][al:Live Forever][by:https://reuixiy.github.io][length:4:38][00:00.00]Oasis - Live Forever[00:12.69][02:28.88][00:12.70]Maybe I don't really want to know[02:32.25][00:17.28]How your garden grows[02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain[02:42.93][00:28.06]In the morning rain[02:45.64][00:30.57]As it soaks it to the bone[02:49.35][00:34.49]Maybe I just want to fly[02:51.96][00:37.21]I wanna live I don't want to die[02:54.55][00:39.63]Maybe I just want to breath[02:57.08][00:42.30]Maybe I just don't believe[02:59.69][00:44.88]Maybe you're the same as me[03:02.25][00:47.48]We see things they'll never see[03:05.13][00:50.27]You and I are gonna live forever[00:57.74]Maybe I don't really want to know[01:02.56]How your garden grows[01:05.13]I just want to fly Lately did you ever feel the pain[01:13.23]In the morning rain[01:15.93]As it soaks it to the bone[01:19.41]Maybe I will never be[01:22.05]All the things that I want to be[01:24.87]But now is not the time to cry[01:27.41]Now's the time to find out why[01:29.99]I think you're the same as me[01:32.56]We see things they'll never see[01:35.28]You and I are gonna live forever[03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever</pre></div><script>new APlayer({element: document.getElementById("aplayer13"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Live Forever",author: "Oasis",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg",}});</script><h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 --><hr>]]></content>
     
     <summary type="html">
     
@@ -557,9 +557,9 @@
     
       <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
     
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
-    
       <category term="next" scheme="https://reuixiy.github.io/tags/next/"/>
+    
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -589,9 +589,9 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
   </entry>
   
@@ -600,15 +600,15 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/08/01/coldplay-paradise.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/08/01/coldplay-paradise.html</id>
     <published>2017-08-01T07:27:03.000Z</published>
-    <updated>2017-08-27T03:53:24.276Z</updated>
+    <updated>2017-10-26T11:41:05.971Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><p><center><em>So lying underneath the stormy skies</em><br><br><em>She’d say oh oh oh oh oh</em><br><br><em>I know the sun must set to rise</em></center></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-29.jpg" alt="coldplay-29.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb-for-bb"></a>bb-for-bb</h2><p>最早听到的英语歌之一，当时是在电台（<em>HitFM</em>）上听的，听不懂歌词，仅凭旋律和想象力感受。后来有一天看到歌词，看到翻译，看到<em>MV</em>，发现完美契合旋律和想象力的感受<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20">。</p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><p><center><em>So lying underneath the stormy skies</em><br><br><em>She’d say oh oh oh oh oh</em><br><br><em>I know the sun must set to rise</em></center></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-29.jpg" alt="coldplay-29.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb-for-bb"></a>bb-for-bb</h2><p>最早听到的英语歌之一，当时是在电台（<em>HitFM</em>）上听的，听不懂歌词，仅凭旋律和想象力感受。后来有一天看到歌词，看到翻译，看到<em>MV</em>，发现完美契合旋律和想象力的感受<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20">。</p><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><hr>]]></content>
     
     <summary type="html">
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer2&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer2 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer2&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer1&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer1 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer1&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -621,9 +621,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -669,17 +669,17 @@
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
     
       <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
-      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
-    
       <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
+    
+      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
   </entry>
   
@@ -715,13 +715,13 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
-      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
       <category term="Einstein" scheme="https://reuixiy.github.io/tags/Einstein/"/>
     
@@ -801,11 +801,11 @@
       <category term="what" scheme="https://reuixiy.github.io/categories/philosophy/what/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
-    
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
     
@@ -901,17 +901,17 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
-      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
-    
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
+      <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -965,17 +965,17 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/tags/computer-aided-art/"/>
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
-      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
-    
       <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
     
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
-    
       <category term="next" scheme="https://reuixiy.github.io/tags/next/"/>
+    
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
   </entry>
   
@@ -1038,7 +1038,7 @@
     <published>2017-05-31T03:37:35.000Z</published>
     <updated>2017-08-30T17:36:22.601Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>29</em>张高清截图，非<em>Wi-Fi</em>环境，就别手抖<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/2.PNG" alt="2.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/3.PNG" alt="3.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/4.PNG" alt="4.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/5.PNG" alt="5.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/6.PNG" alt="6.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/7.PNG" alt="7.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/8.PNG" alt="8.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/9.PNG" alt="9.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/10.PNG" alt="10.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/11.PNG" alt="11.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/12.PNG" alt="12.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/13.PNG" alt="13.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/14.PNG" alt="14.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/15.PNG" alt="15.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/16.PNG" alt="16.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/17.PNG" alt="17.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/18.PNG" alt="18.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/19.PNG" alt="19.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/20.PNG" alt="20.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/21.PNG" alt="21.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/22.PNG" alt="22.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/23.PNG" alt="23.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/24.PNG" alt="24.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/25.PNG" alt="25.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/26.PNG" alt="26.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/27.PNG" alt="27.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/28.PNG" alt="28.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/29.PNG" alt="29.PNG"></p><h2 id="视频播放"><a href="#视频播放" class="headerlink" title="视频播放"></a>视频播放</h2><p><a href="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html">Coldplay - Fix You高清视频</a></p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>29</em>张高清截图，非<em>Wi-Fi</em>环境，就别手抖<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/2.PNG" alt="2.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/3.PNG" alt="3.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/4.PNG" alt="4.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/5.PNG" alt="5.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/6.PNG" alt="6.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/7.PNG" alt="7.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/8.PNG" alt="8.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/9.PNG" alt="9.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/10.PNG" alt="10.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/11.PNG" alt="11.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/12.PNG" alt="12.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/13.PNG" alt="13.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/14.PNG" alt="14.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/15.PNG" alt="15.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/16.PNG" alt="16.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/17.PNG" alt="17.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/18.PNG" alt="18.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/19.PNG" alt="19.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/20.PNG" alt="20.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/21.PNG" alt="21.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/22.PNG" alt="22.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/23.PNG" alt="23.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/24.PNG" alt="24.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/25.PNG" alt="25.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/26.PNG" alt="26.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/27.PNG" alt="27.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/28.PNG" alt="28.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/29.PNG" alt="29.PNG"></p><h2 id="视频播放"><a href="#视频播放" class="headerlink" title="视频播放"></a>视频播放</h2><p><a href="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html">Coldplay - Fix You高清视频</a></p><hr>]]></content>
     
     <summary type="html">
     
@@ -1097,9 +1097,9 @@
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
   </entry>
   
@@ -1163,23 +1163,23 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
-    
-      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
@@ -1219,9 +1219,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="达·芬奇" scheme="https://reuixiy.github.io/tags/leonardo-da-vinci/"/>
     
@@ -1234,7 +1234,7 @@
     <published>2017-04-27T23:37:21.000Z</published>
     <updated>2017-10-09T10:19:14.831Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>太喜欢这视频了，喜欢到第一次尝试制作字幕，但发现最困难的还是翻译，这才是脑力活<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。<em>Anyway</em>，很兴奋，开心<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><a id="more"></a><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 --><h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p><h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>太喜欢这视频了，喜欢到第一次尝试制作字幕，但发现最困难的还是翻译，这才是脑力活<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。<em>Anyway</em>，很兴奋，开心<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">。</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><a id="more"></a><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 --><h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p><h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p><hr>]]></content>
     
     <summary type="html">
     
@@ -1255,9 +1255,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1276,13 +1276,13 @@
     <published>2017-04-14T16:00:00.000Z</published>
     <updated>2017-08-27T03:53:25.640Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="undefined" class="love"><a href="#undefined" class="headerlink" title="evoL ni eveileB"></a><center><div style="color:#ff71a8"><i class="fa fa-heart"></i><i> evoL ni eveileB</i></div></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer3"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
     
     <summary type="html">
     
       &lt;hr&gt;
 
-&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer0&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer0 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer0&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
+&lt;h2 id=&quot;视频&quot;&gt;&lt;a href=&quot;#视频&quot; class=&quot;headerlink&quot; title=&quot;视频&quot;&gt;&lt;/a&gt;视频&lt;/h2&gt;&lt;div id=&quot;dplayer5&quot; class=&quot;dplayer&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/div&gt;&lt;script&gt;var dplayer5 = new DPlayer({&quot;element&quot;:document.getElementById(&quot;dplayer5&quot;),&quot;loop&quot;:1,&quot;video&quot;:{&quot;url&quot;:&quot;https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4&quot;},&quot;danmaku&quot;:{&quot;api&quot;:&quot;https://api.prprpr.me/dplayer/&quot;,&quot;id&quot;:&quot;ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87&quot;}});&lt;/script&gt;&lt;!-- dplayer used1 --&gt;
     
     </summary>
     
@@ -1295,9 +1295,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1343,9 +1343,9 @@
     
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
-      <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
-    
       <category term="大脑" scheme="https://reuixiy.github.io/tags/brain/"/>
+    
+      <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
     
       <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
     
@@ -1373,6 +1373,8 @@
       <category term="what" scheme="https://reuixiy.github.io/categories/philosophy/what/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
@@ -1384,8 +1386,6 @@
       <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
-    
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
     
@@ -1419,6 +1419,8 @@
       <category term="what" scheme="https://reuixiy.github.io/categories/philosophy/what/"/>
     
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
@@ -1430,8 +1432,6 @@
       <category term="synthesis(综合)" scheme="https://reuixiy.github.io/tags/synthesis/"/>
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
-    
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
@@ -1448,7 +1448,7 @@
     <published>2017-03-11T02:34:03.000Z</published>
     <updated>2017-08-21T08:45:19.720Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 --><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 --><hr>]]></content>
     
     <summary type="html">
     
@@ -1561,19 +1561,19 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
   </entry>
   
@@ -1603,6 +1603,10 @@
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
       <category term="what" scheme="https://reuixiy.github.io/tags/what/"/>
@@ -1611,11 +1615,7 @@
     
       <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -1705,13 +1705,13 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -1747,13 +1747,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
@@ -1762,6 +1760,8 @@
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="untitled" scheme="https://reuixiy.github.io/tags/untitled/"/>
     
@@ -1833,13 +1833,13 @@
     
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
-      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
-    
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
-      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
-    
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -1849,15 +1849,15 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
     
-      <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+      <category term="阿西莫夫" scheme="https://reuixiy.github.io/tags/isaac-asimov/"/>
     
       <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
     
@@ -1893,11 +1893,15 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
@@ -1907,13 +1911,9 @@
     
       <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
     
-      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
-    
       <category term="空间" scheme="https://reuixiy.github.io/tags/space/"/>
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -1921,11 +1921,11 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
-    
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
@@ -1997,8 +1997,6 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
@@ -2008,6 +2006,8 @@
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
@@ -2153,13 +2153,13 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="拜伦" scheme="https://reuixiy.github.io/tags/Byron/"/>
     
@@ -2241,11 +2241,11 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
-    
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
       <category term="补充" scheme="https://reuixiy.github.io/tags/something-added-sometimes/"/>
     
