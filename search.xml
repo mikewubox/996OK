@@ -3,6 +3,46 @@
   
     
     <entry>
+      <title><![CDATA[童话]]></title>
+      <url>/beautiful/notnow/2017/11/04/fairy-tale.html</url>
+      <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
+
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/fairy-tale-title.jpg" alt="fairy-tale-title.jpg" style="width:100%"></p>
+
+<a id="more"></a>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/FairyTale.jpg" alt="FairyTale.jpg" style="float:right;height:510px;width:365px;margin-left:10px;"></p>
+
+<p><div style="text-align:left">童话般的草绿色门前<br><br>发生着童话般的故事<br><br>两只懒洋洋的兔子<br><br>下面懒洋洋的他<br><br>努力举高上面懒洋洋的小可爱<br><br>一起去感受那被 <div style="color:#ff71a8;display:inline-block"><i class="fa fa-heart"></i></div> 封住的信封<br><br>她童话般的心灵<br><br>粉红色如是说<br><br>看似懒洋洋<br><br>内心却坚强<br><br>稍微倾斜的的视角如是说<br><br>2017-10-28 20:31:27</div></p>
+
+<hr>
+]]></content>
+      
+        <categories>
+            
+            <category> beautiful </category>
+            
+            <category> notnow </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> beautiful </tag>
+            
+            <tag> love </tag>
+            
+            <tag> 童话 </tag>
+            
+            <tag> bb-for-fun </tag>
+            
+            <tag> notnow </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Kali Linux安装Fcitx]]></title>
       <url>/technology/computer/system-software/2017/10/03/install-fcitx-in-kali-linux-to-input-chinese.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
@@ -171,6 +211,7 @@
 </tr>
 </tbody>
 </table>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/make-linux-looks-like-macos.jpg" alt="make-linux-looks-like-macos.jpg"></p>
 <p>为啥<code>GTK+</code>用Gnome OSX-III-1.0？附上页面上该作者的吐槽：</p>
 <p><em>This is a gnome-desktop-interpretation of Mac OSX. I’ve tried to implement the feel of OSX on the gnome-applications. In version 3.0 I’ve modernized it in every little detail. There is nothing (not a single item) that is not new. Resulting in a completely rewritten GTK.CSS-file four times bigger than the previous one, while the theme feels more responsive. I’ve also added a dark theme, so Terminal, Photo’s, and Video’s are automatically dark-themed. I’ve spend a great deal of time (3 months) and effort on this theme into fine-tuning it, so I hope you try before you judge !</em></p>
 <p>的确，这厮用了三个月，界面效果确与其它两个不同，自己对比一下其它两个即能感受出。正如作者所言，细节真的很棒，比如渐变！</p>
@@ -870,9 +911,9 @@
             
             <tag> notnow </tag>
             
-            <tag> 阿西莫夫 </tag>
-            
             <tag> 人工智能 </tag>
+            
+            <tag> 阿西莫夫 </tag>
             
             <tag> 性格 </tag>
             
@@ -1008,6 +1049,8 @@
             <tag> love </tag>
             
             <tag> 开心 </tag>
+            
+            <tag> 童话 </tag>
             
             <tag> shape </tag>
             
@@ -1252,7 +1295,8 @@
 <h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb-for-bb"></a>bb-for-bb</h2><p>最早听到的英语歌之一，当时是在电台（<em>HitFM</em>）上听的，听不懂歌词，仅凭旋律和想象力感受。后来有一天看到歌词，看到翻译，看到<em>MV</em>，发现完美契合旋律和想象力的感受<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20">。</p>
 <center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center>
 
-<hr>]]></content>
+<hr>
+]]></content>
       
         <categories>
             
@@ -1276,6 +1320,8 @@
             <tag> coldplay </tag>
             
             <tag> music </tag>
+            
+            <tag> 童话 </tag>
             
         </tags>
         
@@ -2779,9 +2825,9 @@
             
             <tag> how </tag>
             
-            <tag> 人工智能 </tag>
-            
             <tag> 大脑 </tag>
+            
+            <tag> 人工智能 </tag>
             
             <tag> 极限 </tag>
             
@@ -3499,9 +3545,9 @@
             
             <tag> 看书 </tag>
             
-            <tag> 阿西莫夫 </tag>
-            
             <tag> 极限 </tag>
+            
+            <tag> 阿西莫夫 </tag>
             
             <tag> 补充 </tag>
             
