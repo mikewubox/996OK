@@ -147,9 +147,9 @@
             
             <tag> love </tag>
             
-            <tag> 开心 </tag>
-            
             <tag> 童话 </tag>
+            
+            <tag> 开心 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -610,7 +610,7 @@
 <h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平</p>
 <p>火热是因为娱乐</p>
 <p>不灭是因为战争</p>
-<div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt]
+<div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt]
 [ti:Barbossa Is Hungry]
 [al:Pirates of the Caribbean: The Curse of the Black Pearl]
 [by:https://reuixiy.github.io]
@@ -620,7 +620,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer10"),
+				element: document.getElementById("aplayer9"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -905,7 +905,7 @@
 <p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p>
 <p>最后就是小视频了：</p>
-<div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
+<div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
 <p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p>
 <h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p>
 
@@ -981,11 +981,11 @@
             
             <tag> 去中心化 </tag>
             
+            <tag> next </tag>
+            
             <tag> internet </tag>
             
             <tag> zeronet </tag>
-            
-            <tag> next </tag>
             
         </tags>
         
@@ -1167,9 +1167,9 @@
             
             <tag> love </tag>
             
-            <tag> 开心 </tag>
-            
             <tag> 童话 </tag>
+            
+            <tag> 开心 </tag>
             
             <tag> 意外 </tag>
             
@@ -1254,7 +1254,7 @@
 				}
 			});
 		</script>
-<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
+<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -1291,9 +1291,9 @@
             
             <tag> 死亡 </tag>
             
-            <tag> next </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> next </tag>
             
         </tags>
         
@@ -1342,7 +1342,7 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
@@ -2148,7 +2148,7 @@
 
 <figure class="highlight dts"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">menu:</span></div><div class="line"><span class="symbol">  home:</span> 首页</div><div class="line"><span class="symbol">  archives:</span> 归档</div><div class="line"><span class="symbol">  categories:</span> 分类</div><div class="line"><span class="symbol">  tags:</span> 标签</div><div class="line"><span class="symbol">  about:</span> 关于</div><div class="line"><span class="symbol">  search:</span> 搜索</div><div class="line"><span class="symbol">  schedule:</span> 日程表</div><div class="line"><span class="symbol">  sitemap:</span> 站点地图</div><div class="line"><span class="symbol">  commonweal:</span> 公益<span class="number">404</span></div><div class="line"><span class="symbol">  top:</span> TopX <span class="comment">/*可以不为TopX，随便取*/</span></div></pre></td></tr></table></figure>
 <p>最后，编辑第一步新建页面生成的<code>~/blog/source/top/index.md</code>文件：<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup></p>
-<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: TopX /*可以不为TopX，随便取*/</div><div class="line">comments: false</div><div class="line">keywords: top,文章阅读量排行榜</div><div class="line">---</div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">"top"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="actionscript">AV.initialize(<span class="string">"app_id"</span>, <span class="string">"app_key"</span>);</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span><span class="undefined"></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> time=<span class="number">0</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> title=<span class="string">""</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> url=<span class="string">""</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> query = <span class="keyword">new</span> AV.Query(<span class="string">'Counter'</span>);</span></div><div class="line"><span class="actionscript">  query.notEqualTo(<span class="string">'id'</span>,<span class="number">0</span>);</span></div><div class="line"><span class="actionscript">  query.descending(<span class="string">'time'</span>);</span></div><div class="line"><span class="undefined">  query.limit(1000);</span></div><div class="line"><span class="actionscript">  query.find().then(<span class="function"><span class="keyword">function</span> <span class="params">(todo)</span> </span>&#123;</span></div><div class="line"><span class="actionscript">    <span class="keyword">for</span> (<span class="keyword">var</span> i=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++)&#123; </span></div><div class="line"><span class="actionscript">      <span class="keyword">var</span> result=todo[i].attributes;</span></div><div class="line"><span class="undefined">      time=result.time;</span></div><div class="line"><span class="undefined">      title=result.title;</span></div><div class="line"><span class="undefined">      url=result.url;</span></div><div class="line"><span class="actionscript">      <span class="keyword">var</span> content=<span class="string">"&lt;a href='"</span>+<span class="string">"https://reuixiy.github.io"</span>+url+<span class="string">"'&gt;"</span>+title+<span class="string">"&lt;/font&gt;"</span>+<span class="string">"&lt;/a&gt;"</span>+<span class="string">"&lt;br&gt;"</span>+<span class="string">"&lt;font color='#fff'&gt;"</span>+<span class="string">"阅读次数："</span>+time+<span class="string">"&lt;br&gt;&lt;br&gt;"</span>;</span></div><div class="line"><span class="javascript">      <span class="built_in">document</span>.getElementById(<span class="string">"top"</span>).innerHTML+=content</span></div><div class="line"><span class="undefined">    &#125;</span></div><div class="line"><span class="actionscript">  &#125;, <span class="function"><span class="keyword">function</span> <span class="params">(error)</span> </span>&#123;</span></div><div class="line"><span class="javascript">    <span class="built_in">console</span>.log(<span class="string">"error"</span>);</span></div><div class="line"><span class="undefined">  &#125;);</span></div><div class="line"><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div></pre></td></tr></table></figure>
+<figure class="highlight xml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div></pre></td><td class="code"><pre><div class="line">---</div><div class="line">title: TopX /*可以不为TopX，随便取*/</div><div class="line">comments: false</div><div class="line">keywords: top,文章阅读量排行榜</div><div class="line">---</div><div class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">id</span>=<span class="string">"top"</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn1.lncld.net/static/js/av-core-mini-0.6.4.js"</span>&gt;</span><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span>&gt;</span><span class="actionscript">AV.initialize(<span class="string">"app_id"</span>, <span class="string">"app_key"</span>);</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div><div class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"text/javascript"</span>&gt;</span><span class="undefined"></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> time=<span class="number">0</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> title=<span class="string">""</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> url=<span class="string">""</span></span></div><div class="line"><span class="actionscript">  <span class="keyword">var</span> query = <span class="keyword">new</span> AV.Query(<span class="string">'Counter'</span>);</span></div><div class="line"><span class="actionscript">  query.notEqualTo(<span class="string">'id'</span>,<span class="number">0</span>);</span></div><div class="line"><span class="actionscript">  query.descending(<span class="string">'time'</span>);</span></div><div class="line"><span class="undefined">  query.limit(1000);</span></div><div class="line"><span class="actionscript">  query.find().then(<span class="function"><span class="keyword">function</span> <span class="params">(todo)</span> </span>&#123;</span></div><div class="line"><span class="actionscript">    <span class="keyword">for</span> (<span class="keyword">var</span> i=<span class="number">0</span>;i&lt;<span class="number">1000</span>;i++)&#123; </span></div><div class="line"><span class="actionscript">      <span class="keyword">var</span> result=todo[i].attributes;</span></div><div class="line"><span class="undefined">      time=result.time;</span></div><div class="line"><span class="undefined">      title=result.title;</span></div><div class="line"><span class="undefined">      url=result.url;</span></div><div class="line"><span class="actionscript">      <span class="keyword">var</span> content=<span class="string">"&lt;a href='"</span>+<span class="string">"https://reuixiy.github.io"</span>+url+<span class="string">"'&gt;"</span>+title+<span class="string">"&lt;/a&gt;"</span>+<span class="string">"&lt;br&gt;"</span>+<span class="string">"&lt;font color='#fff'&gt;"</span>+<span class="string">"阅读次数："</span>+time+<span class="string">"&lt;/font&gt;"</span>+<span class="string">"&lt;br&gt;&lt;br&gt;"</span>;</span></div><div class="line"><span class="javascript">      <span class="built_in">document</span>.getElementById(<span class="string">"top"</span>).innerHTML+=content</span></div><div class="line"><span class="undefined">    &#125;</span></div><div class="line"><span class="actionscript">  &#125;, <span class="function"><span class="keyword">function</span> <span class="params">(error)</span> </span>&#123;</span></div><div class="line"><span class="javascript">    <span class="built_in">console</span>.log(<span class="string">"error"</span>);</span></div><div class="line"><span class="undefined">  &#125;);</span></div><div class="line"><span class="undefined"></span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></div></pre></td></tr></table></figure>
 <p>必须将里面的里面的<em>app_id</em>和<em>app_key</em>替换为你的<code>主题</code>配置文件中的值，其它可以自己看情况更改。然后，修改样式可以在<code>custom.styl</code>中加入自定义代码：</p>
 <figure class="highlight scss"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment">// 自定义的TopX页面样式</span></div><div class="line"><span class="selector-id">#top</span> &#123;</div><div class="line">    <span class="attribute">display</span>: block;</div><div class="line">    <span class="attribute">text-align</span>: center;</div><div class="line">    <span class="attribute">margin-top</span>: <span class="number">50px</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p><em>Okay!</em> 完成了！不过还有几点需要注意：</p>
@@ -2336,9 +2336,9 @@
             
             <tag> 补充 </tag>
             
-            <tag> next </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> next </tag>
             
         </tags>
         
@@ -2777,7 +2777,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="external">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="external">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -3064,7 +3064,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -3706,7 +3706,7 @@
 <h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开<em>QQ</em>看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着<em>Coldplay</em>的<em>In My Place</em>。码着码着，就码了一个半小时的字，<em>心情也趋于平静</em>。</p>
 <p><div style="text-align:right"><em>2016-12-29 02:43:05</em></div></p>
 
-<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer9" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:In My Place]
 [al:A Rush Of Blood To The Head]
 [by:https://reuixiy.github.io]
@@ -3746,7 +3746,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer9"),
+				element: document.getElementById("aplayer10"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
