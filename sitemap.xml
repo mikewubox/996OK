@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://reuixiy.github.io/about/index.html</loc>
+    
+    <lastmod>2017-11-18T20:10:32.866Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://reuixiy.github.io/top/index.html</loc>
+    
+    <lastmod>2017-11-18T19:34:55.702Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html</loc>
     
     <lastmod>2017-11-18T10:58:37.168Z</lastmod>
@@ -334,20 +348,6 @@
     <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/18/music-visualization.html</loc>
     
     <lastmod>2017-11-10T10:49:53.019Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/about/index.html</loc>
-    
-    <lastmod>2017-11-10T09:52:52.080Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/top/index.html</loc>
-    
-    <lastmod>2017-11-09T12:52:02.543Z</lastmod>
     
   </url>
   
