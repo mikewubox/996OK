@@ -147,9 +147,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> love </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> love </tag>
             
             <tag> 开心 </tag>
             
@@ -2909,7 +2909,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -2948,7 +2948,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer1"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3313,7 +3313,7 @@
 <h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2>
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -3352,7 +3352,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer1"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3718,9 +3718,9 @@
             
             <tag> music </tag>
             
-            <tag> love </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> love </tag>
             
             <tag> 诗 </tag>
             
@@ -3980,9 +3980,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> love </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> love </tag>
             
             <tag> 诗 </tag>
             
@@ -4456,9 +4456,9 @@
             
             <tag> epic </tag>
             
-            <tag> love </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -4663,9 +4663,9 @@
             
             <tag> 星空 </tag>
             
-            <tag> love </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> love </tag>
             
             <tag> 诗 </tag>
             
