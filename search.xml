@@ -109,9 +109,9 @@
             
             <tag> linux </tag>
             
-            <tag> how </tag>
-            
             <tag> 后脑一凉 </tag>
+            
+            <tag> how </tag>
             
         </tags>
         
@@ -149,11 +149,11 @@
             
             <tag> love </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 开心 </tag>
             
             <tag> 诗 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> 童话 </tag>
             
@@ -434,9 +434,9 @@
             
             <tag> linux </tag>
             
-            <tag> 后脑一凉 </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> 后脑一凉 </tag>
             
         </tags>
         
@@ -686,9 +686,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -857,7 +857,7 @@
 <a id="more"></a>
 <p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p>
 
-<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Now My Feet Won't Touch The Ground]
 [al:Prospekt's March EP]
 [by:https://reuixiy.github.io]
@@ -886,7 +886,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -924,11 +924,11 @@
             
             <tag> music </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1563,13 +1563,13 @@
             
             <tag> 后脑一凉 </tag>
             
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 黑暗 </tag>
+            
+            <tag> shape </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -1627,11 +1627,11 @@
             
             <tag> 目标 </tag>
             
+            <tag> practical-science(实践科学) </tag>
+            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> practical-science(实践科学) </tag>
             
             <tag> notnow </tag>
             
@@ -1690,9 +1690,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1812,9 +1812,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> 后脑一凉 </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> 后脑一凉 </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -1858,7 +1858,7 @@
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -1914,7 +1914,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1930,7 +1930,7 @@
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -1969,7 +1969,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2774,9 +2774,9 @@
             
             <tag> share </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> technology </tag>
             
@@ -2784,11 +2784,11 @@
             
             <tag> linux </tag>
             
+            <tag> bb-for-fun </tag>
+            
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> bb-for-fun </tag>
             
             <tag> 尼采 </tag>
             
@@ -2879,11 +2879,11 @@
             
             <tag> how </tag>
             
-            <tag> 工具 </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
+            
+            <tag> 工具 </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -3720,9 +3720,9 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
         </tags>
         
@@ -3789,11 +3789,11 @@
             
             <tag> 未来 </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 开心 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3982,9 +3982,9 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 童话 </tag>
             
@@ -4196,8 +4196,6 @@
             
             <tag> quotes </tag>
             
-            <tag> shape </tag>
-            
             <tag> bb-for-fun </tag>
             
             <tag> 维 </tag>
@@ -4205,6 +4203,8 @@
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
+            
+            <tag> shape </tag>
             
             <tag> 对立 </tag>
             
@@ -4340,23 +4340,23 @@
             
             <tag> music </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 开心 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> how </tag>
-            
-            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
+            
+            <tag> shape </tag>
             
             <tag> 尼采 </tag>
             
@@ -4458,13 +4458,13 @@
             
             <tag> love </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4510,6 +4510,8 @@
             
             <tag> epic </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 开心 </tag>
@@ -4517,8 +4519,6 @@
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4561,9 +4561,9 @@
             
             <tag> quotes </tag>
             
-            <tag> 音乐可视化 </tag>
-            
             <tag> bb-for-fun </tag>
+            
+            <tag> 音乐可视化 </tag>
             
             <tag> 发呆 </tag>
             
@@ -4611,13 +4611,13 @@
             
             <tag> 星空 </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4665,9 +4665,9 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 拜伦 </tag>
             
@@ -4714,9 +4714,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4769,15 +4769,15 @@
             
             <tag> share </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
             
-            <tag> 图片 </tag>
+            <tag> 前额一冷 </tag>
             
             <tag> 下载 </tag>
-            
-            <tag> 前额一冷 </tag>
             
             <tag> 尼采 </tag>
             
