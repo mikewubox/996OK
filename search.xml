@@ -149,11 +149,11 @@
             
             <tag> love </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 开心 </tag>
             
             <tag> 诗 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> 童话 </tag>
             
@@ -857,7 +857,7 @@
 <a id="more"></a>
 <p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p>
 
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Now My Feet Won't Touch The Ground]
 [al:Prospekt's March EP]
 [by:https://reuixiy.github.io]
@@ -886,7 +886,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -924,11 +924,11 @@
             
             <tag> music </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1563,11 +1563,11 @@
             
             <tag> 后脑一凉 </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
-            
-            <tag> shape </tag>
             
             <tag> 黑暗 </tag>
             
@@ -1627,11 +1627,11 @@
             
             <tag> 目标 </tag>
             
-            <tag> practical-science(实践科学) </tag>
-            
             <tag> shape </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> practical-science(实践科学) </tag>
             
             <tag> notnow </tag>
             
@@ -1858,7 +1858,7 @@
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -1914,7 +1914,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1930,7 +1930,7 @@
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -1969,7 +1969,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer5"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2052,7 +2052,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg" alt="hexo-next-optimization-title.jpg"></p>
 <a id="more"></a>
-<div class="note success">为庆祝这篇文章浏览量 <i class="fa fa-eye fa-lg"></i> <strong>1000+</strong> (๑•̀ㅂ•́)و✧，懒洋洋的博主最后终于决定：对这篇已经写了几个月的文章也来次超深度优化！<br><br>Todo list：<br><ul><br><li><i class="fa fa-check-square"></i> 优化网站整体效果 <em>Colorful!</em> [2017.11.11]</li><br><li><i class="fa fa-check-square"></i> 完善 <a href="#优化-网页样式布局">第4节</a> 的<em>F12</em>调试说明 [2017.11.13]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#好玩的写作样式">6.4. 好玩的写作样式</a> [2017.11.14]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#谷歌搜索优化及博客推广（必读）">5.4. 谷歌搜索优化</a> [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 用上新的写作样式重写本文 [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 升级主题到 5.1.3 [2017.11.16]</li><br><li><i class="fa fa-check-square"></i> 升级主题后修改本文 [2017.11.18]</li><br><li><i class="fa fa-square"></i> 更多细节 <i class="fa fa-rocket fa-lg"></i> ……</li><br></ul><br>如博主不慎改出<em>bugs</em>，欢迎大家评论指出，完成更新后，本行文字将消失ヾ(≧O≦)〃~<br><br><div style="text-align:right"><s>2017-11-13 05:06:05</s></div><br><div style="text-align:right"><s>2017-11-15 06:45:35</s></div><br><div style="text-align:right">with <i class="fa fa-heart"></i> @ 2017-11-18 03:19:50</div></div>
+<div class="note success">为庆祝这篇文章浏览量 <i class="fa fa-eye fa-lg"></i> <strong>1000+</strong> (๑•̀ㅂ•́)و✧，懒洋洋的博主最后终于决定：对这篇已经写了几个月的文章也来次超深度优化！<br><br>Todo list：<br><ul><br><li><i class="fa fa-check-square"></i> 优化网站整体效果 <em>Colorful!</em> [2017.11.11]</li><br><li><i class="fa fa-check-square"></i> 完善 <a href="#优化-网页样式布局">第4节</a> 的<em>F12</em>调试说明 [2017.11.13]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#好玩的写作样式">6.4. 好玩的写作样式</a> [2017.11.14]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#谷歌搜索优化及博客推广（必读）">5.4. 谷歌搜索优化</a> [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 用上新的写作样式重写本文 [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 升级主题到 5.1.3 [2017.11.16]</li><br><li><i class="fa fa-check-square"></i> 升级主题后修改本文 [2017.11.18]</li><br><li><i class="fa fa-check-square"></i> 听取读者意见（<a href="https://chanshiyu.com" target="_blank" rel="noopener">@蝉时雨</a>、<a href="http://zhuzhuyule.xyz" target="_blank" rel="noopener">@zhuzhuyule.xyz</a>、@胡维），修改网站颜色和文章背景，优化阅读文章的体验，再次感谢读者的反馈！ [2017.11.19]</li><br><li><i class="fa fa-square"></i> 再次修改本文</li><br><li><i class="fa fa-square"></i> 更多细节 <i class="fa fa-rocket fa-lg"></i> ……</li><br></ul><br>如博主不慎改出<em>bugs</em>，欢迎大家评论指出，完成更新后，本行文字将消失ヾ(≧O≦)〃~<br><br><div style="text-align:right"><s>2017-11-13 05:06:05</s></div><br><div style="text-align:right"><s>2017-11-15 06:45:35</s></div><br><div style="text-align:right">with <i class="fa fa-heart"></i> @ 2017-11-19 12:29:51</div></div>
 
 <h2 id="必读-写在前面"><a href="#必读-写在前面" class="headerlink" title="必读 写在前面"></a>必读 写在前面</h2><p>本文主要内容是<em>NexT</em>主题的细节优化。搭建的过程，已有的优化，<em>Markdown</em>的使用，都直接贴出大佬的博文链接。</p>
 <h3 id="bb和目录"><a href="#bb和目录" class="headerlink" title="bb和目录"></a>bb和目录</h3><p>首先肯定是感谢各位大佬的博文，我一个小白，没学<em>HTML</em>，没学<em>CSS</em>，没学<em>JavaScript</em>，连<em>C</em>也还没学会……如果你是一个和我一样的小白，且对本博客感觉还蛮满意，恭喜你！看完这篇博文，你自己也可以拥有一个这样的博客啦！</p>
@@ -2774,9 +2774,9 @@
             
             <tag> share </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> technology </tag>
             
@@ -2784,11 +2784,11 @@
             
             <tag> linux </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> computer-aided-art </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 尼采 </tag>
             
@@ -2879,11 +2879,11 @@
             
             <tag> how </tag>
             
+            <tag> 工具 </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
-            
-            <tag> 工具 </tag>
             
             <tag> analysis(分析) </tag>
             
@@ -3720,9 +3720,9 @@
             
             <tag> love </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 图片 </tag>
             
         </tags>
         
@@ -3789,11 +3789,11 @@
             
             <tag> 未来 </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 开心 </tag>
             
             <tag> 目标 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3982,9 +3982,9 @@
             
             <tag> love </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> 童话 </tag>
             
@@ -4196,6 +4196,8 @@
             
             <tag> quotes </tag>
             
+            <tag> shape </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 维 </tag>
@@ -4203,8 +4205,6 @@
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
-            
-            <tag> shape </tag>
             
             <tag> 对立 </tag>
             
@@ -4340,23 +4340,23 @@
             
             <tag> music </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 开心 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> how </tag>
+            
+            <tag> shape </tag>
             
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
-            
-            <tag> shape </tag>
             
             <tag> 尼采 </tag>
             
@@ -4458,13 +4458,13 @@
             
             <tag> love </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4510,8 +4510,6 @@
             
             <tag> epic </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 光 </tag>
             
             <tag> 开心 </tag>
@@ -4519,6 +4517,8 @@
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4561,9 +4561,9 @@
             
             <tag> quotes </tag>
             
-            <tag> bb-for-fun </tag>
-            
             <tag> 音乐可视化 </tag>
+            
+            <tag> bb-for-fun </tag>
             
             <tag> 发呆 </tag>
             
@@ -4611,13 +4611,13 @@
             
             <tag> 星空 </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4665,9 +4665,9 @@
             
             <tag> love </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
+            
+            <tag> 图片 </tag>
             
             <tag> 拜伦 </tag>
             
@@ -4769,15 +4769,15 @@
             
             <tag> share </tag>
             
-            <tag> 图片 </tag>
-            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
             
-            <tag> 前额一冷 </tag>
+            <tag> 图片 </tag>
             
             <tag> 下载 </tag>
+            
+            <tag> 前额一冷 </tag>
             
             <tag> 尼采 </tag>
             
