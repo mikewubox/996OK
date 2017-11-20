@@ -149,13 +149,13 @@
             
             <tag> love </tag>
             
-            <tag> 开心 </tag>
-            
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
             
             <tag> 童话 </tag>
+            
+            <tag> 开心 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -924,11 +924,11 @@
             
             <tag> music </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1235,9 +1235,9 @@
             
             <tag> music </tag>
             
-            <tag> 开心 </tag>
-            
             <tag> 童话 </tag>
+            
+            <tag> 开心 </tag>
             
             <tag> 后脑一凉 </tag>
             
@@ -1416,7 +1416,7 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
@@ -2052,7 +2052,6 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg" alt="hexo-next-optimization-title.jpg"></p>
 <a id="more"></a>
-<!--noindex--><div class="note success">为庆祝这篇文章浏览量 <i class="fa fa-eye fa-lg"></i> <strong>1000+</strong> (๑•̀ㅂ•́)و✧，懒洋洋的博主最后终于决定：对这篇已经写了几个月的文章也来次超深度优化！<br><br>Todo list：<br><ul><br><li><i class="fa fa-check-square"></i> 优化网站整体效果 <em>Colorful!</em> [2017.11.11]</li><br><li><i class="fa fa-check-square"></i> 完善 <a href="#优化-网页样式布局">第4节</a> 的<em>F12</em>调试说明 [2017.11.13]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#好玩的写作样式">6.4. 好玩的写作样式</a> [2017.11.14]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#谷歌搜索优化及博客推广（必读）">5.4. 谷歌搜索优化</a> [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 用上新的写作样式重写本文 [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 升级主题到 5.1.3 [2017.11.16]</li><br><li><i class="fa fa-check-square"></i> 升级主题后修改本文 [2017.11.18]</li><br><li><i class="fa fa-check-square"></i> 听取读者意见（<a href="https://chanshiyu.com" target="_blank" rel="noopener">@蝉时雨</a>、<a href="http://zhuzhuyule.xyz" target="_blank" rel="noopener">@zhuzhuyule.xyz</a>、@胡维），修改网站颜色和文章背景，优化阅读文章的体验，再次感谢这些读者的反馈！ [2017.11.19]</li><br><li><i class="fa fa-check-square"></i> 再次修改本文！ [2017.11.20]</li><br><li><i class="fa fa-square"></i> 更多细节 <i class="fa fa-rocket fa-lg"></i> ……</li><br></ul><br>如博主不慎改出<em>bugs</em>，欢迎大家评论指出，完成更新后，本行文字将消失ヾ(≧O≦)〃~<br><br><div style="text-align:right"><s>2017-11-13 05:06:05</s></div><br><div style="text-align:right"><s>2017-11-15 06:45:35</s></div><br><div style="text-align:right">with <i class="fa fa-heart"></i> @ 2017-11-20 21:03:15</div></div><!--/noindex-->
 <h2 id="必读-写在前面"><a href="#必读-写在前面" class="headerlink" title="必读 写在前面"></a>必读 写在前面</h2><p>本文主要内容是<em>NexT</em>主题的细节优化。搭建的过程，已有的优化，<em>Markdown</em>的使用，都直接贴出大佬的博文链接。</p>
 <h3 id="bb和目录"><a href="#bb和目录" class="headerlink" title="bb和目录"></a>bb和目录</h3><p>首先肯定是感谢各位大佬的博文，我一个小白，没学<em>HTML</em>，没学<em>CSS</em>，没学<em>JavaScript</em>，连<em>C</em>也还没学会……如果你是一个和我一样的小白，且对本博客感觉还蛮满意，恭喜你！看完这篇博文，你自己也可以拥有一个这样的博客啦！</p>
 <p>给小白（像我一样，也许还有完美主义和强迫症<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">）却想搭建个性化博客提供参考，是我写这篇博文的主要目的，所以如果本文有幸被大佬读到，文中的不足还请大佬见谅。</p>
@@ -2746,6 +2745,8 @@
 <p>不知道这篇文章有木有照亮你呢？如果你觉得这篇文章很赞，欢迎分享本文给更多向我一样的小白看到！为修改这篇文章博主光通宵就来了两次，但是如果还是有不足，也求给我个 <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 好评哦亲<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20"> φ(≧ω≦*)♪～</p>
 <div class="note warning">最后如果<span id="inline-green">转载</span>，麻烦留个本文的链接，因为如果读者或我自己发现文章有错误，我会在这里更正，留个本文的链接，防止我暂时的疏漏耽误了他人宝贵的时间。</div>
 
+<div class="note success">为庆祝这篇文章浏览量 <i class="fa fa-eye fa-lg"></i> <strong>1000+</strong> (๑•̀ㅂ•́)و✧，懒洋洋的博主最后终于决定：对这篇已经写了几个月的文章也来次超深度优化！<br><br>Todo list：<br><ul><br><li><i class="fa fa-check-square"></i> 优化网站整体效果 <em>Colorful!</em> [2017.11.11]</li><br><li><i class="fa fa-check-square"></i> 完善 <a href="#优化-网页样式布局">第4节</a> 的<em>F12</em>调试说明 [2017.11.13]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#好玩的写作样式">6.4. 好玩的写作样式</a> [2017.11.14]</li><br><li><i class="fa fa-check-square"></i> 重写 <a href="#谷歌搜索优化及博客推广（必读）">5.4. 谷歌搜索优化</a> [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 用上新的写作样式重写本文 [2017.11.15]</li><br><li><i class="fa fa-check-square"></i> 升级主题到 5.1.3 [2017.11.16]</li><br><li><i class="fa fa-check-square"></i> 升级主题后修改本文 [2017.11.18]</li><br><li><i class="fa fa-check-square"></i> 听取读者意见（<a href="https://chanshiyu.com" target="_blank" rel="noopener">@蝉时雨</a>、<a href="http://zhuzhuyule.xyz" target="_blank" rel="noopener">@zhuzhuyule.xyz</a>、@胡维），修改网站颜色和文章背景，优化阅读文章的体验，再次感谢这些读者的反馈！ [2017.11.19]</li><br><li><i class="fa fa-check-square"></i> 再次修改本文！ [2017.11.20]</li><br><li><i class="fa fa-square"></i> 更多细节 <i class="fa fa-rocket fa-lg"></i> ……</li><br></ul><br>如博主不慎改出<em>bugs</em>，欢迎大家评论指出，完成更新后，本行文字将消失ヾ(≧O≦)〃~<br><br><div style="text-align:right"><s>2017-11-13 05:06:05</s></div><br><div style="text-align:right"><s>2017-11-15 06:45:35</s></div><br><div style="text-align:right">with <i class="fa fa-heart"></i> @ 2017-11-20 21:03:15</div></div>
+
 <div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://github.com/ahonn/hexo-theme-even/issues/69" target="_blank" rel="noopener">https://github.com/ahonn/hexo-theme-even/issues/69</a></span><a href="#fnref:1" rev="footnote"> ↩</a></li><li id="fn:2"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">2.</span><span style="display: inline-block; vertical-align: top;">来源：<a href="http://lovekernel.com/2017/hexo博客构建笔记/" target="_blank" rel="noopener">http://lovekernel.com/2017/hexo博客构建笔记/</a></span><a href="#fnref:2" rev="footnote"> ↩</a></li><li id="fn:3"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">3.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="http://lovekernel.com/2017/hexo博客构建笔记/" target="_blank" rel="noopener">http://lovekernel.com/2017/hexo博客构建笔记/</a></span><a href="#fnref:3" rev="footnote"> ↩</a></li><li id="fn:4"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">4.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="https://leaferx.online/2017/06/16/use-gulp-to-minimize/" target="_blank" rel="noopener">https://leaferx.online/2017/06/16/use-gulp-to-minimize/</a></span><a href="#fnref:4" rev="footnote"> ↩</a></li><li id="fn:5"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">5.</span><span style="display: inline-block; vertical-align: top;">来源：<a href="http://markdown.tw/" target="_blank" rel="noopener">http://markdown.tw/</a></span><a href="#fnref:5" rev="footnote"> ↩</a></li><li id="fn:6"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">6.</span><span style="display: inline-block; vertical-align: top;">参考：<a href="http://www.w3school.com.cn/tags/tag_hr.asp" target="_blank" rel="noopener">http://www.w3school.com.cn/tags/tag_hr.asp</a></span><a href="#fnref:6" rev="footnote"> ↩</a></li><li id="fn:7"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">7.</span><span style="display: inline-block; vertical-align: top;">来源：<a href="http://ookamiantd.top/2017/build-blog-hexo-advanced/" target="_blank" rel="noopener">http://ookamiantd.top/2017/build-blog-hexo-advanced/</a></span><a href="#fnref:7" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
       
         <categories>
@@ -2767,9 +2768,9 @@
             
             <tag> share </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> technology </tag>
             
@@ -3250,7 +3251,7 @@
 
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p>
 <a id="more"></a>
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 -->
 <h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p>
 
 <h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="noopener">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="noopener">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p>
@@ -3713,9 +3714,9 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
         </tags>
         
@@ -3782,11 +3783,11 @@
             
             <tag> 未来 </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 开心 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -3975,11 +3976,11 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
             
             <tag> 童话 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4333,13 +4334,13 @@
             
             <tag> music </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 开心 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> how </tag>
             
@@ -4451,13 +4452,13 @@
             
             <tag> love </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4503,6 +4504,8 @@
             
             <tag> epic </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 开心 </tag>
@@ -4510,8 +4513,6 @@
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4604,13 +4605,13 @@
             
             <tag> 星空 </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 光 </tag>
             
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4658,9 +4659,9 @@
             
             <tag> love </tag>
             
-            <tag> 诗 </tag>
-            
             <tag> 图片 </tag>
+            
+            <tag> 诗 </tag>
             
             <tag> 拜伦 </tag>
             
@@ -4762,11 +4763,11 @@
             
             <tag> share </tag>
             
+            <tag> 图片 </tag>
+            
             <tag> 诗 </tag>
             
             <tag> 目标 </tag>
-            
-            <tag> 图片 </tag>
             
             <tag> 前额一冷 </tag>
             
