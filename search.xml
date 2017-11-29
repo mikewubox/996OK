@@ -90,11 +90,11 @@
             
             <tag> 学习 </tag>
             
-            <tag> internet </tag>
-            
             <tag> analysis(分析) </tag>
             
             <tag> 假象 </tag>
+            
+            <tag> internet </tag>
             
             <tag> 知识平台 </tag>
             
@@ -261,9 +261,9 @@
             
             <tag> 诗 </tag>
             
-            <tag> 童话 </tag>
-            
             <tag> love </tag>
+            
+            <tag> 童话 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -342,7 +342,7 @@
 
 <p><blockquote>折腾的原因呢，安装的网易云音乐，有一些歌曲不能播放，很怪，于是Google了一大堆，说要安装gstreamer，于是安装了一大堆gstreamer相关的包。但是，发现问题还是没有解决啊，于是卸载呗，突然想起<a href="http://jingyan.baidu.com/article/6181c3e0bb9f7e152ff15361.html" target="_blank" rel="noopener">百度经验</a>上面的apt-get介绍，有个强力推荐，于是然后<code>apt-get autoremove gstreamer* --purge</code>卸载呗。卸载了好久啊，想起了之前的rm悲剧，然后真的又悲剧了<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">……</blockquote></p>
 
-<div id="dplayer9" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer9 = new DPlayer({"element":document.getElementById("dplayer9"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 -->
+<div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/make-linux-looks-like-macos.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"19de3681c6313aeae8972ade672c21a5f4cd7a4300938e933f67ece333be729f"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="题外话"><a href="#题外话" class="headerlink" title="题外话"></a>题外话</h2><p>产生了三个悲剧。</p>
 <ul>
@@ -798,19 +798,19 @@
             
             <tag> how </tag>
             
+            <tag> quotes </tag>
+            
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
             
             <tag> 黑暗 </tag>
             
+            <tag> 对立 </tag>
+            
             <tag> 假象 </tag>
             
-            <tag> quotes </tag>
-            
             <tag> 易 </tag>
-            
-            <tag> 对立 </tag>
             
             <tag> 电影 </tag>
             
@@ -872,7 +872,7 @@
       <url>/beautiful/share/2017/09/23/a-touching-tv-commercial.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer8" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer8 = new DPlayer({"element":document.getElementById("dplayer8"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"2f3780f9e38d0dc231f9fee9242c897842fb0fdaacc5904a03d7dc3e9768c6a7"}});</script><!-- dplayer used1 -->
+<div id="dplayer9" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer9 = new DPlayer({"element":document.getElementById("dplayer9"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"2f3780f9e38d0dc231f9fee9242c897842fb0fdaacc5904a03d7dc3e9768c6a7"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -967,7 +967,7 @@
 <a id="more"></a>
 <p><div style="text-align:left">小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？<br><br>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺<br><br>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握<br><br>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩<br><br><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></div></p>
 
-<div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Now My Feet Won't Touch The Ground]
 [al:Prospekt's March EP]
 [by:https://reuixiy.github.io]
@@ -996,7 +996,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer2"),
+				element: document.getElementById("aplayer3"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1071,7 +1071,7 @@
 <p>网页下拉，很赞有木有，不过最让人眼前一亮的是右上角的小东东，鼠标按住它往左拉，会出现一个侧栏。</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/first-exploration-of-the-zeronet-2.png" alt="first-exploration-of-the-zeronet-1.png"></p>
 <p>最后就是小视频了：</p>
-<div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
+<div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/first-exploration-of-the-zeronet.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f6517f789cce169eabe97ea4678608fce74700342232a08ec59809220c267d21"}});</script><!-- dplayer used1 -->
 <p>别的不说，光是这<em>UI</em>就值得体验一下<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f63c.png" height="20" width="20">。</p>
 <h2 id="介绍和安装"><a href="#介绍和安装" class="headerlink" title="介绍和安装"></a>介绍和安装</h2><p><blockquote class="question">什么是<em>ZeroNet</em>？</blockquote></p>
 
@@ -1151,9 +1151,9 @@
             
             <tag> bb-for-fun </tag>
             
-            <tag> internet </tag>
-            
             <tag> 看书 </tag>
+            
+            <tag> internet </tag>
             
             <tag> 补充 </tag>
             
@@ -1397,7 +1397,7 @@
 <h2 id="折腾新成果"><a href="#折腾新成果" class="headerlink" title="折腾新成果"></a>折腾新成果</h2><p>1.博客方面，规范了<em>Markdown</em>文档，可以更美观的使用<em>emoji</em><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60e.png" height="20" width="20">，添加<a href="https://reuixiy.github.io/404.html">404</a>页面，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击<a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a>查看。</p>
 <p>2.系统方面，装了最新的<a href="http://phpcj.org/wineqq/" target="_blank" rel="noopener">Wine QQ</a>，深刻了解数据的重要性和<code>rm</code>的可怕<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">。</p>
 <p>3.其它方面，熟悉了<em>UEFI+GPT</em>，自己重装系统的能力又得到了巨大提升<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/ku.jpg" height="50" width="50">。</p>
-<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer12" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="那来首歌吧"><a href="#那来首歌吧" class="headerlink" title="那来首歌吧"></a>那来首歌吧</h2><div id="aplayer13" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -1432,7 +1432,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer12"),
+				element: document.getElementById("aplayer13"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1444,7 +1444,7 @@
 				}
 			});
 		</script>
-<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer18" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer18 = new DPlayer({"element":document.getElementById("dplayer18"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
+<h2 id="来个小视频"><a href="#来个小视频" class="headerlink" title="来个小视频"></a>来个小视频</h2><div id="dplayer17" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer17 = new DPlayer({"element":document.getElementById("dplayer17"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"bca843a2be22884e0438161c75608b8bc0bcbbef454269be86db71b85673f4de"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -1477,9 +1477,9 @@
             
             <tag> 后脑一凉 </tag>
             
-            <tag> 易 </tag>
-            
             <tag> notnow </tag>
+            
+            <tag> 易 </tag>
             
             <tag> 悲伤 </tag>
             
@@ -1525,9 +1525,9 @@
             
             <tag> 图片 </tag>
             
-            <tag> shape </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> shape </tag>
             
             <tag> notnow </tag>
             
@@ -1540,9 +1540,9 @@
       <url>/beautiful/share/2017/08/01/coldplay-paradise.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Paradise]
 [al:Mylo Xyloto]
 [by:https://reuixiy.github.io]
@@ -1594,7 +1594,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer0"),
+				element: document.getElementById("aplayer2"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -1699,11 +1699,11 @@
             
             <tag> analysis(分析) </tag>
             
+            <tag> 悲伤 </tag>
+            
             <tag> why </tag>
             
             <tag> 战争 </tag>
-            
-            <tag> 悲伤 </tag>
             
             <tag> 死亡 </tag>
             
@@ -1822,15 +1822,15 @@
             
             <tag> how </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
-            <tag> analysis(分析) </tag>
-            
-            <tag> quotes </tag>
-            
             <tag> 自省 </tag>
+            
+            <tag> analysis(分析) </tag>
             
             <tag> 尼采 </tag>
             
@@ -1948,27 +1948,27 @@
             
             <tag> 后脑一凉 </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
             
             <tag> 前额一冷 </tag>
             
-            <tag> analysis(分析) </tag>
-            
-            <tag> 假象 </tag>
-            
-            <tag> quotes </tag>
+            <tag> notnow </tag>
             
             <tag> 自省 </tag>
             
-            <tag> 尼采 </tag>
-            
-            <tag> notnow </tag>
-            
             <tag> 对立 </tag>
             
+            <tag> analysis(分析) </tag>
+            
+            <tag> 尼采 </tag>
+            
             <tag> 看书 </tag>
+            
+            <tag> 假象 </tag>
             
             <tag> 查拉图斯特拉 </tag>
             
@@ -1990,11 +1990,11 @@
 <a id="more"></a>
 <h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><em>Windows Media Player</em>是<em>Windows</em>自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的<em>SRS(Sound Retrieval System)3D</em>环绕立体声音效听一些歌（比如<em>Taylor Swift</em>的<em>1989</em>里面的歌）超赞<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f600.png" height="20" width="20">，空间感十足。</p>
 <h2 id="预览"><a href="#预览" class="headerlink" title="预览"></a>预览</h2><p>给出自己录的两个视频，先看看效果，戴上耳机哦～渣渣电脑，录的有点卡。视频嘛，<em>Wi-Fi</em>随意，土豪随意。</p>
-<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer5" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer5 = new DPlayer({"element":document.getElementById("dplayer5"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
+<h3 id="音效"><a href="#音效" class="headerlink" title="音效"></a>音效</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4bc13834b8b388cf066cf75535c189623b8b70ada71ea1c44225256a9db6d78f"}});</script><!-- dplayer used1 -->
 <p><center><em>Taylor Swift - Style</em></center></p>
 
 <p>原版：</p>
-<div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
+<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">﻿[ar:Taylor Swift]
 [ti:Style]
 [al:1989]
 [by:https://reuixiy.github.io]
@@ -2050,7 +2050,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer3"),
+				element: document.getElementById("aplayer4"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2062,11 +2062,11 @@
 				}
 			});
 		</script>
-<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer6" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer6 = new DPlayer({"element":document.getElementById("dplayer6"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
+<h3 id="倒放"><a href="#倒放" class="headerlink" title="倒放"></a>倒放</h3><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f9e7c9fc400fed614001f43df0553beb0d524d92c2a91856cffddadd4618f788"}});</script><!-- dplayer used1 -->
 <p><center><em>Coldplay - True Love</em></center></p>
 
 <p>正序：</p>
-<div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
+<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar: Coldplay]
 [ti: True Love]
 [al: Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -2105,7 +2105,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer4"),
+				element: document.getElementById("aplayer5"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -2161,11 +2161,11 @@
             
             <tag> system-software </tag>
             
+            <tag> love </tag>
+            
             <tag> technology </tag>
             
             <tag> computer </tag>
-            
-            <tag> love </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2201,7 +2201,7 @@
 <p><blockquote class="question"><em>tip</em>：有一些优化的很好的博客，有很多很酷的功能，我当时没收藏，后来非常后悔，提醒大家如果看到很赞的博客，一定要马上收藏。</blockquote></p>
 
 <p>因为目录默认全展开不美观，而不展开又不能让读者对文章内容迅速了解，故在开头加上。</p>
-<figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span> 必读 写在前面</div><div class="line">	<span class="number">1.1</span>. bb和目录</div><div class="line">	<span class="number">1.2</span>. 重要的定义</div><div class="line">	<span class="number">1.3</span>. 我操作的环境（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line"><span class="number">2.</span> 开始 搭建博客</div><div class="line">	<span class="number">2.1</span>. 在本地安装Hexo</div><div class="line">	<span class="number">2.2</span>. 部署博客到Github Pages</div><div class="line">	<span class="number">2.3</span>. 更新提示（可以最后看）（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line"><span class="number">3.</span> 优化 基本功能配置</div><div class="line">	<span class="number">3.1</span>. 选择主题</div><div class="line">	<span class="number">3.2</span>. 站点配置文件（<span class="number">2017.11</span><span class="number">.14</span>更新）</div><div class="line">	<span class="number">3.3</span>. 主题配置文件（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">3.4</span>. 动态背景</div><div class="line">	<span class="number">3.5</span>. 注脚</div><div class="line"><span class="number">4.</span> 优化 网页样式布局</div><div class="line">	<span class="number">4.1</span>. 怎么更改？</div><div class="line">		<span class="number">4.1</span><span class="number">.1</span>. bb - for - bb</div><div class="line">		<span class="number">4.1</span><span class="number">.2</span>. 快速由懵逼到熟悉</div><div class="line">		<span class="number">4.1</span><span class="number">.3</span>. bb - for - fun</div><div class="line">	<span class="number">4.2</span>. 附上我的custom.styl（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">4.3</span>. 修改字体（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line"><span class="number">5.</span> 进阶 高级功能配置</div><div class="line">	<span class="number">5.1</span>. 大佬的博文</div><div class="line">	<span class="number">5.2</span>. 更改上一篇，下一篇的顺序</div><div class="line">	<span class="number">5.3</span>. 移动端显示back-to-top按钮和侧栏</div><div class="line">	<span class="number">5.4</span>. 谷歌搜索优化及博客推广（必读）（<span class="number">2017.11</span><span class="number">.15</span>更新）</div><div class="line">		<span class="number">5.4</span><span class="number">.1</span>. 搜索引擎</div><div class="line">		<span class="number">5.4</span><span class="number">.2</span>. 间接影响</div><div class="line">		<span class="number">5.4</span><span class="number">.3</span>. 知识平台</div><div class="line">	<span class="number">5.5</span>. 某一category和tag的页面年份分割（<span class="number">2017.07</span><span class="number">.18</span>更新）</div><div class="line">		<span class="number">5.5</span><span class="number">.1</span>. category的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.2</span>. tag的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.3</span>. 说明</div><div class="line">	<span class="number">5.6</span>. 文章底部加上评分小星星（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">5.7</span>. 侧栏加入已运行的时间（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.8</span>. 添加TopX页面（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">5.9</span>. 利用gulp压缩代码（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.10</span>. 让页脚的心跳动起来（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">5.11</span>. 页脚加上微信二维码（<span class="number">2017.08</span><span class="number">.29</span>更新）</div><div class="line">	<span class="number">5.12</span>. 更改标签云（tagcloud）的颜色（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line">	<span class="number">5.13</span>. 点击侧栏头像回到博客首页（<span class="number">2017.11</span><span class="number">.16</span>更新）</div><div class="line"><span class="number">6.</span> 进阶 写出优雅文章</div><div class="line">	<span class="number">6.1</span>. 使用Markdown</div><div class="line">		<span class="number">6.1</span><span class="number">.1</span>. Markdown简介</div><div class="line">		<span class="number">6.1</span><span class="number">.2</span>. Markdown教程</div><div class="line">		<span class="number">6.1</span><span class="number">.3</span>. 我个人的总结（<span class="number">2017.11</span><span class="number">.15</span>更新）</div><div class="line">	<span class="number">6.2</span>. 如何使用emoji（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">6.3</span>. 插入音乐和视频</div><div class="line">		<span class="number">6.3</span><span class="number">.1</span>. 音乐（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.3</span><span class="number">.2</span>. 视频（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">6.4</span>. 好玩的写作样式（<span class="number">2017.11</span><span class="number">.13</span>更新）</div><div class="line">		<span class="number">6.4</span><span class="number">.1</span>. 主题自带样式 FontAwesome图标</div><div class="line">		<span class="number">6.4</span><span class="number">.2</span>. 主题自带样式 代码块高亮与gist（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.4</span><span class="number">.3</span>. 主题自带样式 文本居中引用</div><div class="line">		<span class="number">6.4</span><span class="number">.4</span>. 主题自带样式 note标签</div><div class="line">		<span class="number">6.4</span><span class="number">.5</span>. 主题自带样式 label标签</div><div class="line">		<span class="number">6.4</span><span class="number">.6</span>. 主题自带样式 tabs标签</div><div class="line">		<span class="number">6.4</span><span class="number">.7</span>. 自定义样式 文字背景色块</div><div class="line">		<span class="number">6.4</span><span class="number">.8</span>. 自定义样式 文字引用边框</div><div class="line">		<span class="number">6.4</span><span class="number">.9</span>. 自定义样式 下载框（按钮）</div><div class="line">		<span class="number">6.4</span><span class="number">.10</span>. 自定义样式 数字块</div><div class="line">	<span class="number">6.5</span>. 文章的模板文件</div><div class="line"><span class="number">7.</span> 结尾 求大佬和结尾</div><div class="line">	<span class="number">7.1</span>. 移动端顶部菜单</div><div class="line">	<span class="number">7.2</span>. 替换fancybox（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">7.3</span>. 最后的结束小语</div></pre></td></tr></table></figure>
+<figure class="highlight lsl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div></pre></td><td class="code"><pre><div class="line"><span class="number">1.</span> 必读 写在前面</div><div class="line">	<span class="number">1.1</span>. bb和目录</div><div class="line">	<span class="number">1.2</span>. 重要的定义</div><div class="line">	<span class="number">1.3</span>. 我操作的环境（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line"><span class="number">2.</span> 开始 搭建博客</div><div class="line">	<span class="number">2.1</span>. 在本地安装Hexo</div><div class="line">	<span class="number">2.2</span>. 部署博客到Github Pages</div><div class="line">	<span class="number">2.3</span>. 更新提示（可以最后看）（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line"><span class="number">3.</span> 优化 基本功能配置</div><div class="line">	<span class="number">3.1</span>. 选择主题</div><div class="line">	<span class="number">3.2</span>. 站点配置文件（<span class="number">2017.11</span><span class="number">.14</span>更新）</div><div class="line">	<span class="number">3.3</span>. 主题配置文件（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">3.4</span>. 动态背景</div><div class="line">	<span class="number">3.5</span>. 注脚</div><div class="line"><span class="number">4.</span> 优化 网页样式布局</div><div class="line">	<span class="number">4.1</span>. 怎么更改？</div><div class="line">		<span class="number">4.1</span><span class="number">.1</span>. bb - for - bb</div><div class="line">		<span class="number">4.1</span><span class="number">.2</span>. 快速由懵逼到熟悉</div><div class="line">		<span class="number">4.1</span><span class="number">.3</span>. bb - for - fun</div><div class="line">	<span class="number">4.2</span>. 附上我的custom.styl（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">4.3</span>. 修改字体（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line"><span class="number">5.</span> 进阶 高级功能配置</div><div class="line">	<span class="number">5.1</span>. 大佬的博文</div><div class="line">	<span class="number">5.2</span>. 更改上一篇，下一篇的顺序</div><div class="line">	<span class="number">5.3</span>. 移动端显示back-to-top按钮和侧栏</div><div class="line">	<span class="number">5.4</span>. 谷歌搜索优化及博客推广（必读）（<span class="number">2017.11</span><span class="number">.29</span>更新）</div><div class="line">		<span class="number">5.4</span><span class="number">.1</span>. 搜索引擎</div><div class="line">		<span class="number">5.4</span><span class="number">.2</span>. 间接影响</div><div class="line">		<span class="number">5.4</span><span class="number">.3</span>. 知识平台</div><div class="line">	<span class="number">5.5</span>. 某一category和tag的页面年份分割（<span class="number">2017.07</span><span class="number">.18</span>更新）</div><div class="line">		<span class="number">5.5</span><span class="number">.1</span>. category的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.2</span>. tag的修改</div><div class="line">		<span class="number">5.5</span><span class="number">.3</span>. 说明</div><div class="line">	<span class="number">5.6</span>. 文章底部加上评分小星星（<span class="number">2017.08</span><span class="number">.23</span>更新）</div><div class="line">	<span class="number">5.7</span>. 侧栏加入已运行的时间（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.8</span>. 添加TopX页面（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">5.9</span>. 利用gulp压缩代码（<span class="number">2017.08</span><span class="number">.27</span>更新）</div><div class="line">	<span class="number">5.10</span>. 让页脚的心跳动起来（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">5.11</span>. 页脚加上微信二维码（<span class="number">2017.08</span><span class="number">.29</span>更新）</div><div class="line">	<span class="number">5.12</span>. 更改标签云（tagcloud）的颜色（<span class="number">2017.08</span><span class="number">.31</span>更新）</div><div class="line">	<span class="number">5.13</span>. 点击侧栏头像回到博客首页（<span class="number">2017.11</span><span class="number">.16</span>更新）</div><div class="line"><span class="number">6.</span> 进阶 写出优雅文章</div><div class="line">	<span class="number">6.1</span>. 使用Markdown</div><div class="line">		<span class="number">6.1</span><span class="number">.1</span>. Markdown简介</div><div class="line">		<span class="number">6.1</span><span class="number">.2</span>. Markdown教程</div><div class="line">		<span class="number">6.1</span><span class="number">.3</span>. 我个人的总结（<span class="number">2017.11</span><span class="number">.15</span>更新）</div><div class="line">	<span class="number">6.2</span>. 如何使用emoji（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">	<span class="number">6.3</span>. 插入音乐和视频</div><div class="line">		<span class="number">6.3</span><span class="number">.1</span>. 音乐（<span class="number">2017.08</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.3</span><span class="number">.2</span>. 视频（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">6.4</span>. 好玩的写作样式（<span class="number">2017.11</span><span class="number">.13</span>更新）</div><div class="line">		<span class="number">6.4</span><span class="number">.1</span>. 主题自带样式 FontAwesome图标</div><div class="line">		<span class="number">6.4</span><span class="number">.2</span>. 主题自带样式 代码块高亮与gist（<span class="number">2017.11</span><span class="number">.20</span>更新）</div><div class="line">		<span class="number">6.4</span><span class="number">.3</span>. 主题自带样式 文本居中引用</div><div class="line">		<span class="number">6.4</span><span class="number">.4</span>. 主题自带样式 note标签</div><div class="line">		<span class="number">6.4</span><span class="number">.5</span>. 主题自带样式 label标签</div><div class="line">		<span class="number">6.4</span><span class="number">.6</span>. 主题自带样式 tabs标签</div><div class="line">		<span class="number">6.4</span><span class="number">.7</span>. 自定义样式 文字背景色块</div><div class="line">		<span class="number">6.4</span><span class="number">.8</span>. 自定义样式 文字引用边框</div><div class="line">		<span class="number">6.4</span><span class="number">.9</span>. 自定义样式 下载框（按钮）</div><div class="line">		<span class="number">6.4</span><span class="number">.10</span>. 自定义样式 数字块</div><div class="line">	<span class="number">6.5</span>. 文章的模板文件</div><div class="line"><span class="number">7.</span> 结尾 求大佬和结尾</div><div class="line">	<span class="number">7.1</span>. 移动端顶部菜单</div><div class="line">	<span class="number">7.2</span>. 替换fancybox（<span class="number">2017.11</span><span class="number">.18</span>更新）</div><div class="line">	<span class="number">7.3</span>. 最后的结束小语</div></pre></td></tr></table></figure>
 <h3 id="重要的定义"><a href="#重要的定义" class="headerlink" title="重要的定义"></a>重要的定义</h3><div class="note info">了解这些定义，防止懵逼和大脑混乱。</div>
 
 <p><span id="inline-purple">站点配置文件</span>和<span id="inline-green">主题配置文件</span>，名字都叫<code>_config.yml</code>，容易乱。</p>
@@ -2436,7 +2436,8 @@
 <p>如果做到上面三点，那么就算好不容易“骗”到一个<em>Google</em>浏览量，但是这个读者马上被博客和文章惊呆了，看完文章后，这读者心里美滋滋，认为这么好的文章（博客）必须分享（如上面的大佬推荐），于是可能马上来了一大批满怀期待的读者，然后这批读者又……这时浏览量就不是简单的加法了<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60f.png" height="20" width="20">。</p>
 <p>不过博客的读者，很大程度上还是直接或间接因为<em>Google</em>这样的搜索引擎，也就意味着大部分读者还是技术员。能看到一首诗的人不一定能欣赏，而要想照亮他人，必须他人能懂自己的文章，这样也才可能有更强的交互——评论。为了不浪费自己的光能，能把自己的光能完完整整的贡献给文明，那就必须也让一首诗也有评论。怎么做呢？让读者的类型多样化，不限于技术员。</p>
 <h4 id="知识平台"><a href="#知识平台" class="headerlink" title="知识平台"></a>知识平台</h4><p>还好现在大部分读者也不用搜索引擎了，谁在吞食搜索引擎的用户？移动端。智能手机的迅速普及导致搜索引擎已经不是人们获取知识的主要途径，大部分人已经将手机<em>APP</em>上的知识平台作为自己获取知识的主要途径，比如：知乎、简书、微信订阅号……所以，你还可以将自己的文章发布在这些知识平台上的相应分类上，然后留个博客链接，吸引更多类型的读者<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f60f.png" height="20" width="20">。</p>
-<p>最后，你怎么知道有没有人看了自己的网站？哪篇文章最受欢迎？文章此时有没有人正浏览着自己的网站？这时最常用的就是强大免费的<a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics</a>，推荐博客建好后，就立即使用，如何使用可以自行<em>Google</em>教程（博主也还不太会[逃……]）。</p>
+<p>最后，你怎么知道有没有人看了自己的网站？哪篇文章最受欢迎？文章此时有没有人正浏览着自己的网站？这时最常用的就是强大免费的<a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics</a>，推荐博客建好后，就立即使用。</p>
+<p>如何使用？请务必自备梯子查看<a href="https://analytics.google.com/analytics/academy/course/6" target="_blank" rel="noopener">Google官方的教程</a>，开始使用后一定要先按照里面的设置，添加多份<em>view</em>（数据视图），千万别在默认的数据视图（全部网站数据）那加<em>filter</em>（过滤器），不然……</p>
 <h3 id="某一category和tag的页面年份分割"><a href="#某一category和tag的页面年份分割" class="headerlink" title="某一category和tag的页面年份分割"></a>某一category和tag的页面年份分割</h3><p>在<em>Archives</em>页面，有年份分割，而某一<em>category</em>和<em>tag</em>的页面却没有。怎么办呢？修改两个文件，加代码即可。</p>
 <h4 id="category的修改"><a href="#category的修改" class="headerlink" title="category的修改"></a>category的修改</h4><p>文件位置：<code>~/blog/themes/next/layout/category.swig</code>。</p>
 <p><span id="inline-toc">1.</span>加到哪？要加两个位置：</p>
@@ -2446,7 +2447,7 @@
 <h4 id="tag的修改"><a href="#tag的修改" class="headerlink" title="tag的修改"></a>tag的修改</h4><p>文件位置：<code>~/blog/themes/next/layout/tag.swig</code>，与的<em>category</em>修改完全一样。</p>
 <h4 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h4><p>两段代码直接<em>Copy</em>同目录下的<em>archive.swig</em>文件里面的，而且<em>tag.swig</em>和<em>category.swig</em>好像都预留了位置似的，不知道写代码的大佬怎么想的=_=!。</p>
 <p>代码小白的我折腾了半天，才改好<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20"><img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png" height="20" width="20">。</p>
-<h3 id="文章底部加上评分小星星"><a href="#文章底部加上评分小星星" class="headerlink" title="文章底部加上评分小星星"></a>文章底部加上评分小星星</h3><p>淘宝买东西，作为消费者的我们，看评价很重要。现在作为博主，写了一篇文章，很期待读者的反馈。而与淘宝一样，确认收获后，相比评论，更愿意五星好评。那么博客文章怎么加上呢？</p>
+<h3 id="文章底部加上评分小星星"><a href="#文章底部加上评分小星星" class="headerlink" title="文章底部加上评分小星星"></a>文章底部加上评分小星星</h3><p>淘宝买东西，作为消费者的我们，看评价很重要。现在作为博主，写了一篇文章，很期待读者的反馈。而与淘宝一样，确认收货后，相比评论，更愿意五星好评。那么博客文章怎么加上呢？</p>
 <p>首先打开<span id="inline-green">主题</span>配置文件：</p>
 <figure class="highlight sh"><figcaption><span>文件位置：~/blog/themes/next/_config.yml</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line"><span class="comment"># Star rating support to each article.</span></div><div class="line"><span class="comment"># To get your ID visit https://widgetpack.com</span></div><div class="line">rating:</div><div class="line">  <span class="built_in">enable</span>: <span class="literal">true</span></div><div class="line">  id:     </div><div class="line">  color: f79533</div></pre></td></tr></table></figure>
 <p>先去注释中的网站，首页点<em>Rating</em>，然后注册个帐号，填一下自己网站的信息，左上角有个<em>ID</em>，填进<span id="inline-green">主题</span>配置文件中就行，<code>color</code>改成自己喜欢的即可。另：</p>
@@ -2928,11 +2929,11 @@
             
             <tag> 下载 </tag>
             
+            <tag> 尼采 </tag>
+            
             <tag> internet </tag>
             
             <tag> 知识平台 </tag>
-            
-            <tag> 尼采 </tag>
             
             <tag> 补充 </tag>
             
@@ -3053,7 +3054,7 @@
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG" style="width:100%"></p>
 
 <a id="more"></a>
-<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Fix You]
 [al:X&Y]
 [by:https://reuixiy.github.io]
@@ -3092,7 +3093,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer7"),
+				element: document.getElementById("aplayer0"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -3319,6 +3320,8 @@
             
             <tag> love </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 维 </tag>
@@ -3326,8 +3329,6 @@
             <tag> 前额一冷 </tag>
             
             <tag> 黑暗 </tag>
-            
-            <tag> quotes </tag>
             
             <tag> 看书 </tag>
             
@@ -3454,7 +3455,7 @@
       <url>/beautiful/share/2017/04/15/coldplay-fix-you.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2>
 
@@ -3710,7 +3711,7 @@
       <url>/beautiful/share/2017/03/11/danny-macaskills-wee-day-out.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
+<div id="dplayer4" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer4 = new DPlayer({"element":document.getElementById("dplayer4"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"f5fd5085aa7f6b73bbc936ee93a82cc15e83677f0a09ba078e9be0fc85d60938"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -3801,11 +3802,11 @@
             
             <tag> 前额一冷 </tag>
             
+            <tag> 对立 </tag>
+            
             <tag> analysis(分析) </tag>
             
             <tag> 假象 </tag>
-            
-            <tag> 对立 </tag>
             
             <tag> 查拉图斯特拉 </tag>
             
@@ -3947,9 +3948,9 @@
             
             <tag> practical-science(实践科学) </tag>
             
-            <tag> analysis(分析) </tag>
-            
             <tag> notnow </tag>
+            
+            <tag> analysis(分析) </tag>
             
             <tag> 大脑 </tag>
             
@@ -4134,9 +4135,9 @@
             
             <tag> 诗 </tag>
             
-            <tag> 童话 </tag>
-            
             <tag> love </tag>
+            
+            <tag> 童话 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -4161,7 +4162,7 @@
 
 <p><blockquote class="blockquote-center">品味一种纯糖果，各式口感竟皆有<br>单曲循环却病躺，随机播放即变换<br>困于倦于这现实，拥抱梦想何不试<br>星辰大海应忽现，近处视界皆将变</blockquote></p>
 
-<div id="aplayer13" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
+<div id="aplayer12" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay]
 [ti:Always In My Head]
 [al:Ghost Stories]
 [by:https://reuixiy.github.io]
@@ -4189,7 +4190,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer13"),
+				element: document.getElementById("aplayer12"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -4346,6 +4347,8 @@
             
             <tag> 目标 </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 维 </tag>
@@ -4359,8 +4362,6 @@
             <tag> 学习 </tag>
             
             <tag> shape </tag>
-            
-            <tag> quotes </tag>
             
             <tag> 对立 </tag>
             
@@ -4555,15 +4556,15 @@
             
             <tag> 沉迷于删删改改 </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 前额一冷 </tag>
             
-            <tag> quotes </tag>
+            <tag> 对立 </tag>
             
             <tag> 尼采 </tag>
-            
-            <tag> 对立 </tag>
             
             <tag> 悲伤 </tag>
             
@@ -4715,11 +4716,11 @@
             
             <tag> music </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> 音乐可视化 </tag>
-            
-            <tag> quotes </tag>
             
             <tag> 发呆 </tag>
             
@@ -4872,11 +4873,11 @@
             
             <tag> how </tag>
             
+            <tag> quotes </tag>
+            
             <tag> bb-for-fun </tag>
             
             <tag> practical-science(实践科学) </tag>
-            
-            <tag> quotes </tag>
             
             <tag> 自省 </tag>
             
@@ -4937,11 +4938,11 @@
             
             <tag> 下载 </tag>
             
-            <tag> 图书馆 </tag>
-            
             <tag> 尼采 </tag>
             
             <tag> 看书 </tag>
+            
+            <tag> 图书馆 </tag>
             
             <tag> 补充 </tag>
             
@@ -4958,15 +4959,15 @@
 
 <a id="more"></a>
 <h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2>
-			<div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"></div>
+			<div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"></div>
 			<script>
 				var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};
-				options.element = document.getElementById("aplayer5");
+				options.element = document.getElementById("aplayer6");
 				new APlayer(options);
 			</script>
 
 		
-<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
+<h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis]
 [ti:Live Forever]
 [al:Live Forever]
 [by:https://reuixiy.github.io]
@@ -5001,7 +5002,7 @@
 </pre></div>
 		<script>
 			new APlayer({
-				element: document.getElementById("aplayer6"),
+				element: document.getElementById("aplayer7"),
 				narrow: false,
 				autoplay: false,
 				showlrc: 2,
@@ -5013,11 +5014,14 @@
 				}
 			});
 		</script>
-<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer7" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer7 = new DPlayer({"element":document.getElementById("dplayer7"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
+<h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer8" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer8 = new DPlayer({"element":document.getElementById("dplayer8"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"}});</script><!-- dplayer used1 -->
 <h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p>什么叫笑哭<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……</p>
 <h2 id="gist"><a href="#gist" class="headerlink" title="gist"></a>gist</h2><figure class="highlight django"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name">gist</span> 924389 %&#125;</span><span class="xml"></span></div></pre></td></tr></table></figure>
 <p>显示效果：</p>
 <script src="//gist.github.com/924389.js"></script>
+<h2 id="image"><a href="#image" class="headerlink" title="image"></a>image</h2><p>有标题（title）的图片～</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg" alt="hexo-next-optimization-title.jpg" title="打造个性超赞博客Hexo+NexT+GithubPages的超深度优化"></p>
+<figure class="highlight routeros"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&lt;img <span class="attribute">src</span>=<span class="string">"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg"</span> <span class="attribute">alt</span>=<span class="string">"hexo-next-optimization-title.jpg"</span> <span class="attribute">title</span>=<span class="string">"打造个性超赞博客Hexo+NexT+GithubPages的超深度优化"</span> /&gt;</div></pre></td></tr></table></figure>
 <hr>
 ]]></content>
       
