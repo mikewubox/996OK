@@ -217,9 +217,9 @@
             
             <tag> linux </tag>
             
-            <tag> how </tag>
-            
             <tag> 后脑一凉 </tag>
+            
+            <tag> how </tag>
             
         </tags>
         
@@ -527,9 +527,9 @@
         
         <tags>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -543,9 +543,9 @@
             
             <tag> linux </tag>
             
-            <tag> 后脑一凉 </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> 后脑一凉 </tag>
             
         </tags>
         
@@ -781,6 +781,8 @@
             
             <tag> 沉迷于删删改改 </tag>
             
+            <tag> music </tag>
+            
             <tag> critique(批判) </tag>
             
             <tag> 星空 </tag>
@@ -789,15 +791,13 @@
             
             <tag> epic </tag>
             
-            <tag> music </tag>
-            
             <tag> 光 </tag>
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> practical-science(实践科学) </tag>
             
@@ -917,7 +917,7 @@
 <h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p>
 <p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p>
 
-<h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 -->
+<h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 -->
 <hr>
 ]]></content>
       
@@ -936,6 +936,8 @@
             
             <tag> share </tag>
             
+            <tag> video </tag>
+            
             <tag> 好奇心 </tag>
             
             <tag> critique(批判) </tag>
@@ -943,8 +945,6 @@
             <tag> 科幻 </tag>
             
             <tag> 星空 </tag>
-            
-            <tag> video </tag>
             
             <tag> 未来 </tag>
             
@@ -1029,11 +1029,11 @@
             
             <tag> beautiful </tag>
             
-            <tag> critique(批判) </tag>
-            
             <tag> coldplay </tag>
             
             <tag> music </tag>
+            
+            <tag> critique(批判) </tag>
             
             <tag> 诗 </tag>
             
@@ -1138,9 +1138,9 @@
             
             <tag> video </tag>
             
-            <tag> 未来 </tag>
-            
             <tag> music </tag>
+            
+            <tag> 未来 </tag>
             
             <tag> technology </tag>
             
@@ -1199,9 +1199,9 @@
             
             <tag> share </tag>
             
-            <tag> 科幻 </tag>
-            
             <tag> video </tag>
+            
+            <tag> 科幻 </tag>
             
             <tag> 未来 </tag>
             
@@ -1346,9 +1346,9 @@
             
             <tag> beautiful </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -1631,9 +1631,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -1819,9 +1819,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -1945,9 +1945,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> 后脑一凉 </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> 后脑一凉 </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -2152,9 +2152,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -2856,8 +2856,8 @@
 </ol>
 <div class="note warning">注意：如果自己直接新建文件，一定要记得加上文件最上方的参数，即下面的相关内容，还有编码请用<em>UTF-8</em>。</div>
 
-<p>关于文件最上方的参数，参见<a href="https://hexo.io/zh-cn/docs/front-matter.html" target="_blank" rel="noopener">Hexo官方文档</a>，下面是我的总结：</p>
-<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/* ！！！！！！！！！！</span></div><div class="line"><span class="comment">** 每一项的 : 后面均有一个空格</span></div><div class="line"><span class="comment">** 且 : 为英文符号</span></div><div class="line"><span class="comment">** ！！！！！！！！！！</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">title:</div><div class="line"><span class="comment">/* 文章标题，可以为中文 */</span></div><div class="line"></div><div class="line">date:</div><div class="line"><span class="comment">/* 建立日期，如果自己手动添加，请按固定格式</span></div><div class="line"><span class="comment">** 就算不写，页面每篇文章顶部的发表于……也能显示</span></div><div class="line"><span class="comment">** 只要在主题配置文件中，开启了created_at就行</span></div><div class="line"><span class="comment">** 那为什么还要自己加上？</span></div><div class="line"><span class="comment">** 自定义文章发布的时间</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">updated:</div><div class="line"><span class="comment">/* 更新日期，其它与上面的建立日期类似</span></div><div class="line"><span class="comment">** 不过在页面每篇文章顶部，是更新于……</span></div><div class="line"><span class="comment">** 在主题配置文件中，是updated_at</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">permalink:</div><div class="line"><span class="comment">/* 永久链接，如果设置</span></div><div class="line"><span class="comment">** 且在站点配置文件下的permalink配置了title</span></div><div class="line"><span class="comment">** 则可以替换title</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">categories:</div><div class="line"><span class="comment">/* 分类，支持多级，比如：</span></div><div class="line"><span class="comment">- technology</span></div><div class="line"><span class="comment">- computer</span></div><div class="line"><span class="comment">- computer-aided-art</span></div><div class="line"><span class="comment">则为technology/computer/computer-aided-art</span></div><div class="line"><span class="comment">（不适用于分页）</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">tags:</div><div class="line"><span class="comment">/* 标签</span></div><div class="line"><span class="comment">** 多个可以这样写[标签1,标签2,标签3]</span></div><div class="line"><span class="comment">** （不适用于分页）</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">description:</div><div class="line"><span class="comment">/* 描述，加了会在每篇文章的开头显示</span></div><div class="line"><span class="comment">** 并且作为网页的description元数据</span></div><div class="line"><span class="comment">** 如果不写，则自动取&lt;!-- more --&gt;</span></div><div class="line"><span class="comment">** 之前的文字作为网页的description元数据</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">keywords:</div><div class="line"><span class="comment">/* 关键字，并且作为网页的keywords元数据</span></div><div class="line"><span class="comment">** 如果不写，则自动取tags里的项</span></div><div class="line"><span class="comment">** 作为网页的keywords元数据</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">comments:</div><div class="line"><span class="comment">/* 是否开启评论 */</span></div><div class="line"></div><div class="line">layout:</div><div class="line"><span class="comment">/* 页面布局，默认值是post，默认值可以在</span></div><div class="line"><span class="comment">** 站点配置文件中修改default_layout</span></div><div class="line"><span class="comment">** 另：404页面可能用到，将其值改为false</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">type:</div><div class="line"><span class="comment">/* NexT特有的！目前只有picture</span></div><div class="line"><span class="comment">** 用来生成group-pictures</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">photos:</div><div class="line"><span class="comment">/* NexT特有的！用来支持画廊/相册</span></div><div class="line"><span class="comment">** Gallery support</span></div><div class="line"><span class="comment">** 用法如下：</span></div><div class="line"><span class="comment">** - photo_url_1</span></div><div class="line"><span class="comment">** - photo_url_2</span></div><div class="line"><span class="comment">** - photo_url_3</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">top:</div><div class="line"><span class="comment">/* 文章置顶，此项只有参考教程：</span></div><div class="line"><span class="comment">** http://shenzekun.cn/hexo的next主题个性化配置教程.html</span></div><div class="line"><span class="comment">** 第26节，否则请勿添加</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">password:</div><div class="line"><span class="comment">/* 文章密码，此项只有参考教程：</span></div><div class="line"><span class="comment">** http://shenzekun.cn/hexo的next主题个性化配置教程.html</span></div><div class="line"><span class="comment">** 第24节，否则请勿添加</span></div><div class="line"><span class="comment">** 发现还是有bug的，就是右键在新标签中打开</span></div><div class="line"><span class="comment">** 然后无论是否输入密码，都能看到内容</span></div><div class="line"><span class="comment">*/</span></div></pre></td></tr></table></figure>
+<p>关于文件最上方的参数，参见<em>Hexo</em>官方文档的<a href="https://hexo.io/docs/front-matter.html" target="_blank" rel="noopener">Front-matter</a>和<a href="https://hexo.io/zh-cn/docs/variables.html#页面变量" target="_blank" rel="noopener">页面变量</a>，下面是我的总结：</p>
+<figure class="highlight c"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div><div class="line">63</div><div class="line">64</div><div class="line">65</div><div class="line">66</div><div class="line">67</div><div class="line">68</div><div class="line">69</div><div class="line">70</div><div class="line">71</div><div class="line">72</div><div class="line">73</div><div class="line">74</div><div class="line">75</div><div class="line">76</div><div class="line">77</div><div class="line">78</div><div class="line">79</div><div class="line">80</div><div class="line">81</div><div class="line">82</div><div class="line">83</div><div class="line">84</div><div class="line">85</div><div class="line">86</div><div class="line">87</div><div class="line">88</div><div class="line">89</div><div class="line">90</div><div class="line">91</div><div class="line">92</div><div class="line">93</div><div class="line">94</div><div class="line">95</div><div class="line">96</div><div class="line">97</div><div class="line">98</div></pre></td><td class="code"><pre><div class="line"><span class="comment">/* ！！！！！！！！！！</span></div><div class="line"><span class="comment">** 每一项的 : 后面均有一个空格</span></div><div class="line"><span class="comment">** 且 : 为英文符号</span></div><div class="line"><span class="comment">** ！！！！！！！！！！</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">title:</div><div class="line"><span class="comment">/* 文章标题，可以为中文 */</span></div><div class="line"></div><div class="line">date:</div><div class="line"><span class="comment">/* 建立日期，如果自己手动添加，请按固定格式</span></div><div class="line"><span class="comment">** 就算不写，页面每篇文章顶部的发表于……也能显示</span></div><div class="line"><span class="comment">** 只要在主题配置文件中，开启了created_at就行</span></div><div class="line"><span class="comment">** 那为什么还要自己加上？</span></div><div class="line"><span class="comment">** 自定义文章发布的时间</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">updated:</div><div class="line"><span class="comment">/* 更新日期，其它与上面的建立日期类似</span></div><div class="line"><span class="comment">** 不过在页面每篇文章顶部，是更新于……</span></div><div class="line"><span class="comment">** 在主题配置文件中，是updated_at</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">permalink:</div><div class="line"><span class="comment">/* 永久链接，如果设置</span></div><div class="line"><span class="comment">** 且在站点配置文件下的permalink配置了title</span></div><div class="line"><span class="comment">** 则可以替换title</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">categories:</div><div class="line"><span class="comment">/* 分类，支持多级，比如：</span></div><div class="line"><span class="comment">- technology</span></div><div class="line"><span class="comment">- computer</span></div><div class="line"><span class="comment">- computer-aided-art</span></div><div class="line"><span class="comment">则为technology/computer/computer-aided-art</span></div><div class="line"><span class="comment">（不适用于分页）</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">tags:</div><div class="line"><span class="comment">/* 标签</span></div><div class="line"><span class="comment">** 多个可以这样写[标签1,标签2,标签3]</span></div><div class="line"><span class="comment">** （不适用于分页）</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">description:</div><div class="line"><span class="comment">/* 描述，加了会在每篇文章的开头显示</span></div><div class="line"><span class="comment">** 并且作为网页的description元数据</span></div><div class="line"><span class="comment">** 如果不写，则自动取&lt;!-- more --&gt;</span></div><div class="line"><span class="comment">** 之前的文字作为网页的description元数据</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">keywords:</div><div class="line"><span class="comment">/* 关键字，并且作为网页的keywords元数据</span></div><div class="line"><span class="comment">** 如果不写，则自动取tags里的项</span></div><div class="line"><span class="comment">** 作为网页的keywords元数据</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">comments:</div><div class="line"><span class="comment">/* 是否开启评论 */</span></div><div class="line"></div><div class="line">layout:</div><div class="line"><span class="comment">/* 页面布局，默认值是post，默认值可以在</span></div><div class="line"><span class="comment">** 站点配置文件中修改default_layout</span></div><div class="line"><span class="comment">** 另：404页面可能用到，将其值改为false</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">type:</div><div class="line"><span class="comment">/* picture，用来生成group-pictures</span></div><div class="line"><span class="comment">** quote？</span></div><div class="line"><span class="comment">** https://reuixiy.github.io/uncategorized/2010/01/01/test.html</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">photos:</div><div class="line"><span class="comment">/* Gallery support，用来支持画廊/相册，用法如下：</span></div><div class="line"><span class="comment">- photo_url_1</span></div><div class="line"><span class="comment">- photo_url_2</span></div><div class="line"><span class="comment">- photo_url_3</span></div><div class="line"><span class="comment">https://reuixiy.github.io/uncategorized/2010/01/01/test.html</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">link:</div><div class="line"><span class="comment">/* 文章的外部链接</span></div><div class="line"><span class="comment">** https://reuixiy.github.io/uncategorized/2010/01/01/test.html</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">top:</div><div class="line"><span class="comment">/* 文章置顶，此项只有参考教程：</span></div><div class="line"><span class="comment">** http://shenzekun.cn/hexo的next主题个性化配置教程.html</span></div><div class="line"><span class="comment">** 第26节，否则请勿添加</span></div><div class="line"><span class="comment">*/</span></div><div class="line"></div><div class="line">password:</div><div class="line"><span class="comment">/* 文章密码，此项只有参考教程：</span></div><div class="line"><span class="comment">** http://shenzekun.cn/hexo的next主题个性化配置教程.html</span></div><div class="line"><span class="comment">** 第24节，否则请勿添加</span></div><div class="line"><span class="comment">** 发现还是有bug的，就是右键在新标签中打开</span></div><div class="line"><span class="comment">** 然后无论是否输入密码，都能看到内容</span></div><div class="line"><span class="comment">*/</span></div></pre></td></tr></table></figure>
 <p><blockquote class="question"><em>tip</em>：灵活利用<em>permalink</em>，如果你是一个和我一样希望链接不会出现中文的人。</blockquote></p>
 
 <p>最后贴出我文章的模板文件：</p>
@@ -3307,11 +3307,11 @@
             
             <tag> beautiful </tag>
             
+            <tag> love </tag>
+            
             <tag> 好奇心 </tag>
             
             <tag> epic </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -3427,13 +3427,13 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
-            <tag> epic </tag>
-            
             <tag> coldplay </tag>
             
+            <tag> video </tag>
+            
             <tag> music </tag>
+            
+            <tag> epic </tag>
             
             <tag> 光 </tag>
             
@@ -3454,7 +3454,7 @@
       <url>/beautiful/share/2017/04/15/coldplay-fix-you.html</url>
       <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr>
 
-<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
+<h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":1,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 -->
 <a id="more"></a>
 <h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2>
 
@@ -3528,9 +3528,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -3862,9 +3862,9 @@
             
             <tag> share </tag>
             
-            <tag> video </tag>
-            
             <tag> coldplay </tag>
+            
+            <tag> video </tag>
             
             <tag> music </tag>
             
@@ -4223,17 +4223,17 @@
             
             <tag> beautiful </tag>
             
-            <tag> 星空 </tag>
-            
-            <tag> 未来 </tag>
-            
-            <tag> epic </tag>
-            
             <tag> coldplay </tag>
             
             <tag> music </tag>
             
             <tag> love </tag>
+            
+            <tag> 星空 </tag>
+            
+            <tag> 未来 </tag>
+            
+            <tag> epic </tag>
             
             <tag> 诗 </tag>
             
@@ -4490,13 +4490,13 @@
             
             <tag> beautiful </tag>
             
-            <tag> 好奇心 </tag>
-            
-            <tag> epic </tag>
-            
             <tag> coldplay </tag>
             
             <tag> music </tag>
+            
+            <tag> 好奇心 </tag>
+            
+            <tag> epic </tag>
             
             <tag> 开心 </tag>
             
@@ -4608,13 +4608,13 @@
             
             <tag> beautiful </tag>
             
+            <tag> love </tag>
+            
             <tag> 好奇心 </tag>
             
             <tag> critique(批判) </tag>
             
             <tag> epic </tag>
-            
-            <tag> love </tag>
             
             <tag> 光 </tag>
             
@@ -4819,9 +4819,9 @@
             
             <tag> share </tag>
             
-            <tag> 星空 </tag>
-            
             <tag> love </tag>
+            
+            <tag> 星空 </tag>
             
             <tag> 诗 </tag>
             
@@ -4870,9 +4870,9 @@
             
             <tag> 目标 </tag>
             
-            <tag> how </tag>
-            
             <tag> quotes </tag>
+            
+            <tag> how </tag>
             
             <tag> bb-for-fun </tag>
             
@@ -5023,7 +5023,7 @@
 <figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![<span class="string">photo_alt</span>](<span class="link">photo_url "photo_title"</span>)</div></pre></td></tr></table></figure>
 <p><a href="https://github.com/iissnan/hexo-theme-next/pull/279" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next/pull/279</a></p>
 <h2 id="gallery"><a href="#gallery" class="headerlink" title="gallery"></a>gallery</h2><p>Front-matter：</p>
-<figure class="highlight haml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">photos: </div><div class="line">-<span class="ruby"> photo_url_1</span></div><div class="line"><span class="ruby">- photo_url_2</span></div><div class="line"><span class="ruby">- photo_url_3</span></div></pre></td></tr></table></figure>
+<figure class="highlight haml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">photos: </div><div class="line">-<span class="ruby"> photo_url_1</span></div><div class="line"><span class="ruby">- photo_url_2</span></div><div class="line"><span class="ruby">- photo_url_3</span></div><div class="line"><span class="ruby">- photo_url_4</span></div><div class="line"><span class="ruby">- photo_url_5</span></div><div class="line"><span class="ruby">- photo_url_6</span></div></pre></td></tr></table></figure>
 <figure class="highlight css"><figcaption><span>文件位置：~/blog/themes/next/source/css/_custom/custom.styl</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line"><span class="selector-class">.post-gallery</span> <span class="selector-class">.post-gallery-img</span> <span class="selector-tag">img</span> &#123;</div><div class="line">    <span class="attribute">box-shadow</span>: none;</div><div class="line">    <span class="attribute">border-radius</span>: unset;</div><div class="line">    <span class="attribute">padding</span>: <span class="number">3px</span>;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p>效果：</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/gallery.jpg" alt="gallery.jpg"></p>
@@ -5034,6 +5034,15 @@
 <figure class="highlight css"><figcaption><span>文件位置：~/blog/themes/next/source/css/_custom/custom.styl</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="selector-class">.post</span> <span class="selector-class">.post-body</span> <span class="selector-class">.group-picture</span> <span class="selector-tag">img</span> &#123;</div><div class="line">    <span class="attribute">box-shadow</span>: none;</div><div class="line">&#125;</div></pre></td></tr></table></figure>
 <p>效果：</p>
 <p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/group-pictures.jpg" alt="group-pictures.jpg"></p>
+<h2 id="link"><a href="#link" class="headerlink" title="link"></a>link</h2><p>Front-matter：</p>
+<figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">link:</span> url</div></pre></td></tr></table></figure>
+<p>效果：</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/link.jpg" alt="link.jpg"></p>
+<h2 id="quote？"><a href="#quote？" class="headerlink" title="quote？"></a>quote？</h2><p>阅读主题的源代码发现的：<code>~/blog/themes/next/layout/_macro/post.swig</code>，有没有不确定，用发不确定……</p>
+<p>Front-matter：</p>
+<figure class="highlight elm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">type</span>: quote</div></pre></td></tr></table></figure>
+<p>效果：</p>
+<p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/quote.jpg" alt="quote.jpg"></p>
 <hr>
 ]]></content>
       
