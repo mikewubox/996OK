@@ -202,11 +202,11 @@
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
-      <category term="童话" scheme="https://reuixiy.github.io/tags/fairy-tale/"/>
-    
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="童话" scheme="https://reuixiy.github.io/tags/fairy-tale/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -276,15 +276,15 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -406,6 +406,8 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
@@ -413,8 +415,6 @@
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -434,9 +434,9 @@
     
       <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
-      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
       <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
+    
+      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
@@ -528,7 +528,7 @@
     <published>2017-09-22T14:49:42.000Z</published>
     <updated>2017-11-10T12:54:07.785Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
     
     <summary type="html">
     
@@ -549,6 +549,8 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
@@ -556,8 +558,6 @@
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
@@ -597,11 +597,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -651,9 +651,9 @@
     
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -705,17 +705,17 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
@@ -755,17 +755,17 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="童话" scheme="https://reuixiy.github.io/tags/fairy-tale/"/>
     
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
@@ -813,9 +813,9 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -827,9 +827,9 @@
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
-      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
+    
+      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
       <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
     
@@ -884,7 +884,7 @@
     <published>2017-08-01T07:27:03.000Z</published>
     <updated>2017-12-04T10:03:10.981Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><p><center><em>So lying underneath the stormy skies</em><br><br><em>She’d say oh oh oh oh oh</em><br><br><em>I know the sun must set to rise</em></center></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-29.jpg" alt="coldplay-29.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>最早听到的英语歌之一，当时是在电台（<em>HitFM</em>）上听的，听不懂歌词，仅凭旋律和想象力感受。后来有一天看到歌词，看到翻译，看到<em>MV</em>，发现完美契合旋律和想象力的感受<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20">。</p><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"4cff498338136e4d414a22f69a7c4d02dc92becf9638c0c9e25725d0f59b8a90"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer2" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>new APlayer({element: document.getElementById("aplayer2"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});</script><p><center><em>So lying underneath the stormy skies</em><br><br><em>She’d say oh oh oh oh oh</em><br><br><em>I know the sun must set to rise</em></center></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-29.jpg" alt="coldplay-29.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>最早听到的英语歌之一，当时是在电台（<em>HitFM</em>）上听的，听不懂歌词，仅凭旋律和想象力感受。后来有一天看到歌词，看到翻译，看到<em>MV</em>，发现完美契合旋律和想象力的感受<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f618.png" height="20" width="20">。</p><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><hr>]]></content>
     
     <summary type="html">
     
@@ -903,9 +903,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -957,9 +957,9 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
@@ -1227,9 +1227,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1289,9 +1289,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -1517,11 +1517,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -1590,7 +1590,7 @@
     <published>2017-04-27T23:37:21.000Z</published>
     <updated>2017-12-04T09:47:24.352Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>太喜欢<em>Coldplay</em>的这首歌和这个<em>MV</em>了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～<br>但发现最困难的还是翻译，这才是脑力活<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……<br><em>Anyway</em>，很兴奋，开心<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">～</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><a id="more"></a><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer3" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer3 = new DPlayer({"element":document.getElementById("dplayer3"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 --><h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p><h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="noopener">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="noopener">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>太喜欢<em>Coldplay</em>的这首歌和这个<em>MV</em>了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～<br>但发现最困难的还是翻译，这才是脑力活<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png" height="20" width="20">……<br><em>Anyway</em>，很兴奋，开心<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f606.png" height="20" width="20">～</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><a id="more"></a><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer2 = new DPlayer({"element":document.getElementById("dplayer2"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"efad088a238178e8a7fce7e28b9a693ac6f36dfffef1331abb64c794448f9b35"}});</script><!-- dplayer used1 --><h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p><div style="text-align:left">Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）<br><br>Okay!<br>Okay!<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost<br>不意味着我失败了<br><br>Doesn’t mean I’ll stop<br>不意味着我会停下脚步<br><br>Doesn’t mean I’m across<br>不意味着我会错过<br><br>Just because I’m hurting<br>我只不过是疼痛着<br><br>Doesn’t mean I’m hurt<br>不意味着我受伤了<br><br>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的<br><br>No better and no worse<br>这样不算更好，也没更坏<br><br>I just got lost!<br>我只是迷茫着<br><br>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了<br><br>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>You might be a big fish<br>你可能是条大鱼<br><br>In a little pond<br>在小小的池塘里<br><br>Doesn’t mean you’ve won<br>但这不意味着你是赢家<br><br>‘Cause along will come<br>因未来可能会有<br><br>A bigger one<br>另外一条更大的鱼出现<br><br>And you’ll be lost!<br>然后你将感到迷茫<br><br>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了<br><br>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了<br><br>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>[Jay-Z rap]<br>[Jay-Z rap]<br><br>Aha, I got you, uh<br>Aha, 我懂了, uh<br><br>With the same sword they knight you<br>那把他们封给你的剑<br><br>They gon’ goodnight you with<br>他们也会用它给你说晚安<br><br>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半<br><br>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半<br><br>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧<br><br>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）<br><br>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）<br><br>See success and its outcome<br>看看成功和成功的后果<br><br>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）<br><br>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）<br><br>See success is like suicide<br>看看成名好像就已预定自杀<br><br>Suicide, it’s a suicide<br>自杀，是的，是自杀<br><br>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备<br><br>Media meddles<br>媒体的骚扰<br><br>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对<br><br>Every step you take<br>向成功迈出的每一小步<br><br>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼<br><br>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易<br><br>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）<br><br>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去<br><br>Better than not having at all?<br>要比一无所有要好吗？<br><br>Because…<br>因为…<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去<br><br>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh<br><br>Just because I’m losing<br>我只不过是迷茫着<br><br>Doesn’t mean I’m lost!<br>不意味着我失败了</div></p><h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是<a href="http://www.arctime.org/" target="_blank" rel="noopener">Arctime</a>，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的<a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="noopener">网易云音乐歌单</a>，初中到现在的歌单<img id="github-emoji" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png" height="20" width="20">……</p><hr>]]></content>
     
     <summary type="html">
     
@@ -1609,13 +1609,13 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -1636,7 +1636,7 @@
     <published>2017-04-14T16:00:00.000Z</published>
     <updated>2017-12-04T09:48:11.268Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
     
     <summary type="html">
     
@@ -1653,9 +1653,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1937,9 +1937,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -2091,9 +2091,9 @@
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
-      <category term="童话" scheme="https://reuixiy.github.io/tags/fairy-tale/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="童话" scheme="https://reuixiy.github.io/tags/fairy-tale/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -2137,17 +2137,17 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -2321,13 +2321,13 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
@@ -2427,13 +2427,13 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -2607,9 +2607,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -2695,11 +2695,11 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
