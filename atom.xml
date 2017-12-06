@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2017-12-05T12:01:01.137Z</updated>
+  <updated>2017-12-06T02:18:50.574Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://reuixiy.github.io/philosophy/how/2017/11/25/a-catalogue-of-the-internet-s-knowledge.html"/>
     <id>https://reuixiy.github.io/philosophy/how/2017/11/25/a-catalogue-of-the-internet-s-knowledge.html</id>
     <published>2017-11-24T16:55:03.000Z</published>
-    <updated>2017-12-05T12:01:01.137Z</updated>
+    <updated>2017-12-06T02:18:50.574Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>几千年来，知识的绝大部分都通过文字写在书本中，而图书馆作为一个收藏书本的建筑，一个收藏知识的平台，将书本和知识进行分类，象征着人类文明的知识总和。然而，互联网在不到<em>100</em>年的时间内，颠覆了图书馆，甚至在通过视频抢夺书本中文字的地位。但是，正在取代图书馆的互联网却仍然没有一种高效的知识分类索引……</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-catalogue-of-the-internet-s-knowledge-title.jpg" alt="a-catalogue-of-the-internet-s-knowledge-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="现状"><a href="#现状" class="headerlink" title="现状"></a>现状</h2><p>知识大爆炸，要想不落后，就要一直学习。但是现在要怎么学习？和以前一样去图书馆，然后按照图书馆的分类索引，找到自己想学习的书本，最后开始学习新知识？当然不，你这样做，也许现在的大部分人会认为：你真落后！</p><p>毕竟在这个网络无处不及的时代，只需随手拿起你的智能手机，就能学习，而且学到的知识还可能比图书馆书本中的更新呢。另外，一个潮流的现代人还可能会问：为什么要看枯燥的文字，直接通过互联网看形象生动的视频不是更好？</p><p>看起来很有道理，但是大部分潮流的现代人又是否真正学习到了知识，还是沉迷在互联网的娱乐之中？</p><p>我不属于大部分！我每天都会查看自己订阅的<em>RSS</em>，每天都会通过社交软件与大家学习交流，每天都会查看像知乎这样的知识平台……</p><p>那你觉得麻烦不？反正懒洋洋的博主觉得太麻烦，太低效了。为什么会这样，难道我们正在被自己创造的技术捆绑？</p><h2 id="知识源"><a href="#知识源" class="headerlink" title="知识源"></a>知识源</h2><p>定义「知识源」：人类已知知识的存储介质。</p><p>要获得知识必须花时间，且首先肯定需要自己花时间去了解知识源，然后取自己所需的知识。</p><p>但现在主要知识源是互联网而不是放纸质书的图书馆了，知识也不只是纸质书上的文字，还有视频，图片……</p><p>放纸质书的图书馆——定义下文中的「图书馆」。</p><h2 id="多平台的缺陷"><a href="#多平台的缺陷" class="headerlink" title="多平台的缺陷"></a>多平台的缺陷</h2><p>知识源的表象，图书馆就一个平台——现实中的一个建筑，而互联网则是各种平台，比如：各种网站（包括<em>Github</em>），各种<em>APP</em>（包括<em>Telegram</em>）。这就导致在互联网上，知识可能在不同平台上，甚至一种知识都可能都在不同平台上。</p><p>如此，要完整学习一种知识就要不断浏览各种不同平台，而这过程就会有时间浪费，且有不完整的风险，不像在图书馆找几本书就基本<em>OK</em>。</p><p>另，互联网上一个平台可能有其它信息，不是自己所需的知识，但也许会消耗你的时间，比如哪个女明星和哪个男明星咋了……</p><h2 id="分类索引"><a href="#分类索引" class="headerlink" title="分类索引"></a>分类索引</h2><p>图书馆的书本有分类索引，我们可以通过这种分类索引快速了解知识源，这种分类索引也是我们习惯的知识分类，但互联网上没有这种我们熟悉的分类索引，这就意味着很难快速了解知识源，更不用说找到自己所需的知识了。</p><p>现在已有的解决方案：建立一个知识平台，由这个知识平台分类，比如知乎。但是互联网才是知识源，而不是一个知识平台，所以这个解决方案不完美，有不完整的风险。</p><p>另，此解决方案也没解决多平台的时间浪费问题。</p><p>我们需要一个知识平台，也需要一个基于用户定制的知识推送平台，将互联网上不同平台的用户所需知识推送给用户。</p><h2 id="questions"><a href="#questions" class="headerlink" title="questions"></a>questions</h2><p>所以问题是：</p><ol><li>现在有没有一种服务，推送各种平台上的自己所需知识？</li><li>互联网这个知识源有没有一种更好的“分类索引”？（对大众有利）</li></ol><p>最后，我们不是在被自己创造的技术捆绑，而是在被不完善的技术绊脚。</p><p><img src="http://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/dream-big.png" alt="dream-big.png"></p><div style="text-align:right">from <em>Telegram</em> @ 2017-11-09 02:14:15</div><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>几千年来，知识的绝大部分都通过文字写在书本中，而图书馆作为一个收藏书本的建筑，一个收藏知识的平台，将书本和知识进行分类，象征着人类文明的知识总和。然而，互联网在不到<em>100</em>年的时间内，颠覆了图书馆，甚至在通过视频抢夺书本中文字的地位。但是，正在取代图书馆的互联网却仍然没有一种高效的知识分类索引……</blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-catalogue-of-the-internet-s-knowledge-title.jpg" alt="a-catalogue-of-the-internet-s-knowledge-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="现状"><a href="#现状" class="headerlink" title="现状"></a>现状</h2><p>知识大爆炸，要想不落后，就要一直学习。但是现在要怎么学习？和以前一样去图书馆，然后按照图书馆的分类索引，找到自己想学习的书本，最后开始学习新知识？当然不，你这样做，也许现在的大部分人会认为：你真落后！</p><p>毕竟在这个网络无处不及的时代，只需随手拿起你的智能手机，就能学习，而且学到的知识还可能比图书馆书本中的更新呢。另外，一个潮流的现代人还可能会问：为什么要看枯燥的文字，直接通过互联网看形象生动的视频不是更好？</p><p>看起来很有道理，但是大部分潮流的现代人又是否真正学习到了知识，还是沉迷在互联网的娱乐之中？</p><p>我不属于大部分！我每天都会查看自己订阅的<em>RSS</em>，每天都会通过社交软件与大家学习交流，每天都会查看像知乎这样的知识平台……</p><p>那你觉得麻烦不？反正懒洋洋的博主觉得太麻烦，太低效了。为什么会这样，难道我们正在被自己创造的技术捆绑？</p><h2 id="知识源"><a href="#知识源" class="headerlink" title="知识源"></a>知识源</h2><p>定义「知识源」：人类已知知识的存储介质。</p><p>要获得知识必须花时间，且首先肯定需要自己花时间去了解知识源，然后取自己所需的知识。</p><p>但现在主要知识源是互联网而不是放纸质书的图书馆了，知识也不只是纸质书上的文字，还有视频，图片……</p><p>放纸质书的图书馆——定义下文中的「图书馆」。</p><h2 id="多平台的缺陷"><a href="#多平台的缺陷" class="headerlink" title="多平台的缺陷"></a>多平台的缺陷</h2><p>知识源的表象，图书馆就一个平台——现实中的一个建筑，而互联网则是各种平台，比如：各种网站（包括<em>Github</em>），各种<em>APP</em>（包括<em>Telegram</em>）。这就导致在互联网上，知识可能在不同平台上，甚至一种知识都可能都在不同平台上。</p><p>如此，要完整学习一种知识就要不断浏览各种不同平台，而这过程就会有时间浪费，且有不完整的风险，不像在图书馆找几本书就基本<em>OK</em>。</p><p>另，互联网上一个平台可能有其它信息，不是自己所需的知识，但也许会消耗你的时间，比如哪个女明星和哪个男明星咋了……</p><h2 id="分类索引"><a href="#分类索引" class="headerlink" title="分类索引"></a>分类索引</h2><p>图书馆的书本有分类索引，我们可以通过这种分类索引快速了解知识源，这种分类索引也是我们习惯的知识分类，但互联网上没有这种我们熟悉的分类索引，这就意味着很难快速了解知识源，更不用说找到自己所需的知识了。</p><p>现在已有的解决方案：建立一个知识平台，由这个知识平台分类，比如知乎。但是互联网才是知识源，而不是一个知识平台，所以这个解决方案不完美，有不完整的风险。</p><p>另，此解决方案也没解决多平台的时间浪费问题。</p><p>我们需要一个知识平台，也需要一个基于用户定制的知识推送平台，将互联网上不同平台的用户所需知识推送给用户。</p><h2 id="questions"><a href="#questions" class="headerlink" title="questions"></a>questions</h2><p>所以问题是：</p><ol><li>现在有没有一种服务，推送各种平台上的自己所需知识？</li><li>互联网这个知识源有没有一种更好的“分类索引”？（对大众有利）</li></ol><p>最后，我们不是在被自己创造的技术捆绑，而是在被不完善的技术绊脚。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/dream-big.png" alt="dream-big.png"></p><div style="text-align:right">from <em>Telegram</em> @ 2017-11-09 02:14:15</div><hr>]]></content>
     
     <summary type="html">
     
@@ -276,9 +276,9 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -406,8 +406,6 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
@@ -415,6 +413,8 @@
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -434,9 +434,9 @@
     
       <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
-      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
-    
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+    
+      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
@@ -528,7 +528,7 @@
     <published>2017-09-22T14:49:42.000Z</published>
     <updated>2017-11-10T12:54:07.785Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote><em>Just a month shy of 20 years in space, Cassini will makes a final plunge into <code>Saturn</code>‘s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</em></blockquote></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><a id="more"></a><h2 id="关于Cassini"><a href="#关于Cassini" class="headerlink" title="关于Cassini"></a>关于Cassini</h2><p>“卡西尼”号飞船是耗资<em>39</em>亿美元的国际项目，来自<em>27</em>个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在<em>17</em>世纪发现<code>土星</code>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p><em>NASA</em>在<em>1997-10-15</em>年发射，<em>2004</em>年抵达土星的<em>Cassini</em>探测器，是<em>NASA</em>在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是<em>Curiosity</em>的两倍。</p><p>发射至今，已有<em>20</em>年，而在<em>2017-09-15</em>“卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini详情"><a href="#Cassini详情" class="headerlink" title="Cassini详情"></a>Cassini详情</h2><p><em>Cassini</em>有自己的<a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把<em>Cassini</em>的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<code>好奇心</code>带来的喜悦，那种科幻小说式的兴奋？</blockquote></p><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"c1ddecb6c28b49fac3ff34b4b72be76ac2ee7d3b098a6111e5eac1983770aa96"}});</script><!-- dplayer used1 --><hr>]]></content>
     
     <summary type="html">
     
@@ -549,8 +549,6 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
@@ -558,6 +556,8 @@
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
@@ -597,11 +597,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -651,9 +651,9 @@
     
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
@@ -705,9 +705,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
@@ -755,9 +755,9 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -827,9 +827,9 @@
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
-      <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
-    
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+    
+      <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
     
       <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
     
@@ -903,9 +903,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1227,9 +1227,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1390,7 +1390,7 @@
     <published>2017-05-31T03:37:35.000Z</published>
     <updated>2017-12-04T04:28:36.401Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>图片来自<em>Coldplay</em>的《<em>Live 2012</em>》，是<em>Coldplay</em>在<em>2012</em>年世界巡演「<em>Mylo Xyloto Tour</em>」中来自<em>Paris</em>的现场录像的截图，当看到主唱<em>Chris Martin</em>含泪呐喊时，我和镜头中那台下的小女孩一样，头皮发麻……</blockquote></p><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/2.PNG" alt="2.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/3.PNG" alt="3.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/4.PNG" alt="4.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/5.PNG" alt="5.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/6.PNG" alt="6.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/7.PNG" alt="7.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/8.PNG" alt="8.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/9.PNG" alt="9.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/10.PNG" alt="10.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/11.PNG" alt="11.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/12.PNG" alt="12.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/13.PNG" alt="13.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/14.PNG" alt="14.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/15.PNG" alt="15.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/16.PNG" alt="16.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/17.PNG" alt="17.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/18.PNG" alt="18.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/19.PNG" alt="19.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/20.PNG" alt="20.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/21.PNG" alt="21.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/22.PNG" alt="22.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/23.PNG" alt="23.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/24.PNG" alt="24.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/25.PNG" alt="25.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/26.PNG" alt="26.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/27.PNG" alt="27.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/28.PNG" alt="28.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/29.PNG" alt="29.PNG"></p><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><p><a href="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html">Coldplay - Fix You</a></p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><p><blockquote>图片来自<em>Coldplay</em>的《<em>Live 2012</em>》，是<em>Coldplay</em>在<em>2012</em>年世界巡演「<em>Mylo Xyloto Tour</em>」中来自<em>Paris</em>的现场录像的截图，当看到主唱<em>Chris Martin</em>含泪呐喊时，我和镜头中那台下的小女孩一样，头皮发麻……</blockquote></p><a id="more"></a><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/1.PNG" alt="1.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/2.PNG" alt="2.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/3.PNG" alt="3.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/4.PNG" alt="4.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/5.PNG" alt="5.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/6.PNG" alt="6.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/7.PNG" alt="7.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/8.PNG" alt="8.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/9.PNG" alt="9.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/10.PNG" alt="10.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/11.PNG" alt="11.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/12.PNG" alt="12.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/13.PNG" alt="13.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/14.PNG" alt="14.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/15.PNG" alt="15.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/16.PNG" alt="16.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/17.PNG" alt="17.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/18.PNG" alt="18.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/19.PNG" alt="19.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/20.PNG" alt="20.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/21.PNG" alt="21.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/22.PNG" alt="22.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/23.PNG" alt="23.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/24.PNG" alt="24.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/25.PNG" alt="25.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/26.PNG" alt="26.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/27.PNG" alt="27.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/28.PNG" alt="28.PNG"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-fix-you/29.PNG" alt="29.PNG"></p><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><p><a href="https://reuixiy.github.io/beautiful/share/2017/04/15/coldplay-fix-you.html">Coldplay - Fix You</a></p><hr>]]></content>
     
     <summary type="html">
     
@@ -1517,11 +1517,11 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -1609,13 +1609,13 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -1636,7 +1636,7 @@
     <published>2017-04-14T16:00:00.000Z</published>
     <updated>2017-12-04T09:48:11.268Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><hr><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"loop":0,"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/2.2.3.2-Coldplay%20-%20Fix%20You%20%28Live%202012%20from%20Paris%29.mp4"},"danmaku":{"api":"https://api.prprpr.me/dplayer/","id":"ffcd124bb7a24100973d06cb35bd622347448660b9bbbb702ba0052e2c2fcf87"}});</script><!-- dplayer used1 --><a id="more"></a><h2 id="love" class="love"><a href="#love" class="headerlink" title="evoL ni eveileB"></a><center><i class="fa fa-heart"></i><i> evoL ni eveileB</i></center></h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><h2 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h2><div id="aplayer1" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Fix You][al:X&Y][by:https://reuixiy.github.io][length:4:53][00:00.00]Coldplay - Fix You[00:13.32][00:13.33]When you try your best but you don't succeed[00:20.01]When you get what you want but not what you need[00:25.93]When you feel so tired but you can't sleep[00:33.07]Stuck in reverse[00:40.17]And the tears come streaming down your face[00:48.00]When you lose something you can't replace[00:55.22]When you love someone but it goes to waste[01:01.98]Could it be worse?[01:09.00]Lights will guide you home[01:19.11]And ignite your bones[01:25.51]And I will try to fix you[01:44.39]And high up above or down below[01:49.86]When you're too in love to let it go[01:57.05]But if you never try you'll never know[02:04.11]Just what you're worth[02:13.44]Lights will guide you home[02:21.70]And ignite your bones[02:29.00]And I will try to fix you[03:29.29]I see a stream down your face[03:35.87]when you lose something you cannot replace[03:42.72]I see a stream down your face[03:49.48]And I[03:54.58]I see a stream down your face[04:03.57]I promise you I will learn from all my mistakes[04:09.90]I see a stream down your face[04:16.58]And I[04:21.78]Lights will guide you home[04:31.62]And ignite your bones[04:37.82]And I will try to fix you</pre></div><script>new APlayer({element: document.getElementById("aplayer1"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Fix You",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png",}});</script><hr>]]></content>
     
     <summary type="html">
     
@@ -1653,15 +1653,15 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="头皮发麻" scheme="https://reuixiy.github.io/tags/touched/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
   </entry>
   
@@ -1937,9 +1937,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -2137,17 +2137,17 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -2321,13 +2321,13 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
@@ -2427,13 +2427,13 @@
     
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -2607,9 +2607,9 @@
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
