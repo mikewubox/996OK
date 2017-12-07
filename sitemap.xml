@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://reuixiy.github.io/about/index.html</loc>
+    
+    <lastmod>2017-12-07T15:00:47.065Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://reuixiy.github.io/uncategorized/2010/01/01/test.html</loc>
     
     <lastmod>2017-12-07T11:04:27.634Z</lastmod>
@@ -383,13 +390,6 @@
     <loc>https://reuixiy.github.io/technology/computer/system-software/2017/10/03/install-fcitx-in-kali-linux-to-input-chinese.html</loc>
     
     <lastmod>2017-12-07T09:31:14.206Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/about/index.html</loc>
-    
-    <lastmod>2017-12-07T06:53:13.773Z</lastmod>
     
   </url>
   
