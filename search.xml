@@ -21,9 +21,9 @@
         <tag>technology</tag>
         <tag>linux</tag>
         <tag>how</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>维</tag>
-        <tag>quotes</tag>
         <tag>shape</tag>
         <tag>analysis(分析)</tag>
         <tag>分类</tag>
@@ -35,7 +35,7 @@
   <entry>
     <title><![CDATA[为什么越来越多像知乎这样的知识平台能火起来？]]></title>
     <url>%2Fphilosophy%2Fhow%2F2017%2F11%2F25%2Fa-catalogue-of-the-internet-s-knowledge.html</url>
-    <content type="text"><![CDATA[现状知识大爆炸，要想不落后，就要一直学习。但是现在要怎么学习？和以前一样去图书馆，然后按照图书馆的分类索引，找到自己想学习的书本，最后开始学习新知识？当然不，你这样做，也许现在的大部分人会认为：你真落后！ 毕竟在这个网络无处不及的时代，只需随手拿起你的智能手机，就能学习，而且学到的知识还可能比图书馆书本中的更新呢。另外，一个潮流的现代人还可能会问：为什么要看枯燥的文字，直接通过互联网看形象生动的视频不是更好？ 看起来很有道理，但是大部分潮流的现代人又是否真正学习到了知识，还是沉迷在互联网的娱乐之中？ 我不属于大部分！我每天都会查看自己订阅的RSS，每天都会通过社交软件与大家学习交流，每天都会查看像知乎这样的知识平台…… 那你觉得麻烦不？反正懒洋洋的博主觉得太麻烦，太低效了。为什么会这样，难道我们正在被自己创造的技术捆绑？ 知识源定义「知识源」：人类已知知识的存储介质。 要获得知识必须花时间，且首先肯定需要自己花时间去了解知识源，然后取自己所需的知识。 但现在主要知识源是互联网而不是放纸质书的图书馆了，知识也不只是纸质书上的文字，还有视频，图片…… 放纸质书的图书馆——定义下文中的「图书馆」。 多平台的缺陷知识源的表象，图书馆就一个平台——现实中的一个建筑，而互联网则是各种平台，比如：各种网站（包括Github），各种APP（包括Telegram）。这就导致在互联网上，知识可能在不同平台上，甚至一种知识都可能都在不同平台上。 如此，要完整学习一种知识就要不断浏览各种不同平台，而这过程就会有时间浪费，且有不完整的风险，不像在图书馆找几本书就基本OK。 另，互联网上一个平台可能有其它信息，不是自己所需的知识，但也许会消耗你的时间，比如哪个女明星和哪个男明星咋了…… 分类索引图书馆的书本有分类索引，我们可以通过这种分类索引快速了解知识源，这种分类索引也是我们习惯的知识分类，但互联网上没有这种我们熟悉的分类索引，这就意味着很难快速了解知识源，更不用说找到自己所需的知识了。 现在已有的解决方案：建立一个知识平台，由这个知识平台分类，比如知乎。但是互联网才是知识源，而不是一个知识平台，所以这个解决方案不完美，有不完整的风险。 另，此解决方案也没解决多平台的时间浪费问题。我们需要一个知识平台，也需要一个基于用户定制的知识推送平台，将互联网上不同平台的用户所需知识推送给用户。 questions所以问题是： 现在有没有一种服务，推送各种平台上的自己所需知识？ 互联网这个知识源有没有一种更好的“分类索引”？（对大众有利） 最后，我们不是在被自己创造的技术捆绑，而是在被不完善的技术绊脚。 from Telegram @ 2017-11-09 02:14:15]]></content>
+    <content type="text"><![CDATA[现状知识大爆炸，要想不落后，就要一直学习。但是现在要怎么学习？和以前一样去图书馆，然后按照图书馆的分类索引，找到自己想学习的书本，最后开始学习新知识？当然不，你这样做，也许现在的大部分人会认为：你真落后！ 毕竟在这个网络无处不及的时代，只需随手拿起你的智能手机，就能学习，而且学到的知识还可能比图书馆书本中的更新呢。另外，一个潮流的现代人还可能会问：为什么要看枯燥的文字，直接通过互联网看形象生动的视频不是更好？ 看起来很有道理，但是大部分潮流的现代人又是否真正学习到了知识，还是沉迷在互联网的娱乐之中？ 我不属于大部分！我每天都会查看自己订阅的 RSS，每天都会通过社交软件与大家学习交流，每天都会查看像知乎这样的知识平台…… 那你觉得麻烦不？反正懒洋洋的博主觉得太麻烦，太低效了。为什么会这样，难道我们正在被自己创造的技术捆绑？ 知识源定义「知识源」：人类已知知识的存储介质。 要获得知识必须花时间，且首先肯定需要自己花时间去了解知识源，然后取自己所需的知识。 但现在主要知识源是互联网而不是放纸质书的图书馆了，知识也不只是纸质书上的文字，还有视频，图片…… 放纸质书的图书馆——定义下文中的「图书馆」。 多平台的缺陷知识源的表象，图书馆就一个平台——现实中的一个建筑，而互联网则是各种平台，比如：各种网站（包括 Github），各种 APP（包括 Telegram）。这就导致在互联网上，知识可能在不同平台上，甚至一种知识都可能都在不同平台上。 如此，要完整学习一种知识就要不断浏览各种不同平台，而这过程就会有时间浪费，且有不完整的风险，不像在图书馆找几本书就基本 OK。 另，互联网上一个平台可能有其它信息，不是自己所需的知识，但也许会消耗你的时间，比如哪个女明星和哪个男明星咋了…… 分类索引图书馆的书本有分类索引，我们可以通过这种分类索引快速了解知识源，这种分类索引也是我们习惯的知识分类，但互联网上没有这种我们熟悉的分类索引，这就意味着很难快速了解知识源，更不用说找到自己所需的知识了。 现在已有的解决方案：建立一个知识平台，由这个知识平台分类，比如知乎。但是互联网才是知识源，而不是一个知识平台，所以这个解决方案不完美，有不完整的风险。 另，此解决方案也没解决多平台的时间浪费问题。我们需要一个知识平台，也需要一个基于用户定制的知识推送平台，将互联网上不同平台的用户所需知识推送给用户。 questions所以问题是： 现在有没有一种服务，推送各种平台上的自己所需知识？ 互联网这个知识源有没有一种更好的“分类索引”？（对大众有利） 最后，我们不是在被自己创造的技术捆绑，而是在被不完善的技术绊脚。 from Telegram @ 2017-11-09 02:14:15]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
@@ -222,9 +222,9 @@
         <tag>光</tag>
         <tag>目标</tag>
         <tag>how</tag>
+        <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>黑暗</tag>
         <tag>对立</tag>
         <tag>假象</tag>
@@ -334,8 +334,8 @@
         <tag>technology</tag>
         <tag>linux</tag>
         <tag>how</tag>
-        <tag>bb-for-fun</tag>
         <tag>更新</tag>
+        <tag>bb-for-fun</tag>
         <tag>看书</tag>
         <tag>internet</tag>
         <tag>bitcoin</tag>
@@ -438,7 +438,7 @@
   <entry>
     <title><![CDATA[Coldplay - Paradise]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F08%2F01%2Fcoldplay-paradise.html</url>
-    <content type="text"><![CDATA[无论是谁的世界，内心都有一个童话般的神圣天堂 music video(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 音乐[ar:Coldplay] [ti:Paradise] [al:Mylo Xyloto] [by:https://reuixiy.github.io] [length:4:37] [00:00.00]Coldplay - Paradise [01:01.71] [01:01.72]When she was just a girl [01:04.93]She expected the world [01:08.15]But it flew away from her reach [01:11.30]So she ran away in her sleep [01:14.92]And dreamed of Para- para- paradise, [01:18.73]para- para- paradise, para- para- paradise [01:25.56]Every time she closed her eyes [01:42.98]When she was just a girl [01:46.16]She expected the world [01:49.40]But it flew away from her reach [01:52.55]And the bullets catch in her teeth [01:56.44]Life goes on, it gets so heavy [01:59.82]The wheel breaks the butterfly [02:03.50]Every tear a waterfall [02:06.45]In the night, the stormy night, [02:09.28]she'll close her eyes [02:13.21]In the night, the stormy night, [02:16.22]away she'd fly [02:20.19]And dreams of para- para- paradise [02:24.02]Para- para- paradise [02:27.44]Para- para- paradise [02:30.87]Oh oh oh oh oh oh-oh-oh-oh [02:34.03]She'd dream of para- para- paradise [02:37.75]Para- para- paradise [02:41.18]Para- para- paradise [02:44.61]Oh oh oh oh oh oh-oh-oh-oh [03:01.92]Lalalalalalalalalalala [03:08.23]And so lying underneath those stormy skies [03:14.94]She'd say: "Oh, ohohohoh, [03:18.03]I know the sun must set to rise" [03:21.84]This could be para- para- paradise [03:25.80]Para- para- paradise [03:28.97]Could be para- para- paradise [03:32.60]Oh oh oh oh oh oh-oh-oh [03:35.71]This could be para- para- paradise [03:39.49]Para- para- paradise [03:42.60]Could be para- para- paradise [03:46.35]Oh oh oh oh oh oh-oh-oh [04:03.09]This could be para- para- paradise [04:06.90]Could be para- para- paradise [04:10.05]Could be para- para- paradise [04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh var ap = new APlayer({ element: document.getElementById("aplayer2"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); So lying underneath the stormy skiesShe’d say oh oh oh oh ohI know the sun must set to rise bb - for - bb最早听到的英语歌之一，当时是在电台（ HitFM ）上听的，听不懂歌词，仅凭旋律和想象力感受…… 后来有一天看到歌词，看到翻译，看到 MV ，发现完美契合旋律和想象力的感受～ Yeah, it could be Paradise…]]></content>
+    <content type="text"><![CDATA[无论是谁的世界，内心都有一个童话般的神圣天堂 music video(function(){var player = new DPlayer({"container":document.getElementById("dplayer3"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Paradise.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 音乐[ar:Coldplay] [ti:Paradise] [al:Mylo Xyloto] [by:https://reuixiy.github.io] [length:4:37] [00:00.00]Coldplay - Paradise [01:01.71] [01:01.72]When she was just a girl [01:04.93]She expected the world [01:08.15]But it flew away from her reach [01:11.30]So she ran away in her sleep [01:14.92]And dreamed of Para- para- paradise, [01:18.73]para- para- paradise, para- para- paradise [01:25.56]Every time she closed her eyes [01:42.98]When she was just a girl [01:46.16]She expected the world [01:49.40]But it flew away from her reach [01:52.55]And the bullets catch in her teeth [01:56.44]Life goes on, it gets so heavy [01:59.82]The wheel breaks the butterfly [02:03.50]Every tear a waterfall [02:06.45]In the night, the stormy night, [02:09.28]she'll close her eyes [02:13.21]In the night, the stormy night, [02:16.22]away she'd fly [02:20.19]And dreams of para- para- paradise [02:24.02]Para- para- paradise [02:27.44]Para- para- paradise [02:30.87]Oh oh oh oh oh oh-oh-oh-oh [02:34.03]She'd dream of para- para- paradise [02:37.75]Para- para- paradise [02:41.18]Para- para- paradise [02:44.61]Oh oh oh oh oh oh-oh-oh-oh [03:01.92]Lalalalalalalalalalala [03:08.23]And so lying underneath those stormy skies [03:14.94]She'd say: "Oh, ohohohoh, [03:18.03]I know the sun must set to rise" [03:21.84]This could be para- para- paradise [03:25.80]Para- para- paradise [03:28.97]Could be para- para- paradise [03:32.60]Oh oh oh oh oh oh-oh-oh [03:35.71]This could be para- para- paradise [03:39.49]Para- para- paradise [03:42.60]Could be para- para- paradise [03:46.35]Oh oh oh oh oh oh-oh-oh [04:03.09]This could be para- para- paradise [04:06.90]Could be para- para- paradise [04:10.05]Could be para- para- paradise [04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh var ap = new APlayer({ element: document.getElementById("aplayer2"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); So lying underneath the stormy skiesShe’d say oh oh oh oh ohI know the sun must set to rise bb - for - bb最早听到的英语歌之一，当时是在电台（HitFM）上听的，听不懂歌词，仅凭旋律和想象力感受…… 后来有一天看到歌词，看到翻译，看到 MV，发现完美契合旋律和想象力的感受～ Yeah, it could be Paradise…]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -521,9 +521,9 @@
         <tag>诗</tag>
         <tag>目标</tag>
         <tag>how</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
-        <tag>quotes</tag>
         <tag>自省</tag>
         <tag>analysis(分析)</tag>
         <tag>尼采</tag>
@@ -568,10 +568,10 @@
         <tag>beautiful</tag>
         <tag>目标</tag>
         <tag>后脑一凉</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>notnow</tag>
         <tag>自省</tag>
         <tag>对立</tag>
@@ -632,10 +632,10 @@
         <tag>technology</tag>
         <tag>computer</tag>
         <tag>linux</tag>
-        <tag>bb-for-fun</tag>
-        <tag>学习</tag>
         <tag>表情包</tag>
         <tag>更新</tag>
+        <tag>bb-for-fun</tag>
+        <tag>学习</tag>
         <tag>computer-aided-art</tag>
         <tag>下载</tag>
         <tag>analysis(分析)</tag>
@@ -746,10 +746,10 @@
         <tag>光</tag>
         <tag>诗</tag>
         <tag>目标</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>黑暗</tag>
         <tag>看书</tag>
         <tag>kindle</tag>
@@ -1093,14 +1093,14 @@
         <tag>光</tag>
         <tag>诗</tag>
         <tag>目标</tag>
+        <tag>quotes</tag>
+        <tag>更新</tag>
         <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
         <tag>学习</tag>
-        <tag>quotes</tag>
-        <tag>更新</tag>
         <tag>shape</tag>
         <tag>对立</tag>
         <tag>看书</tag>
@@ -1162,9 +1162,9 @@
         <tag>沉迷于删删改改</tag>
         <tag>beautiful</tag>
         <tag>critique(批判)</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>对立</tag>
         <tag>尼采</tag>
         <tag>悲伤</tag>
@@ -1231,8 +1231,8 @@
         <tag>图片</tag>
         <tag>beautiful</tag>
         <tag>music</tag>
-        <tag>bb-for-fun</tag>
         <tag>quotes</tag>
+        <tag>bb-for-fun</tag>
         <tag>音乐可视化</tag>
         <tag>发呆</tag>
         <tag>untitled</tag>
@@ -1294,9 +1294,9 @@
         <tag>epic</tag>
         <tag>目标</tag>
         <tag>how</tag>
+        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
-        <tag>quotes</tag>
         <tag>自省</tag>
         <tag>性格</tag>
         <tag>教条</tag>
@@ -1318,8 +1318,8 @@
         <tag>诗</tag>
         <tag>目标</tag>
         <tag>bb-for-bb</tag>
-        <tag>前额一冷</tag>
         <tag>更新</tag>
+        <tag>前额一冷</tag>
         <tag>下载</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
