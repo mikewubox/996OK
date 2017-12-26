@@ -9,15 +9,13 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>真理</tag>
-        <tag>beautiful</tag>
         <tag>critique(批判)</tag>
         <tag>epic</tag>
         <tag>目标</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
-        <tag>notnow</tag>
+        <tag>philosophy</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
         <tag>查拉图斯特拉</tag>
@@ -33,7 +31,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -42,15 +39,14 @@
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
-        <tag>technology</tag>
         <tag>linux</tag>
-        <tag>how</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>shape</tag>
-        <tag>hexo</tag>
+        <tag>bb-for-fun</tag>
         <tag>analysis(分析)</tag>
+        <tag>hexo</tag>
+        <tag>technology</tag>
         <tag>分类</tag>
         <tag>why</tag>
         <tag>平行</tag>
@@ -65,7 +61,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -78,17 +73,16 @@
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>目标</tag>
-        <tag>technology</tag>
-        <tag>how</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
         <tag>学习</tag>
         <tag>shape</tag>
+        <tag>bb-for-fun</tag>
         <tag>analysis(分析)</tag>
         <tag>假象</tag>
         <tag>internet</tag>
+        <tag>technology</tag>
         <tag>知识平台</tag>
         <tag>分类</tag>
         <tag>技术恐惧</tag>
@@ -107,9 +101,6 @@
       </categories>
       <tags>
         <tag>questions</tag>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
       </tags>
   </entry>
@@ -123,11 +114,7 @@
         <category>system-software</category>
       </categories>
       <tags>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
-        <tag>how</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
       </tags>
@@ -143,13 +130,11 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>love</tag>
         <tag>开心</tag>
         <tag>诗</tag>
         <tag>童话</tag>
         <tag>bb-for-fun</tag>
-        <tag>notnow</tag>
       </tags>
   </entry>
   <entry>
@@ -162,9 +147,6 @@
         <category>system-software</category>
       </categories>
       <tags>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
       </tags>
   </entry>
@@ -181,10 +163,7 @@
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
-        <tag>system-software</tag>
         <tag>bb-for-bb</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
@@ -202,11 +181,7 @@
         <category>system-software</category>
       </categories>
       <tags>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
-        <tag>how</tag>
       </tags>
   </entry>
   <entry>
@@ -219,9 +194,6 @@
         <category>system-software</category>
       </categories>
       <tags>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
       </tags>
   </entry>
@@ -234,7 +206,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
         <tag>真理</tag>
@@ -246,7 +217,6 @@
         <tag>music</tag>
         <tag>光</tag>
         <tag>目标</tag>
-        <tag>how</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
@@ -270,9 +240,6 @@
       </categories>
       <tags>
         <tag>music</tag>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>更新</tag>
@@ -287,8 +254,6 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>头皮发麻</tag>
         <tag>足球</tag>
@@ -303,8 +268,6 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>好奇心</tag>
         <tag>critique(批判)</tag>
         <tag>科幻</tag>
@@ -326,13 +289,11 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>critique(批判)</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
@@ -350,22 +311,20 @@
         <category>zeronet</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
         <tag>video</tag>
         <tag>未来</tag>
         <tag>music</tag>
-        <tag>technology</tag>
         <tag>linux</tag>
-        <tag>how</tag>
         <tag>更新</tag>
         <tag>bb-for-fun</tag>
+        <tag>philosophy</tag>
         <tag>看书</tag>
-        <tag>internet</tag>
         <tag>bitcoin</tag>
         <tag>去中心化</tag>
         <tag>zeronet</tag>
+        <tag>how</tag>
       </tags>
   </entry>
   <entry>
@@ -377,15 +336,13 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>科幻</tag>
         <tag>video</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>目标</tag>
         <tag>bb-for-bb</tag>
-        <tag>notnow</tag>
+        <tag>share</tag>
         <tag>阿西莫夫</tag>
         <tag>人工智能</tag>
         <tag>性格</tag>
@@ -401,7 +358,6 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
@@ -410,9 +366,8 @@
         <tag>bb-for-bb</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
-        <tag>bb-for-fun</tag>
         <tag>shape</tag>
-        <tag>notnow</tag>
+        <tag>bb-for-fun</tag>
         <tag>摄影</tag>
         <tag>发呆</tag>
         <tag>树莓派</tag>
@@ -427,20 +382,18 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
         <tag>video</tag>
         <tag>music</tag>
         <tag>头皮发麻</tag>
         <tag>system-software</tag>
         <tag>bb-for-bb</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
         <tag>hexo</tag>
-        <tag>notnow</tag>
+        <tag>technology</tag>
         <tag>易</tag>
+        <tag>computer</tag>
         <tag>悲伤</tag>
         <tag>死亡</tag>
       </tags>
@@ -456,12 +409,10 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>coldplay</tag>
         <tag>bb-for-bb</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
-        <tag>notnow</tag>
       </tags>
   </entry>
   <entry>
@@ -474,8 +425,6 @@
       </categories>
       <tags>
         <tag>想象</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
@@ -496,10 +445,8 @@
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>目标</tag>
         <tag>后脑一凉</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>黑暗</tag>
@@ -520,14 +467,12 @@
       </categories>
       <tags>
         <tag>questions</tag>
-        <tag>beautiful</tag>
         <tag>好奇心</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>下载</tag>
-        <tag>notnow</tag>
+        <tag>bb-for-fun</tag>
         <tag>看书</tag>
         <tag>Einstein</tag>
         <tag>电影</tag>
@@ -542,17 +487,15 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
         <tag>critique(批判)</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>how</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
+        <tag>bb-for-fun</tag>
         <tag>自省</tag>
         <tag>analysis(分析)</tag>
         <tag>尼采</tag>
@@ -568,16 +511,14 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
-        <tag>what</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>目标</tag>
         <tag>quotes</tag>
         <tag>bb-for-fun</tag>
-        <tag>notnow</tag>
         <tag>看书</tag>
+        <tag>notnow</tag>
         <tag>量子</tag>
         <tag>辞</tag>
       </tags>
@@ -591,17 +532,15 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>tips</tag>
-        <tag>beautiful</tag>
         <tag>目标</tag>
         <tag>后脑一凉</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
-        <tag>notnow</tag>
+        <tag>bb-for-fun</tag>
+        <tag>philosophy</tag>
         <tag>自省</tag>
         <tag>对立</tag>
         <tag>analysis(分析)</tag>
@@ -624,22 +563,19 @@
       <tags>
         <tag>想象</tag>
         <tag>空间</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>love</tag>
-        <tag>system-software</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
+        <tag>beautiful</tag>
+        <tag>share</tag>
         <tag>computer-aided-art</tag>
         <tag>音乐可视化</tag>
         <tag>shape</tag>
         <tag>下载</tag>
         <tag>工具</tag>
+        <tag>bb-for-fun</tag>
       </tags>
   </entry>
   <entry>
@@ -655,23 +591,20 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>share</tag>
         <tag>coldplay</tag>
         <tag>诗</tag>
         <tag>bb-for-bb</tag>
-        <tag>technology</tag>
-        <tag>computer</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
         <tag>更新</tag>
-        <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>学习</tag>
-        <tag>computer-aided-art</tag>
+        <tag>share</tag>
         <tag>下载</tag>
-        <tag>hexo</tag>
+        <tag>bb-for-fun</tag>
         <tag>analysis(分析)</tag>
         <tag>尼采</tag>
+        <tag>hexo</tag>
         <tag>internet</tag>
         <tag>知识平台</tag>
         <tag>分类</tag>
@@ -687,7 +620,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>tips</tag>
@@ -695,11 +627,10 @@
         <tag>沉迷于删删改改</tag>
         <tag>未来</tag>
         <tag>linux</tag>
-        <tag>how</tag>
         <tag>表情包</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>工具</tag>
+        <tag>bb-for-fun</tag>
         <tag>analysis(分析)</tag>
         <tag>why</tag>
         <tag>人工智能</tag>
@@ -718,8 +649,6 @@
       </categories>
       <tags>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>头皮发麻</tag>
@@ -736,8 +665,6 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>星空</tag>
         <tag>epic</tag>
       </tags>
@@ -752,9 +679,7 @@
       </categories>
       <tags>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>美景</tag>
-        <tag>notnow</tag>
         <tag>摄影</tag>
         <tag>发呆</tag>
       </tags>
@@ -772,7 +697,6 @@
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>好奇心</tag>
         <tag>epic</tag>
         <tag>love</tag>
@@ -780,7 +704,6 @@
         <tag>诗</tag>
         <tag>目标</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>前额一冷</tag>
         <tag>黑暗</tag>
@@ -803,8 +726,6 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>达·芬奇</tag>
       </tags>
   </entry>
@@ -818,8 +739,6 @@
       </categories>
       <tags>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
@@ -840,8 +759,6 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
@@ -858,7 +775,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -866,10 +782,9 @@
         <tag>沉迷于删删改改</tag>
         <tag>科幻</tag>
         <tag>未来</tag>
-        <tag>computer</tag>
-        <tag>how</tag>
         <tag>人工智能</tag>
         <tag>大脑</tag>
+        <tag>computer</tag>
         <tag>极限</tag>
       </tags>
   </entry>
@@ -882,8 +797,6 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
-        <tag>what</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -905,8 +818,6 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
-        <tag>what</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -928,8 +839,6 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>开心</tag>
         <tag>美景</tag>
@@ -945,20 +854,18 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>critique(批判)</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
+        <tag>bb-for-fun</tag>
         <tag>对立</tag>
         <tag>analysis(分析)</tag>
         <tag>假象</tag>
         <tag>查拉图斯特拉</tag>
-        <tag>why</tag>
         <tag>教条</tag>
         <tag>贫富分化</tag>
         <tag>平等</tag>
@@ -977,8 +884,6 @@
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
@@ -995,8 +900,6 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
-        <tag>what</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
@@ -1007,14 +910,14 @@
         <tag>未来</tag>
         <tag>开心</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
-        <tag>notnow</tag>
+        <tag>bb-for-fun</tag>
         <tag>analysis(分析)</tag>
-        <tag>why</tag>
         <tag>大脑</tag>
         <tag>极限</tag>
         <tag>时间</tag>
+        <tag>what</tag>
+        <tag>notnow</tag>
       </tags>
   </entry>
   <entry>
@@ -1031,10 +934,8 @@
         <tag>tips</tag>
         <tag>music</tag>
         <tag>bb-for-bb</tag>
-        <tag>technology</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
-        <tag>embedded</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
       </tags>
@@ -1051,16 +952,14 @@
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>love</tag>
         <tag>诗</tag>
         <tag>童话</tag>
-        <tag>bb-for-fun</tag>
-        <tag>notnow</tag>
         <tag>摄影</tag>
         <tag>发呆</tag>
         <tag>untitled</tag>
         <tag>时间</tag>
+        <tag>notnow</tag>
       </tags>
   </entry>
   <entry>
@@ -1075,7 +974,6 @@
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>星空</tag>
         <tag>未来</tag>
         <tag>epic</tag>
@@ -1084,7 +982,6 @@
         <tag>love</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>前额一冷</tag>
         <tag>untitled</tag>
       </tags>
@@ -1099,9 +996,7 @@
       </categories>
       <tags>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>critique(批判)</tag>
-        <tag>bb-for-fun</tag>
         <tag>学习</tag>
         <tag>悲伤</tag>
         <tag>untitled</tag>
@@ -1116,12 +1011,10 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>what</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>好奇心</tag>
         <tag>critique(批判)</tag>
         <tag>科幻</tag>
@@ -1131,7 +1024,6 @@
         <tag>目标</tag>
         <tag>quotes</tag>
         <tag>更新</tag>
-        <tag>bb-for-fun</tag>
         <tag>维</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
@@ -1145,6 +1037,7 @@
         <tag>平行</tag>
         <tag>untitled</tag>
         <tag>时间</tag>
+        <tag>what</tag>
       </tags>
   </entry>
   <entry>
@@ -1156,7 +1049,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>association</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
@@ -1165,7 +1057,6 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>好奇心</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
@@ -1174,11 +1065,11 @@
         <tag>诗</tag>
         <tag>目标</tag>
         <tag>bb-for-bb</tag>
-        <tag>how</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
+        <tag>beautiful</tag>
         <tag>shape</tag>
+        <tag>bb-for-fun</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
         <tag>极限</tag>
@@ -1196,10 +1087,8 @@
       <tags>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>beautiful</tag>
         <tag>critique(批判)</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>前额一冷</tag>
         <tag>对立</tag>
         <tag>尼采</tag>
@@ -1218,7 +1107,6 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>好奇心</tag>
         <tag>critique(批判)</tag>
         <tag>epic</tag>
@@ -1226,7 +1114,6 @@
         <tag>光</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>前额一冷</tag>
         <tag>黑暗</tag>
       </tags>
@@ -1242,14 +1129,12 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>星空</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>开心</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>黑暗</tag>
         <tag>untitled</tag>
       </tags>
@@ -1266,10 +1151,8 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>music</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>音乐可视化</tag>
         <tag>shape</tag>
         <tag>发呆</tag>
@@ -1288,12 +1171,10 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
         <tag>星空</tag>
         <tag>光</tag>
         <tag>诗</tag>
         <tag>目标</tag>
-        <tag>bb-for-fun</tag>
         <tag>尼采</tag>
         <tag>悲伤</tag>
       </tags>
@@ -1309,8 +1190,6 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>星空</tag>
         <tag>love</tag>
         <tag>诗</tag>
@@ -1326,15 +1205,13 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>philosophy</tag>
         <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>目标</tag>
-        <tag>how</tag>
         <tag>quotes</tag>
-        <tag>bb-for-fun</tag>
         <tag>practical-science(实践科学)</tag>
+        <tag>bb-for-fun</tag>
         <tag>自省</tag>
         <tag>性格</tag>
         <tag>教条</tag>
@@ -1351,8 +1228,6 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>beautiful</tag>
-        <tag>share</tag>
         <tag>诗</tag>
         <tag>目标</tag>
         <tag>bb-for-bb</tag>
