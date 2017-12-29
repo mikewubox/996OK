@@ -279,9 +279,9 @@ $(document).ready(function () {
         integrator.next();
       }
 
-      $('.menu-item').velocity('transition.slideDownIn', {
+      $('.menu-item').velocity('transition.bounceLeftIn', {
         display: null,
-        duration: 200,
+        duration: 1000,
         complete: function () {
           integrator.next();
         }
@@ -290,7 +290,7 @@ $(document).ready(function () {
 
     postList: function (integrator) {
       //var $post = $('.post');
-      var $postBlock = $('.post-block, .pagination, .comments');
+      var $postBlock = $('.post, .pagination, .comments');
       var $postBlockTransition = CONFIG.motion.transition.post_block;
       var $postHeader = $('.post-header');
       var $postHeaderTransition = CONFIG.motion.transition.post_header;
