@@ -10,6 +10,8 @@
         <category>computer-aided-art</category>
       </categories>
       <tags>
+        <tag>好奇心</tag>
+        <tag>critique(批判)</tag>
         <tag>hexo</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
@@ -17,10 +19,8 @@
         <tag>analysis(分析)</tag>
         <tag>Google Data Studio(数据洞察)</tag>
         <tag>notnow</tag>
-        <tag>好奇心</tag>
         <tag>目标</tag>
         <tag>维</tag>
-        <tag>critique(批判)</tag>
       </tags>
   </entry>
   <entry>
@@ -38,12 +38,12 @@
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
+        <tag>critique(批判)</tag>
+        <tag>未来</tag>
+        <tag>epic</tag>
         <tag>目标</tag>
         <tag>维</tag>
-        <tag>critique(批判)</tag>
         <tag>music</tag>
-        <tag>epic</tag>
-        <tag>未来</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
@@ -71,9 +71,9 @@
       </categories>
       <tags>
         <tag>真理</tag>
-        <tag>目标</tag>
         <tag>critique(批判)</tag>
         <tag>epic</tag>
+        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>philosophy</tag>
@@ -99,9 +99,9 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>好奇心</tag>
         <tag>hexo</tag>
         <tag>analysis(分析)</tag>
-        <tag>好奇心</tag>
         <tag>维</tag>
         <tag>linux</tag>
         <tag>quotes</tag>
@@ -129,12 +129,12 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>analysis(分析)</tag>
         <tag>好奇心</tag>
-        <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>epic</tag>
         <tag>未来</tag>
+        <tag>epic</tag>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
@@ -221,9 +221,9 @@
         <category>system-software</category>
       </categories>
       <tags>
+        <tag>video</tag>
         <tag>bb-for-bb</tag>
         <tag>coldplay</tag>
-        <tag>video</tag>
         <tag>music</tag>
         <tag>linux</tag>
         <tag>quotes</tag>
@@ -271,13 +271,13 @@
         <tag>synthesis(综合)</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>music</tag>
-        <tag>光</tag>
-        <tag>epic</tag>
         <tag>星空</tag>
         <tag>未来</tag>
+        <tag>epic</tag>
+        <tag>目标</tag>
+        <tag>music</tag>
+        <tag>光</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
@@ -323,7 +323,7 @@
   <entry>
     <title><![CDATA[Cassini's Grand Finale]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F09%2F22%2Fcassini-s-grand-finale.html</url>
-    <content type="text"><![CDATA[Just a month shy of 20 years in space, Cassini will makes a final plunge into Saturn’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life. 关于 Cassini“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现土星有若干卫星。 NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。 发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。 Cassini 详情Cassini 有自己的 网站（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走https。 试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种好奇心带来的喜悦，那种科幻小说式的兴奋？ End of Mission(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[Just a month shy of 20 years in space, Cassini will makes a final plunge into Saturn’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life. 关于 Cassini“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现土星有若干卫星。 NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。 发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。 Cassini 详情Cassini 有自己的 网站（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走https。 试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种好奇心带来的喜悦，那种科幻小说式的兴奋？ End of Mission(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -331,11 +331,11 @@
       <tags>
         <tag>好奇心</tag>
         <tag>critique(批判)</tag>
-        <tag>video</tag>
-        <tag>epic</tag>
         <tag>科幻</tag>
         <tag>星空</tag>
+        <tag>video</tag>
         <tag>未来</tag>
+        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -350,9 +350,9 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>critique(批判)</tag>
         <tag>目标</tag>
         <tag>维</tag>
-        <tag>critique(批判)</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
@@ -375,8 +375,8 @@
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
         <tag>video</tag>
-        <tag>music</tag>
         <tag>未来</tag>
+        <tag>music</tag>
         <tag>linux</tag>
         <tag>更新</tag>
         <tag>bb-for-fun</tag>
@@ -397,12 +397,12 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>科幻</tag>
+        <tag>video</tag>
+        <tag>未来</tag>
+        <tag>epic</tag>
         <tag>bb-for-bb</tag>
         <tag>目标</tag>
-        <tag>video</tag>
-        <tag>epic</tag>
-        <tag>科幻</tag>
-        <tag>未来</tag>
         <tag>share</tag>
         <tag>阿西莫夫</tag>
         <tag>人工智能</tag>
@@ -419,10 +419,10 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>video</tag>
         <tag>树莓派</tag>
         <tag>bb-for-bb</tag>
         <tag>coldplay</tag>
-        <tag>video</tag>
         <tag>music</tag>
         <tag>开心</tag>
         <tag>后脑一凉</tag>
@@ -443,16 +443,16 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>video</tag>
         <tag>hexo</tag>
         <tag>bb-for-bb</tag>
-        <tag>video</tag>
         <tag>music</tag>
         <tag>system-software</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
-        <tag>technology</tag>
         <tag>头皮发麻</tag>
+        <tag>technology</tag>
         <tag>易</tag>
         <tag>computer</tag>
         <tag>悲伤</tag>
@@ -534,9 +534,9 @@
         <tag>association</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>critique(批判)</tag>
         <tag>analysis(分析)</tag>
         <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>诗</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
@@ -607,8 +607,8 @@
       <tags>
         <tag>想象</tag>
         <tag>空间</tag>
-        <tag>coldplay</tag>
         <tag>video</tag>
+        <tag>coldplay</tag>
         <tag>music</tag>
         <tag>quotes</tag>
         <tag>beautiful</tag>
@@ -669,9 +669,9 @@
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>未来</tag>
         <tag>树莓派</tag>
         <tag>analysis(分析)</tag>
-        <tag>未来</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
         <tag>practical-science(实践科学)</tag>
@@ -694,8 +694,8 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>epic</tag>
         <tag>星空</tag>
+        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -727,11 +727,11 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
+        <tag>epic</tag>
         <tag>目标</tag>
         <tag>维</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
         <tag>quotes</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
@@ -761,22 +761,22 @@
   <entry>
     <title><![CDATA[Coldplay - Lost+ ft. Jay-Z]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F04%2F28%2Fcoldplay-lost%2B.html</url>
-    <content type="text"><![CDATA[太喜欢 Coldplay 的这首歌和这个 MV 了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～但发现最困难的还是翻译，这才是脑力活……Anyway，很兴奋，开心～ 视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 歌词Coldplay - Lost+ ft. Jay-Z字幕制作：Worm-35（网易云音乐账号） Okay!Okay! Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost不意味着我失败了 Doesn’t mean I’ll stop不意味着我会停下脚步 Doesn’t mean I’m across不意味着我会错过 Just because I’m hurting我只不过是疼痛着 Doesn’t mean I’m hurt不意味着我受伤了 Doesn’t mean I didn’t get what I deserved不意味着我没有得到自己应得的 No better and no worse这样不算更好，也没更坏 I just got lost!我只是迷茫着 Every river that I tried to cross每条我尝试了要去跨过的河流都被锁住了 Every door I ever tried was locked每扇我曾尝试了想要去打开的门都被锁住了 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 You might be a big fish你可能是条大鱼 In a little pond在小小的池塘里 Doesn’t mean you’ve won但这不意味着你是赢家 ‘Cause along will come因未来可能会有 A bigger one另外一条更大的鱼出现 And you’ll be lost!然后你将感到迷茫 Every river that you tried to cross每条你尝试了要去跨过的河流都消失不见了 Every gun you ever held went off每把你曾紧握的枪都消失不见了 Oh and I’m just waiting til the firing’s stoppedOh, 我只不过在等待直到热火散尽的瞬间 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 [Jay-Z rap][Jay-Z rap] Aha, I got you, uhAha, 我懂了, uh With the same sword they knight you那把他们封给你的剑 They gon’ goodnight you with他们也会用它给你说晚安 Shit, that’s only half if they like youShit, 如果他们喜欢你但也可能只有一半 That ain’t even a half what they might do事实上那甚至不到他们可能做的一半 Don’t believe me? Ask Michael不相信我？问问迈克尔·杰克逊吧 See Martin, see Malcolm看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀） See Biggie, see Pac看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命） See success and its outcome看看成功和成功的后果 See Jesus, see Judas看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀） See Caesar, see Brutus看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀） See success is like suicide看看成名好像就已预定自杀 Suicide, it’s a suicide自杀，是的，是自杀 If you succeed prepare to be crucified如果你红了要有被钉死在十字架上的准备 Media meddles媒体的骚扰 Niggaz sue you, you settle小人的起诉，这些你都得面对 Every step you take向成功迈出的每一小步 They remind you, you ghetto他们就会提醒你，你永远是个穷鬼 So it’s tough being Bobby Brown所以成为鲍比·布朗（美国流行乐歌星）不容易 To be Bobby then you have to be Bobby now要成为Bobby你就必去承受Bobby现在承受的（吸毒） And the question is, is to have had and lost问题就在于，曾经拥有却失去 Better than not having at all?要比一无所有要好吗？ Because…因为… Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh Oh Oh Oh OhOh Oh Oh Oh Oh Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost!不意味着我失败了 打个小广告字幕制作软件是 Arctime ，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的 网易云音乐歌单 ，初中到现在的歌单～]]></content>
+    <content type="text"><![CDATA[太喜欢 Coldplay 的这首歌和这个 MV 了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～但发现最困难的还是翻译，这才是脑力活……Anyway，很兴奋，开心～ 视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 歌词Coldplay - Lost+ ft. Jay-Z字幕制作：Worm-35（网易云音乐账号） Okay!Okay! Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost不意味着我失败了 Doesn’t mean I’ll stop不意味着我会停下脚步 Doesn’t mean I’m across不意味着我会错过 Just because I’m hurting我只不过是疼痛着 Doesn’t mean I’m hurt不意味着我受伤了 Doesn’t mean I didn’t get what I deserved不意味着我没有得到自己应得的 No better and no worse这样不算更好，也没更坏 I just got lost!我只是迷茫着 Every river that I tried to cross每条我尝试了要去跨过的河流都被锁住了 Every door I ever tried was locked每扇我曾尝试了想要去打开的门都被锁住了 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 You might be a big fish你可能是条大鱼 In a little pond在小小的池塘里 Doesn’t mean you’ve won但这不意味着你是赢家 ‘Cause along will come因未来可能会有 A bigger one另外一条更大的鱼出现 And you’ll be lost!然后你将感到迷茫 Every river that you tried to cross每条你尝试了要去跨过的河流都消失不见了 Every gun you ever held went off每把你曾紧握的枪都消失不见了 Oh and I’m just waiting til the firing’s stoppedOh, 我只不过在等待直到热火散尽的瞬间 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 [Jay-Z rap][Jay-Z rap] Aha, I got you, uhAha, 我懂了, uh With the same sword they knight you那把他们封给你的剑 They gon’ goodnight you with他们也会用它给你说晚安 Shit, that’s only half if they like youShit, 如果他们喜欢你但也可能只有一半 That ain’t even a half what they might do事实上那甚至不到他们可能做的一半 Don’t believe me? Ask Michael不相信我？问问迈克尔·杰克逊吧 See Martin, see Malcolm看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀） See Biggie, see Pac看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命） See success and its outcome看看成功和成功的后果 See Jesus, see Judas看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀） See Caesar, see Brutus看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀） See success is like suicide看看成名好像就已预定自杀 Suicide, it’s a suicide自杀，是的，是自杀 If you succeed prepare to be crucified如果你红了要有被钉死在十字架上的准备 Media meddles媒体的骚扰 Niggaz sue you, you settle小人的起诉，这些你都得面对 Every step you take向成功迈出的每一小步 They remind you, you ghetto他们就会提醒你，你永远是个穷鬼 So it’s tough being Bobby Brown所以成为鲍比·布朗（美国流行乐歌星）不容易 To be Bobby then you have to be Bobby now要成为Bobby你就必去承受Bobby现在承受的（吸毒） And the question is, is to have had and lost问题就在于，曾经拥有却失去 Better than not having at all?要比一无所有要好吗？ Because…因为… Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh Oh Oh Oh OhOh Oh Oh Oh Oh Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost!不意味着我失败了 打个小广告字幕制作软件是 Arctime ，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的 网易云音乐歌单 ，初中到现在的歌单～]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
       </categories>
       <tags>
         <tag>沉迷于删删改改</tag>
+        <tag>video</tag>
+        <tag>epic</tag>
         <tag>目标</tag>
         <tag>coldplay</tag>
-        <tag>video</tag>
         <tag>music</tag>
         <tag>光</tag>
         <tag>开心</tag>
         <tag>system-software</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -871,8 +871,8 @@
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>analysis(分析)</tag>
         <tag>critique(批判)</tag>
+        <tag>analysis(分析)</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>bb-for-fun</tag>
@@ -897,8 +897,8 @@
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>图片</tag>
-        <tag>coldplay</tag>
         <tag>video</tag>
+        <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
         <tag>love</tag>
@@ -919,12 +919,12 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>critique(批判)</tag>
+        <tag>未来</tag>
         <tag>analysis(分析)</tag>
         <tag>notnow</tag>
         <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>开心</tag>
-        <tag>未来</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
         <tag>大脑</tag>
@@ -987,13 +987,13 @@
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>星空</tag>
+        <tag>未来</tag>
+        <tag>epic</tag>
         <tag>目标</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
-        <tag>星空</tag>
-        <tag>未来</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>untitled</tag>
@@ -1029,13 +1029,13 @@
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>维</tag>
         <tag>critique(批判)</tag>
-        <tag>光</tag>
-        <tag>诗</tag>
         <tag>科幻</tag>
         <tag>未来</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>光</tag>
+        <tag>诗</tag>
         <tag>quotes</tag>
         <tag>更新</tag>
         <tag>practical-science(实践科学)</tag>
@@ -1070,14 +1070,14 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>bb-for-bb</tag>
         <tag>好奇心</tag>
+        <tag>epic</tag>
+        <tag>bb-for-bb</tag>
         <tag>目标</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>开心</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>beautiful</tag>
@@ -1121,11 +1121,11 @@
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>好奇心</tag>
-        <tag>目标</tag>
         <tag>critique(批判)</tag>
+        <tag>epic</tag>
+        <tag>目标</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>黑暗</tag>
@@ -1142,12 +1142,12 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>星空</tag>
+        <tag>epic</tag>
         <tag>目标</tag>
         <tag>光</tag>
         <tag>开心</tag>
         <tag>诗</tag>
-        <tag>epic</tag>
-        <tag>星空</tag>
         <tag>黑暗</tag>
         <tag>untitled</tag>
       </tags>
@@ -1184,10 +1184,10 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>星空</tag>
         <tag>目标</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>星空</tag>
         <tag>尼采</tag>
         <tag>悲伤</tag>
       </tags>
@@ -1203,8 +1203,8 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>诗</tag>
         <tag>星空</tag>
+        <tag>诗</tag>
         <tag>love</tag>
         <tag>拜伦</tag>
       </tags>
@@ -1218,10 +1218,10 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>epic</tag>
         <tag>未来</tag>
+        <tag>epic</tag>
+        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
@@ -1257,8 +1257,8 @@
     <url>%2Funcategorized%2F2010%2F01%2F01%2Ftest.html</url>
     <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer3"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music[ar:Oasis] [ti:Live Forever] [al:Live Forever] [by:https://reuixiy.github.io] [length:4:38] [00:00.00]Oasis - Live Forever [00:12.69] [02:28.88][00:12.70]Maybe I don't really want to know [02:32.25][00:17.28]How your garden grows [02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain [02:42.93][00:28.06]In the morning rain [02:45.64][00:30.57]As it soaks it to the bone [02:49.35][00:34.49]Maybe I just want to fly [02:51.96][00:37.21]I wanna live I don't want to die [02:54.55][00:39.63]Maybe I just want to breath [02:57.08][00:42.30]Maybe I just don't believe [02:59.69][00:44.88]Maybe you're the same as me [03:02.25][00:47.48]We see things they'll never see [03:05.13][00:50.27]You and I are gonna live forever [00:57.74]Maybe I don't really want to know [01:02.56]How your garden grows [01:05.13]I just want to fly Lately did you ever feel the pain [01:13.23]In the morning rain [01:15.93]As it soaks it to the bone [01:19.41]Maybe I will never be [01:22.05]All the things that I want to be [01:24.87]But now is not the time to cry [01:27.41]Now's the time to find out why [01:29.99]I think you're the same as me [01:32.56]We see things they'll never see [01:35.28]You and I are gonna live forever [03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever var ap = new APlayer({ element: document.getElementById("aplayer4"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456&#123;% gp 4-3 %&#125;![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4)&#123;% endgp %&#125; 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果： 推荐文章https://github.com/huiwang/hexo-recommended-posts https://github.com/tea3/hexo-related-popular-posts]]></content>
       <tags>
-        <tag>hexo</tag>
         <tag>video</tag>
+        <tag>hexo</tag>
         <tag>music</tag>
       </tags>
   </entry>
