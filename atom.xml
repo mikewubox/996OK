@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2018-01-01T19:15:12.274Z</updated>
+  <updated>2018-01-10T13:26:54.468Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://reuixiy.github.io/technology/computer/computer-aided-art/2018/01/01/google-analytics-report.html"/>
     <id>https://reuixiy.github.io/technology/computer/computer-aided-art/2018/01/01/google-analytics-report.html</id>
     <published>2018-01-01T10:18:21.000Z</published>
-    <updated>2018-01-01T19:15:12.274Z</updated>
+    <updated>2018-01-10T13:26:54.468Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio.png" alt="google-data-studio.png" style="width:100%"></p><a id="more"></a><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>和许多博主一样，WordPress 是我最早搭建的博客，但它只运行在我的小小树莓派上，是我折腾树莓派时的一个成果，目前沉睡在我的树莓派上<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/raspberry-pi-server.jpg" alt="raspberry-pi-server.jpg"></p><p>后来接触到 Hexo 也是因为树莓派，有一次 Google 相关教程时，看到一个让我眼前一亮的网站，然后通过页脚的一个链接开始走进了 Hexo 的世界<img id="github-emoji" alt="smile" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png?v7" height="20" width="20">～</p><p>这个博客于 2017.05.27 部署在 <a href="https://github.com/reuixiy?tab=overview&amp;from=2017-05-01&amp;to=2017-05-31#contribution-joined-github-28993043-2017-05-27" target="_blank" rel="noopener">Github Pages</a> ，于 2017.06.05 开始使用 <a href="https://analytics.google.com/" target="_blank" rel="noopener">Google Analytics</a> ，于 2017.09.28 开始使用 <a href="https://www.google.com/webmasters/" target="_blank" rel="noopener">Google Search Console</a> ，期间经历了多次大换装，评论经历了一次更换，还经历了一次超级可怕的 <a href="https://reuixiy.github.io/beautiful/notnow/2017/08/21/rebuild-this-blog-due-to-rm.html">rm</a> <img id="github-emoji" alt="sob" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png?v7" height="20" width="20">……</p><h2 id="Google-Analytics"><a href="#Google-Analytics" class="headerlink" title="Google Analytics"></a>Google Analytics</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/2017-reuixiy-google-analytics-report.png" alt="2017-reuixiy-google-analytics-report.png"></p><h3 id="提前说明"><a href="#提前说明" class="headerlink" title="提前说明"></a>提前说明</h3><p>「<strong>内容</strong>」里的图表水分较大，「<strong>来源</strong>」里的 (direct) 和 localhost:4000 水分较大，「<strong>用户</strong>」是最真实的，为什么会这样，谁灌的水呢？</p><p>首先，我自己灌的水<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，不知你搭建博客的目的是什么，我一开始搭建博客单纯是为了替代纸质笔记本，由于喜欢发呆和胡思乱想的我之前写了一大堆东东，但慢慢遇到些 <a href="https://reuixiy.github.io/about/#bb-for-bb">问题</a>，后来接触计算机多了，就希望通过博客来解决这些问题。如笔记本应该经常翻看，我会经常浏览自己的博客，而博客一开始的大部分访客都是自己，再加上下面的两个原因，就导致……</p><p>然后，另一个不可或缺的原因——开始时没有在 Google Analytics 里过滤掉水分。这张图里我用了两个数据源，也就是两份 view（数据视图），一份是 Raw Data（2017.06.05 - 2017.12.31），一份是 Master View（2017.12.04 - 2017.12.31），两个数据源的差别：</p><ol><li>时间范围</li><li>是否灌水</li></ol><p>虽然博客 06.05 就开始使用 Google Analytics，但我大概一个月前才学了学如何使用 Google Analytics，才知道通过添加多份 view 并添加 filter（过滤器）来过滤掉自己的访问（<del>灌水</del>），所以 Raw Data 里水分较大，之后添加的 Master View 水分则较少。</p><p>最后一个不可或缺的原因，对于水分较大的 Raw Data，其中 Pageviews（网页浏览量）水分最大，Sessions（会话数）里的水分比较大，Users（用户数）最少，这样如果将 Raw Data 的 Pageviews 和 Sessions 作为相关 Dimensions（维度）的 Metrics（指标），就会导致相关图表里的水分……</p><ul><li>「<strong>内容</strong>」的数据源是 Raw Data，用了 Pageviews 和 Sessions 两个 Metrics，水分较大。</li><li>「<strong>来源</strong>」的数据源是 Raw Data，用了 Sessions 一个 Metrics，其中 (direct) 和 localhost:4000 水分较大，其它的没问题。</li><li>「<strong>用户</strong>」的数据源是 Master View（除了第一个图表），用了 Users 一个 Metrics（除了第一个图表），几乎没有水分。</li></ul><h3 id="简要分析"><a href="#简要分析" class="headerlink" title="简要分析"></a>简要分析</h3><p>首先你可以访问 <a href="https://datastudio.google.com/open/1-vqhUMZCt9gKTkfbAf5i5xNbrC2n43hU" target="_blank" rel="noopener">这个链接</a>（需科学上网）体验上面这份报告的更多交互，然后基于上面的说明，加上自己记忆，简要分析下。</p><h4 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h4><p>第一个图表，由于水分最多，没啥好说的，前面的峰值可能是因为那天我在写文章或者折腾博客样式，后面的峰值可能是我在哪里手动推广了一下自己的博客<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">，11 月前后的低谷可能是因为把博客样式搞炸了，读者点开博客就吓跑了<img id="github-emoji" alt="see_no_evil" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f648.png?v7" height="20" width="20">～</p><p>第三个图表，Sessions 最多的是 <a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a> ，意料之中，原因之一是我花了很多时间在它上面，第二个原因是 SEO 和推广。</p><p>首页（reuixiy）是第二，也是意料之中，ABOUT 在第五，看来大家很想了解了解我啊<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，TopX？哈，改了个好名字（之前叫 Top5）。</p><p>Coldplay 的那两篇能上榜，是因为我每天在空间发在 Instagram 偷的图，然后评论留下链接。</p><p>然后 <a href="https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html">零网</a> 那篇，原因之一是当时自己折腾时 Google 到的文章很少，于是折腾完后就写了这篇，看起来很符合“需求”哈哈（剩下的两篇技术文章估计也是如此），第二个原因是成功吸引了从其它文章上“引流”而来的读者，为什么能吸引？好奇心。</p><p>第二个图表比较有意思，不过有意思的不在上面这张图，在下面这张动图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-1.gif" alt="google-analytics-report-1-1.gif"></p><p>点击显示累计值后，发现两条陡峭的斜线，09.30 前后的变化说明 Google Search Console 没白用，增大的斜率说明这两个页面的 Sessions 增加的越来越快。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-2.jpg" alt="google-analytics-report-1-2.jpg"></p><p>再点击显示堆积线条后，全都变成了陡峭的斜线，原因暂时不知道……且把它当作个好兆头吧<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-3.jpg" alt="google-analytics-report-1-3.jpg"></p><h4 id="用户"><a href="#用户" class="headerlink" title="用户"></a>用户</h4><p>第一个图表，用户数和会话数变化趋势基本一致，后面两个差值增大，说明博客样式修改很成功，成功留住了用户，哈哈哈～</p><p>下面的图表：</p><ul><li>国家，最多的是中国，符合国情，美国占那么多，估计是 VPS，也符合国情。</li><li>城市，洛杉矶和纽约估计是 VPS，北京、上海、深圳、武汉、杭州、成都，符合。</li><li>年龄，怎么分析出来的不知道，符合。</li><li>性别，怎么分析出来的不知道，符合。</li><li>设备类别，符合。</li><li>浏览器，符合。</li><li>操作系统，符合（哪位大佬捐我一台 Macbook？<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">）。</li><li>移动设备品牌，符合。</li></ul><p>至于最后一个图表，怎么分析出来的不知道，不过仔细看看，再结合上面「<strong>内容</strong>」的分析，还是相当符合的～</p><h4 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h4><p>(direct) 和 localhost:4000 不说，水分较大。Google 带来这么多，说明 SEO 可以。<a href="https://segmentfault.com/p/1210000011450995" target="_blank" rel="noopener">SegmentFault</a> 带来这么多，是因为有个大佬推荐了我的那篇文章，目前百度<code>hexo next 优化</code>（其它关键字没试）排在第一，再次感谢 <a href="http://shenzekun.cn" target="_blank" rel="noopener">大佬</a> <img id="github-emoji" alt="grin" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png?v7" height="20" width="20">。Github 是因为我回答过几个 issues，至于 wnflb.com 不清楚。</p><p>值得注意的是 hui-wang.info，我与这位大佬认识不久，他的博客却给我带来了比较多的 Sessions，很大一部分原因是 <a href="https://github.com/huiwang/hexo-recommended-posts" target="_blank" rel="noopener">Hexo 跨博客文章推荐插件</a> ，你可以在我的博客每篇文章的底部看到这个插件的效果，非常建议大家食用，让我们的博客通过这个插件在互联网上有机的连接起来～</p><p>最后，非常感谢列表中的其它引荐，感谢你们在你的博客中留了我的博客文章链接！</p><h3 id="发现-bug"><a href="#发现-bug" class="headerlink" title="发现 bug"></a>发现 bug</h3><p>Google Analytics 并不是博客的唯一统计途径，还有页脚的不蒜子统计，细心的你有没有发现什么问题呢？没错，报告中 Google Analytics 的网页浏览量（23,345）居然比不蒜子（16,785）的多了很多，这是不合逻辑的，因为我是先用的不蒜子，而且使用期间并没有发现不蒜子有很大问题。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-4.jpg" alt="google-analytics-report-1-4.jpg"></p><p>弄了个表格，恍然大悟，主机名……赶紧往 Master View 里添加一个 filter——仅包含有效主机名！</p><h2 id="Search-Console"><a href="#Search-Console" class="headerlink" title="Search Console"></a>Search Console</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/2017-reuixiy-google-search-console-report.png" alt="2017-reuixiy-google-search-console-report.png"></p><p>使用以来，共展示了 12,000 次，点击了 1,207 次，点击率是 10.4 %，左边的图表明点击次数和展示次数成正比，右边这图展示了国家 / 设备类别与点击率的关系，下方的表格与上面「<strong>内容</strong>」的分析大致相符。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-5.jpg" alt="google-analytics-report-1-5.jpg"></p><p>补上媒介的饼图（数据源：Master View，指标：Sessions，时间范围：Master View 创建以来），可见搜索引擎对本博客 Sessions 的巨大功劳。</p><p>Google Data Studio（数据洞察）是个很好玩的东东<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio-1.png" alt="google-data-studio-1.png"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio-2.png" alt="google-data-studio-2.png"></p><p>附上之前使用 Google Data Studio（数据洞察）生成的两份报告（数据源是两份 Excel 表格），打码不需要理由<img id="github-emoji" alt="stuck_out_tongue_winking_eye" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png?v7" height="20" width="20">～</p><p>最后希望自己能够在新的一年中，将更多以前写过的好想法搬上本博客，创造出更多好的想法！</p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio.png" alt="google-data-studio.png" style="width:100%"></p><a id="more"></a><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>和许多博主一样，WordPress 是我最早搭建的博客，但它只运行在我的小小树莓派上，是我折腾树莓派时的一个成果，目前沉睡在我的树莓派上<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/raspberry-pi-server.jpg" alt="raspberry-pi-server.jpg"></p><p>后来接触到 Hexo 也是因为树莓派，有一次 Google 相关教程时，看到一个让我眼前一亮的网站，然后通过页脚的一个链接开始走进了 Hexo 的世界<img id="github-emoji" alt="smile" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f604.png?v7" height="20" width="20">～</p><p>这个博客于 2017.05.27 部署在 <a href="https://github.com/reuixiy?tab=overview&amp;from=2017-05-01&amp;to=2017-05-31#contribution-joined-github-28993043-2017-05-27" target="_blank" rel="noopener">Github Pages</a> ，于 2017.06.05 开始使用 <a href="https://analytics.google.com/" target="_blank" rel="noopener">Google Analytics</a> ，于 2017.09.28 开始使用 <a href="https://www.google.com/webmasters/" target="_blank" rel="noopener">Google Search Console</a> ，期间经历了多次大换装，评论经历了一次更换，还经历了一次超级可怕的 <a href="https://reuixiy.github.io/beautiful/notnow/2017/08/21/rebuild-this-blog-due-to-rm.html">rm</a> <img id="github-emoji" alt="sob" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f62d.png?v7" height="20" width="20">……</p><h2 id="Google-Analytics"><a href="#Google-Analytics" class="headerlink" title="Google Analytics"></a>Google Analytics</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/2017-reuixiy-google-analytics-report.png" alt="2017-reuixiy-google-analytics-report.png"></p><h3 id="提前说明"><a href="#提前说明" class="headerlink" title="提前说明"></a>提前说明</h3><p>「<strong>内容</strong>」里的图表水分较大，「<strong>来源</strong>」里的 (direct) 和 localhost:4000 水分较大，「<strong>用户</strong>」是最真实的，为什么会这样，谁灌的水呢？</p><p>首先，我自己灌的水<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，不知你搭建博客的目的是什么，我一开始搭建博客单纯是为了替代纸质笔记本，由于喜欢发呆和胡思乱想的我之前写了一大堆东东，但慢慢遇到些 <a href="https://reuixiy.github.io/about/#bb-for-bb">问题</a> ，后来接触计算机多了，就希望通过博客来解决这些问题。如笔记本应该经常翻看，我会经常浏览自己的博客，而博客一开始的大部分访客都是自己，再加上下面的两个原因，就导致……</p><p>然后，另一个不可或缺的原因——开始时没有在 Google Analytics 里过滤掉水分。这张图里我用了两个数据源，也就是两份 view（数据视图），一份是 Raw Data（2017.06.05 - 2017.12.31），一份是 Master View（2017.12.04 - 2017.12.31），两个数据源的差别：</p><ol><li>时间范围</li><li>是否灌水</li></ol><p>虽然博客 06.05 就开始使用 Google Analytics，但我大概一个月前才学了学如何使用 Google Analytics，才知道通过添加多份 view 并添加 filter（过滤器）来过滤掉自己的访问（<del>灌水</del>），所以 Raw Data 里水分较大，之后添加的 Master View 水分则较少。</p><p>最后一个不可或缺的原因，对于水分较大的 Raw Data，其中 Pageviews（网页浏览量）水分最大，Sessions（会话数）里的水分比较大，Users（用户数）最少，这样如果将 Raw Data 的 Pageviews 和 Sessions 作为相关 Dimensions（维度）的 Metrics（指标），就会导致相关图表里的水分……</p><ul><li>「<strong>内容</strong>」的数据源是 Raw Data，用了 Pageviews 和 Sessions 两个 Metrics，水分较大。</li><li>「<strong>来源</strong>」的数据源是 Raw Data，用了 Sessions 一个 Metrics，其中 (direct) 和 localhost:4000 水分较大，其它的没问题。</li><li>「<strong>用户</strong>」的数据源是 Master View（除了第一个图表），用了 Users 一个 Metrics（除了第一个图表），几乎没有水分。</li></ul><h3 id="简要分析"><a href="#简要分析" class="headerlink" title="简要分析"></a>简要分析</h3><p>首先你可以访问 <a href="https://datastudio.google.com/open/1-vqhUMZCt9gKTkfbAf5i5xNbrC2n43hU" target="_blank" rel="noopener">这个链接</a>（需科学上网）体验上面这份报告的更多交互，然后基于上面的说明，加上自己记忆，简要分析下。</p><h4 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h4><p>第一个图表，由于水分最多，没啥好说的，前面的峰值可能是因为那天我在写文章或者折腾博客样式，后面的峰值可能是我在哪里手动推广了一下自己的博客<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">，11 月前后的低谷可能是因为把博客样式搞炸了，读者点开博客就吓跑了<img id="github-emoji" alt="see_no_evil" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f648.png?v7" height="20" width="20">～</p><p>第三个图表，Sessions 最多的是 <a href="https://reuixiy.github.io/technology/computer/computer-aided-art/2017/06/09/hexo-next-optimization.html">打造个性超赞博客Hexo+NexT+GithubPages的超深度优化</a> ，意料之中，原因之一是我花了很多时间在它上面，第二个原因是 SEO 和推广。</p><p>首页（reuixiy）是第二，也是意料之中，ABOUT 在第五，看来大家很想了解了解我啊<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，TopX？哈，改了个好名字（之前叫 Top5）。</p><p>Coldplay 的那两篇能上榜，是因为我每天在空间发在 Instagram 偷的图，然后评论留下链接。</p><p>然后 <a href="https://reuixiy.github.io/technology/internet/zeronet/2017/09/01/first-exploration-of-the-zeronet.html">零网</a> 那篇，原因之一是当时自己折腾时 Google 到的文章很少，于是折腾完后就写了这篇，看起来很符合“需求”哈哈（剩下的两篇技术文章估计也是如此），第二个原因是成功吸引了从其它文章上“引流”而来的读者，为什么能吸引？好奇心。</p><p>第二个图表比较有意思，不过有意思的不在上面这张图，在下面这张动图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-1.gif" alt="google-analytics-report-1-1.gif"></p><p>点击显示累计值后，发现两条陡峭的斜线，09.30 前后的变化说明 Google Search Console 没白用，增大的斜率说明这两个页面的 Sessions 增加的越来越快。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-2.jpg" alt="google-analytics-report-1-2.jpg"></p><p>再点击显示堆积线条后，全都变成了陡峭的斜线，原因暂时不知道……且把它当作个好兆头吧<img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-3.jpg" alt="google-analytics-report-1-3.jpg"></p><h4 id="用户"><a href="#用户" class="headerlink" title="用户"></a>用户</h4><p>第一个图表，用户数和会话数变化趋势基本一致，后面两个差值增大，说明博客样式修改很成功，成功留住了用户，哈哈哈～</p><p>下面的图表：</p><ul><li>国家，最多的是中国，符合国情，美国占那么多，估计是 VPS，也符合国情。</li><li>城市，洛杉矶和纽约估计是 VPS，北京、上海、深圳、武汉、杭州、成都，符合。</li><li>年龄，怎么分析出来的不知道，符合。</li><li>性别，怎么分析出来的不知道，符合。</li><li>设备类别，符合。</li><li>浏览器，符合。</li><li>操作系统，符合（哪位大佬捐我一台 Macbook？<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">）。</li><li>移动设备品牌，符合。</li></ul><p>至于最后一个图表，怎么分析出来的不知道，不过仔细看看，再结合上面「<strong>内容</strong>」的分析，还是相当符合的～</p><h4 id="来源"><a href="#来源" class="headerlink" title="来源"></a>来源</h4><p>(direct) 和 localhost:4000 不说，水分较大。Google 带来这么多，说明 SEO 可以。<a href="https://segmentfault.com/p/1210000011450995" target="_blank" rel="noopener">SegmentFault</a> 带来这么多，是因为有个大佬推荐了我的那篇文章，目前百度<code>hexo next 优化</code>（其它关键字没试）排在第一，再次感谢 <a href="http://shenzekun.cn" target="_blank" rel="noopener">大佬</a> <img id="github-emoji" alt="grin" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f601.png?v7" height="20" width="20">。Github 是因为我回答过几个 issues，至于 wnflb.com 不清楚。</p><p>值得注意的是 hui-wang.info，我与这位大佬认识不久，他的博客却给我带来了比较多的 Sessions，很大一部分原因是 <a href="https://github.com/huiwang/hexo-recommended-posts" target="_blank" rel="noopener">Hexo 跨博客文章推荐插件</a> ，你可以在我的博客每篇文章的底部看到这个插件的效果，非常建议大家食用，让我们的博客通过这个插件在互联网上有机的连接起来～</p><p>最后，非常感谢列表中的其它引荐，感谢你们在你的博客中留了我的博客文章链接！</p><h3 id="发现-bug"><a href="#发现-bug" class="headerlink" title="发现 bug"></a>发现 bug</h3><p>Google Analytics 并不是博客的唯一统计途径，还有页脚的不蒜子统计，细心的你有没有发现什么问题呢？没错，报告中 Google Analytics 的网页浏览量（23,345）居然比不蒜子（16,785）的多了很多，这是不合逻辑的，因为我是先用的不蒜子，而且使用期间并没有发现不蒜子有很大问题。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-4.jpg" alt="google-analytics-report-1-4.jpg"></p><p>弄了个表格，恍然大悟，主机名……赶紧往 Master View 里添加一个 filter——仅包含有效主机名！</p><h2 id="Search-Console"><a href="#Search-Console" class="headerlink" title="Search Console"></a>Search Console</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/2017-reuixiy-google-search-console-report.png" alt="2017-reuixiy-google-search-console-report.png"></p><p>使用以来，共展示了 12,000 次，点击了 1,207 次，点击率是 10.4 %，左边的图表明点击次数和展示次数成正比，右边这图展示了国家 / 设备类别与点击率的关系，下方的表格与上面「<strong>内容</strong>」的分析大致相符。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-analytics-report-1-5.jpg" alt="google-analytics-report-1-5.jpg"></p><p>补上媒介的饼图（数据源：Master View，指标：Sessions，时间范围：Master View 创建以来），可见搜索引擎对本博客 Sessions 的巨大功劳。</p><p>Google Data Studio（数据洞察）是个很好玩的东东<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio-1.png" alt="google-data-studio-1.png"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/google-data-studio-2.png" alt="google-data-studio-2.png"></p><p>附上之前使用 Google Data Studio（数据洞察）生成的两份报告（数据源是两份 Excel 表格），打码不需要理由<img id="github-emoji" alt="stuck_out_tongue_winking_eye" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png?v7" height="20" width="20">～</p><p>最后希望自己能够在新的一年中，将更多以前写过的好想法搬上本博客，创造出更多好的想法！</p><hr>]]></content>
     
     <summary type="html">
     
@@ -37,12 +37,6 @@
     
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/categories/technology/computer/computer-aided-art/"/>
     
-    
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
@@ -58,7 +52,13 @@
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
   </entry>
   
@@ -94,17 +94,17 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -116,19 +116,19 @@
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
-      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
-    
-      <category term="技术恐惧" scheme="https://reuixiy.github.io/tags/technophobia/"/>
-    
       <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
-      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
+      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
       <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
     
-      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
+    
+      <category term="技术恐惧" scheme="https://reuixiy.github.io/tags/technophobia/"/>
+    
+      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
     
       <category term="加勒比海盗" scheme="https://reuixiy.github.io/tags/pirates-of-the-caribbean/"/>
     
@@ -160,11 +160,11 @@
     
       <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -216,11 +216,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
@@ -276,17 +276,17 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -300,11 +300,11 @@
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
+      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
+    
       <category term="internet" scheme="https://reuixiy.github.io/tags/internet/"/>
     
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
-    
-      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
       <category term="知识平台" scheme="https://reuixiy.github.io/tags/knowledge-platform/"/>
     
@@ -381,9 +381,9 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2017/11/04/fairy-tale.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2017/11/04/fairy-tale.html</id>
     <published>2017-11-03T17:31:22.000Z</published>
-    <updated>2017-12-29T15:24:28.139Z</updated>
+    <updated>2018-01-11T02:53:36.111Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/fairy-tale-title.jpg" alt="fairy-tale-title.jpg" style="width:100%"></p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/FairyTale.jpg" alt="FairyTale.jpg" style="float:right;height:475px;width:365px;margin-left:10px"></p><p><div style="text-align:left">童话般的草绿色门前<br>发生着童话般的故事<br><br>两只懒洋洋的兔子<br>下面懒洋洋的他<br>努力举高上面懒洋洋的小可爱<br>一起去感受那被<div style="color:#ff71a8;display:inline-block"><i class="fa fa-heart"></i></div>封住的信封<br><br>她童话般的心灵<br>粉红色如是说<br>看似懒洋洋<br>内心却坚强<br>稍微倾斜的的视角如是说<br><br>2017-10-28 20:31:27</div></p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/fairy-tale-title.jpg" alt="fairy-tale-title.jpg" style="width:100%"></p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/FairyTale.jpg" alt="FairyTale.jpg" style="float:right;height:475px;width:365px;margin-left:10px"></p><p><div style="text-align:left">童话般的草绿色门前<br>发生着童话般的故事<br><br>两只懒洋洋的兔子<br>下面懒洋洋的他<br>努力举高上面懒洋洋的小可爱<br>一起去感受那被<div style="color:#ff71a8;display:inline-block"><i class="fa fa-heart"></i></div>封住的信封<br><br>她童话般的心灵<br>粉红色如是说<br>看似懒洋洋<br>内心却坚强<br>稍微倾斜的视角如是说<br><br>2017-10-28 20:31:27</div></p><hr>]]></content>
     
     <summary type="html">
     
@@ -460,21 +460,21 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
-    
-      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
       <category term="表情包" scheme="https://reuixiy.github.io/tags/biaoqingbao/"/>
+    
+      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="更新" scheme="https://reuixiy.github.io/tags/update/"/>
     
@@ -539,7 +539,7 @@
     <published>2017-09-25T12:39:49.000Z</published>
     <updated>2017-12-26T09:07:29.645Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/born-in-war-and-died-in-peace-title.jpg" alt="born-in-war-and-died-in-peace-title.jpg" style="width:100%"></p><a id="more"></a><p>生于忧患 死于安乐<br>没有和平 唯有战争<br>黑暗中才能看到光芒<br>战争中才有天堂<br>和平“天堂”的光芒只有虚假</p><h2 id="“天堂”的光芒-1"><a href="#“天堂”的光芒-1" class="headerlink" title="“天堂”的光芒 - 1"></a>“天堂”的光芒 - 1</h2><p>娱乐在和平时代兴起<br>游戏在娱乐市场火热<br>战争在游戏题材不灭</p><h2 id="“光芒”中的人-1"><a href="#“光芒”中的人-1" class="headerlink" title="“光芒”中的人 - 1"></a>“光芒”中的人 - 1</h2><p>游戏是因为无聊<br>娱乐是因为无聊<br>无聊是因为和平</p><h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平<br>火热是因为娱乐<br>不灭是因为战争</p><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt][ti:Barbossa Is Hungry][al:Pirates of the Caribbean: The Curse of the Black Pearl][by:https://reuixiy.github.io][length:4:06][00:00.00]Klaus Badelt - Barbossa Is Hungry[00:05.00]纯音乐，请您欣赏</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer6"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Barbossa Is Hungry",author: "Klaus Badelt",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/born-in-war-and-died-in-peace-title.jpg" alt="born-in-war-and-died-in-peace-title.jpg" style="width:100%"></p><a id="more"></a><p>生于忧患 死于安乐<br>没有和平 唯有战争<br>黑暗中才能看到光芒<br>战争中才有天堂<br>和平“天堂”的光芒只有虚假</p><h2 id="“天堂”的光芒-1"><a href="#“天堂”的光芒-1" class="headerlink" title="“天堂”的光芒 - 1"></a>“天堂”的光芒 - 1</h2><p>娱乐在和平时代兴起<br>游戏在娱乐市场火热<br>战争在游戏题材不灭</p><h2 id="“光芒”中的人-1"><a href="#“光芒”中的人-1" class="headerlink" title="“光芒”中的人 - 1"></a>“光芒”中的人 - 1</h2><p>游戏是因为无聊<br>娱乐是因为无聊<br>无聊是因为和平</p><h2 id="光芒中的人-1"><a href="#光芒中的人-1" class="headerlink" title="光芒中的人 - 1"></a>光芒中的人 - 1</h2><p>兴起是因为和平<br>火热是因为娱乐<br>不灭是因为战争</p><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Klaus Badelt][ti:Barbossa Is Hungry][al:Pirates of the Caribbean: The Curse of the Black Pearl][by:https://reuixiy.github.io][length:4:06][00:00.00]Klaus Badelt - Barbossa Is Hungry[00:05.00]纯音乐，请您欣赏</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer7"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Barbossa Is Hungry",author: "Klaus Badelt",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
     
     <summary type="html">
     
@@ -560,19 +560,19 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -582,15 +582,15 @@
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
-      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
-    
       <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
-      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
-    
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+    
+      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
     
       <category term="加勒比海盗" scheme="https://reuixiy.github.io/tags/pirates-of-the-caribbean/"/>
     
@@ -635,13 +635,13 @@
     <published>2017-09-22T16:30:42.000Z</published>
     <updated>2017-12-26T08:59:17.937Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="dplayer7" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer7"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div id=&quot;dplayer6&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/di
+        &lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;div id=&quot;dplayer7&quot; class=&quot;dplayer hexo-tag-dplayer-mark&quot; style=&quot;margin-bottom: 20px;&quot;&gt;&lt;/di
       
     
     </summary>
@@ -666,7 +666,7 @@
     <published>2017-09-22T14:49:42.000Z</published>
     <updated>2017-12-31T09:51:44.207Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">Just a month shy of 20 years in space, Cassini will makes a final plunge into <span class="label info">Saturn</span>’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><h2 id="关于-Cassini"><a href="#关于-Cassini" class="headerlink" title="关于 Cassini"></a>关于 Cassini</h2><p>“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现<span class="label info">土星</span>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p>NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。</p><p>发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini-详情"><a href="#Cassini-详情" class="headerlink" title="Cassini 详情"></a>Cassini 详情</h2><p>Cassini 有自己的 <a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<span class="label primary">好奇心</span>带来的喜悦，那种科幻小说式的兴奋？</blockquote><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">Just a month shy of 20 years in space, Cassini will makes a final plunge into <span class="label info">Saturn</span>’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life.</p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-title.png" alt="cassini-s-grand-finale-title.png" style="width:100%"></p><h2 id="关于-Cassini"><a href="#关于-Cassini" class="headerlink" title="关于 Cassini"></a>关于 Cassini</h2><p>“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现<span class="label info">土星</span>有若干卫星。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/cassini-s-grand-finale-1.jpg" alt="cassini-s-grand-finale-1.jpg"></p><p>NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。</p><p>发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。</p><h2 id="Cassini-详情"><a href="#Cassini-详情" class="headerlink" title="Cassini 详情"></a>Cassini 详情</h2><p>Cassini 有自己的 <a href="https://saturn.jpl.nasa.gov/" target="_blank" rel="noopener">网站</a>（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走<code>https</code>。</p><blockquote class="question">试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种<span class="label primary">好奇心</span>带来的喜悦，那种科幻小说式的兴奋？</blockquote><h2 id="End-of-Mission"><a href="#End-of-Mission" class="headerlink" title="End of Mission"></a>End of Mission</h2><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><hr>]]></content>
     
     <summary type="html">
     
@@ -683,15 +683,15 @@
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
   </entry>
   
@@ -721,6 +721,10 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
@@ -728,10 +732,6 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -771,9 +771,9 @@
     
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -785,11 +785,11 @@
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
     
-      <category term="zeronet" scheme="https://reuixiy.github.io/tags/zeronet/"/>
-    
       <category term="bitcoin" scheme="https://reuixiy.github.io/tags/bitcoin/"/>
     
       <category term="去中心化" scheme="https://reuixiy.github.io/tags/decentralization/"/>
+    
+      <category term="zeronet" scheme="https://reuixiy.github.io/tags/zeronet/"/>
     
       <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
@@ -815,17 +815,17 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
-      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
-    
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
@@ -846,7 +846,7 @@
     <published>2017-08-27T00:40:00.000Z</published>
     <updated>2017-12-29T15:23:11.932Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">昨天<del>早上</del><img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/tuolianhuaji.jpg" height="30" width="30">～</p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-title.jpg" alt="a-little-gecko-come-suddenly-title.jpg" style="width:100%"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-1.jpg" alt="a-little-gecko-come-suddenly-1.jpg"></p><p>这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，我猜它在洗手间门口也许就是为了水而来吧……</p><h2 id="小视频"><a href="#小视频" class="headerlink" title="小视频"></a>小视频</h2><p>晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>来监控它，晚上偷录个小视频，哈哈哈嗝<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="30" width="30">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-2.jpg" alt="a-little-gecko-come-suddenly-2.jpg"></p><h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer10" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。</blockquote><h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer11" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。</blockquote><h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer12" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">欣赏一下这优雅的步伐<img id="github-emoji" alt="innocent" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png?v7" height="20" width="20">～</blockquote><h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer13" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">看起来都想逃走的两个小家伙。</blockquote><h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer14" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">这……<img id="github-emoji" alt="flushed" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png?v7" height="20" width="20">我没看懂哎……</blockquote><p>其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s <img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="30" width="30">……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-3.png" alt="a-little-gecko-come-suddenly-3.png"></p><p>最后？虫子还在，小壁虎还在……为啥虫子还在？不造……</p><h2 id="bb-for-fun"><a href="#bb-for-fun" class="headerlink" title="bb - for - fun"></a>bb - for - fun</h2><p>看着视频观察一下这个小家伙还是蛮有意思的：</p><ol><li>等我走了半个多小时，才开始行动，有耐心。</li><li>一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。</li><li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li></ol><p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer7"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。</span><a href="#fnref:1" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">昨天<del>早上</del><img id="github-emoji" alt="new_moon_with_face" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f31a.png?v7" height="20" width="20">上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/tuolianhuaji.jpg" height="30" width="30">～</p><a id="more"></a><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-title.jpg" alt="a-little-gecko-come-suddenly-title.jpg" style="width:100%"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-1.jpg" alt="a-little-gecko-come-suddenly-1.jpg"></p><p>这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20">，我猜它在洗手间门口也许就是为了水而来吧……</p><h2 id="小视频"><a href="#小视频" class="headerlink" title="小视频"></a>小视频</h2><p>晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 <sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>来监控它，晚上偷录个小视频，哈哈哈嗝<img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/lalala.gif" height="30" width="30">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-2.jpg" alt="a-little-gecko-come-suddenly-2.jpg"></p><h3 id="小视频-1"><a href="#小视频-1" class="headerlink" title="小视频 - 1"></a>小视频 - 1</h3><div id="dplayer10" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。</blockquote><h3 id="小视频-2"><a href="#小视频-2" class="headerlink" title="小视频 - 2"></a>小视频 - 2</h3><div id="dplayer11" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。</blockquote><h3 id="小视频-3"><a href="#小视频-3" class="headerlink" title="小视频 - 3"></a>小视频 - 3</h3><div id="dplayer12" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">欣赏一下这优雅的步伐<img id="github-emoji" alt="innocent" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f607.png?v7" height="20" width="20">～</blockquote><h3 id="小视频-4"><a href="#小视频-4" class="headerlink" title="小视频 - 4"></a>小视频 - 4</h3><div id="dplayer13" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">看起来都想逃走的两个小家伙。</blockquote><h3 id="小视频-5"><a href="#小视频-5" class="headerlink" title="小视频 - 5"></a>小视频 - 5</h3><div id="dplayer14" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><blockquote class="question">这……<img id="github-emoji" alt="flushed" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f633.png?v7" height="20" width="20">我没看懂哎……</blockquote><p>其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s <img id="github-emoji" src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/biaoqingbao/haha.jpeg" height="30" width="30">……</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-little-gecko-come-suddenly-3.png" alt="a-little-gecko-come-suddenly-3.png"></p><p>最后？虫子还在，小壁虎还在……为啥虫子还在？不造……</p><h2 id="bb-for-fun"><a href="#bb-for-fun" class="headerlink" title="bb - for - fun"></a>bb - for - fun</h2><p>看着视频观察一下这个小家伙还是蛮有意思的：</p><ol><li>等我走了半个多小时，才开始行动，有耐心。</li><li>一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。</li><li>渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。</li></ol><p>一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～</p><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Paradise][al:Mylo Xyloto][by:https://reuixiy.github.io][length:4:37][00:00.00]Coldplay - Paradise[01:01.71][01:01.72]When she was just a girl[01:04.93]She expected the world[01:08.15]But it flew away from her reach[01:11.30]So she ran away in her sleep[01:14.92]And dreamed of Para- para- paradise,[01:18.73]para- para- paradise, para- para- paradise[01:25.56]Every time she closed her eyes[01:42.98]When she was just a girl[01:46.16]She expected the world[01:49.40]But it flew away from her reach[01:52.55]And the bullets catch in her teeth[01:56.44]Life goes on, it gets so heavy[01:59.82]The wheel breaks the butterfly[02:03.50]Every tear a waterfall[02:06.45]In the night, the stormy night,[02:09.28]she'll close her eyes[02:13.21]In the night, the stormy night,[02:16.22]away she'd fly[02:20.19]And dreams of para- para- paradise[02:24.02]Para- para- paradise[02:27.44]Para- para- paradise[02:30.87]Oh oh oh oh oh oh-oh-oh-oh[02:34.03]She'd dream of para- para- paradise[02:37.75]Para- para- paradise[02:41.18]Para- para- paradise[02:44.61]Oh oh oh oh oh oh-oh-oh-oh[03:01.92]Lalalalalalalalalalala[03:08.23]And so lying underneath those stormy skies[03:14.94]She'd say: "Oh, ohohohoh,[03:18.03]I know the sun must set to rise"[03:21.84]This could be para- para- paradise[03:25.80]Para- para- paradise[03:28.97]Could be para- para- paradise[03:32.60]Oh oh oh oh oh oh-oh-oh[03:35.71]This could be para- para- paradise[03:39.49]Para- para- paradise[03:42.60]Could be para- para- paradise[03:46.35]Oh oh oh oh oh oh-oh-oh[04:03.09]This could be para- para- paradise[04:06.90]Could be para- para- paradise[04:10.05]Could be para- para- paradise[04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer8"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Paradise",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><center><div style="color:#ff71a8"><em>Yeah, it could be Paradise…</em><i class="fa fa-heart" color="#ff71a8"></i></div></center><div id="footnotes"><hr><div id="footnotelist"><ol style="list-style:none; padding-left: 0;"><li id="fn:1"><span style="display: inline-block; vertical-align: top; padding-right: 10px;">1.</span><span style="display: inline-block; vertical-align: top;">Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。</span><a href="#fnref:1" rev="footnote"> ↩</a></li></ol></div></div>]]></content>
     
     <summary type="html">
     
@@ -859,17 +859,17 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
-      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
@@ -907,15 +907,15 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
-    
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -925,9 +925,9 @@
     
       <category term="头皮发麻" scheme="https://reuixiy.github.io/tags/touched/"/>
     
-      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
-    
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+    
+      <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
     
@@ -961,9 +961,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -999,9 +999,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1009,9 +1009,9 @@
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
-      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
-    
       <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
     
@@ -1089,13 +1089,13 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1137,9 +1137,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1177,21 +1177,19 @@
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
-      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
+    
+      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
-    
-      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
@@ -1202,6 +1200,8 @@
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
       <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
     
@@ -1291,10 +1291,6 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
@@ -1304,6 +1300,10 @@
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1319,13 +1319,13 @@
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
       <category term="internet" scheme="https://reuixiy.github.io/tags/internet/"/>
     
       <category term="知识平台" scheme="https://reuixiy.github.io/tags/knowledge-platform/"/>
     
       <category term="分类" scheme="https://reuixiy.github.io/tags/catalogue/"/>
-    
-      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
   </entry>
   
@@ -1359,11 +1359,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1375,9 +1375,9 @@
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
-      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
-    
       <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
       <category term="bitcoin" scheme="https://reuixiy.github.io/tags/bitcoin/"/>
     
@@ -1409,9 +1409,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
   </entry>
   
@@ -1475,15 +1475,15 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1557,9 +1557,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
@@ -1567,13 +1569,11 @@
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
   </entry>
   
@@ -1712,7 +1712,7 @@
     <published>2017-03-11T02:34:03.000Z</published>
     <updated>2017-12-26T08:57:00.025Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><div id="dplayer0" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script>]]></content>
     
     <summary type="html">
     
@@ -1763,9 +1763,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1773,9 +1773,9 @@
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
-      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
-    
       <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
       <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
     
@@ -1859,17 +1859,17 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1911,13 +1911,13 @@
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
     
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1951,9 +1951,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -1995,11 +1995,7 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
@@ -2007,7 +2003,11 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
@@ -2079,19 +2079,19 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2132,7 +2132,7 @@
     <published>2016-12-28T18:43:05.000Z</published>
     <updated>2017-12-26T09:07:18.613Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/bertrand-russell.jpg" alt="bertrand-russell.jpg" style="width:100%"></p><a id="more"></a><h2 id="question"><a href="#question" class="headerlink" title="question"></a>question</h2><blockquote class="question">想细细读读哲学，不知道买哪样的书好……</blockquote><h2 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h2><p>因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。</p><p>但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种<span class="label primary">好奇心</span>，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。</p><h3 id="哲学史"><a href="#哲学史" class="headerlink" title="哲学史"></a>哲学史</h3><p>我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。</p><p>这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。</p><h3 id="名著"><a href="#名著" class="headerlink" title="名著"></a>名著</h3><p>然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。</p><h3 id="association-shape"><a href="#association-shape" class="headerlink" title="association | shape"></a>association | shape</h3><p>期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。</p><p>甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的<span class="label info">外表形状</span>（虽然摸不着，但它难道没有神秘的美和力量？）。</p><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>这过程啊，<br>顺从那好奇心，<br>发挥着那想象，<br>酒神狄俄尼索斯的狂欢，<br>日神阿波罗的至高喜悦，<br>此乐何极！</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，<span class="label success">心情也趋于平静</span>～</p><div style="text-align:right">2016-12-29 02:43:05</div><h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer8" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:In My Place][al:A Rush Of Blood To The Head][by:https://reuixiy.github.io][length:3:48][00:00.00]Coldplay - In My Place[00:33.23][00:33.24]In my place, in my place[00:38.14]Were lines that I couldn't change[00:41.24]I was lost, oh yeah[00:47.53]I was lost, I was lost[00:50.98]Crossed lines I shouldn't have crossed[00:54.47]I was lost, oh yeah[00:59.55]Yeah, how long must you wait for it?[01:07.58]Yeah, how long must you pay for it?[01:14.16]Yeah, how long must you wait for it?[01:22.50]For it[01:40.09]I was scared, I was scared[01:44.05]Tired and under-prepared[01:47.03]But I'll wait for it[01:53.20]And if you go, if you go[01:57.13]Leave me down here on my own[02:00.20]Then I'll wait for you, yeah[02:05.50]Yeah, how long must you wait for it?[02:13.53]Yeah, how long must you pay for it?[02:20.11]Yeah, how long must you wait for it?[02:28.23]For it[02:58.12]Singing please, please, please[03:03.08]Come back and sing to me[03:06.36]To me, me[03:09.40]Come on and sing it out, now, now[03:16.21]Come on and sing it out to me, me[03:23.05]Come back and sing it[03:26.08]In my place, in my place[03:29.76]Were lines that I couldn't change[03:32.81]I was lost, oh yeah[03:37.42]Oh yeah</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer8"),narrow: false,autoplay: false,showlrc: 2,music: {title: "In My Place",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/bertrand-russell.jpg" alt="bertrand-russell.jpg" style="width:100%"></p><a id="more"></a><h2 id="question"><a href="#question" class="headerlink" title="question"></a>question</h2><blockquote class="question">想细细读读哲学，不知道买哪样的书好……</blockquote><h2 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h2><p>因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。</p><p>但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种<span class="label primary">好奇心</span>，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。</p><h3 id="哲学史"><a href="#哲学史" class="headerlink" title="哲学史"></a>哲学史</h3><p>我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。</p><p>这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。</p><h3 id="名著"><a href="#名著" class="headerlink" title="名著"></a>名著</h3><p>然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。</p><h3 id="association-shape"><a href="#association-shape" class="headerlink" title="association | shape"></a>association | shape</h3><p>期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。</p><p>甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的<span class="label info">外表形状</span>（虽然摸不着，但它难道没有神秘的美和力量？）。</p><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>这过程啊，<br>顺从那好奇心，<br>发挥着那想象，<br>酒神狄俄尼索斯的狂欢，<br>日神阿波罗的至高喜悦，<br>此乐何极！</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，<span class="label success">心情也趋于平静</span>～</p><div style="text-align:right">2016-12-29 02:43:05</div><h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer6" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:In My Place][al:A Rush Of Blood To The Head][by:https://reuixiy.github.io][length:3:48][00:00.00]Coldplay - In My Place[00:33.23][00:33.24]In my place, in my place[00:38.14]Were lines that I couldn't change[00:41.24]I was lost, oh yeah[00:47.53]I was lost, I was lost[00:50.98]Crossed lines I shouldn't have crossed[00:54.47]I was lost, oh yeah[00:59.55]Yeah, how long must you wait for it?[01:07.58]Yeah, how long must you pay for it?[01:14.16]Yeah, how long must you wait for it?[01:22.50]For it[01:40.09]I was scared, I was scared[01:44.05]Tired and under-prepared[01:47.03]But I'll wait for it[01:53.20]And if you go, if you go[01:57.13]Leave me down here on my own[02:00.20]Then I'll wait for you, yeah[02:05.50]Yeah, how long must you wait for it?[02:13.53]Yeah, how long must you pay for it?[02:20.11]Yeah, how long must you wait for it?[02:28.23]For it[02:58.12]Singing please, please, please[03:03.08]Come back and sing to me[03:06.36]To me, me[03:09.40]Come on and sing it out, now, now[03:16.21]Come on and sing it out to me, me[03:23.05]Come back and sing it[03:26.08]In my place, in my place[03:29.76]Were lines that I couldn't change[03:32.81]I was lost, oh yeah[03:37.42]Oh yeah</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer6"),narrow: false,autoplay: false,showlrc: 2,music: {title: "In My Place",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
     
     <summary type="html">
     
@@ -2161,21 +2161,21 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -2263,15 +2263,15 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
@@ -2305,17 +2305,17 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
@@ -2389,13 +2389,13 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -2427,9 +2427,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -2457,13 +2457,13 @@
       <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
     
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2503,11 +2503,11 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="更新" scheme="https://reuixiy.github.io/tags/update/"/>
     
@@ -2515,11 +2515,11 @@
     
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
-      <category term="图书馆" scheme="https://reuixiy.github.io/tags/library/"/>
-    
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
       <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="图书馆" scheme="https://reuixiy.github.io/tags/library/"/>
     
   </entry>
   
@@ -2530,7 +2530,7 @@
     <published>2009-12-31T16:00:00.000Z</published>
     <updated>2017-12-26T08:20:57.023Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">for testing something new only</p><a id="more"></a><h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div><script>var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};options.element = document.getElementById("aplayer3");var ap = new APlayer(options);window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis][ti:Live Forever][al:Live Forever][by:https://reuixiy.github.io][length:4:38][00:00.00]Oasis - Live Forever[00:12.69][02:28.88][00:12.70]Maybe I don't really want to know[02:32.25][00:17.28]How your garden grows[02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain[02:42.93][00:28.06]In the morning rain[02:45.64][00:30.57]As it soaks it to the bone[02:49.35][00:34.49]Maybe I just want to fly[02:51.96][00:37.21]I wanna live I don't want to die[02:54.55][00:39.63]Maybe I just want to breath[02:57.08][00:42.30]Maybe I just don't believe[02:59.69][00:44.88]Maybe you're the same as me[03:02.25][00:47.48]We see things they'll never see[03:05.13][00:50.27]You and I are gonna live forever[00:57.74]Maybe I don't really want to know[01:02.56]How your garden grows[01:05.13]I just want to fly Lately did you ever feel the pain[01:13.23]In the morning rain[01:15.93]As it soaks it to the bone[01:19.41]Maybe I will never be[01:22.05]All the things that I want to be[01:24.87]But now is not the time to cry[01:27.41]Now's the time to find out why[01:29.99]I think you're the same as me[01:32.56]We see things they'll never see[01:35.28]You and I are gonna live forever[03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Live Forever",author: "Oasis",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer7" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer7"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p><img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20"></p><figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">\:</span>joy<span class="symbol">\:</span></div></pre></td></tr></table></figure><h2 id="image"><a href="#image" class="headerlink" title="image"></a>image</h2><p>有标题（title）的图片～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg" alt="hexo-next-optimization-title.jpg" title="打造个性超赞博客Hexo+NexT+GithubPages的超深度优化"></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![<span class="string">photo_alt</span>](<span class="link">photo_url "photo_title"</span>)</div></pre></td></tr></table></figure><p><a href="https://github.com/iissnan/hexo-theme-next/pull/279" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next/pull/279</a></p><h2 id="gallery"><a href="#gallery" class="headerlink" title="gallery"></a>gallery</h2><p>Front-matter：</p><figure class="highlight haml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">photos:</div><div class="line">-<span class="ruby"> photo_url_1</span></div><div class="line"><span class="ruby">- photo_url_2</span></div><div class="line"><span class="ruby">- photo_url_3</span></div><div class="line"><span class="ruby">- photo_url_4</span></div><div class="line"><span class="ruby">- photo_url_5</span></div><div class="line"><span class="ruby">- photo_url_6</span></div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/gallery.jpg" alt="gallery.jpg"></p><h2 id="group-pictures"><a href="#group-pictures" class="headerlink" title="group-pictures"></a>group-pictures</h2><p>Front-matter：</p><figure class="highlight elm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">type</span>: picture</div></pre></td></tr></table></figure><p>Usage：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;% gp 4-3 %&#125;</div><div class="line">![<span class="string">photo_alt_1</span>](<span class="link">photo_url_1</span>)</div><div class="line">![<span class="string">photo_alt_2</span>](<span class="link">photo_url_2</span>)</div><div class="line">![<span class="string">photo_alt_3</span>](<span class="link">photo_url_3</span>)</div><div class="line">![<span class="string">photo_alt_4</span>](<span class="link">photo_url_4</span>)</div><div class="line">&#123;% endgp %&#125;</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/group-pictures.jpg" alt="group-pictures.jpg"></p><p><a href="https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js</a></p><h2 id="link"><a href="#link" class="headerlink" title="link"></a>link</h2><p>Front-matter：</p><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">link:</span> url</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/link.jpg" alt="link.jpg"></p><h2 id="quote？"><a href="#quote？" class="headerlink" title="quote？"></a>quote？</h2><p>阅读主题的源代码发现的：<code>~/blog/themes/next/layout/_macro/post.swig</code>，有没有不确定，用法不确定……</p><p>Front-matter：</p><figure class="highlight elm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">type</span>: quote</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/quote.jpg" alt="quote.jpg"></p><h2 id="推荐文章"><a href="#推荐文章" class="headerlink" title="推荐文章"></a>推荐文章</h2><p><a href="https://github.com/huiwang/hexo-recommended-posts" target="_blank" rel="noopener">https://github.com/huiwang/hexo-recommended-posts</a></p><p><a href="https://github.com/tea3/hexo-related-popular-posts" target="_blank" rel="noopener">https://github.com/tea3/hexo-related-popular-posts</a></p><hr>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">for testing something new only</p><a id="more"></a><h2 id="playlist"><a href="#playlist" class="headerlink" title="playlist"></a>playlist</h2><div id="aplayer3" class="aplayer" style="margin-bottom: 20px;"></div><script>var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]};options.element = document.getElementById("aplayer3");var ap = new APlayer(options);window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h2 id="music"><a href="#music" class="headerlink" title="music"></a>music</h2><div id="aplayer4" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Oasis][ti:Live Forever][al:Live Forever][by:https://reuixiy.github.io][length:4:38][00:00.00]Oasis - Live Forever[00:12.69][02:28.88][00:12.70]Maybe I don't really want to know[02:32.25][00:17.28]How your garden grows[02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain[02:42.93][00:28.06]In the morning rain[02:45.64][00:30.57]As it soaks it to the bone[02:49.35][00:34.49]Maybe I just want to fly[02:51.96][00:37.21]I wanna live I don't want to die[02:54.55][00:39.63]Maybe I just want to breath[02:57.08][00:42.30]Maybe I just don't believe[02:59.69][00:44.88]Maybe you're the same as me[03:02.25][00:47.48]We see things they'll never see[03:05.13][00:50.27]You and I are gonna live forever[00:57.74]Maybe I don't really want to know[01:02.56]How your garden grows[01:05.13]I just want to fly Lately did you ever feel the pain[01:13.23]In the morning rain[01:15.93]As it soaks it to the bone[01:19.41]Maybe I will never be[01:22.05]All the things that I want to be[01:24.87]But now is not the time to cry[01:27.41]Now's the time to find out why[01:29.99]I think you're the same as me[01:32.56]We see things they'll never see[01:35.28]You and I are gonna live forever[03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer4"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Live Forever",author: "Oasis",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><h2 id="video"><a href="#video" class="headerlink" title="video"></a>video</h2><div id="dplayer6" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><h2 id="emoji"><a href="#emoji" class="headerlink" title="emoji"></a>emoji</h2><p><img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20"></p><figure class="highlight taggerscript"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">\:</span>joy<span class="symbol">\:</span></div></pre></td></tr></table></figure><h2 id="image"><a href="#image" class="headerlink" title="image"></a>image</h2><p>有标题（title）的图片～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/hexo-next-optimization-title.jpg" alt="hexo-next-optimization-title.jpg" title="打造个性超赞博客Hexo+NexT+GithubPages的超深度优化"></p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">![<span class="string">photo_alt</span>](<span class="link">photo_url "photo_title"</span>)</div></pre></td></tr></table></figure><p><a href="https://github.com/iissnan/hexo-theme-next/pull/279" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next/pull/279</a></p><h2 id="gallery"><a href="#gallery" class="headerlink" title="gallery"></a>gallery</h2><p>Front-matter：</p><figure class="highlight haml"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">photos:</div><div class="line">-<span class="ruby"> photo_url_1</span></div><div class="line"><span class="ruby">- photo_url_2</span></div><div class="line"><span class="ruby">- photo_url_3</span></div><div class="line"><span class="ruby">- photo_url_4</span></div><div class="line"><span class="ruby">- photo_url_5</span></div><div class="line"><span class="ruby">- photo_url_6</span></div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/gallery.jpg" alt="gallery.jpg"></p><h2 id="group-pictures"><a href="#group-pictures" class="headerlink" title="group-pictures"></a>group-pictures</h2><p>Front-matter：</p><figure class="highlight elm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">type</span>: picture</div></pre></td></tr></table></figure><p>Usage：</p><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">&#123;% gp 4-3 %&#125;</div><div class="line">![<span class="string">photo_alt_1</span>](<span class="link">photo_url_1</span>)</div><div class="line">![<span class="string">photo_alt_2</span>](<span class="link">photo_url_2</span>)</div><div class="line">![<span class="string">photo_alt_3</span>](<span class="link">photo_url_3</span>)</div><div class="line">![<span class="string">photo_alt_4</span>](<span class="link">photo_url_4</span>)</div><div class="line">&#123;% endgp %&#125;</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/group-pictures.jpg" alt="group-pictures.jpg"></p><p><a href="https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js" target="_blank" rel="noopener">https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js</a></p><h2 id="link"><a href="#link" class="headerlink" title="link"></a>link</h2><p>Front-matter：</p><figure class="highlight avrasm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">link:</span> url</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/link.jpg" alt="link.jpg"></p><h2 id="quote？"><a href="#quote？" class="headerlink" title="quote？"></a>quote？</h2><p>阅读主题的源代码发现的：<code>~/blog/themes/next/layout/_macro/post.swig</code>，有没有不确定，用法不确定……</p><p>Front-matter：</p><figure class="highlight elm"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="keyword">type</span>: quote</div></pre></td></tr></table></figure><p>效果：</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/quote.jpg" alt="quote.jpg"></p><h2 id="推荐文章"><a href="#推荐文章" class="headerlink" title="推荐文章"></a>推荐文章</h2><p><a href="https://github.com/huiwang/hexo-recommended-posts" target="_blank" rel="noopener">https://github.com/huiwang/hexo-recommended-posts</a></p><p><a href="https://github.com/tea3/hexo-related-popular-posts" target="_blank" rel="noopener">https://github.com/tea3/hexo-related-popular-posts</a></p><hr>]]></content>
     
     <summary type="html">
     
@@ -2539,11 +2539,11 @@
     </summary>
     
     
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
   </entry>
   

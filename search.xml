@@ -3,16 +3,13 @@
   <entry>
     <title><![CDATA[2017 博客数据分析报告]]></title>
     <url>%2Ftechnology%2Fcomputer%2Fcomputer-aided-art%2F2018%2F01%2F01%2Fgoogle-analytics-report.html</url>
-    <content type="text"><![CDATA[bb - for - bb和许多博主一样，WordPress 是我最早搭建的博客，但它只运行在我的小小树莓派上，是我折腾树莓派时的一个成果，目前沉睡在我的树莓派上…… 后来接触到 Hexo 也是因为树莓派，有一次 Google 相关教程时，看到一个让我眼前一亮的网站，然后通过页脚的一个链接开始走进了 Hexo 的世界～ 这个博客于 2017.05.27 部署在 Github Pages ，于 2017.06.05 开始使用 Google Analytics ，于 2017.09.28 开始使用 Google Search Console ，期间经历了多次大换装，评论经历了一次更换，还经历了一次超级可怕的 rm …… Google Analytics 提前说明「内容」里的图表水分较大，「来源」里的 (direct) 和 localhost:4000 水分较大，「用户」是最真实的，为什么会这样，谁灌的水呢？ 首先，我自己灌的水，不知你搭建博客的目的是什么，我一开始搭建博客单纯是为了替代纸质笔记本，由于喜欢发呆和胡思乱想的我之前写了一大堆东东，但慢慢遇到些 问题，后来接触计算机多了，就希望通过博客来解决这些问题。如笔记本应该经常翻看，我会经常浏览自己的博客，而博客一开始的大部分访客都是自己，再加上下面的两个原因，就导致…… 然后，另一个不可或缺的原因——开始时没有在 Google Analytics 里过滤掉水分。这张图里我用了两个数据源，也就是两份 view（数据视图），一份是 Raw Data（2017.06.05 - 2017.12.31），一份是 Master View（2017.12.04 - 2017.12.31），两个数据源的差别： 时间范围 是否灌水 虽然博客 06.05 就开始使用 Google Analytics，但我大概一个月前才学了学如何使用 Google Analytics，才知道通过添加多份 view 并添加 filter（过滤器）来过滤掉自己的访问（灌水），所以 Raw Data 里水分较大，之后添加的 Master View 水分则较少。 最后一个不可或缺的原因，对于水分较大的 Raw Data，其中 Pageviews（网页浏览量）水分最大，Sessions（会话数）里的水分比较大，Users（用户数）最少，这样如果将 Raw Data 的 Pageviews 和 Sessions 作为相关 Dimensions（维度）的 Metrics（指标），就会导致相关图表里的水分…… 「内容」的数据源是 Raw Data，用了 Pageviews 和 Sessions 两个 Metrics，水分较大。 「来源」的数据源是 Raw Data，用了 Sessions 一个 Metrics，其中 (direct) 和 localhost:4000 水分较大，其它的没问题。 「用户」的数据源是 Master View（除了第一个图表），用了 Users 一个 Metrics（除了第一个图表），几乎没有水分。 简要分析首先你可以访问 这个链接（需科学上网）体验上面这份报告的更多交互，然后基于上面的说明，加上自己记忆，简要分析下。 内容第一个图表，由于水分最多，没啥好说的，前面的峰值可能是因为那天我在写文章或者折腾博客样式，后面的峰值可能是我在哪里手动推广了一下自己的博客，11 月前后的低谷可能是因为把博客样式搞炸了，读者点开博客就吓跑了～ 第三个图表，Sessions 最多的是 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 ，意料之中，原因之一是我花了很多时间在它上面，第二个原因是 SEO 和推广。 首页（reuixiy）是第二，也是意料之中，ABOUT 在第五，看来大家很想了解了解我啊，TopX？哈，改了个好名字（之前叫 Top5）。 Coldplay 的那两篇能上榜，是因为我每天在空间发在 Instagram 偷的图，然后评论留下链接。 然后 零网 那篇，原因之一是当时自己折腾时 Google 到的文章很少，于是折腾完后就写了这篇，看起来很符合“需求”哈哈（剩下的两篇技术文章估计也是如此），第二个原因是成功吸引了从其它文章上“引流”而来的读者，为什么能吸引？好奇心。 第二个图表比较有意思，不过有意思的不在上面这张图，在下面这张动图： 点击显示累计值后，发现两条陡峭的斜线，09.30 前后的变化说明 Google Search Console 没白用，增大的斜率说明这两个页面的 Sessions 增加的越来越快。 再点击显示堆积线条后，全都变成了陡峭的斜线，原因暂时不知道……且把它当作个好兆头吧～ 用户第一个图表，用户数和会话数变化趋势基本一致，后面两个差值增大，说明博客样式修改很成功，成功留住了用户，哈哈哈～ 下面的图表： 国家，最多的是中国，符合国情，美国占那么多，估计是 VPS，也符合国情。 城市，洛杉矶和纽约估计是 VPS，北京、上海、深圳、武汉、杭州、成都，符合。 年龄，怎么分析出来的不知道，符合。 性别，怎么分析出来的不知道，符合。 设备类别，符合。 浏览器，符合。 操作系统，符合（哪位大佬捐我一台 Macbook？）。 移动设备品牌，符合。 至于最后一个图表，怎么分析出来的不知道，不过仔细看看，再结合上面「内容」的分析，还是相当符合的～ 来源(direct) 和 localhost:4000 不说，水分较大。Google 带来这么多，说明 SEO 可以。SegmentFault 带来这么多，是因为有个大佬推荐了我的那篇文章，目前百度hexo next 优化（其它关键字没试）排在第一，再次感谢 大佬 。Github 是因为我回答过几个 issues，至于 wnflb.com 不清楚。 值得注意的是 hui-wang.info，我与这位大佬认识不久，他的博客却给我带来了比较多的 Sessions，很大一部分原因是 Hexo 跨博客文章推荐插件 ，你可以在我的博客每篇文章的底部看到这个插件的效果，非常建议大家食用，让我们的博客通过这个插件在互联网上有机的连接起来～ 最后，非常感谢列表中的其它引荐，感谢你们在你的博客中留了我的博客文章链接！ 发现 bugGoogle Analytics 并不是博客的唯一统计途径，还有页脚的不蒜子统计，细心的你有没有发现什么问题呢？没错，报告中 Google Analytics 的网页浏览量（23,345）居然比不蒜子（16,785）的多了很多，这是不合逻辑的，因为我是先用的不蒜子，而且使用期间并没有发现不蒜子有很大问题。 弄了个表格，恍然大悟，主机名……赶紧往 Master View 里添加一个 filter——仅包含有效主机名！ Search Console 使用以来，共展示了 12,000 次，点击了 1,207 次，点击率是 10.4 %，左边的图表明点击次数和展示次数成正比，右边这图展示了国家 / 设备类别与点击率的关系，下方的表格与上面「内容」的分析大致相符。 补上媒介的饼图（数据源：Master View，指标：Sessions，时间范围：Master View 创建以来），可见搜索引擎对本博客 Sessions 的巨大功劳。 Google Data Studio（数据洞察）是个很好玩的东东： 附上之前使用 Google Data Studio（数据洞察）生成的两份报告（数据源是两份 Excel 表格），打码不需要理由～ 最后希望自己能够在新的一年中，将更多以前写过的好想法搬上本博客，创造出更多好的想法！]]></content>
+    <content type="text"><![CDATA[bb - for - bb和许多博主一样，WordPress 是我最早搭建的博客，但它只运行在我的小小树莓派上，是我折腾树莓派时的一个成果，目前沉睡在我的树莓派上…… 后来接触到 Hexo 也是因为树莓派，有一次 Google 相关教程时，看到一个让我眼前一亮的网站，然后通过页脚的一个链接开始走进了 Hexo 的世界～ 这个博客于 2017.05.27 部署在 Github Pages ，于 2017.06.05 开始使用 Google Analytics ，于 2017.09.28 开始使用 Google Search Console ，期间经历了多次大换装，评论经历了一次更换，还经历了一次超级可怕的 rm …… Google Analytics 提前说明「内容」里的图表水分较大，「来源」里的 (direct) 和 localhost:4000 水分较大，「用户」是最真实的，为什么会这样，谁灌的水呢？ 首先，我自己灌的水，不知你搭建博客的目的是什么，我一开始搭建博客单纯是为了替代纸质笔记本，由于喜欢发呆和胡思乱想的我之前写了一大堆东东，但慢慢遇到些 问题 ，后来接触计算机多了，就希望通过博客来解决这些问题。如笔记本应该经常翻看，我会经常浏览自己的博客，而博客一开始的大部分访客都是自己，再加上下面的两个原因，就导致…… 然后，另一个不可或缺的原因——开始时没有在 Google Analytics 里过滤掉水分。这张图里我用了两个数据源，也就是两份 view（数据视图），一份是 Raw Data（2017.06.05 - 2017.12.31），一份是 Master View（2017.12.04 - 2017.12.31），两个数据源的差别： 时间范围 是否灌水 虽然博客 06.05 就开始使用 Google Analytics，但我大概一个月前才学了学如何使用 Google Analytics，才知道通过添加多份 view 并添加 filter（过滤器）来过滤掉自己的访问（灌水），所以 Raw Data 里水分较大，之后添加的 Master View 水分则较少。 最后一个不可或缺的原因，对于水分较大的 Raw Data，其中 Pageviews（网页浏览量）水分最大，Sessions（会话数）里的水分比较大，Users（用户数）最少，这样如果将 Raw Data 的 Pageviews 和 Sessions 作为相关 Dimensions（维度）的 Metrics（指标），就会导致相关图表里的水分…… 「内容」的数据源是 Raw Data，用了 Pageviews 和 Sessions 两个 Metrics，水分较大。 「来源」的数据源是 Raw Data，用了 Sessions 一个 Metrics，其中 (direct) 和 localhost:4000 水分较大，其它的没问题。 「用户」的数据源是 Master View（除了第一个图表），用了 Users 一个 Metrics（除了第一个图表），几乎没有水分。 简要分析首先你可以访问 这个链接（需科学上网）体验上面这份报告的更多交互，然后基于上面的说明，加上自己记忆，简要分析下。 内容第一个图表，由于水分最多，没啥好说的，前面的峰值可能是因为那天我在写文章或者折腾博客样式，后面的峰值可能是我在哪里手动推广了一下自己的博客，11 月前后的低谷可能是因为把博客样式搞炸了，读者点开博客就吓跑了～ 第三个图表，Sessions 最多的是 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 ，意料之中，原因之一是我花了很多时间在它上面，第二个原因是 SEO 和推广。 首页（reuixiy）是第二，也是意料之中，ABOUT 在第五，看来大家很想了解了解我啊，TopX？哈，改了个好名字（之前叫 Top5）。 Coldplay 的那两篇能上榜，是因为我每天在空间发在 Instagram 偷的图，然后评论留下链接。 然后 零网 那篇，原因之一是当时自己折腾时 Google 到的文章很少，于是折腾完后就写了这篇，看起来很符合“需求”哈哈（剩下的两篇技术文章估计也是如此），第二个原因是成功吸引了从其它文章上“引流”而来的读者，为什么能吸引？好奇心。 第二个图表比较有意思，不过有意思的不在上面这张图，在下面这张动图： 点击显示累计值后，发现两条陡峭的斜线，09.30 前后的变化说明 Google Search Console 没白用，增大的斜率说明这两个页面的 Sessions 增加的越来越快。 再点击显示堆积线条后，全都变成了陡峭的斜线，原因暂时不知道……且把它当作个好兆头吧～ 用户第一个图表，用户数和会话数变化趋势基本一致，后面两个差值增大，说明博客样式修改很成功，成功留住了用户，哈哈哈～ 下面的图表： 国家，最多的是中国，符合国情，美国占那么多，估计是 VPS，也符合国情。 城市，洛杉矶和纽约估计是 VPS，北京、上海、深圳、武汉、杭州、成都，符合。 年龄，怎么分析出来的不知道，符合。 性别，怎么分析出来的不知道，符合。 设备类别，符合。 浏览器，符合。 操作系统，符合（哪位大佬捐我一台 Macbook？）。 移动设备品牌，符合。 至于最后一个图表，怎么分析出来的不知道，不过仔细看看，再结合上面「内容」的分析，还是相当符合的～ 来源(direct) 和 localhost:4000 不说，水分较大。Google 带来这么多，说明 SEO 可以。SegmentFault 带来这么多，是因为有个大佬推荐了我的那篇文章，目前百度hexo next 优化（其它关键字没试）排在第一，再次感谢 大佬 。Github 是因为我回答过几个 issues，至于 wnflb.com 不清楚。 值得注意的是 hui-wang.info，我与这位大佬认识不久，他的博客却给我带来了比较多的 Sessions，很大一部分原因是 Hexo 跨博客文章推荐插件 ，你可以在我的博客每篇文章的底部看到这个插件的效果，非常建议大家食用，让我们的博客通过这个插件在互联网上有机的连接起来～ 最后，非常感谢列表中的其它引荐，感谢你们在你的博客中留了我的博客文章链接！ 发现 bugGoogle Analytics 并不是博客的唯一统计途径，还有页脚的不蒜子统计，细心的你有没有发现什么问题呢？没错，报告中 Google Analytics 的网页浏览量（23,345）居然比不蒜子（16,785）的多了很多，这是不合逻辑的，因为我是先用的不蒜子，而且使用期间并没有发现不蒜子有很大问题。 弄了个表格，恍然大悟，主机名……赶紧往 Master View 里添加一个 filter——仅包含有效主机名！ Search Console 使用以来，共展示了 12,000 次，点击了 1,207 次，点击率是 10.4 %，左边的图表明点击次数和展示次数成正比，右边这图展示了国家 / 设备类别与点击率的关系，下方的表格与上面「内容」的分析大致相符。 补上媒介的饼图（数据源：Master View，指标：Sessions，时间范围：Master View 创建以来），可见搜索引擎对本博客 Sessions 的巨大功劳。 Google Data Studio（数据洞察）是个很好玩的东东： 附上之前使用 Google Data Studio（数据洞察）生成的两份报告（数据源是两份 Excel 表格），打码不需要理由～ 最后希望自己能够在新的一年中，将更多以前写过的好想法搬上本博客，创造出更多好的想法！]]></content>
       <categories>
         <category>technology</category>
         <category>computer</category>
         <category>computer-aided-art</category>
       </categories>
       <tags>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
-        <tag>目标</tag>
         <tag>hexo</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
@@ -20,7 +17,10 @@
         <tag>analysis(分析)</tag>
         <tag>Google Data Studio(数据洞察)</tag>
         <tag>notnow</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>维</tag>
+        <tag>critique(批判)</tag>
       </tags>
   </entry>
   <entry>
@@ -38,24 +38,24 @@
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
-        <tag>music</tag>
         <tag>目标</tag>
         <tag>维</tag>
+        <tag>critique(批判)</tag>
+        <tag>music</tag>
+        <tag>epic</tag>
+        <tag>未来</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>工具</tag>
         <tag>love</tag>
-        <tag>technology</tag>
-        <tag>技术恐惧</tag>
         <tag>查拉图斯特拉</tag>
         <tag>战争</tag>
-        <tag>电影</tag>
-        <tag>人工智能</tag>
         <tag>易</tag>
+        <tag>人工智能</tag>
+        <tag>technology</tag>
+        <tag>技术恐惧</tag>
+        <tag>电影</tag>
         <tag>加勒比海盗</tag>
         <tag>脊髓冰凉</tag>
         <tag>奇幻</tag>
@@ -71,9 +71,9 @@
       </categories>
       <tags>
         <tag>真理</tag>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
         <tag>epic</tag>
-        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>philosophy</tag>
@@ -99,9 +99,9 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
         <tag>hexo</tag>
         <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
         <tag>维</tag>
         <tag>linux</tag>
         <tag>quotes</tag>
@@ -129,21 +129,21 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
-        <tag>目标</tag>
         <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
+        <tag>epic</tag>
+        <tag>未来</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
         <tag>学习</tag>
         <tag>shape</tag>
         <tag>bb-for-fun</tag>
+        <tag>假象</tag>
         <tag>internet</tag>
         <tag>technology</tag>
-        <tag>假象</tag>
         <tag>知识平台</tag>
         <tag>分类</tag>
         <tag>技术恐惧</tag>
@@ -183,7 +183,7 @@
   <entry>
     <title><![CDATA[童话]]></title>
     <url>%2Fbeautiful%2Fnotnow%2F2017%2F11%2F04%2Ffairy-tale.html</url>
-    <content type="text"><![CDATA[童话般的草绿色门前发生着童话般的故事两只懒洋洋的兔子下面懒洋洋的他努力举高上面懒洋洋的小可爱一起去感受那被封住的信封她童话般的心灵粉红色如是说看似懒洋洋内心却坚强稍微倾斜的的视角如是说2017-10-28 20:31:27]]></content>
+    <content type="text"><![CDATA[童话般的草绿色门前发生着童话般的故事两只懒洋洋的兔子下面懒洋洋的他努力举高上面懒洋洋的小可爱一起去感受那被封住的信封她童话般的心灵粉红色如是说看似懒洋洋内心却坚强稍微倾斜的视角如是说2017-10-28 20:31:27]]></content>
       <categories>
         <category>beautiful</category>
         <category>notnow</category>
@@ -221,14 +221,14 @@
         <category>system-software</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
-        <tag>bb-for-bb</tag>
         <tag>linux</tag>
-        <tag>quotes</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
+        <tag>quotes</tag>
         <tag>更新</tag>
       </tags>
   </entry>
@@ -261,7 +261,7 @@
   <entry>
     <title><![CDATA[生于战争 死于和平]]></title>
     <url>%2Fphilosophy%2Fhow%2F2017%2F09%2F25%2Fborn-in-war-and-died-in-peace.html</url>
-    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 [ar:Klaus Badelt] [ti:Barbossa Is Hungry] [al:Pirates of the Caribbean: The Curse of the Black Pearl] [by:https://reuixiy.github.io] [length:4:06] [00:00.00]Klaus Badelt - Barbossa Is Hungry [00:05.00]纯音乐，请您欣赏 var ap = new APlayer({ element: document.getElementById("aplayer6"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 [ar:Klaus Badelt] [ti:Barbossa Is Hungry] [al:Pirates of the Caribbean: The Curse of the Black Pearl] [by:https://reuixiy.github.io] [length:4:06] [00:00.00]Klaus Badelt - Barbossa Is Hungry [00:05.00]纯音乐，请您欣赏 var ap = new APlayer({ element: document.getElementById("aplayer7"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
@@ -271,22 +271,22 @@
         <tag>synthesis(综合)</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>星空</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
         <tag>music</tag>
         <tag>光</tag>
-        <tag>目标</tag>
+        <tag>epic</tag>
+        <tag>星空</tag>
+        <tag>未来</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>黑暗</tag>
-        <tag>假象</tag>
         <tag>对立</tag>
+        <tag>假象</tag>
         <tag>战争</tag>
-        <tag>电影</tag>
         <tag>易</tag>
+        <tag>电影</tag>
         <tag>加勒比海盗</tag>
       </tags>
   </entry>
@@ -309,7 +309,7 @@
   <entry>
     <title><![CDATA[一个看到 2:40 头皮发麻的广告]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F09%2F23%2Fa-touching-tv-commercial.html</url>
-    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer7"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/XXL%20-%20Sport%20Unites%20All.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -323,7 +323,7 @@
   <entry>
     <title><![CDATA[Cassini's Grand Finale]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F09%2F22%2Fcassini-s-grand-finale.html</url>
-    <content type="text"><![CDATA[Just a month shy of 20 years in space, Cassini will makes a final plunge into Saturn’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life. 关于 Cassini“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现土星有若干卫星。 NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。 发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。 Cassini 详情Cassini 有自己的 网站（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走https。 试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种好奇心带来的喜悦，那种科幻小说式的兴奋？ End of Mission(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[Just a month shy of 20 years in space, Cassini will makes a final plunge into Saturn’s atmosphere. The spacecraft will be crushed and vaporized by the pressure and temperature of Saturn’s final embrace to protect worlds like Enceladus and Titan, moons with liquid water oceans under their icy crusts that might harbor conditions for life. 关于 Cassini“卡西尼”号飞船是耗资 39 亿美元的国际项目，来自 27 个国家的科学家参加了这个项目。它以意大利天文学家乔瓦尼·卡西尼的名字来命名，卡西尼在 17 世纪发现土星有若干卫星。 NASA 在 1997-10-15 年发射，2004 年抵达土星的 Cassini 探测器，是 NASA 在「经费拮据」前的最后一个「高成本大制作」长程探测器，总花费差不多是 Curiosity 的两倍。 发射至今，已有 20 年，而在 2017-09-15 “卡西尼”号迎来了自己最后的任务——坠入土星大气层。 Cassini 详情Cassini 有自己的 网站（若访问不了请自备梯子），做的非常棒，可以说把 Cassini 的“一生”完整记录了下来，所以有兴趣自己去探究吧，而且全程走https。 试问天朝哪个科学项目的宣传能做到如此，让普通人能够真实感受到科学家的那种好奇心带来的喜悦，那种科幻小说式的兴奋？ End of Mission(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Cassini%27s%20Grand%20Finale.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -331,11 +331,11 @@
       <tags>
         <tag>好奇心</tag>
         <tag>critique(批判)</tag>
+        <tag>video</tag>
+        <tag>epic</tag>
         <tag>科幻</tag>
         <tag>星空</tag>
-        <tag>video</tag>
         <tag>未来</tag>
-        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -350,12 +350,12 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
         <tag>critique(批判)</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
-        <tag>维</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
@@ -375,16 +375,16 @@
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
         <tag>video</tag>
-        <tag>未来</tag>
         <tag>music</tag>
+        <tag>未来</tag>
         <tag>linux</tag>
         <tag>更新</tag>
         <tag>bb-for-fun</tag>
         <tag>philosophy</tag>
         <tag>看书</tag>
-        <tag>zeronet</tag>
         <tag>bitcoin</tag>
         <tag>去中心化</tag>
+        <tag>zeronet</tag>
         <tag>how</tag>
       </tags>
   </entry>
@@ -397,12 +397,12 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>科幻</tag>
-        <tag>video</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
-        <tag>目标</tag>
         <tag>bb-for-bb</tag>
+        <tag>目标</tag>
+        <tag>video</tag>
+        <tag>epic</tag>
+        <tag>科幻</tag>
+        <tag>未来</tag>
         <tag>share</tag>
         <tag>阿西莫夫</tag>
         <tag>人工智能</tag>
@@ -413,18 +413,18 @@
   <entry>
     <title><![CDATA[突如其来的小壁虎]]></title>
     <url>%2Fbeautiful%2Fnotnow%2F2017%2F08%2F27%2Fa-little-gecko-come-suddenly.html</url>
-    <content type="text"><![CDATA[昨天早上上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了～ bb - for - bb看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图： 这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因，我猜它在洗手间门口也许就是为了水而来吧…… 小视频晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 1来监控它，晚上偷录个小视频，哈哈哈嗝～ 小视频 - 1(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。 小视频 - 2(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。 小视频 - 3(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 欣赏一下这优雅的步伐～ 小视频 - 4(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来都想逃走的两个小家伙。 小视频 - 5(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 这……我没看懂哎…… 其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s …… 最后？虫子还在，小壁虎还在……为啥虫子还在？不造…… bb - for - fun看着视频观察一下这个小家伙还是蛮有意思的： 等我走了半个多小时，才开始行动，有耐心。 一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。 渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。 一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～ [ar:Coldplay] [ti:Paradise] [al:Mylo Xyloto] [by:https://reuixiy.github.io] [length:4:37] [00:00.00]Coldplay - Paradise [01:01.71] [01:01.72]When she was just a girl [01:04.93]She expected the world [01:08.15]But it flew away from her reach [01:11.30]So she ran away in her sleep [01:14.92]And dreamed of Para- para- paradise, [01:18.73]para- para- paradise, para- para- paradise [01:25.56]Every time she closed her eyes [01:42.98]When she was just a girl [01:46.16]She expected the world [01:49.40]But it flew away from her reach [01:52.55]And the bullets catch in her teeth [01:56.44]Life goes on, it gets so heavy [01:59.82]The wheel breaks the butterfly [02:03.50]Every tear a waterfall [02:06.45]In the night, the stormy night, [02:09.28]she'll close her eyes [02:13.21]In the night, the stormy night, [02:16.22]away she'd fly [02:20.19]And dreams of para- para- paradise [02:24.02]Para- para- paradise [02:27.44]Para- para- paradise [02:30.87]Oh oh oh oh oh oh-oh-oh-oh [02:34.03]She'd dream of para- para- paradise [02:37.75]Para- para- paradise [02:41.18]Para- para- paradise [02:44.61]Oh oh oh oh oh oh-oh-oh-oh [03:01.92]Lalalalalalalalalalala [03:08.23]And so lying underneath those stormy skies [03:14.94]She'd say: "Oh, ohohohoh, [03:18.03]I know the sun must set to rise" [03:21.84]This could be para- para- paradise [03:25.80]Para- para- paradise [03:28.97]Could be para- para- paradise [03:32.60]Oh oh oh oh oh oh-oh-oh [03:35.71]This could be para- para- paradise [03:39.49]Para- para- paradise [03:42.60]Could be para- para- paradise [03:46.35]Oh oh oh oh oh oh-oh-oh [04:03.09]This could be para- para- paradise [04:06.90]Could be para- para- paradise [04:10.05]Could be para- para- paradise [04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh var ap = new APlayer({ element: document.getElementById("aplayer7"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); Yeah, it could be Paradise… 1.Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。 ↩]]></content>
+    <content type="text"><![CDATA[昨天早上上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了～ bb - for - bb看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图： 这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因，我猜它在洗手间门口也许就是为了水而来吧…… 小视频晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 1来监控它，晚上偷录个小视频，哈哈哈嗝～ 小视频 - 1(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。 小视频 - 2(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。 小视频 - 3(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 欣赏一下这优雅的步伐～ 小视频 - 4(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来都想逃走的两个小家伙。 小视频 - 5(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 这……我没看懂哎…… 其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s …… 最后？虫子还在，小壁虎还在……为啥虫子还在？不造…… bb - for - fun看着视频观察一下这个小家伙还是蛮有意思的： 等我走了半个多小时，才开始行动，有耐心。 一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。 渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。 一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～ [ar:Coldplay] [ti:Paradise] [al:Mylo Xyloto] [by:https://reuixiy.github.io] [length:4:37] [00:00.00]Coldplay - Paradise [01:01.71] [01:01.72]When she was just a girl [01:04.93]She expected the world [01:08.15]But it flew away from her reach [01:11.30]So she ran away in her sleep [01:14.92]And dreamed of Para- para- paradise, [01:18.73]para- para- paradise, para- para- paradise [01:25.56]Every time she closed her eyes [01:42.98]When she was just a girl [01:46.16]She expected the world [01:49.40]But it flew away from her reach [01:52.55]And the bullets catch in her teeth [01:56.44]Life goes on, it gets so heavy [01:59.82]The wheel breaks the butterfly [02:03.50]Every tear a waterfall [02:06.45]In the night, the stormy night, [02:09.28]she'll close her eyes [02:13.21]In the night, the stormy night, [02:16.22]away she'd fly [02:20.19]And dreams of para- para- paradise [02:24.02]Para- para- paradise [02:27.44]Para- para- paradise [02:30.87]Oh oh oh oh oh oh-oh-oh-oh [02:34.03]She'd dream of para- para- paradise [02:37.75]Para- para- paradise [02:41.18]Para- para- paradise [02:44.61]Oh oh oh oh oh oh-oh-oh-oh [03:01.92]Lalalalalalalalalalala [03:08.23]And so lying underneath those stormy skies [03:14.94]She'd say: "Oh, ohohohoh, [03:18.03]I know the sun must set to rise" [03:21.84]This could be para- para- paradise [03:25.80]Para- para- paradise [03:28.97]Could be para- para- paradise [03:32.60]Oh oh oh oh oh oh-oh-oh [03:35.71]This could be para- para- paradise [03:39.49]Para- para- paradise [03:42.60]Could be para- para- paradise [03:46.35]Oh oh oh oh oh oh-oh-oh [04:03.09]This could be para- para- paradise [04:06.90]Could be para- para- paradise [04:10.05]Could be para- para- paradise [04:13.76]Oh oh oh oh oh oh-oh-oh-oh-oh var ap = new APlayer({ element: document.getElementById("aplayer8"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); Yeah, it could be Paradise… 1.Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。 ↩]]></content>
       <categories>
         <category>beautiful</category>
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>video</tag>
-        <tag>coldplay</tag>
-        <tag>music</tag>
-        <tag>开心</tag>
         <tag>树莓派</tag>
         <tag>bb-for-bb</tag>
+        <tag>video</tag>
+        <tag>开心</tag>
+        <tag>coldplay</tag>
+        <tag>music</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
         <tag>shape</tag>
@@ -443,17 +443,17 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>hexo</tag>
+        <tag>bb-for-bb</tag>
         <tag>video</tag>
         <tag>music</tag>
         <tag>system-software</tag>
-        <tag>hexo</tag>
-        <tag>bb-for-bb</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
         <tag>头皮发麻</tag>
-        <tag>technology</tag>
         <tag>易</tag>
+        <tag>technology</tag>
         <tag>computer</tag>
         <tag>悲伤</tag>
         <tag>死亡</tag>
@@ -470,8 +470,8 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>coldplay</tag>
         <tag>bb-for-bb</tag>
+        <tag>coldplay</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
       </tags>
@@ -489,13 +489,13 @@
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>目标</tag>
         <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>黑暗</tag>
-        <tag>why</tag>
         <tag>战争</tag>
+        <tag>why</tag>
         <tag>悲伤</tag>
         <tag>死亡</tag>
         <tag>脊髓冰凉</tag>
@@ -534,10 +534,10 @@
         <tag>association</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
@@ -558,8 +558,8 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>目标</tag>
         <tag>notnow</tag>
+        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>看书</tag>
@@ -578,19 +578,19 @@
       <tags>
         <tag>association</tag>
         <tag>tips</tag>
-        <tag>目标</tag>
         <tag>analysis(分析)</tag>
-        <tag>quotes</tag>
+        <tag>目标</tag>
         <tag>后脑一凉</tag>
+        <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>bb-for-fun</tag>
-        <tag>假象</tag>
         <tag>philosophy</tag>
         <tag>自省</tag>
         <tag>对立</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
+        <tag>假象</tag>
         <tag>查拉图斯特拉</tag>
         <tag>kindle</tag>
       </tags>
@@ -635,13 +635,13 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>coldplay</tag>
-        <tag>诗</tag>
         <tag>hexo</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
         <tag>analysis(分析)</tag>
         <tag>维</tag>
+        <tag>coldplay</tag>
+        <tag>诗</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
         <tag>更新</tag>
@@ -649,10 +649,10 @@
         <tag>share</tag>
         <tag>下载</tag>
         <tag>bb-for-fun</tag>
+        <tag>尼采</tag>
         <tag>internet</tag>
         <tag>知识平台</tag>
         <tag>分类</tag>
-        <tag>尼采</tag>
       </tags>
   </entry>
   <entry>
@@ -669,16 +669,16 @@
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>未来</tag>
         <tag>树莓派</tag>
         <tag>analysis(分析)</tag>
+        <tag>未来</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>工具</tag>
         <tag>bb-for-fun</tag>
-        <tag>why</tag>
         <tag>人工智能</tag>
+        <tag>why</tag>
         <tag>bitcoin</tag>
         <tag>去中心化</tag>
       </tags>
@@ -694,8 +694,8 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>星空</tag>
         <tag>epic</tag>
+        <tag>星空</tag>
       </tags>
   </entry>
   <entry>
@@ -727,11 +727,11 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
-        <tag>epic</tag>
-        <tag>光</tag>
-        <tag>诗</tag>
         <tag>目标</tag>
         <tag>维</tag>
+        <tag>光</tag>
+        <tag>诗</tag>
+        <tag>epic</tag>
         <tag>quotes</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
@@ -768,15 +768,15 @@
       </categories>
       <tags>
         <tag>沉迷于删删改改</tag>
+        <tag>目标</tag>
         <tag>video</tag>
-        <tag>epic</tag>
+        <tag>开心</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>光</tag>
-        <tag>开心</tag>
         <tag>system-software</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
+        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -846,7 +846,7 @@
   <entry>
     <title><![CDATA[Danny MacAskill’s Wee Day Out]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F03%2F11%2Fdanny-macaskills-wee-day-out.html</url>
-    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer0"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -871,13 +871,13 @@
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>critique(批判)</tag>
         <tag>analysis(分析)</tag>
+        <tag>critique(批判)</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>bb-for-fun</tag>
-        <tag>假象</tag>
         <tag>对立</tag>
+        <tag>假象</tag>
         <tag>查拉图斯特拉</tag>
         <tag>教条</tag>
         <tag>贫富分化</tag>
@@ -919,12 +919,12 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>critique(批判)</tag>
-        <tag>未来</tag>
-        <tag>开心</tag>
-        <tag>目标</tag>
         <tag>analysis(分析)</tag>
         <tag>notnow</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
+        <tag>开心</tag>
+        <tag>未来</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
         <tag>大脑</tag>
@@ -945,10 +945,10 @@
       <tags>
         <tag>questions</tag>
         <tag>tips</tag>
-        <tag>music</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
+        <tag>music</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
       </tags>
@@ -965,8 +965,8 @@
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>诗</tag>
         <tag>notnow</tag>
+        <tag>诗</tag>
         <tag>love</tag>
         <tag>摄影</tag>
         <tag>发呆</tag>
@@ -987,13 +987,13 @@
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>星空</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
+        <tag>目标</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
+        <tag>epic</tag>
+        <tag>星空</tag>
+        <tag>未来</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>untitled</tag>
@@ -1029,13 +1029,13 @@
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
-        <tag>科幻</tag>
-        <tag>未来</tag>
-        <tag>光</tag>
-        <tag>诗</tag>
         <tag>目标</tag>
         <tag>维</tag>
+        <tag>critique(批判)</tag>
+        <tag>光</tag>
+        <tag>诗</tag>
+        <tag>科幻</tag>
+        <tag>未来</tag>
         <tag>quotes</tag>
         <tag>更新</tag>
         <tag>practical-science(实践科学)</tag>
@@ -1056,7 +1056,7 @@
   <entry>
     <title><![CDATA[浅谈学哲学 - 那珍贵的喜悦]]></title>
     <url>%2Fphilosophy%2Fhow%2F2016%2F12%2F29%2Fon-philosophy-of-learning.html</url>
-    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place[ar:Coldplay] [ti:In My Place] [al:A Rush Of Blood To The Head] [by:https://reuixiy.github.io] [length:3:48] [00:00.00]Coldplay - In My Place [00:33.23] [00:33.24]In my place, in my place [00:38.14]Were lines that I couldn't change [00:41.24]I was lost, oh yeah [00:47.53]I was lost, I was lost [00:50.98]Crossed lines I shouldn't have crossed [00:54.47]I was lost, oh yeah [00:59.55]Yeah, how long must you wait for it? [01:07.58]Yeah, how long must you pay for it? [01:14.16]Yeah, how long must you wait for it? [01:22.50]For it [01:40.09]I was scared, I was scared [01:44.05]Tired and under-prepared [01:47.03]But I'll wait for it [01:53.20]And if you go, if you go [01:57.13]Leave me down here on my own [02:00.20]Then I'll wait for you, yeah [02:05.50]Yeah, how long must you wait for it? [02:13.53]Yeah, how long must you pay for it? [02:20.11]Yeah, how long must you wait for it? [02:28.23]For it [02:58.12]Singing please, please, please [03:03.08]Come back and sing to me [03:06.36]To me, me [03:09.40]Come on and sing it out, now, now [03:16.21]Come on and sing it out to me, me [03:23.05]Come back and sing it [03:26.08]In my place, in my place [03:29.76]Were lines that I couldn't change [03:32.81]I was lost, oh yeah [03:37.42]Oh yeah var ap = new APlayer({ element: document.getElementById("aplayer8"), narrow: false, autoplay: false, showlrc: 2, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place[ar:Coldplay] [ti:In My Place] [al:A Rush Of Blood To The Head] [by:https://reuixiy.github.io] [length:3:48] [00:00.00]Coldplay - In My Place [00:33.23] [00:33.24]In my place, in my place [00:38.14]Were lines that I couldn't change [00:41.24]I was lost, oh yeah [00:47.53]I was lost, I was lost [00:50.98]Crossed lines I shouldn't have crossed [00:54.47]I was lost, oh yeah [00:59.55]Yeah, how long must you wait for it? [01:07.58]Yeah, how long must you pay for it? [01:14.16]Yeah, how long must you wait for it? [01:22.50]For it [01:40.09]I was scared, I was scared [01:44.05]Tired and under-prepared [01:47.03]But I'll wait for it [01:53.20]And if you go, if you go [01:57.13]Leave me down here on my own [02:00.20]Then I'll wait for you, yeah [02:05.50]Yeah, how long must you wait for it? [02:13.53]Yeah, how long must you pay for it? [02:20.11]Yeah, how long must you wait for it? [02:28.23]For it [02:58.12]Singing please, please, please [03:03.08]Come back and sing to me [03:06.36]To me, me [03:09.40]Come on and sing it out, now, now [03:16.21]Come on and sing it out to me, me [03:23.05]Come back and sing it [03:26.08]In my place, in my place [03:29.76]Were lines that I couldn't change [03:32.81]I was lost, oh yeah [03:37.42]Oh yeah var ap = new APlayer({ element: document.getElementById("aplayer6"), narrow: false, autoplay: false, showlrc: 2, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
@@ -1070,14 +1070,14 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>bb-for-bb</tag>
         <tag>好奇心</tag>
-        <tag>epic</tag>
+        <tag>目标</tag>
+        <tag>开心</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
-        <tag>开心</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
-        <tag>bb-for-bb</tag>
+        <tag>epic</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>beautiful</tag>
@@ -1121,11 +1121,11 @@
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
+        <tag>epic</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>黑暗</tag>
@@ -1142,12 +1142,12 @@
       <tags>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>星空</tag>
-        <tag>epic</tag>
-        <tag>光</tag>
-        <tag>开心</tag>
-        <tag>诗</tag>
         <tag>目标</tag>
+        <tag>开心</tag>
+        <tag>光</tag>
+        <tag>诗</tag>
+        <tag>epic</tag>
+        <tag>星空</tag>
         <tag>黑暗</tag>
         <tag>untitled</tag>
       </tags>
@@ -1184,10 +1184,10 @@
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>星空</tag>
+        <tag>目标</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
+        <tag>星空</tag>
         <tag>尼采</tag>
         <tag>悲伤</tag>
       </tags>
@@ -1203,8 +1203,8 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>星空</tag>
         <tag>诗</tag>
+        <tag>星空</tag>
         <tag>love</tag>
         <tag>拜伦</tag>
       </tags>
@@ -1218,10 +1218,10 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>critique(批判)</tag>
-        <tag>未来</tag>
-        <tag>epic</tag>
         <tag>目标</tag>
+        <tag>critique(批判)</tag>
+        <tag>epic</tag>
+        <tag>未来</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
@@ -1241,25 +1241,25 @@
       <tags>
         <tag>想象</tag>
         <tag>图片</tag>
-        <tag>诗</tag>
-        <tag>目标</tag>
         <tag>bb-for-bb</tag>
+        <tag>目标</tag>
+        <tag>诗</tag>
         <tag>更新</tag>
         <tag>前额一冷</tag>
         <tag>下载</tag>
-        <tag>图书馆</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
+        <tag>图书馆</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Funcategorized%2F2010%2F01%2F01%2Ftest.html</url>
-    <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer3"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music[ar:Oasis] [ti:Live Forever] [al:Live Forever] [by:https://reuixiy.github.io] [length:4:38] [00:00.00]Oasis - Live Forever [00:12.69] [02:28.88][00:12.70]Maybe I don't really want to know [02:32.25][00:17.28]How your garden grows [02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain [02:42.93][00:28.06]In the morning rain [02:45.64][00:30.57]As it soaks it to the bone [02:49.35][00:34.49]Maybe I just want to fly [02:51.96][00:37.21]I wanna live I don't want to die [02:54.55][00:39.63]Maybe I just want to breath [02:57.08][00:42.30]Maybe I just don't believe [02:59.69][00:44.88]Maybe you're the same as me [03:02.25][00:47.48]We see things they'll never see [03:05.13][00:50.27]You and I are gonna live forever [00:57.74]Maybe I don't really want to know [01:02.56]How your garden grows [01:05.13]I just want to fly Lately did you ever feel the pain [01:13.23]In the morning rain [01:15.93]As it soaks it to the bone [01:19.41]Maybe I will never be [01:22.05]All the things that I want to be [01:24.87]But now is not the time to cry [01:27.41]Now's the time to find out why [01:29.99]I think you're the same as me [01:32.56]We see things they'll never see [01:35.28]You and I are gonna live forever [03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever var ap = new APlayer({ element: document.getElementById("aplayer4"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer7"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456&#123;% gp 4-3 %&#125;![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4)&#123;% endgp %&#125; 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果： 推荐文章https://github.com/huiwang/hexo-recommended-posts https://github.com/tea3/hexo-related-popular-posts]]></content>
+    <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer3"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music[ar:Oasis] [ti:Live Forever] [al:Live Forever] [by:https://reuixiy.github.io] [length:4:38] [00:00.00]Oasis - Live Forever [00:12.69] [02:28.88][00:12.70]Maybe I don't really want to know [02:32.25][00:17.28]How your garden grows [02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain [02:42.93][00:28.06]In the morning rain [02:45.64][00:30.57]As it soaks it to the bone [02:49.35][00:34.49]Maybe I just want to fly [02:51.96][00:37.21]I wanna live I don't want to die [02:54.55][00:39.63]Maybe I just want to breath [02:57.08][00:42.30]Maybe I just don't believe [02:59.69][00:44.88]Maybe you're the same as me [03:02.25][00:47.48]We see things they'll never see [03:05.13][00:50.27]You and I are gonna live forever [00:57.74]Maybe I don't really want to know [01:02.56]How your garden grows [01:05.13]I just want to fly Lately did you ever feel the pain [01:13.23]In the morning rain [01:15.93]As it soaks it to the bone [01:19.41]Maybe I will never be [01:22.05]All the things that I want to be [01:24.87]But now is not the time to cry [01:27.41]Now's the time to find out why [01:29.99]I think you're the same as me [01:32.56]We see things they'll never see [01:35.28]You and I are gonna live forever [03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever var ap = new APlayer({ element: document.getElementById("aplayer4"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456&#123;% gp 4-3 %&#125;![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4)&#123;% endgp %&#125; 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果： 推荐文章https://github.com/huiwang/hexo-recommended-posts https://github.com/tea3/hexo-related-popular-posts]]></content>
       <tags>
+        <tag>hexo</tag>
         <tag>video</tag>
         <tag>music</tag>
-        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
