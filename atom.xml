@@ -98,12 +98,6 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/categories/technology/computer/computer-aided-art/"/>
     
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
@@ -118,7 +112,13 @@
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
   </entry>
   
@@ -154,6 +154,10 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
@@ -162,19 +166,15 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
-    
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="工具" scheme="https://reuixiy.github.io/tags/tools/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
     
@@ -184,17 +184,17 @@
     
       <category term="奇幻" scheme="https://reuixiy.github.io/tags/fantasy/"/>
     
-      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
-    
-      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="技术恐惧" scheme="https://reuixiy.github.io/tags/technophobia/"/>
     
+      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
+    
       <category term="人工智能" scheme="https://reuixiy.github.io/tags/artificial-intelligence/"/>
     
       <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
+    
+      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
       <category term="加勒比海盗" scheme="https://reuixiy.github.io/tags/pirates-of-the-caribbean/"/>
     
@@ -224,11 +224,11 @@
     
       <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -280,11 +280,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
@@ -340,17 +340,17 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -524,13 +524,13 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -624,6 +624,8 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
@@ -635,8 +637,6 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -650,11 +650,11 @@
     
       <category term="假象" scheme="https://reuixiy.github.io/tags/idol/"/>
     
-      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
-    
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
       <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
+    
+      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
       <category term="加勒比海盗" scheme="https://reuixiy.github.io/tags/pirates-of-the-caribbean/"/>
     
@@ -785,6 +785,10 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
@@ -792,10 +796,6 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -879,6 +879,10 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
@@ -886,10 +890,6 @@
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
@@ -923,6 +923,10 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
@@ -930,10 +934,6 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
-      <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
@@ -971,15 +971,15 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
-    
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -991,9 +991,9 @@
     
       <category term="头皮发麻" scheme="https://reuixiy.github.io/tags/touched/"/>
     
-      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
-    
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
+    
+      <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
       <category term="computer" scheme="https://reuixiy.github.io/tags/computer/"/>
     
@@ -1025,9 +1025,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1063,23 +1063,23 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
-      <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
-      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
+      <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
     
       <category term="why" scheme="https://reuixiy.github.io/tags/why/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
+    
+      <category term="战争" scheme="https://reuixiy.github.io/tags/war/"/>
     
       <category term="脊髓冰凉" scheme="https://reuixiy.github.io/tags/frightened/"/>
     
@@ -1153,13 +1153,13 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1201,9 +1201,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1241,9 +1241,9 @@
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="后脑一凉" scheme="https://reuixiy.github.io/tags/suddenly/"/>
     
@@ -1307,8 +1307,6 @@
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
@@ -1322,6 +1320,8 @@
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
       <category term="工具" scheme="https://reuixiy.github.io/tags/tools/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -1355,10 +1355,6 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
-    
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
@@ -1368,6 +1364,10 @@
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1423,11 +1423,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1539,15 +1539,15 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1621,6 +1621,8 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
@@ -1636,8 +1638,6 @@
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
   </entry>
   
@@ -1827,9 +1827,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1923,17 +1923,17 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
-    
-      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1975,13 +1975,13 @@
     
       <category term="tips" scheme="https://reuixiy.github.io/tags/tips/"/>
     
-      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="wordpress" scheme="https://reuixiy.github.io/tags/wordpress/"/>
     
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -2015,9 +2015,9 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -2059,6 +2059,8 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
@@ -2070,8 +2072,6 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
@@ -2143,6 +2143,10 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
@@ -2152,10 +2156,6 @@
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2225,7 +2225,11 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
@@ -2236,10 +2240,6 @@
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -2327,6 +2327,8 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
@@ -2334,8 +2336,6 @@
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
@@ -2369,6 +2369,8 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
@@ -2378,8 +2380,6 @@
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
@@ -2453,13 +2453,13 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -2521,13 +2521,13 @@
       <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
     
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2567,11 +2567,11 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
       <category term="更新" scheme="https://reuixiy.github.io/tags/update/"/>
     
@@ -2603,11 +2603,11 @@
     </summary>
     
     
+      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
-    
-      <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
   </entry>
   
