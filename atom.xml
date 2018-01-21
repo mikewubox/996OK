@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2018-01-11T10:54:13.302Z</updated>
+  <updated>2018-01-21T01:56:31.768Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2018/01/11/a-song-of-ice-and-fire.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2018/01/11/a-song-of-ice-and-fire.html</id>
     <published>2018-01-11T10:17:54.000Z</published>
-    <updated>2018-01-11T10:54:13.302Z</updated>
+    <updated>2018-01-21T01:56:31.768Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-song-of-ice-and-fire-title.png" alt="a-song-of-ice-and-fire-title.png" style="width:100%"></p><a id="more"></a><p>将近两个月看完《冰与火之歌》五卷……</p><p>权力的游戏<br>列王的纷争<br>冰雪的风暴<br>群鸦的盛宴<br>魔龙的狂舞</p><p>拼命把溜出来的肠子塞回肚子里，乌鸦啄食着被钉城墙上蛆虫蠕动的头颅，动不动就调情啪啪啪还啊啊啊……</p><p>眼睁睁看着自认为的主角一个又一个的突然变成了群鸦的盛宴，一个又一个人物的眼睛才看清列王的纷争，一个又一个人物的嘴与心的谎言才看清权力的游戏，而这一个又一个人物却都是自己！冰雪的风暴与魔龙的狂舞却在自己的脑阔中同时上演，自己的脑阔在冰与火之歌中冲突到爆炸！</p><p>经历过《神曲》地狱到天堂的过去之旅，遨游过「阿西莫夫」那浩瀚无垠的未来宇宙，体会过《浮士德》对理想的渴望，享受过「尼采」那日神阿波罗的至高喜悦和酒神狄俄尼索斯的狂欢，歌唱过 Coldplay 那珍贵的喜悦，却第一次在《冰与火之歌》谎言的游戏中爆炸！</p><p>言语如风<br>风伤不了你<br>可一阵风<br>让你在凛冬中尖叫<br>而非寒冷</p><p>凛冬将至<br>可那是谎言<br>这不是谎言<br>这就是权力的游戏<br>《查拉图斯特拉如是说》</p><div id="aplayer5" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:The Scientist][al:BBC Glastonbury Festival 2011][by:https://reuixiy.github.io][length:5:50][00:00.00]Coldplay - The Scientist (Live)[00:27.14][00:27.15]Come up to meet you[00:31.21]Tell you I'm sorry[00:34.30]You don't know how lovely you are[00:41.04]I had to find you[00:44.27]Tell you I need you[00:47.49]Tell you I'll set you apart[00:54.02]Tell me your secrets[00:57.24]And ask me your questions[01:00.57]Oh let's go back to the start[02:57.97][01:07.06]Running in circles[01:10.45]Coming in tails[01:13.60]Heads are a science apart[05:06.16][03:10.84][01:19.75]Nobody said it was easy[05:13.16][01:26.35]It's such a shame for us to part[05:19.16][03:23.73][01:32.73]Nobody said it was easy[05:26.16][01:39.35]No one ever said it would be so hard[05:35.06][01:48.41]Oh I'm going back to the start[02:19.16]I was just guessing[02:22.14]At numbers and figures[02:25.40]Pulling the puzzles apart[02:31.83]Questions of science[02:35.15]Science and progress[02:38.44]Could not speak as loud as my heart[02:45.01]Tell me you love me[02:48.01]Come back and haunt me[02:51.50]Oh when I rush to the start[03:01.24]Chasing up tails[03:04.47]Coming back as we are[03:17.41]Oh it's such a shame for us to part[03:30.28]No one ever said it would be so hard[03:39.32]Oh let's go back to the start[04:36.73][04:23.54][04:11.16]Oh...[04:47.36]I...Ahooooo...</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer5"),narrow: false,autoplay: false,showlrc: 2,music: {title: "The Scientist (Live)",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20The%20Scientist%20%28Live%29.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-the-scientist.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
     
@@ -47,6 +47,8 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -98,10 +100,6 @@
       <category term="computer-aided-art" scheme="https://reuixiy.github.io/categories/technology/computer/computer-aided-art/"/>
     
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
@@ -116,9 +114,13 @@
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
   </entry>
   
@@ -127,7 +129,7 @@
     <link href="https://reuixiy.github.io/philosophy/how/2017/12/31/compass.html"/>
     <id>https://reuixiy.github.io/philosophy/how/2017/12/31/compass.html</id>
     <published>2017-12-30T20:20:57.000Z</published>
-    <updated>2018-01-11T10:39:46.468Z</updated>
+    <updated>2018-01-21T01:55:09.720Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/compass-title.png" alt="compass-title.png" style="width:100%"></p><a id="more"></a><h2 id="启蒙-暨自己活着的动力"><a href="#启蒙-暨自己活着的动力" class="headerlink" title="启蒙 暨自己活着的动力"></a>启蒙 暨自己活着的动力</h2><p>一个维度（时间）：</p><ol><li>爱 珍贵的喜悦 第一粒糖果 Coldplay</li><li>哲学 智慧 尼采 神曲 至高喜悦与狂欢</li><li>战争 幻想 科幻 玄幻 奇幻 加勒比海盗 霍比特人</li></ol><p>无知的快乐童年 &gt; 探寻人生的新意义 &gt; Rethink 自己及人类的未来和存在的意义。</p><p>一个维度（快乐）：</p><ul><li>感受到心在跳动，爱</li><li>发现新知识大陆，好奇心 学习 使命感（Epic）</li><li>思考中创造，创新 好奇心</li><li>酒神的狂欢，激情 快感 Passion</li><li>对美的沉迷，Shape 好奇心</li></ul><p>对个人而言，动力就是：为了收获快乐，为了寻找和体会那珍贵的喜悦！</p><h2 id="前言-暨自己两周的总结"><a href="#前言-暨自己两周的总结" class="headerlink" title="前言 暨自己两周的总结"></a>前言 暨自己两周的总结</h2><p>其实就是观《加勒比海盗》、《霍比特人》、《指环王》有感，这两周 [2017.10.21 前] 我的时间大部分花在了：</p><ul><li>观看 <em>The Hobbit</em> 和 <em>The Lord of the Rings</em></li><li>听史诗（Epic）音乐</li><li>思考 Love</li></ul><p>首先关于 Love，以自私的名义，追求 Love 是因为追求快乐，追求那珍贵的喜悦。因此，如果追求时感受到一丝悲伤，就意味着越界了，迷失了自己的目标——背叛了自己。</p><p>然后关于电影，这些电影都是在一个想象的“假”世界中，如：《加勒比海盗》中的荷兰号，更不用说《霍比特人》和《指环王》的中土世界（Middle-Earth）了。不过，虽然想象的世界完全不同，但是有一个都相同的点——发生着史诗般的故事。</p><p>5 部《加勒比海盗》，3 部《霍比特人》，3 部《指环王》，加起来差不多 1926 分钟，也就是 32 个小时多一点。观看顺序是《加勒比海盗 5》 &gt; 《加勒比海盗 1 / 2 / 3 / 4》 &gt; 《霍比特人》 &gt; 《指环王》。有趣的是虽然《指环王》（2001 ~ 2003）比《霍比特人》（2012 ~ 2014）先上映，但是故事的时间顺序确是反的，当时没按上映时间观看，也算是种幸运又不幸的巧合吧，233333～</p><p>我得到了什么？得到了久违的 Passion！心中狂啸着：Passion! My Days are Coming! A Head Full of Dreams! 满脑梦想！满心希望！改变世界！</p><p><div class="aplayer" data-id="28635212" data-server="netease" data-type="song"></div></p><h2 id="桥梁-久违的史诗般热情"><a href="#桥梁-久违的史诗般热情" class="headerlink" title="桥梁 久违的史诗般热情"></a>桥梁 久违的史诗般热情</h2><p>为什么久违？因为我曾经拥有它！为什么能得到？因为……</p><p>在电影中的全新世界，随着屏幕的每一帧画面倒立在我的视网膜中，我的大脑重新认识一个世界。这个世界的环境与现实中完全不同，这个世界的人与现实中完全不同，但是却发生着对这个世界而言正确的事。认识到这个全新的世界后，想与之发生交连，会假设自己在这样一个世界，自己会是个怎样的人，自己又是否会续写那史诗般的故事。</p><p>史诗（Epic）般的音乐回响在耳中，哦，原来我所在的世界和这个全新的世界都回响着一样的 Epic！就这样，以音乐为纽带，联系起了这全新世界和现实世界，这个正在眼中的全新世界又通过神经与脑海深处的现实世界发生物理碰撞，碰撞出 Passion 的火花，这火花驱动着自己思考这全新世界和现实世界的关系，驱动着自己反思人生目标！是的，我的 Epic 正在火中燃烧！</p><p>简而言之，因为对现在这个世界，也有这样的认识过程，通过自己的知觉，触发自己的感觉，而那时 Epic 也燃烧在我的心中。但是，就如小王子长大后，经过一些社会齿轮的加工，自己成了一个形状与上一个一致的工业品，心中的火苗逐渐熄灭。然而，通过认识这个全新世界，反思的火花让这个形状破碎，Epic 重新燃起！</p><p>但是，为什么现实社会的齿轮是毁灭个体火苗的凶手？个体的火苗旺盛，文明的大火才能燃起，而现实社会应当是文明的缔造者啊，难道现实社会背叛了个体和文明，企图毁灭？</p><p>是的，它的确背叛了，但企图毁灭的不是它，而是我们自己，背叛原因也是因为我们迷失了自己的目标——我们背叛了我们自己。</p><h2 id="正题-个体及人类的目标"><a href="#正题-个体及人类的目标" class="headerlink" title="正题 个体及人类的目标"></a>正题 个体及人类的目标</h2><p>无论在哪个世界，只要有文明，那么文明中的个体都会有一样的问题——生命的价值何在，人生的意义何在？</p><p>文明中的每个个体一样的问题就意味着不可忽视，社会及文明的发展都必须重视这个问题。二战后的和平年代，技术大爆炸，现在 <a href="https://reuixiy.github.io/philosophy/how/2017/06/07/earn-money-through-bitcoin.html">人类的终极工具</a> ——能够替带我们思考的 AI 正在完善，然而对这个每个个体都在问的问题，这个时代却没有人给出一个伟大的解答，这也是奇幻故事在现在越来越被大众喜欢的原因之一——在奇幻故事中能重燃自己心中的火苗，另一个原因是火苗熄灭的大众企图迷失在奇幻故事的“Paradise”中，逃离现实，尽管那其实只是一阵风，只会将最后的灰烬吹散。</p><p>缺失的伟大解答？So, that’s one of my goals… 既然能在奇幻作品中找回自己，那就继续在奇幻作品中回答奇幻作品未回答的问题——人类的目标何在？</p><h2 id="目标-依赖于存在的真理"><a href="#目标-依赖于存在的真理" class="headerlink" title="目标 依赖于存在的真理"></a>目标 依赖于存在的真理</h2><p>托尔金描绘的中土世界（Middle-Earth）中的夏尔（The Shire）是一个和谐的乡村，我在电影中没有看到政府的管理，但是人们劳动耕种，晚上喝酒谈论着乡间琐事，悠闲地生活着，非常和谐，与《桃花源记》中描述的生活何等相似。生活在科技和金钱中的我，也不禁为之沉迷，想想自己在那么一个美丽的环境中，纵享田园之乐，也可以找到自己所爱，也许会结婚生子，然后悠闲地回归自然的土地，such a beautiful life…</p><p><div class="aplayer" data-id="25714023" data-server="netease" data-type="song"></div></p><p>影片中远离现实的诗意田园生活，却让现实中的人十分向往，并犹豫：人的一生究竟应该如何度过呢？科学技术的发展，究竟是把我们带往未来的美好文明，还是把我们带入地狱，把文明带入毁灭？</p><p>也许你听过一篇神奇的论文——《论工业社会及其未来》，没有？那你一定听过一个词——技术恐惧。看那工业革命带来的全球变暖，瞧那人工智能带来的争论，想想自己明天也许就不再存在……此时，你是否突然感觉到自己脊髓冰凉——因未来的毁灭而恐惧？</p><p>但是，就如人有时会因自己的影子而受到惊吓，技术恐惧也只是个荒谬的鬼故事。</p><h3 id="存在是前提"><a href="#存在是前提" class="headerlink" title="存在是前提"></a>存在是前提</h3><p>问一个不适当的问题，夏尔的如此诗意能保持永远吗？不可能，两种会导致毁灭：</p><ul><li>世界之外</li><li>世界之内</li></ul><p>夏尔如此诗意，若此时定义<span class="label info">世界</span>：夏尔的世界，则最后世界之外至尊魔戒的毁灭就意味着夏尔的诗意能够一直长存，因为夏尔是个理想的诗意之地。但反而言之，若世界之外的至尊魔戒没有被毁灭，那么夏尔的诗意就将不复存在！所以，世界之外的才是真正值得注意的，未知才是最可怕的，世界之外才是世界之内的一切基础——存在。</p><p>生命对个体意味着存在，个体存在对文明意味着存在。我们每个人都高呼生命万岁（Viva La Vida），因为只有自己存在，我们才有世界。我们努力让人类文明不走向毁灭，因为文明不复存在就意味着每个个体的消亡。所以，存在才是我们每个人的目标，存在才是文明的目标，人类的目标是存在！</p><p>之前的犹豫——人的一生究竟应该如何度过呢？由于世界是不断变化的（易），所以也许下一秒这个问题就因自己被毁灭而变得毫无意义了。因此，我们应该犹豫的是：如何保证自己存在！</p><h3 id="反技术恐惧"><a href="#反技术恐惧" class="headerlink" title="反技术恐惧"></a>反技术恐惧</h3><p>因为世界之外才是世界之内一切的基础，故要保证存在（达到目标），就必须扩展世界之内的「界」，<span class="label info">改变</span>世界内 | 外的「界」。而且，「界」不仅限于夏尔的地理边界，知识的已知 | 未知之「界」不容忽视。</p><p>科技毫无疑问是人类知识边界的扩展的结果，而人类知识边界的扩展是为了保证存在，存在是我们每个人的目标，存在是文明的目标，任何反存在都是在挑战我们每个人，挑战着人类文明，是反人类啊！故技术恐惧不仅是个荒谬的鬼故事，还是邪教啊！</p><p>到此，毋庸置疑，科学技术的发展是我们实现目标的必然，对它的背叛就是对自己的背叛。科学技术不一定能把我们带往未来的美好文明，但反科学技术一定会把我们带入地狱，把文明带入毁灭。</p><figure class="highlight plain"><figcaption><span>“查拉图斯特拉如是说”</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div></pre></td><td class="code"><pre><div class="line">啊，慢，我想到了！为啥要注意世界之外？</div><div class="line">你之前不是说夏尔就是世界吗，但它没有被世界之外毁灭，</div><div class="line">最后至尊魔戒的毁灭就意味着夏尔的诗意必将长存啊！</div><div class="line"></div><div class="line">可怜人！世界是相对的！</div><div class="line">你就把我得出这个结论的前提假设当成教条了？！</div><div class="line"></div><div class="line">啥？影片中的夏尔就是一个与世隔绝的世界啊！</div><div class="line">霍比特人在那过着诗意的生活呢！</div><div class="line"></div><div class="line">可怜人，眼睛睁大不一定看得清楚，往远处看吧！</div><div class="line">真正的世界绝不仅是夏尔的世界，你个信徒，想想吧！</div><div class="line">若真正的世界仅是夏尔，佛罗多·巴金斯的那根为贪婪付出代价的手指又在何处？</div><div class="line">世界之外？可怜人，世界之内的你又如何穿过你自己所定的界限到世界之外？</div><div class="line">夏尔是在真正的世界之内的！</div><div class="line"></div><div class="line">你个布教者，满嘴胡言，世界就是夏尔！</div></pre></td></tr></table></figure><div class="note primary"><p><strong>为什么用<span class="label info">改变</span>，不再用扩展？</strong><br>扩展意味着范围的扩大，然而对世界之内与世界之外而言，也许知道一些新知识后，会认为已知世界（世界之内）范围扩大了，但是知道更多知识后，却又发现已知世界范围变小了，故用<span class="label info">改变</span>（易）。</p></div><h3 id="回到现实中"><a href="#回到现实中" class="headerlink" title="回到现实中"></a>回到现实中</h3><p>现实世界，人类文明的地理边界已不在地球上的任何一个地方了，在哪？地球之外，如今探索一词更大程度上被定义为太空探索，这是必须的，因为地理世界之外的文明也许下一秒就让我们的存在不复存在。</p><p>而目前热议的 AI，也是我们必须重视的，但我们不能回避，也不能倒退，我们必须扩展 AI 知识的边界，唯有如此，才能保证存在。</p><p>但是，回归到现实世界后，现实世界的世界之内可不是理想的诗意之地。现实世界的世界之内有很多国家，很多民族，他们都高呼着：“世界是相对的！”，各自定义着“世界”之内，与“世界”之外斗争着。</p><p>这就是我的写作目的，使大众树立目标，使大众认清世界，顺便清理「技术恐惧」这一毒瘤，以保证存在。</p><h3 id="真正的目标"><a href="#真正的目标" class="headerlink" title="真正的目标"></a>真正的目标</h3><figure class="highlight plain"><figcaption><span>“查拉图斯特拉如是说”</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div></pre></td><td class="code"><pre><div class="line">你个布教者，满嘴胡言，世界就是夏尔！</div><div class="line"></div><div class="line">信徒！你的信仰我无法改变，因为……</div><div class="line"></div><div class="line">没错，我的信仰是最崇高的！那是真理！</div><div class="line"></div><div class="line">呵！首先，信仰无正确错误，高低贵贱之分！</div><div class="line">如影片中的光明与黑暗，光明真的比黑暗伟大？</div><div class="line">若以光明的角度，黑暗肯定黑暗；</div><div class="line">但在黑暗的视角，黑暗才是光明！</div><div class="line">如此，中土世界内哪种势力的胜利，并无伟大非伟大之分！</div><div class="line">且中土世界之内的战争是多么幼稚，</div><div class="line">只为实现自己这边片面的价值，毫无价值！</div><div class="line">而真理才是我们应该追求的！且这真理非你口中所言！</div><div class="line"></div><div class="line">然后，信仰是基于你所相信的，你所相信的只是</div><div class="line">base on the world of yourself, not the world！</div><div class="line">但是，对 the world 而言，信仰是基于真正的真理！</div><div class="line">并且存在于 everyoneselves 的世界中，</div><div class="line">存在于每个民族，甚至是外星文明中！</div><div class="line">而这真正的真理，就是我的信仰！我的 Epic！</div></pre></td></tr></table></figure><p>没错，目标为真正的真理，非存在，存在只是依赖，且必须。存在不能是我们的目标，因为不能为了存在而存在，应该为了真正的真理而存在，不然就如这个 <a href="https://reuixiy.github.io/beautiful/notnow/2017/06/20/Also-sprach-Zarathustra-1.html">笑话</a> ：为了晚上睡好，坚持白天不睡觉……活着就为睡觉？</p><h3 id="忘了个问题"><a href="#忘了个问题" class="headerlink" title="忘了个问题"></a>忘了个问题</h3><p>Caption Jack Sparrow 的罗盘不是指南针，他的方向（目标）不是指针而是内心的方向。个体而言，目标存在于自己内心，人类的目标又存在于哪里？</p><p><div class="aplayer" data-id="28635230" data-server="netease" data-type="song"></div></p><script>var meting_api='https://api.i-meto.com/meting/api?server=:server&type=:type&id=:id&r=:r';</script><script src="https://cdn.jsdelivr.net/npm/meting/dist/Meting.min.js"></script><hr>]]></content>
     
@@ -154,27 +156,29 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
-    
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
     
       <category term="工具" scheme="https://reuixiy.github.io/tags/tools/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
     
@@ -189,6 +193,8 @@
       <category term="technology" scheme="https://reuixiy.github.io/tags/technology/"/>
     
       <category term="技术恐惧" scheme="https://reuixiy.github.io/tags/technophobia/"/>
+    
+      <category term="小王子" scheme="https://reuixiy.github.io/tags/the-little-prince/"/>
     
       <category term="易" scheme="https://reuixiy.github.io/tags/change/"/>
     
@@ -224,11 +230,11 @@
     
       <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -280,11 +286,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
@@ -340,17 +346,17 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -524,9 +530,9 @@
       <category term="system-software" scheme="https://reuixiy.github.io/categories/technology/computer/system-software/"/>
     
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
@@ -624,6 +630,8 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
@@ -631,8 +639,6 @@
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -764,7 +770,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/09/09/Now-My-Feet-Won-t-Touch-The-Ground.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/09/09/Now-My-Feet-Won-t-Touch-The-Ground.html</id>
     <published>2017-09-09T08:04:20.000Z</published>
-    <updated>2017-12-26T08:58:56.449Z</updated>
+    <updated>2018-01-21T02:01:08.880Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-37.jpg" alt="coldplay-37.jpg" style="width:100%"></p><a id="more"></a><p>小时候斜望着夜空中的星光<br>我要到那里去！<br>你这样仰头笑着回答家长的问题——<br>宝宝，<br>你长大后想干什么呢？</p><p>学会了阅读<br>学会了书写<br>于是你低头学习着那些深奥的知识<br>我会是你的骄傲！<br>你这样对家长许下了承诺</p><p>学会了说话<br>学会了行走<br>于是你有了一些朋友<br>友谊多么可贵！<br>双手紧握</p><p>你不学习对得起父母吗？<br>你不努力对得起朋友吗？<br>你不继续对得起那个跨越下面阶梯的自己吗？<br>象牙塔开始质问哭泣的你<br>于是你的双脚从窗户慢慢回缩</p><p><em>Let me go</em><br><em>Push my boat from the highest cliff to the sea below</em><br><em>Rocks awaiting</em><br><em>You wait a lifetime to be found</em><br><em>Now my feet won’t touch the ground…</em></p><div id="aplayer0" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Now My Feet Won't Touch The Ground][al:Prospekt's March EP][by:https://reuixiy.github.io][length:2:26][00:00.00]Coldplay - Now My Feet Won't Touch The Ground[00:08.71][00:08.72]Let me go[00:11.19]Boys, let me go[00:16.34]Push my boat from the highest cliff[00:20.04]To the sea below[00:24.00]Rocks awaiting[00:26.72]Boys, rocks awaiting[00:32.07]Swoop down from the sky and catch me[00:35.55]Like a bird of prey[00:40.60]Now my feet won't touch the ground[00:48.62]Now my head won't stop[00:56.04]You wait a lifetime[01:00.20]To be found[01:04.12]Now my feet won't touch the ground[01:44.30]Now my feet won't touch the ground[01:52.48]Now my head won't stop[02:00.05]You wait a lifetime[02:04.16]To be found[02:07.89]Now my feet won't touch the ground[02:15.86]Now my feet won't touch the ground</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer0"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Now My Feet Won't Touch The Ground",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
     
@@ -785,17 +791,19 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -849,13 +857,13 @@
     
       <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
     
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
       <category term="bitcoin" scheme="https://reuixiy.github.io/tags/bitcoin/"/>
     
       <category term="去中心化" scheme="https://reuixiy.github.io/tags/decentralization/"/>
     
       <category term="zeronet" scheme="https://reuixiy.github.io/tags/zeronet/"/>
-    
-      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
     
   </entry>
   
@@ -879,6 +887,10 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
@@ -886,10 +898,6 @@
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
     
@@ -923,11 +931,11 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
@@ -971,11 +979,11 @@
       <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
     
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
     
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
@@ -1069,9 +1077,9 @@
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
-      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
-    
       <category term="shape" scheme="https://reuixiy.github.io/tags/shape/"/>
+    
+      <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
       <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
     
@@ -1153,11 +1161,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
@@ -1307,8 +1315,6 @@
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
-      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
-    
       <category term="beautiful" scheme="https://reuixiy.github.io/tags/beautiful/"/>
     
       <category term="share" scheme="https://reuixiy.github.io/tags/share/"/>
@@ -1322,6 +1328,8 @@
       <category term="下载" scheme="https://reuixiy.github.io/tags/download/"/>
     
       <category term="工具" scheme="https://reuixiy.github.io/tags/tools/"/>
+    
+      <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
     
@@ -1423,11 +1431,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="树莓派" scheme="https://reuixiy.github.io/tags/raspberry-pi/"/>
     
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="linux" scheme="https://reuixiy.github.io/tags/linux/"/>
     
@@ -1514,7 +1522,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/05/20/untitled-8.html</id>
     <published>2017-05-19T20:24:55.000Z</published>
-    <updated>2018-01-11T10:32:55.783Z</updated>
+    <updated>2018-01-21T01:59:25.728Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-8-title.jpeg" alt="untitled-8-title.jpeg" style="height: 200px"></p><a id="more"></a><p>5 / 20？我？她？<br>纵使我她如那欧几里得<br>两条平行永不相交的直线<br>我也会扭转出新维度<br>将它们连成丘比特之环</p><p>文字浮入空气中<br>渗入了身体<br>于是一个人离开了这世界<br>什么残留了<br>冰冷前额的温度</p><p>暗夜中<br>渴望一束光的关怀<br>在白天<br>却更渴望黑洞的吞噬<br>因为好奇心，想看看黑暗中有什么</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-8-1.jpg" alt="untitled-8-1.jpg"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-8-2.jpg" alt="untitled-8-2.jpg"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-8-3.jpg" alt="untitled-8-3.jpg"></p><div style="text-align:right">2017-05-20 04:24:55</div><hr>]]></content>
     
@@ -1539,15 +1547,17 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
     
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -1604,7 +1614,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/04/28/coldplay-lost+.html</id>
     <published>2017-04-27T23:37:21.000Z</published>
-    <updated>2017-12-26T08:56:42.493Z</updated>
+    <updated>2018-01-21T01:57:04.812Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p class="description">太喜欢 Coldplay 的这首歌和这个 MV 了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～但发现最困难的还是翻译，这才是脑力活<img id="github-emoji" alt="speak_no_evil" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f64a.png?v7" height="20" width="20">……Anyway，很兴奋，开心<img id="github-emoji" alt="stuck_out_tongue_closed_eyes" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61d.png?v7" height="20" width="20">～</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/coldplay-38.png" alt="coldplay-38.png"></p><a id="more"></a><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div id="dplayer2" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><h2 id="歌词"><a href="#歌词" class="headerlink" title="歌词"></a>歌词</h2><p>Coldplay - Lost+ ft. Jay-Z<br>字幕制作：Worm-35（网易云音乐账号）</p><p>Okay!<br>Okay!</p><p>Just because I’m losing<br>我只不过是迷茫着</p><p>Doesn’t mean I’m lost<br>不意味着我失败了</p><p>Doesn’t mean I’ll stop<br>不意味着我会停下脚步</p><p>Doesn’t mean I’m across<br>不意味着我会错过</p><p>Just because I’m hurting<br>我只不过是疼痛着</p><p>Doesn’t mean I’m hurt<br>不意味着我受伤了</p><p>Doesn’t mean I didn’t get what I deserved<br>不意味着我没有得到自己应得的</p><p>No better and no worse<br>这样不算更好，也没更坏</p><p>I just got lost!<br>我只是迷茫着</p><p>Every river that I tried to cross<br>每条我尝试了要去跨过的河流都被锁住了</p><p>Every door I ever tried was locked<br>每扇我曾尝试了想要去打开的门都被锁住了</p><p>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去</p><p>You might be a big fish<br>你可能是条大鱼</p><p>In a little pond<br>在小小的池塘里</p><p>Doesn’t mean you’ve won<br>但这不意味着你是赢家</p><p>‘Cause along will come<br>因未来可能会有</p><p>A bigger one<br>另外一条更大的鱼出现</p><p>And you’ll be lost!<br>然后你将感到迷茫</p><p>Every river that you tried to cross<br>每条你尝试了要去跨过的河流都消失不见了</p><p>Every gun you ever held went off<br>每把你曾紧握的枪都消失不见了</p><p>Oh and I’m just waiting til the firing’s stopped<br>Oh, 我只不过在等待直到热火散尽的瞬间</p><p>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去</p><p>[Jay-Z rap]<br>[Jay-Z rap]</p><p>Aha, I got you, uh<br>Aha, 我懂了, uh</p><p>With the same sword they knight you<br>那把他们封给你的剑</p><p>They gon’ goodnight you with<br>他们也会用它给你说晚安</p><p>Shit, that’s only half if they like you<br>Shit, 如果他们喜欢你但也可能只有一半</p><p>That ain’t even a half what they might do<br>事实上那甚至不到他们可能做的一半</p><p>Don’t believe me? Ask Michael<br>不相信我？问问迈克尔·杰克逊吧</p><p>See Martin, see Malcolm<br>看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀）</p><p>See Biggie, see Pac<br>看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命）</p><p>See success and its outcome<br>看看成功和成功的后果</p><p>See Jesus, see Judas<br>看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀）</p><p>See Caesar, see Brutus<br>看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀）</p><p>See success is like suicide<br>看看成名好像就已预定自杀</p><p>Suicide, it’s a suicide<br>自杀，是的，是自杀</p><p>If you succeed prepare to be crucified<br>如果你红了要有被钉死在十字架上的准备</p><p>Media meddles<br>媒体的骚扰</p><p>Niggaz sue you, you settle<br>小人的起诉，这些你都得面对</p><p>Every step you take<br>向成功迈出的每一小步</p><p>They remind you, you ghetto<br>他们就会提醒你，你永远是个穷鬼</p><p>So it’s tough being Bobby Brown<br>所以成为鲍比·布朗（美国流行乐歌星）不容易</p><p>To be Bobby then you have to be Bobby now<br>要成为Bobby你就必去承受Bobby现在承受的（吸毒）</p><p>And the question is, is to have had and lost<br>问题就在于，曾经拥有却失去</p><p>Better than not having at all?<br>要比一无所有要好吗？</p><p>Because…<br>因为…</p><p>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去</p><p>Oh and I’m just waiting til the shine wears off<br>Oh, 我只不过想等着外面的强光褪去</p><p>Oh Oh Oh Oh Oh<br>Oh Oh Oh Oh Oh</p><p>Just because I’m losing<br>我只不过是迷茫着</p><p>Doesn’t mean I’m lost!<br>不意味着我失败了</p><h2 id="打个小广告"><a href="#打个小广告" class="headerlink" title="打个小广告"></a>打个小广告</h2><p>字幕制作软件是 <a href="http://www.arctime.org/" target="_blank" rel="noopener">Arctime</a> ，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的 <a href="http://music.163.com/#/user/home?id=86590096" target="_blank" rel="noopener">网易云音乐歌单</a> ，初中到现在的歌单<img id="github-emoji" alt="stuck_out_tongue_winking_eye" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61c.png?v7" height="20" width="20">～</p><hr>]]></content>
     
@@ -1621,11 +1631,11 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
@@ -1638,6 +1648,8 @@
       <category term="system-software" scheme="https://reuixiy.github.io/tags/system-software/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
   </entry>
   
@@ -1827,9 +1839,9 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -1858,7 +1870,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2017/02/28/fragment.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2017/02/28/fragment.html</id>
     <published>2017-02-27T18:22:21.000Z</published>
-    <updated>2017-12-26T09:06:39.741Z</updated>
+    <updated>2018-01-21T02:01:37.040Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/give.jpg" alt="give.jpg" style="width:100%"></p><a id="more"></a><h2 id="Fragment"><a href="#Fragment" class="headerlink" title="Fragment"></a><center>Fragment</center></h2><p><i><center>When you watch the scenery from the bridge,<br>The sightseer watches you from the balcony.<br>The bright moon adorns your window,<br>While you adorn another’s dream.</center></i></p><h2 id="断章-–-卞之琳"><a href="#断章-–-卞之琳" class="headerlink" title="断章 – 卞之琳"></a><center>断章 – 卞之琳</center></h2><p><center>你站在桥上看风景，<br>看风景的人在楼上看你。<br>明月装饰了你的窗子，<br>你装饰了别人的梦。</center></p><h2 id="The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric"><a href="#The-Chainsmokers-amp-Coldplay-–-Something-Just-Like-This-Lyric" class="headerlink" title="The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)"></a><center>The Chainsmokers &amp; Coldplay – Something Just Like This (Lyric)</center></h2><div id="dplayer9" class="dplayer hexo-tag-dplayer-mark" style="margin-bottom: 20px;"></div><script>(function(){var player = new DPlayer({"container":document.getElementById("dplayer9"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/The%20Chainsmokers%20%26%20Coldplay%20-%20Something%20Just%20Like%20This%20%28Lyric%29.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()</script><hr>]]></content>
     
@@ -1887,6 +1899,8 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
+    
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
   </entry>
@@ -1896,7 +1910,7 @@
     <link href="https://reuixiy.github.io/philosophy/why/2017/02/07/notnow.html"/>
     <id>https://reuixiy.github.io/philosophy/why/2017/02/07/notnow.html</id>
     <published>2017-02-07T09:38:42.000Z</published>
-    <updated>2017-12-26T09:09:44.409Z</updated>
+    <updated>2018-01-21T01:51:45.408Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/notnow-title.jpeg" alt="notnow-title.jpeg" style="width:100%"></p><a id="more"></a><h2 id="analysis"><a href="#analysis" class="headerlink" title="analysis"></a>analysis</h2><blockquote class="question">过去不能改变，未来不可预知，能改变的只是现在。</blockquote><p>这是错误的，理由：时间无限分割，不能感受到现在，只能感受到过去，因此改变现在无意义，要为未来而活。</p><h2 id="tips-association"><a href="#tips-association" class="headerlink" title="tips | association"></a>tips | association</h2><p>有时候看电影不如看文字，想象力最丰富的是自己的大脑。</p><h2 id="critique"><a href="#critique" class="headerlink" title="critique"></a>critique</h2><p>有时候抱怨现在不如拥抱未来，将时间无限分割，就是那真正的现在，但自己压根无法此刻改变它——真正的现在。故抱怨现在也就只是：</p><ol><li>抱怨过去，很多老师言抱怨过去是毫无意义的，没有后悔药，无意义。</li><li>抱怨未来，未来无法预知就抱怨，如同《三傻大闹宝莱坞》的那个信神烧香的那位，生活对他来说就只有未来的恐惧，无意义。</li></ol><p>所以不要抱怨，因为自己此刻能抱怨的只有过去和未来，但都没意义。抱怨现在？时间无限分割，此刻自己无法对现在做任何事。</p><p>不要抱怨，要拥抱。抱怨无法让你快乐，拥抱才能让自己<span class="label primary">快乐</span>。并且，时间无限分割，此刻的自己拥抱的只有未来。</p><p><em>（不适合不把快乐作为自己活着的意义所在之）</em></p><hr>]]></content>
     
@@ -1923,21 +1937,23 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
-    
-      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
-    
       <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
     
       <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
     
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
+    
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
       <category term="bb-for-fun" scheme="https://reuixiy.github.io/tags/bb-for-fun/"/>
+    
+      <category term="电影" scheme="https://reuixiy.github.io/tags/movies/"/>
     
       <category term="大脑" scheme="https://reuixiy.github.io/tags/brain/"/>
     
@@ -1994,7 +2010,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/28/untitled-7.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/28/untitled-7.html</id>
     <published>2017-01-28T10:31:55.000Z</published>
-    <updated>2017-12-26T09:08:56.057Z</updated>
+    <updated>2018-01-21T01:59:19.476Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-7-2.jpg" alt="untitled-7-2.jpg" style="width:100%"></p><a id="more"></a><p>正是夕阳西下时，<br>攀上楼顶，一直盯着那天空</p><p>盯着浩瀚天空<br>面迎舒适南风<br>她也吹拂着天空云朵<br>天空移步的云朵<br>将我呢<br>由眼前带到脑后</p><p>哇！<br>忽现一架飞机，<br>逆着移步的云朵<br>如逆着时间<br>将我的美丽童年带来<br>她，真美～</p><p>舒适南风<br>难忘今生</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-7-1.jpg" alt="untitled-7-1.jpg"></p><hr>]]></content>
     
@@ -2019,6 +2035,8 @@
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
     
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
+    
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
       <category term="摄影" scheme="https://reuixiy.github.io/tags/photograph/"/>
@@ -2038,7 +2056,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/17/untitled-6.html</id>
     <published>2017-01-17T12:03:40.000Z</published>
-    <updated>2017-12-26T09:08:46.093Z</updated>
+    <updated>2018-01-21T01:59:13.036Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><blockquote class="blockquote-center"><p>品味一种纯糖果，各式口感竟皆有<br>单曲循环却病躺，随机播放即变换<br>困于倦于这现实，拥抱梦想何不试<br>星辰大海应忽现，近处视界皆将变</p></blockquote><div id="aplayer10" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:Always In My Head][al:Ghost Stories][by:https://reuixiy.github.io][length:3:36][00:00.00]Coldplay - Always In My Head[01:04.42][01:04.43]I think of you[01:11.93]I haven't slept[01:19.71]I think I do[01:21.97]But, I don't forget[01:30.59]My body moves[01:34.14]Goes where I will[01:37.70]But though I try my heart stays still[01:45.61]It never moves[01:48.68]Just won't be led[01:51.53]And so my mouth waters, to be fed[01:58.79]And you're always in my head[02:06.53]You're always in my head[02:13.61]You're always in my head[02:21.01]You're always in my head[02:43.23]You're always in my head[02:50.91]Always in my...[02:54.72]Always in my...[03:00.15]This, I guess, is to tell you you're chosen out from the rest...</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer10"),narrow: false,autoplay: false,showlrc: 2,music: {title: "Always In My Head",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Always%20In%20My%20Head.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-ghost-stories.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script>]]></content>
     
@@ -2059,19 +2077,21 @@
     
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
       <category term="coldplay" scheme="https://reuixiy.github.io/tags/coldplay/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="前额一冷" scheme="https://reuixiy.github.io/tags/calm/"/>
     
@@ -2086,7 +2106,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/12/untitled-5.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2017/01/12/untitled-5.html</id>
     <published>2017-01-12T10:31:55.000Z</published>
-    <updated>2017-12-26T09:08:39.477Z</updated>
+    <updated>2018-01-21T01:59:07.904Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-5-title.jpg" alt="untitled-5-title.jpg" style="width:100%"></p><a id="more"></a><p>（删除遗失）……</p><hr>]]></content>
     
@@ -2105,6 +2125,8 @@
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
+    
       <category term="学习" scheme="https://reuixiy.github.io/tags/learning/"/>
     
       <category term="悲伤" scheme="https://reuixiy.github.io/tags/sad/"/>
@@ -2118,7 +2140,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/31/untitled-4.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/31/untitled-4.html</id>
     <published>2016-12-30T21:31:55.000Z</published>
-    <updated>2017-12-26T09:08:32.537Z</updated>
+    <updated>2018-01-21T01:59:01.900Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-4.jpg" alt="untitled-4.jpg" style="width:100%"></p><a id="more"></a><h2 id="诗"><a href="#诗" class="headerlink" title="诗"></a>诗</h2><p>瞧，是个婴儿，<br>刚刚来到这个世界。</p><p>无尽黑暗中<br>感受到这世界的那光，<br>挣开眼皮，<br>眼睛大大，<br>对这世界的渴望有多大。</p><p>黑夜降临在白云之上。<br>咦～<br>原来这世界并非一直有那光，<br>眼皮闭合。<br>咦～<br>好像有光，但只是一点，<br>眼皮挣开。<br>咦～<br>不是一点，而是很多很多点。</p><p>不相信，<br>闭，<br>开，<br>闭，<br>开。<br>真的！<br>兴奋不已，手脚共舞。</p><p>这些点点光照亮了一个面孔，<br>姑且这样称呼吧，<br>第一次眼皮挣开时的所见。<br>这面孔带着微笑，<br>笑容也带着婴儿。</p><p>小手向着一脑中最亮的一亮点，<br>想要它。<br>大手把小手向着另一亮点，<br>小手要挣开，<br>大手却紧闭。</p><p>紧闭的大手<br>是这个世界给婴儿紧紧的拥抱，<br>欢迎来到这个世界。<br>但婴儿却哭了，<br>闭上了双眼，<br>然后挣开了。</p><p>毕竟这个世界<br>至少有光，<br>有婴儿想要的它——<br>那一亮点。<br>虽然小手被大手紧握，<br>但眼睛依然可以瞥向<br>那一亮点，<br>那一亮点。</p><p>这个世界于是开始带着婴儿<br>带着婴儿爬行，<br>带着婴儿说话，<br>终于，婴儿学会了走路。<br>婴儿要走向天空，<br>拿到它——<br>那一亮点。</p><p>可是，<br>婴儿发现，<br>走路，只能走向大手的那亮点<br>说话，只有这路上的人能懂，<br>就连爬行啊，<br>也只能爬向大手的那亮点。</p><p>那一亮点啊，<br>只能眼睛盯着。<br>盯着？不看路？<br>因为婴儿发现眼睛没必要看路——<br>路已铺好。</p><p>其实自己就在一辆<br>一辆行驶在直线上的单向列车上。<br>起始站是大手握紧小手时，<br>终点站是到大手的亮点时。<br>能动能说话，<br>最重要的是能享受娱乐，<br>这消耗掉大部分无聊。</p><p>对那一亮点也只是娱乐完后<br>瞄一眼罢了。<br>毕竟一生的起始站和终点站已定，<br>纵情享乐吧！<br>咦~<br>自己不就是在这样一辆<br>固定地点 + 不固定时间 + 物质变换的<br>单向列车上？</p><p>何况这个世界教导我们——<br>这是达到一个光点最快的途径。<br>两点之间，<br>直线段最短。<br>一起一终，这没毛病。</p><p>一种螺旋线似的向远处拉镜头。<br>我看全了这个世界——<br>一条条直线段斜立在空中，<br>几乎没有竖直的直线段。<br>直线段的两个端点<br>也不是个人的一前一后时间点的不同事件，<br>而是——<br>混乱，各种知识光点组成的真理。</p><p>这样对这个世界而言，<br>因为每个人的时间有限<br>而直线段中的每个人，<br>花了大部分时间在娱乐上。<br>结果是，<br>这个世界达到某个知识光点的时间加长。<br>而到达真理的一些小点 = 非真理。</p><p>咦～<br>太危险，<br>我要告诉婴儿。</p><p>婴儿听了后，<br>不急不忙道：<br>知识光点能否及时达到与我无关，<br>好好享乐吧。<br>知识光点不能及时达到带来的后果——<br>这个世界——<br>人类世界能否存活，<br>那是遥远的子孙后代的事。<br>反正对我而言，<br>我不就是在这样一辆固定地点 + 不固定时间 + 物质变换的<br>单向列车上？<br>好好享乐吧。</p><p>至于你所谓的真理<br>这是什么鬼？<br>与我有什么关系！<br>好好享乐吧！</p><p>那一亮点？<br>好好享乐吧！<br>想它作甚。</p><p>目标的达成，不是两点连线。</p><p><em>（第一次通宵）</em></p><h2 id="补充（2017-07-24）"><a href="#补充（2017-07-24）" class="headerlink" title="补充（2017.07.24）"></a>补充（2017.07.24）</h2><p>写这个的时候，自己脑中是有一个想象的世界，而且我努力把它想的任性一点，尽一切可能把它变得很<span class="label info">怪</span>，然后尽可能用适当的文字描述。</p><p>想不到今天看阿西莫夫的《九个明天系列》，其中的《最后的问题》这篇，我竟然感觉和这诗描述的很像，都是任性的想象。这篇中，阿西莫夫是依“熵”而展开的极限想象，认为世界终有一天会毁灭，也许大多数人认为这太遥远，与自己无关，但终有那么一天。</p><p>不管怎么说，因某一依据而创造脱离现实的<span class="label info">任性</span>想象世界还是很有趣，哈哈哈哈哈<img id="github-emoji" alt="stuck_out_tongue_closed_eyes" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f61d.png?v7" height="20" width="20">～</p><hr>]]></content>
     
@@ -2143,19 +2165,21 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="科幻" scheme="https://reuixiy.github.io/tags/fiction/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
-    
-      <category term="维" scheme="https://reuixiy.github.io/tags/dimension/"/>
-    
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2194,7 +2218,7 @@
     <link href="https://reuixiy.github.io/philosophy/how/2016/12/29/on-philosophy-of-learning.html"/>
     <id>https://reuixiy.github.io/philosophy/how/2016/12/29/on-philosophy-of-learning.html</id>
     <published>2016-12-28T18:43:05.000Z</published>
-    <updated>2017-12-26T09:07:18.613Z</updated>
+    <updated>2018-01-21T01:56:02.116Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/bertrand-russell.jpg" alt="bertrand-russell.jpg" style="width:100%"></p><a id="more"></a><h2 id="question"><a href="#question" class="headerlink" title="question"></a>question</h2><blockquote class="question">想细细读读哲学，不知道买哪样的书好……</blockquote><h2 id="tips"><a href="#tips" class="headerlink" title="tips"></a>tips</h2><p>因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。</p><p>但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种<span class="label primary">好奇心</span>，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。</p><h3 id="哲学史"><a href="#哲学史" class="headerlink" title="哲学史"></a>哲学史</h3><p>我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。</p><p>这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。</p><h3 id="名著"><a href="#名著" class="headerlink" title="名著"></a>名著</h3><p>然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。</p><h3 id="association-shape"><a href="#association-shape" class="headerlink" title="association | shape"></a>association | shape</h3><p>期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。</p><p>甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的<span class="label info">外表形状</span>（虽然摸不着，但它难道没有神秘的美和力量？）。</p><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>这过程啊，<br>顺从那好奇心，<br>发挥着那想象，<br>酒神狄俄尼索斯的狂欢，<br>日神阿波罗的至高喜悦，<br>此乐何极！</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，<span class="label success">心情也趋于平静</span>～</p><div style="text-align:right">2016-12-29 02:43:05</div><h2 id="Coldplay-In-My-Place"><a href="#Coldplay-In-My-Place" class="headerlink" title="Coldplay - In My Place"></a>Coldplay - In My Place</h2><div id="aplayer7" class="aplayer" style="margin-bottom: 20px;"><pre class="aplayer-lrc-content">[ar:Coldplay][ti:In My Place][al:A Rush Of Blood To The Head][by:https://reuixiy.github.io][length:3:48][00:00.00]Coldplay - In My Place[00:33.23][00:33.24]In my place, in my place[00:38.14]Were lines that I couldn't change[00:41.24]I was lost, oh yeah[00:47.53]I was lost, I was lost[00:50.98]Crossed lines I shouldn't have crossed[00:54.47]I was lost, oh yeah[00:59.55]Yeah, how long must you wait for it?[01:07.58]Yeah, how long must you pay for it?[01:14.16]Yeah, how long must you wait for it?[01:22.50]For it[01:40.09]I was scared, I was scared[01:44.05]Tired and under-prepared[01:47.03]But I'll wait for it[01:53.20]And if you go, if you go[01:57.13]Leave me down here on my own[02:00.20]Then I'll wait for you, yeah[02:05.50]Yeah, how long must you wait for it?[02:13.53]Yeah, how long must you pay for it?[02:20.11]Yeah, how long must you wait for it?[02:28.23]For it[02:58.12]Singing please, please, please[03:03.08]Come back and sing to me[03:06.36]To me, me[03:09.40]Come on and sing it out, now, now[03:16.21]Come on and sing it out to me, me[03:23.05]Come back and sing it[03:26.08]In my place, in my place[03:29.76]Were lines that I couldn't change[03:32.81]I was lost, oh yeah[03:37.42]Oh yeah</pre></div><script>var ap = new APlayer({element: document.getElementById("aplayer7"),narrow: false,autoplay: false,showlrc: 2,music: {title: "In My Place",author: "Coldplay",url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3",pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg",}});window.aplayers || (window.aplayers = []);window.aplayers.push(ap);</script><hr>]]></content>
     
@@ -2225,13 +2249,13 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
-    
-      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
       <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
     
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
@@ -2240,6 +2264,8 @@
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
     
@@ -2266,7 +2292,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/07/untitled-3.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/12/07/untitled-3.html</id>
     <published>2016-12-06T16:31:55.000Z</published>
-    <updated>2017-12-26T09:08:20.397Z</updated>
+    <updated>2018-01-21T01:58:46.048Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-3-title.jpg" alt="untitled-3-title.jpg" style="width:100%"></p><a id="more"></a><p>你们正向着那天空越飞越高，<br>我站在地上，<br>看着你们在我眼中越来越小。<br>很开心，<br>插着腰，<br>大笑！</p><p>自讽。</p><hr>]]></content>
     
@@ -2286,6 +2312,8 @@
       <category term="沉迷于删删改改" scheme="https://reuixiy.github.io/tags/nerd/"/>
     
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2327,11 +2355,11 @@
     
       <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
@@ -2350,7 +2378,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/19/untitled-2.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/11/19/untitled-2.html</id>
     <published>2016-11-19T15:31:55.000Z</published>
-    <updated>2017-12-26T09:08:13.165Z</updated>
+    <updated>2018-01-21T01:58:41.028Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-2.jpg" alt="untitled-2.jpg" style="width:100%"></p><a id="more"></a><p>暗，深，静<br>稀疏星光<br>带我，入极昼</p><p>待到天亮，万物复苏<br>满天的光辉与万物的生机啊<br>你！你又为何要将我——<br>将我，硬生生踢出——<br>踢出，极昼！</p><p>难道你！你不知道？<br>那极昼啊——<br>起源！<br>终结！<br>乐之所极！</p><hr>]]></content>
     
@@ -2369,17 +2397,19 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="开心" scheme="https://reuixiy.github.io/tags/happy/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="黑暗" scheme="https://reuixiy.github.io/tags/darkness/"/>
     
@@ -2392,7 +2422,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/10/31/untitled-1.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/10/31/untitled-1.html</id>
     <published>2016-10-31T02:01:55.000Z</published>
-    <updated>2017-12-26T09:08:05.645Z</updated>
+    <updated>2018-01-21T01:58:35.224Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/untitled-1.png" alt="untitled-1.png" style="width:100%"></p><a id="more"></a><p>发呆，书写将之保持<br>甚至，深入<br>音乐，美妙的催化剂</p><hr>]]></content>
     
@@ -2415,6 +2445,8 @@
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
+    
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
       <category term="音乐可视化" scheme="https://reuixiy.github.io/tags/music-visualization/"/>
@@ -2432,7 +2464,7 @@
     <link href="https://reuixiy.github.io/beautiful/bb-for-fun/2016/08/07/sadness.html"/>
     <id>https://reuixiy.github.io/beautiful/bb-for-fun/2016/08/07/sadness.html</id>
     <published>2016-08-07T12:38:38.000Z</published>
-    <updated>2017-12-26T09:02:00.065Z</updated>
+    <updated>2018-01-21T02:00:37.040Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/sadness-title.jpg" alt="sadness-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="漂泊者-尼采"><a href="#漂泊者-尼采" class="headerlink" title="漂泊者 - 尼采"></a>漂泊者 - 尼采</h2><p>一个漂泊者在夜色中前行。<br>步伐坚定；<br>蜿蜒的山谷和漫长的山路——<br>他摸索着前进。<br>夜色很美——<br>他迈步向前，毫不停止，<br>不知道他的路还要通往哪里。</p><p>那时，一只鸟儿在夜色中歌唱：<br>“鸟儿啊，你干吗要这样！<br>你为何拦住我的腿和心，<br>把这动人的伤心的声音<br>灌进我耳中，使我不得不立停、<br>不得不倾听——<br>你为何用欢迎的歌声将我逗引？”</p><p>好鸟儿停止歌唱而答问：<br>“不，漂泊者，不！我何曾用歌声<br>将你逗引——<br>我是逗引高处的雌禽——<br>跟你有什么关系？<br>我孤孤单单，感不到夜色之美——<br>跟你有什么关系？因为你应当独行，<br>决不能、绝不能立停！<br>你干吗还站在这里？<br>我的清脆的歌声勾起你什么心事，<br>你这漂泊的游子？”</p><p>好鸟儿默默地沉思：<br>“我的清脆的歌声勾起他什么心事？<br>他干吗还站在这里？<br>这个可怜、可怜的漂泊的游子！”</p><h2 id="bb-1"><a href="#bb-1" class="headerlink" title="bb - 1"></a>bb - 1</h2><p>我遥望远方悲泣，<br>看不到征帆回航。<br>噫！<br>谁悲失路之人！？</p><h2 id="bb-2"><a href="#bb-2" class="headerlink" title="bb - 2"></a>bb - 2</h2><p>闭眼！漂泊者，<br>夜空的浩瀚星辰<br>与你相关？</p><p>闭眼！漂泊者，<br>浩瀚星辰尽收脑底。<br>夜空的浩瀚星辰<br>与你何关？！</p><p>漂泊者，闭眼！<br>这音符之光，<br>将你的浩瀚星辰<br>点亮！波动！狂欢！</p><p>噫！<br>那夜空浩瀚的星辰<br>与！你！无！关！</p><hr>]]></content>
     
@@ -2453,13 +2485,15 @@
     
       <category term="图片" scheme="https://reuixiy.github.io/tags/pictures/"/>
     
-      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
-    
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
     
@@ -2472,7 +2506,7 @@
     <link href="https://reuixiy.github.io/beautiful/share/2016/07/19/she-walks-in-beauty.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2016/07/19/she-walks-in-beauty.html</id>
     <published>2016-07-18T18:22:21.000Z</published>
-    <updated>2017-12-26T09:01:02.829Z</updated>
+    <updated>2018-01-21T02:02:40.412Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/she-walks-in-beauty-title.jpg" alt="she-walks-in-beauty-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="She-walks-in-beauty-Byron"><a href="#She-walks-in-beauty-Byron" class="headerlink" title="She walks in beauty - Byron"></a><center>She walks in beauty - Byron</center></h2><p><i><center>She walks in beauty, like the night<br>Of cloudless climes and starry skies;<br>And all that’s best of dark and bright<br>Meet in her aspect and her eyes:<br>Thus mellow’d to that tender light<br>Which heaven to gaudy day denies.<br>One shade the more, one ray the less,<br>Had half impair’d the nameless grace…</center></i></p><h2 id="她走在美的光彩中-拜伦"><a href="#她走在美的光彩中-拜伦" class="headerlink" title="她走在美的光彩中 - 拜伦"></a><center>她走在美的光彩中 - 拜伦</center></h2><p><center>她走在美的光彩中，如夜晚<br>皎洁无云而且繁星漫天<br>明与暗的最美妙的色泽<br>在她的仪容和秋波里呈现<br>耀目的白日只嫌光线过强<br>它比那光亮柔和且幽暗<br>增一分影，减一线光<br>就会损害这难言的美……</center></p><hr>]]></content>
     
@@ -2494,6 +2528,8 @@
       <category term="星空" scheme="https://reuixiy.github.io/tags/starry/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="love" scheme="https://reuixiy.github.io/tags/love/"/>
     
@@ -2521,13 +2557,13 @@
       <category term="how" scheme="https://reuixiy.github.io/categories/philosophy/how/"/>
     
     
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
       <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
     
       <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
     
       <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
-    
-      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
     
@@ -2544,11 +2580,71 @@
   </entry>
   
   <entry>
+    <title>人生第一次演讲 - 尼采</title>
+    <link href="https://reuixiy.github.io/beautiful/notnow/2016/04/21/the-first-speech-friedrich-nietzsche.html"/>
+    <id>https://reuixiy.github.io/beautiful/notnow/2016/04/21/the-first-speech-friedrich-nietzsche.html</id>
+    <published>2016-04-21T03:19:10.000Z</published>
+    <updated>2018-01-21T02:14:01.797Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-title.jpg" alt="the-first-speech-friedrich-nietzsche-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="稿子"><a href="#稿子" class="headerlink" title="稿子"></a>稿子</h2><p>上讲台，“重要的事情说三遍”大家都听说过（先在黑板上写，然后说），对吧？但是，你们知道这是谁说的吗？有一种说法说是尼采（黑板上写下“尼采”），今天我要讲的就是尼采，你们认为尼采作为一个人类而言，他的人生值得我们赞美和学习吗？等待回答（眼睛环绕教室）……</p><figure class="highlight plain"><figcaption><span>（以下自演）</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">A：咦～（转身，手指着左边）看！那有个同学…… So, Li Hua 同学，What&apos;s your idea?</div><div class="line"></div><div class="line">B：（走向左边）值得个屁！</div><div class="line"></div><div class="line">A：（走向右边）A-Ha, why?（皱眉，声音低沉）</div><div class="line"></div><div class="line">B：（走向左边）Because 我只想吃好喝好最重要的是睡好，与爸爸（bá bá）和妈妈（má má）</div><div class="line">及未来的老婆和孩子共享天伦之乐就好了，这是我的人生！</div><div class="line"></div><div class="line">A：（走向右边）But 尼采给全人类带来如此屌的思想，连这句小小的话（指向黑板）都是他老人</div><div class="line">家说的，他的人生怎么不值得我们赞美和学习呢？</div><div class="line"></div><div class="line">B：（走向左边）值得赞美和学习个屁，他的思想如此屌又怎样，他最后不是发疯了吗？这悲惨的</div><div class="line">人生，赞美？学习？</div><div class="line"></div><div class="line">A：（走向右边）呼——（低下头），呵呵——（抬头，沧桑）</div></pre></td></tr></table></figure><p>我们先来了解一下尼采的一生：出生、父亲死亡、学习、孤独、大学娱乐、疾病、孤独、发疯。</p><p>（通过对比突出尼采的精神伟大之处，几乎一直伴随疾病，但从未放弃学习，最后自己的成果还遭冷落，对真理的追求）</p><table><thead><tr><th>时间</th><th>事件</th></tr></thead><tbody><tr><td>1844.10.15</td><td>出生 德国</td></tr><tr><td>2 岁</td><td>弟弟夭折</td></tr><tr><td>5 岁</td><td>父亲死亡</td></tr><tr><td>10 岁</td><td>初中（一年内 50 首诗） 文学、音乐、钢琴</td></tr><tr><td>12 岁</td><td>开始头痛，经常头痛</td></tr><tr><td>14 岁</td><td>高中 音乐、诗歌</td></tr><tr><td>17 岁</td><td>严重疾病，被送回家修养</td></tr><tr><td>20 岁</td><td>波恩大学 古希腊神话 广泛交友，加入学生团体，娱乐活动，没有改变忧郁的个性 旅游，找饭店，但被领进妓院，弹钢琴，跑开</td></tr><tr><td>21 岁</td><td>莱比锡 旧书摊，偏僻角落，《作为意志和表象的世界》，两星期，两点睡六点起</td></tr><tr><td>23 岁</td><td>当兵，训练（早上七点到晚上六点），身体差，住在家中，晚上学习 从马上摔下，胸骨受重伤，坚持学习 第一篇哲学论文 《康德以来的目的论》</td></tr><tr><td>24 岁</td><td>瑞士巴塞尔大学古典语言学教授</td></tr><tr><td>28 岁</td><td>《悲剧的诞生》 巴塞尔大学学术界基本上持否定态度，让尼采的威信从天上到地下，学生纷纷离去，内心难过</td></tr><tr><td>35 岁</td><td>头痛、胃痛、呕吐不断、昏迷 辞去巴塞尔大学教授职务</td></tr><tr><td>40 岁</td><td>眼疾恶化，背部越来越弯曲 《查拉图斯特拉如是说》第三部分，二十天完成 冬天，忍着寒冷和眼疾痛苦，作《查拉图斯特拉如是说》第四部分，自费印制四十册，没有引起反应，有人埋怨，无人赞扬</td></tr><tr><td>41 岁</td><td>疾病下，《善恶的彼岸》，自费出版，卖出 114 本</td></tr><tr><td>45 岁</td><td>都灵大街，抱住受马夫虐待的马的脖子，放声大哭，摔在地上，昏迷两天两夜，失去理智</td></tr><tr><td>55 岁</td><td>与世长辞</td></tr></tbody></table><p>正如他的一首诗所说：银白、轻捷，像一条鱼，我的小船向远方，悄然驶去。（声音低沉）</p><p>（声音高昂）这也许就是尼采影响如此之大的原因了，他的一生一直为同一个目标努力，虽有肉体每天的折磨，更有精神上一次次的迷失，但最后却又为这同一个目标而竭尽脑中的一切思维！而这目标来自哪，我们有么？据说每个人心中都有种责任感，我们有吗？（音量逐渐提高）让中东的儿童远离战争？破除现有的思想体系或科学体系？遨游星海？尼采有这责任感，尼采有那目标，因此尼采的思想照耀了他之后的每一个时代！</p><p>庄子说：“小知不及大知，小年不及大年”，这人生的小与大，我们懂了吗？</p><h2 id="原稿"><a href="#原稿" class="headerlink" title="原稿"></a>原稿</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-1.jpg" alt="the-first-speech-friedrich-nietzsche-1.jpg"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-2.jpg" alt="the-first-speech-friedrich-nietzsche-2.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>这本是高三语文课课前对每个学生的一个要求——讲作文素材，不过我任性的把它当做了个演讲（那时看了些 CCTV 和 TED 上的演讲视频），并全程脱稿。</p><p>轮到懒洋洋的我时，刚好那几天刚看完尼采的传记，并且一直对高三的现状不满，于是前一天我就在纸上先列个匆忙的大纲，希望借尼采这个偶像来照耀高三学生前方的道路。没错，有些学生不仅学得好，而且玩得也好，学习和游戏两不误，甚至还恋爱，但作为学渣的我却有点看不下去，为什么他们都沦落成了扫地的小王子？</p><p>对于这个我自创的演讲，我先通过旁观者来演一出戏铺垫，通过对话的形式来激起大家的思考，然后介绍尼采的一生，最后我主观介入，高呼每个人认清人生的小与大，忠于目标！</p><p>列好提纲后，回家百度，补上尼采一生的重要有关事迹，刚好看到那时很火的“重要的事情说三遍”居然出自尼采，于是有了个很棒的演讲开头，然后第二天发了疯的记住，只因自己想脱稿。</p><p>看起来是不是很疯狂，高三了还站在一帮学霸前高谈人生，哈哈哈没有疯狂就成不了这个演讲，也许是刚经历完尼采的人生给了我疯狂的动力，让一个记忆力非常差的我敢在一天内记下一个演讲的各种细节，能将尼采一生的重要事迹按时间顺序说出来。虽然演讲一开始时小有紧张，有因忘了下文而空气突然尴尬安静的囧况，但酒神附体的我最后还是痛苦地回忆起来，酒神一附体，紧张就完全被疯狂消灭，所以自己最后还是很满意。</p><hr>]]></content>
+    
+    <summary type="html">
+    
+      庄子说：“小知不及大知，小年不及大年”，这人生的小与大，我们懂了吗？
+    
+    </summary>
+    
+      <category term="beautiful" scheme="https://reuixiy.github.io/categories/beautiful/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/categories/beautiful/notnow/"/>
+    
+    
+      <category term="真理" scheme="https://reuixiy.github.io/tags/truth/"/>
+    
+      <category term="bb-for-bb" scheme="https://reuixiy.github.io/tags/bb-for-bb/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="critique(批判)" scheme="https://reuixiy.github.io/tags/critique/"/>
+    
+      <category term="未来" scheme="https://reuixiy.github.io/tags/future/"/>
+    
+      <category term="epic" scheme="https://reuixiy.github.io/tags/epic/"/>
+    
+      <category term="光" scheme="https://reuixiy.github.io/tags/light/"/>
+    
+      <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
+    
+      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="查拉图斯特拉" scheme="https://reuixiy.github.io/tags/Zarathustra/"/>
+    
+      <category term="尼采" scheme="https://reuixiy.github.io/tags/Nietzsche/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="对立" scheme="https://reuixiy.github.io/tags/polarization/"/>
+    
+      <category term="死亡" scheme="https://reuixiy.github.io/tags/death/"/>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/tags/philosophy/"/>
+    
+      <category term="小王子" scheme="https://reuixiy.github.io/tags/the-little-prince/"/>
+    
+      <category term="how" scheme="https://reuixiy.github.io/tags/how/"/>
+    
+  </entry>
+  
+  <entry>
     <title>尼采 - 太阳沉落了</title>
     <link href="https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html"/>
     <id>https://reuixiy.github.io/beautiful/share/2015/12/15/nietzsche-die-sonne-gesunken.html</id>
     <published>2015-12-15T03:35:00.000Z</published>
-    <updated>2017-12-26T09:01:27.005Z</updated>
+    <updated>2018-01-21T01:58:55.164Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken-title.jpg" alt="nietzsche-die-sonne-gesunken-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="诗"><a href="#诗" class="headerlink" title="诗"></a>诗</h2><p>太阳在沉西。<br>你不会长久焦渴了，<br>燃烧的心！<br>有一种凉爽，在空气里，<br>我从陌生的嘴里呼吸到这种气息，<br>超乎寻常的大凉爽即将来临。</p><p>正午的太阳在燃烧，烈日当空，<br>向你致敬哦，你这阵阵袭来的<br>迅疾的风，<br>午后凉爽的精灵。</p><p>空气在流动，平和而纯净。<br>向我投来斜睨的<br>富有魅力之一瞥的<br>不是这夜的眸子？</p><p>坚强些吧，勇敢的心灵！<br>为什么？不用问询。<br>呵，我生命的黄昏呦！<br>太阳总要沉西。</p><p>我的生命之日啊，<br>在黄昏中沉落！<br>你的眼睛闪烁出<br>半被灼红的微光；<br>你的泪水流淌着<br>露珠一样的晶莹；<br>你爱情的紫霞<br>你最后迟到的至福<br>悄然流过，在这白茫茫的大海里……</p><p>四周只有波浪、波浪的嬉戏。<br>往日沉重的一切<br>早在蓝色的遗忘中沉去——<br>我的小船正搁浅。<br>多陌生呀——风暴与航行<br>希望和心愿久已淹没，<br>心灵与大海恬然静眠。</p><p>第七重孤寂<br>我从未感到过<br>更真切的美妙的静谧<br>更温暖的阳光的辐射。<br>——那不在闪烁，我绝顶上的冰？</p><p>银白、轻捷，像一条鱼，<br>我的小船向远方，悄然驶去。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche.jpg" alt="nietzsche.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>摘抄自高中图书馆借的《尼采大传》，时间我记不太清楚……这诗是两部分加起来的，在书中的不同位置，记得当时是在英语课在桌子里偷偷的看，看到诗的后一部分，马上拿纸抄下。英语老师（平时很严格）在上课？脑子里这时哪里特么有这概念？！？！</p><p>不久前我找到了《尼采大传》电子书版，<del>同一出版社，同一译者，但是版次估计与我看那的不同，因为里面的诗与我抄的不同</del>，有需要的，点击下载 <a href="https://yixiuer.oss-cn-shanghai.aliyuncs.com/books/%E5%B0%BC%E9%87%87%E5%A4%A7%E4%BC%A0.mobi" target="_blank" rel="noopener"><i class="fa fa-download" style="display:inline"></i> 尼采大传.mobi (2.1 MB)</a> 。</p><h2 id="勘误和补充（2017-09-25）"><a href="#勘误和补充（2017-09-25）" class="headerlink" title="勘误和补充（2017.09.25）"></a>勘误和补充（2017.09.25）</h2><p>整理文件时，找到一张图片（下图），不是同一出版社，也不是同一译者。</p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/nietzsche-die-sonne-gesunken.jpg" alt="nietzsche-die-sonne-gesunken.jpg"></p><hr>]]></content>
     
@@ -2572,6 +2668,8 @@
       <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
     
       <category term="诗" scheme="https://reuixiy.github.io/tags/poetry/"/>
+    
+      <category term="酒神" scheme="https://reuixiy.github.io/tags/dionysian/"/>
     
       <category term="更新" scheme="https://reuixiy.github.io/tags/update/"/>
     
@@ -2603,9 +2701,9 @@
     </summary>
     
     
-      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
-    
       <category term="hexo" scheme="https://reuixiy.github.io/tags/hexo/"/>
+    
+      <category term="video" scheme="https://reuixiy.github.io/tags/video/"/>
     
       <category term="music" scheme="https://reuixiy.github.io/tags/music/"/>
     
