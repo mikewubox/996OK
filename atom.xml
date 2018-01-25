@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://reuixiy.github.io/"/>
-  <updated>2018-01-21T01:56:31.768Z</updated>
+  <updated>2018-01-25T15:28:43.218Z</updated>
   <id>https://reuixiy.github.io/</id>
   
   <author>
@@ -15,6 +15,52 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>棋子</title>
+    <link href="https://reuixiy.github.io/philosophy/why/2018/01/25/chessman.html"/>
+    <id>https://reuixiy.github.io/philosophy/why/2018/01/25/chessman.html</id>
+    <published>2018-01-25T14:16:48.000Z</published>
+    <updated>2018-01-25T15:28:43.218Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/chessman.jpg" alt="chessman.jpg" style="width:100%"></p><a id="more"></a><p>当棋盘中的棋子意识到自己是棋子时，它就：</p><figure class="highlight dns"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div></pre></td><td class="code"><pre><div class="line">B：不属于这盘棋</div><div class="line"></div><div class="line"><span class="keyword">A</span>：还在棋盘中被移动，这样看，还是属于这盘棋。</div><div class="line">但是，它会开始思考自己，思考自己存在的价值，开始…</div><div class="line">这样看，它又不再属于这盘棋 <span class="number">233333</span>…</div><div class="line"></div><div class="line">C：还是一枚棋子，就像你我一样，有时候也会意思到自己在一个局中可能也是一枚棋子，</div><div class="line">可是当你陷入棋局中的时候，即使你知道是个局，知道自己是一枚棋子，</div><div class="line">也仍然为棋局的胜利而前进，亦或停止不动，被当做弃子，</div><div class="line">棋子虽可能微不足道，但或许也能影响局势</div><div class="line"></div><div class="line"><span class="keyword">A</span>：哈哈哈，这么多字，thanks。</div><div class="line">棋子自己可不会动，只能被动，这样影响局势的是它的操控者，而非棋子。</div><div class="line">不过呢，它是能思考的棋子，所以… 又不过呢，也许棋子自己会动呢 <span class="number">233333</span>…</div><div class="line"></div><div class="line">C：那我们就是会动的棋子吗<img id="github-emoji" alt="joy" src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f602.png?v7" height="20" width="20"></div><div class="line"></div><div class="line"><span class="keyword">A</span>：不知道…</div></pre></td></tr></table></figure><p>这是一个两年多前有意思的想法，重读《哲学的故事》时发现的，上面是最近的一段对话。</p><p>其实这句话是我为划线句子添加的一个前提，而我想表达的意思是当棋盘中的棋子意识到自己是棋子时，它就会开始…（划线句子），不过上面的对话又引出了一些有意思的问题。</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">问题呢？</div><div class="line"></div><div class="line">问题的意义不在于答案，而在于它本身。</div><div class="line"></div><div class="line">啥？！所以问题呢！？</div><div class="line"></div><div class="line">哈哈哈，自己去上面的对话中发现问题吧～</div></pre></td></tr></table></figure><hr>]]></content>
+    
+    <summary type="html">
+    
+      当棋盘中的棋子意识到自己是棋子时，它就…
+    
+    </summary>
+    
+      <category term="philosophy" scheme="https://reuixiy.github.io/categories/philosophy/"/>
+    
+      <category term="why" scheme="https://reuixiy.github.io/categories/philosophy/why/"/>
+    
+    
+      <category term="association" scheme="https://reuixiy.github.io/tags/association/"/>
+    
+      <category term="after-physics(形而上学)" scheme="https://reuixiy.github.io/tags/after-physics/"/>
+    
+      <category term="questions" scheme="https://reuixiy.github.io/tags/questions/"/>
+    
+      <category term="想象" scheme="https://reuixiy.github.io/tags/imagination/"/>
+    
+      <category term="analysis(分析)" scheme="https://reuixiy.github.io/tags/analysis/"/>
+    
+      <category term="notnow" scheme="https://reuixiy.github.io/tags/notnow/"/>
+    
+      <category term="好奇心" scheme="https://reuixiy.github.io/tags/curiosity/"/>
+    
+      <category term="目标" scheme="https://reuixiy.github.io/tags/goal/"/>
+    
+      <category term="quotes" scheme="https://reuixiy.github.io/tags/quotes/"/>
+    
+      <category term="practical-science(实践科学)" scheme="https://reuixiy.github.io/tags/practical-science/"/>
+    
+      <category term="看书" scheme="https://reuixiy.github.io/tags/reading/"/>
+    
+      <category term="极限" scheme="https://reuixiy.github.io/tags/the-limit/"/>
+    
+  </entry>
   
   <entry>
     <title>《冰与火之歌》 - 1</title>
@@ -2422,7 +2468,7 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2016/10/31/a-special-letter-of-apology.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2016/10/31/a-special-letter-of-apology.html</id>
     <published>2016-10-31T04:55:35.000Z</published>
-    <updated>2018-01-21T14:52:25.707Z</updated>
+    <updated>2018-01-25T15:20:37.795Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/a-special-letter-of-apology-title.jpeg" alt="a-special-letter-of-apology-title.jpeg" style="width:100%"></p><a id="more"></a><p>亲爱的学长学姐们：</p><p>抱歉，学长学姐们，我不想留下了，我认为宣传部并不适合我。</p><p>抱歉，谢谢学长学姐们对我一直的栽培，但我决定离开了。</p><p>那句“不忘初心，方得始终”我一直记得，现在我思考，我认为加入宣传部与我高中时渴望去大学的“初心”不吻合了。</p><p>我高中时看了几本哲学相关的书籍，从此我迷上了它，我在里面遨游，觉得很快乐。那时，我沉重的思考了我一生，将我的童年回忆，将我的现实批判，将我的未来描绘。我的“初心”已确立。</p><p>说实话，高考前的最后时间，我几乎就没怎么听课了。那时我虽然在课堂上，但当时我内心一直有一个极度反抗的意识——我觉得这样听课与我“初心”不符。</p><p>有一种叫“强拧的瓜不甜”的人：如果因为外在的压力，让这种人做他认为与“初心”不符的事，这种人就不能将这事做好。</p><p>很不幸，我就是这样一个人。结果不言而喻，我的成绩只能在班里排中下，能排到中下，而不是垫底，还是因为有以下两个原因：</p><ol><li>家长和老师的压迫</li><li>我对大学能将我的“初心”的未来部分实现，充满憧憬。</li></ol><p>但是，尽管有这两大原因，我的成绩仍然在班里排中下，因为，我是一个“强拧的瓜不甜”的人。更甚，高考时的那几天晚自习，我还在沉迷于哲学带给我的快乐——我还在看课外书，瞎写着一些让自己快乐的东西。</p><p>高考后，很荣幸认识学长学姐们，并有一点 Ps 基础，进了校学生会宣传部，成为一名光荣的小干事。</p><p>我本以为校宣传部的工作量并不大，但是在我成为一名见习干事后，我才发现很忙，然而我却突然发现不知道我究竟在忙什么了。</p><p>前段时间一直阴雨天气，更让我叩问我自己：你究竟来大学干嘛？天天去微博微信点赞评论有意思吗？你都不玩微博微信，也不喜欢微博微信，消息瞄一眼就点赞评论，你这不只是在作秀？你对微信都没有兴趣，你还做什么微信？你的“初心”何在！？</p><p>是的，正如我的叩问，看得出来我认为这样与我“初心”不符了。所以我要退出，原因有下面两个：</p><ol><li>我是一个“强拧的瓜不甜”的人</li><li>我觉得到了大学，应该要做出对得起自己的选择。</li></ol><p>抱歉，学长学姐们，在大学，感谢你们对我的巨大帮助。作为你们的小干事期间，我不仅学会了更多的技能，更学到了技能之外的东西。在我退出后，你依然是我的好学长和好学姐，要是以后有啥我力所能及的事，我一定做。</p><p>真心希望你们能接受我的歉意。</p><p>抱歉，谢谢学长学姐们。</p><p><div style="text-align: right">你们可爱的一休儿(⊙o⊙)…<br>2016.10.31</div></p><center><em>（这是一封更改后的信，原信只写给一个学长，也只发给了一个学长）</em></center><hr>]]></content>
     
@@ -2618,7 +2664,7 @@
     <link href="https://reuixiy.github.io/beautiful/notnow/2016/04/21/the-first-speech-friedrich-nietzsche.html"/>
     <id>https://reuixiy.github.io/beautiful/notnow/2016/04/21/the-first-speech-friedrich-nietzsche.html</id>
     <published>2016-04-21T03:19:10.000Z</published>
-    <updated>2018-01-21T02:14:01.797Z</updated>
+    <updated>2018-01-25T15:20:58.823Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-title.jpg" alt="the-first-speech-friedrich-nietzsche-title.jpg" style="width:100%"></p><a id="more"></a><h2 id="稿子"><a href="#稿子" class="headerlink" title="稿子"></a>稿子</h2><p>上讲台，“重要的事情说三遍”大家都听说过（先在黑板上写，然后说），对吧？但是，你们知道这是谁说的吗？有一种说法说是尼采（黑板上写下“尼采”），今天我要讲的就是尼采，你们认为尼采作为一个人类而言，他的人生值得我们赞美和学习吗？等待回答（眼睛环绕教室）……</p><figure class="highlight plain"><figcaption><span>（以下自演）</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line">A：咦～（转身，手指着左边）看！那有个同学…… So, Li Hua 同学，What&apos;s your idea?</div><div class="line"></div><div class="line">B：（走向左边）值得个屁！</div><div class="line"></div><div class="line">A：（走向右边）A-Ha, why?（皱眉，声音低沉）</div><div class="line"></div><div class="line">B：（走向左边）Because 我只想吃好喝好最重要的是睡好，与爸爸（bá bá）和妈妈（má má）</div><div class="line">及未来的老婆和孩子共享天伦之乐就好了，这是我的人生！</div><div class="line"></div><div class="line">A：（走向右边）But 尼采给全人类带来如此屌的思想，连这句小小的话（指向黑板）都是他老人</div><div class="line">家说的，他的人生怎么不值得我们赞美和学习呢？</div><div class="line"></div><div class="line">B：（走向左边）值得赞美和学习个屁，他的思想如此屌又怎样，他最后不是发疯了吗？这悲惨的</div><div class="line">人生，赞美？学习？</div><div class="line"></div><div class="line">A：（走向右边）呼——（低下头），呵呵——（抬头，沧桑）</div></pre></td></tr></table></figure><p>我们先来了解一下尼采的一生：出生、父亲死亡、学习、孤独、大学娱乐、疾病、孤独、发疯。</p><p>（通过对比突出尼采的精神伟大之处，几乎一直伴随疾病，但从未放弃学习，最后自己的成果还遭冷落，对真理的追求）</p><table><thead><tr><th>时间</th><th>事件</th></tr></thead><tbody><tr><td>1844.10.15</td><td>出生 德国</td></tr><tr><td>2 岁</td><td>弟弟夭折</td></tr><tr><td>5 岁</td><td>父亲死亡</td></tr><tr><td>10 岁</td><td>初中（一年内 50 首诗） 文学、音乐、钢琴</td></tr><tr><td>12 岁</td><td>开始头痛，经常头痛</td></tr><tr><td>14 岁</td><td>高中 音乐、诗歌</td></tr><tr><td>17 岁</td><td>严重疾病，被送回家修养</td></tr><tr><td>20 岁</td><td>波恩大学 古希腊神话 广泛交友，加入学生团体，娱乐活动，没有改变忧郁的个性 旅游，找饭店，但被领进妓院，弹钢琴，跑开</td></tr><tr><td>21 岁</td><td>莱比锡 旧书摊，偏僻角落，《作为意志和表象的世界》，两星期，两点睡六点起</td></tr><tr><td>23 岁</td><td>当兵，训练（早上七点到晚上六点），身体差，住在家中，晚上学习 从马上摔下，胸骨受重伤，坚持学习 第一篇哲学论文 《康德以来的目的论》</td></tr><tr><td>24 岁</td><td>瑞士巴塞尔大学古典语言学教授</td></tr><tr><td>28 岁</td><td>《悲剧的诞生》 巴塞尔大学学术界基本上持否定态度，让尼采的威信从天上到地下，学生纷纷离去，内心难过</td></tr><tr><td>35 岁</td><td>头痛、胃痛、呕吐不断、昏迷 辞去巴塞尔大学教授职务</td></tr><tr><td>40 岁</td><td>眼疾恶化，背部越来越弯曲 《查拉图斯特拉如是说》第三部分，二十天完成 冬天，忍着寒冷和眼疾痛苦，作《查拉图斯特拉如是说》第四部分，自费印制四十册，没有引起反应，有人埋怨，无人赞扬</td></tr><tr><td>41 岁</td><td>疾病下，《善恶的彼岸》，自费出版，卖出 114 本</td></tr><tr><td>45 岁</td><td>都灵大街，抱住受马夫虐待的马的脖子，放声大哭，摔在地上，昏迷两天两夜，失去理智</td></tr><tr><td>55 岁</td><td>与世长辞</td></tr></tbody></table><p>正如他的一首诗所说：银白、轻捷，像一条鱼，我的小船向远方，悄然驶去。（声音低沉）</p><p>（声音高昂）这也许就是尼采影响如此之大的原因了，他的一生一直为同一个目标努力，虽有肉体每天的折磨，更有精神上一次次的迷失，但最后却又为这同一个目标而竭尽脑中的一切思维！而这目标来自哪，我们有么？据说每个人心中都有种责任感，我们有吗？（音量逐渐提高）让中东的儿童远离战争？破除现有的思想体系或科学体系？遨游星海？尼采有这责任感，尼采有那目标，因此尼采的思想照耀了他之后的每一个时代！</p><p>庄子说：“小知不及大知，小年不及大年”，这人生的小与大，我们懂了吗？</p><h2 id="原稿"><a href="#原稿" class="headerlink" title="原稿"></a>原稿</h2><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-1.jpg" alt="the-first-speech-friedrich-nietzsche-1.jpg"></p><p><img src="https://yixiuer.oss-cn-shanghai.aliyuncs.com/Picture/the-first-speech-friedrich-nietzsche-2.jpg" alt="the-first-speech-friedrich-nietzsche-2.jpg"></p><h2 id="bb-for-bb"><a href="#bb-for-bb" class="headerlink" title="bb - for - bb"></a>bb - for - bb</h2><p>这本是高三语文课课前对每个学生的一个要求——讲作文素材，不过我任性的把它当做了个演讲（那时看了些 CCTV 和 TED 上的演讲视频），并全程脱稿。</p><p>轮到懒洋洋的我时，刚好那几天刚看完尼采的传记，并且一直对高三的现状不满，于是前一天我就在纸上先列个匆忙的大纲，希望借尼采这个偶像来照耀高三学生前方的道路。没错，有些学生不仅学得好，而且玩得也好，学习和游戏两不误，甚至还恋爱，但作为学渣的我却有点看不下去，为什么他们都沦落成了扫地的小王子？</p><p>对于这个我自创的演讲，我先通过旁观者来演一出戏铺垫，通过对话的形式来激起大家的思考，然后介绍尼采的一生，最后我主观介入，高呼每个人认清人生的小与大，忠于目标！</p><p>列好提纲后，回家百度，补上尼采一生的重要有关事迹，刚好看到那时很火的“重要的事情说三遍”居然出自尼采，于是有了个很棒的演讲开头，然后第二天发了疯的记住，只因自己想脱稿。</p><p>看起来是不是很疯狂，高三了还站在一帮学霸前高谈人生，哈哈哈没有疯狂就成不了这个演讲，也许是刚经历完尼采的人生给了我疯狂的动力，让一个记忆力非常差的我敢在一天内记下一个演讲的各种细节，能将尼采一生的重要事迹按时间顺序说出来。虽然演讲一开始时小有紧张，有因忘了下文而空气突然尴尬安静的囧况，但酒神附体的我最后还是痛苦地回忆起来，酒神一附体，紧张就完全被疯狂消灭，所以自己最后还是很满意。</p><hr>]]></content>
     
