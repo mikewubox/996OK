@@ -9,16 +9,16 @@
         <category>why</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>notnow</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>questions</tag>
         <tag>想象</tag>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
-        <tag>notnow</tag>
-        <tag>practical-science(实践科学)</tag>
         <tag>quotes</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>看书</tag>
         <tag>极限</tag>
       </tags>
@@ -64,9 +64,6 @@
         <category>computer-aided-art</category>
       </categories>
       <tags>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
-        <tag>目标</tag>
         <tag>hexo</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
@@ -74,7 +71,10 @@
         <tag>analysis(分析)</tag>
         <tag>Google Data Studio(数据洞察)</tag>
         <tag>notnow</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>维</tag>
+        <tag>critique(批判)</tag>
       </tags>
   </entry>
   <entry>
@@ -86,24 +86,24 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>music</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>维</tag>
-        <tag>practical-science(实践科学)</tag>
         <tag>quotes</tag>
-        <tag>love</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>工具</tag>
+        <tag>love</tag>
         <tag>查拉图斯特拉</tag>
         <tag>对立</tag>
         <tag>死亡</tag>
@@ -128,12 +128,12 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>真理</tag>
-        <tag>critique(批判)</tag>
-        <tag>epic</tag>
         <tag>目标</tag>
-        <tag>practical-science(实践科学)</tag>
+        <tag>critique(批判)</tag>
+        <tag>真理</tag>
+        <tag>epic</tag>
         <tag>quotes</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>查拉图斯特拉</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
@@ -150,6 +150,10 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>hexo</tag>
+        <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
+        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -157,10 +161,6 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
-        <tag>hexo</tag>
-        <tag>analysis(分析)</tag>
-        <tag>维</tag>
         <tag>linux</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
@@ -180,6 +180,10 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -187,12 +191,8 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
@@ -279,10 +279,10 @@
         <category>system-software</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
-        <tag>bb-for-bb</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
@@ -325,20 +325,20 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>critique(批判)</tag>
         <tag>星空</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>music</tag>
         <tag>光</tag>
-        <tag>目标</tag>
+        <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>黑暗</tag>
         <tag>对立</tag>
         <tag>假象</tag>
@@ -405,16 +405,16 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>critique(批判)</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>维</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
@@ -442,9 +442,9 @@
         <tag>看书</tag>
         <tag>philosophy</tag>
         <tag>how</tag>
+        <tag>zeronet</tag>
         <tag>bitcoin</tag>
         <tag>去中心化</tag>
-        <tag>zeronet</tag>
       </tags>
   </entry>
   <entry>
@@ -456,12 +456,12 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
+        <tag>目标</tag>
         <tag>科幻</tag>
         <tag>video</tag>
         <tag>未来</tag>
         <tag>epic</tag>
-        <tag>目标</tag>
-        <tag>bb-for-bb</tag>
         <tag>share</tag>
         <tag>阿西莫夫</tag>
         <tag>人工智能</tag>
@@ -478,12 +478,12 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>树莓派</tag>
+        <tag>bb-for-bb</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>开心</tag>
-        <tag>树莓派</tag>
-        <tag>bb-for-bb</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
         <tag>shape</tag>
@@ -502,11 +502,11 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>hexo</tag>
+        <tag>bb-for-bb</tag>
         <tag>video</tag>
         <tag>music</tag>
         <tag>system-software</tag>
-        <tag>hexo</tag>
-        <tag>bb-for-bb</tag>
         <tag>linux</tag>
         <tag>后脑一凉</tag>
         <tag>表情包</tag>
@@ -527,10 +527,10 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>coldplay</tag>
-        <tag>bb-for-bb</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
       </tags>
@@ -544,15 +544,15 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>association</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
         <tag>practical-science(实践科学)</tag>
-        <tag>黑暗</tag>
         <tag>shape</tag>
+        <tag>黑暗</tag>
         <tag>死亡</tag>
         <tag>战争</tag>
         <tag>why</tag>
@@ -569,9 +569,9 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>questions</tag>
         <tag>好奇心</tag>
         <tag>目标</tag>
+        <tag>questions</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>下载</tag>
@@ -590,15 +590,15 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>critique(批判)</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
-        <tag>practical-science(实践科学)</tag>
         <tag>quotes</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
         <tag>尼采</tag>
         <tag>自省</tag>
@@ -614,11 +614,11 @@
         <category>what</category>
       </categories>
       <tags>
+        <tag>notnow</tag>
+        <tag>目标</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>目标</tag>
-        <tag>notnow</tag>
         <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>看书</tag>
@@ -635,14 +635,14 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>association</tag>
         <tag>tips</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
         <tag>后脑一凉</tag>
+        <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
-        <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>查拉图斯特拉</tag>
         <tag>尼采</tag>
@@ -670,7 +670,6 @@
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>quotes</tag>
-        <tag>love</tag>
         <tag>beautiful</tag>
         <tag>share</tag>
         <tag>computer-aided-art</tag>
@@ -678,6 +677,7 @@
         <tag>shape</tag>
         <tag>下载</tag>
         <tag>工具</tag>
+        <tag>love</tag>
         <tag>bb-for-fun</tag>
       </tags>
   </entry>
@@ -691,20 +691,20 @@
         <category>computer-aided-art</category>
       </categories>
       <tags>
-        <tag>tips</tag>
-        <tag>沉迷于删删改改</tag>
-        <tag>图片</tag>
-        <tag>coldplay</tag>
-        <tag>诗</tag>
         <tag>hexo</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
         <tag>analysis(分析)</tag>
         <tag>维</tag>
+        <tag>tips</tag>
+        <tag>沉迷于删删改改</tag>
+        <tag>图片</tag>
+        <tag>coldplay</tag>
+        <tag>诗</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
-        <tag>学习</tag>
         <tag>更新</tag>
+        <tag>学习</tag>
         <tag>share</tag>
         <tag>下载</tag>
         <tag>bb-for-fun</tag>
@@ -723,14 +723,14 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>树莓派</tag>
+        <tag>analysis(分析)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
         <tag>未来</tag>
-        <tag>树莓派</tag>
-        <tag>analysis(分析)</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
         <tag>practical-science(实践科学)</tag>
@@ -781,19 +781,19 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>维</tag>
-        <tag>前额一冷</tag>
         <tag>quotes</tag>
+        <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>黑暗</tag>
         <tag>看书</tag>
@@ -827,6 +827,7 @@
         <category>share</category>
       </categories>
       <tags>
+        <tag>目标</tag>
         <tag>沉迷于删删改改</tag>
         <tag>video</tag>
         <tag>epic</tag>
@@ -836,7 +837,6 @@
         <tag>开心</tag>
         <tag>system-software</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
       </tags>
   </entry>
@@ -892,6 +892,7 @@
         <category>what</category>
       </categories>
       <tags>
+        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -899,7 +900,6 @@
         <tag>想象</tag>
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>维</tag>
         <tag>表情包</tag>
         <tag>对立</tag>
       </tags>
@@ -928,12 +928,12 @@
         <category>why</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>critique(批判)</tag>
-        <tag>analysis(分析)</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>bb-for-fun</tag>
@@ -975,18 +975,18 @@
         <category>why</category>
       </categories>
       <tags>
+        <tag>analysis(分析)</tag>
+        <tag>notnow</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>开心</tag>
-        <tag>目标</tag>
-        <tag>analysis(分析)</tag>
-        <tag>notnow</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
         <tag>电影</tag>
@@ -1006,12 +1006,12 @@
         <category>raspberry-pi</category>
       </categories>
       <tags>
-        <tag>questions</tag>
-        <tag>tips</tag>
-        <tag>music</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
+        <tag>questions</tag>
+        <tag>tips</tag>
+        <tag>music</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
       </tags>
@@ -1025,12 +1025,12 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>notnow</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>诗</tag>
         <tag>酒神</tag>
-        <tag>notnow</tag>
         <tag>love</tag>
         <tag>摄影</tag>
         <tag>发呆</tag>
@@ -1048,6 +1048,7 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>目标</tag>
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
@@ -1057,7 +1058,6 @@
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
@@ -1073,8 +1073,8 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>沉迷于删删改改</tag>
         <tag>critique(批判)</tag>
+        <tag>沉迷于删删改改</tag>
         <tag>酒神</tag>
         <tag>学习</tag>
         <tag>悲伤</tag>
@@ -1090,25 +1090,25 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
         <tag>科幻</tag>
         <tag>未来</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>维</tag>
+        <tag>quotes</tag>
+        <tag>更新</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>知识</tag>
         <tag>学习</tag>
-        <tag>quotes</tag>
-        <tag>更新</tag>
         <tag>shape</tag>
         <tag>看书</tag>
         <tag>对立</tag>
@@ -1129,6 +1129,9 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>association</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
@@ -1137,15 +1140,12 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>好奇心</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>开心</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>bb-for-bb</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>beautiful</tag>
@@ -1166,12 +1166,12 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>critique(批判)</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
-        <tag>critique(批判)</tag>
         <tag>酒神</tag>
-        <tag>前额一冷</tag>
         <tag>quotes</tag>
+        <tag>前额一冷</tag>
         <tag>尼采</tag>
         <tag>对立</tag>
         <tag>悲伤</tag>
@@ -1187,14 +1187,14 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
-        <tag>好奇心</tag>
-        <tag>critique(批判)</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>前额一冷</tag>
         <tag>love</tag>
         <tag>黑暗</tag>
@@ -1209,6 +1209,7 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>目标</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>星空</tag>
@@ -1216,7 +1217,6 @@
         <tag>光</tag>
         <tag>开心</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
         <tag>黑暗</tag>
         <tag>untitled</tag>
@@ -1269,13 +1269,13 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>目标</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
         <tag>星空</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
         <tag>尼采</tag>
         <tag>悲伤</tag>
@@ -1308,12 +1308,12 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
-        <tag>目标</tag>
-        <tag>practical-science(实践科学)</tag>
         <tag>quotes</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>bb-for-fun</tag>
         <tag>自省</tag>
         <tag>性格</tag>
@@ -1329,17 +1329,17 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>真理</tag>
+        <tag>bb-for-bb</tag>
+        <tag>目标</tag>
         <tag>critique(批判)</tag>
+        <tag>真理</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>bb-for-bb</tag>
-        <tag>practical-science(实践科学)</tag>
         <tag>quotes</tag>
+        <tag>practical-science(实践科学)</tag>
         <tag>查拉图斯特拉</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
@@ -1359,14 +1359,14 @@
         <category>share</category>
       </categories>
       <tags>
+        <tag>bb-for-bb</tag>
+        <tag>目标</tag>
         <tag>想象</tag>
         <tag>图片</tag>
         <tag>诗</tag>
-        <tag>目标</tag>
         <tag>酒神</tag>
-        <tag>bb-for-bb</tag>
-        <tag>前额一冷</tag>
         <tag>更新</tag>
+        <tag>前额一冷</tag>
         <tag>下载</tag>
         <tag>尼采</tag>
         <tag>看书</tag>
@@ -1378,9 +1378,9 @@
     <url>%2Funcategorized%2F2010%2F01%2F01%2Ftest.html</url>
     <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer3"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music[ar:Oasis] [ti:Live Forever] [al:Live Forever] [by:https://reuixiy.github.io] [length:4:38] [00:00.00]Oasis - Live Forever [00:12.69] [02:28.88][00:12.70]Maybe I don't really want to know [02:32.25][00:17.28]How your garden grows [02:35.49][00:19.87]I just want to fly Lately did you ever feel the pain [02:42.93][00:28.06]In the morning rain [02:45.64][00:30.57]As it soaks it to the bone [02:49.35][00:34.49]Maybe I just want to fly [02:51.96][00:37.21]I wanna live I don't want to die [02:54.55][00:39.63]Maybe I just want to breath [02:57.08][00:42.30]Maybe I just don't believe [02:59.69][00:44.88]Maybe you're the same as me [03:02.25][00:47.48]We see things they'll never see [03:05.13][00:50.27]You and I are gonna live forever [00:57.74]Maybe I don't really want to know [01:02.56]How your garden grows [01:05.13]I just want to fly Lately did you ever feel the pain [01:13.23]In the morning rain [01:15.93]As it soaks it to the bone [01:19.41]Maybe I will never be [01:22.05]All the things that I want to be [01:24.87]But now is not the time to cry [01:27.41]Now's the time to find out why [01:29.99]I think you're the same as me [01:32.56]We see things they'll never see [01:35.28]You and I are gonna live forever [03:37.23][03:31.95][03:27.60][03:21.79][03:16.83][03:14.68]We're gonna live forever var ap = new APlayer({ element: document.getElementById("aplayer4"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456&#123;% gp 4-3 %&#125;![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4)&#123;% endgp %&#125; 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果： 推荐文章https://github.com/huiwang/hexo-recommended-posts https://github.com/tea3/hexo-related-popular-posts]]></content>
       <tags>
+        <tag>hexo</tag>
         <tag>video</tag>
         <tag>music</tag>
-        <tag>hexo</tag>
       </tags>
   </entry>
 </search>
