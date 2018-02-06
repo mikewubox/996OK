@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[给我起个名字吧 - 9]]></title>
+    <url>%2Fbeautiful%2Fbb-for-fun%2F2018%2F02%2F04%2Funtitled-9.html</url>
+    <content type="text"><![CDATA[当彩色褪去，你会发现世界除了黑白还有灰你会发现原来形状是另一种美 当芳龄不再，你将理解老人双目之下的空洞你将理解孤独两字之上的宁静 但生命还在，你又能否容忍失去而接受孤独你又能否摒弃彩色而赞美形状 若世界是不断变化的，那为什么非要被孤独不断折磨不顺其自然湮灭于这混沌宇宙？ 若世界是从零到一的，那为什么非要被时间任意剥夺不逆天而行早抓住那美和宁静？]]></content>
+      <categories>
+        <category>beautiful</category>
+        <category>bb-for-fun</category>
+      </categories>
+      <tags>
+        <tag>目标</tag>
+        <tag>诗</tag>
+        <tag>酒神</tag>
+        <tag>practical-science(实践科学)</tag>
+        <tag>前额一冷</tag>
+        <tag>对立</tag>
+        <tag>untitled</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[棋子]]></title>
     <url>%2Fphilosophy%2Fwhy%2F2018%2F01%2F25%2Fchessman.html</url>
     <content type="text"><![CDATA[当棋盘中的棋子意识到自己是棋子时，它就： 123456789101112131415161718B：不属于这盘棋A：还在棋盘中被移动，这样看，还是属于这盘棋。但是，它会开始思考自己，思考自己存在的价值，开始…这样看，它又不再属于这盘棋 233333…C：还是一枚棋子，就像你我一样，有时候也会意思到自己在一个局中可能也是一枚棋子，可是当你陷入棋局中的时候，即使你知道是个局，知道自己是一枚棋子，也仍然为棋局的胜利而前进，亦或停止不动，被当做弃子，棋子虽可能微不足道，但或许也能影响局势A：哈哈哈，这么多字，thanks。棋子自己可不会动，只能被动，这样影响局势的是它的操控者，而非棋子。不过呢，它是能思考的棋子，所以… 又不过呢，也许棋子自己会动呢 233333…C：那我们就是会动的棋子吗A：不知道… 这是一个两年多前有意思的想法，重读《哲学的故事》时发现的，上面是最近的一段对话。 其实这句话是我为划线句子添加的一个前提，而我想表达的意思是当棋盘中的棋子意识到自己是棋子时，它就会开始…（划线句子），不过上面的对话又引出了一些有意思的问题。 1234567问题呢？问题的意义不在于答案，而在于它本身。啥？！所以问题呢！？哈哈哈，自己去上面的对话中发现问题吧～]]></content>
@@ -9,14 +27,14 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>notnow</tag>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>questions</tag>
         <tag>想象</tag>
+        <tag>analysis(分析)</tag>
+        <tag>notnow</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>看书</tag>
@@ -86,15 +104,15 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>维</tag>
-        <tag>critique(批判)</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>music</tag>
@@ -128,9 +146,9 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>真理</tag>
         <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>真理</tag>
         <tag>epic</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
@@ -150,10 +168,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>hexo</tag>
-        <tag>analysis(分析)</tag>
-        <tag>好奇心</tag>
-        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -161,6 +175,10 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>hexo</tag>
+        <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
+        <tag>维</tag>
         <tag>linux</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
@@ -180,10 +198,6 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -191,6 +205,10 @@
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>analysis(分析)</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>practical-science(实践科学)</tag>
@@ -319,18 +337,18 @@
   <entry>
     <title><![CDATA[生于战争 死于和平]]></title>
     <url>%2Fphilosophy%2Fhow%2F2017%2F09%2F25%2Fborn-in-war-and-died-in-peace.html</url>
-    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 [ar:Klaus Badelt] [ti:Barbossa Is Hungry] [al:Pirates of the Caribbean: The Curse of the Black Pearl] [by:https://reuixiy.github.io] [length:4:06] [00:00.00]Klaus Badelt - Barbossa Is Hungry [00:05.00]纯音乐，请您欣赏 var ap = new APlayer({ element: document.getElementById("aplayer8"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 [ar:Klaus Badelt] [ti:Barbossa Is Hungry] [al:Pirates of the Caribbean: The Curse of the Black Pearl] [by:https://reuixiy.github.io] [length:4:06] [00:00.00]Klaus Badelt - Barbossa Is Hungry [00:05.00]纯音乐，请您欣赏 var ap = new APlayer({ element: document.getElementById("aplayer7"), narrow: false, autoplay: false, showlrc: 2, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
       </categories>
       <tags>
-        <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>星空</tag>
         <tag>未来</tag>
         <tag>epic</tag>
@@ -405,12 +423,12 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>目标</tag>
-        <tag>维</tag>
-        <tag>critique(批判)</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
         <tag>诗</tag>
@@ -442,9 +460,9 @@
         <tag>看书</tag>
         <tag>philosophy</tag>
         <tag>how</tag>
-        <tag>zeronet</tag>
         <tag>bitcoin</tag>
         <tag>去中心化</tag>
+        <tag>zeronet</tag>
       </tags>
   </entry>
   <entry>
@@ -527,9 +545,9 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>bb-for-bb</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>bb-for-bb</tag>
         <tag>coldplay</tag>
         <tag>quotes</tag>
         <tag>shape</tag>
@@ -544,12 +562,12 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>目标</tag>
         <tag>association</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>黑暗</tag>
@@ -569,9 +587,9 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>questions</tag>
         <tag>好奇心</tag>
         <tag>目标</tag>
-        <tag>questions</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>shape</tag>
         <tag>下载</tag>
@@ -590,12 +608,12 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>questions</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>诗</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
@@ -614,11 +632,11 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>notnow</tag>
-        <tag>目标</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>notnow</tag>
+        <tag>目标</tag>
         <tag>quotes</tag>
         <tag>bb-for-fun</tag>
         <tag>看书</tag>
@@ -635,10 +653,10 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>目标</tag>
         <tag>association</tag>
         <tag>tips</tag>
+        <tag>analysis(分析)</tag>
+        <tag>目标</tag>
         <tag>后脑一凉</tag>
         <tag>quotes</tag>
         <tag>practical-science(实践科学)</tag>
@@ -691,14 +709,14 @@
         <category>computer-aided-art</category>
       </categories>
       <tags>
+        <tag>tips</tag>
+        <tag>沉迷于删删改改</tag>
+        <tag>图片</tag>
         <tag>hexo</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
         <tag>analysis(分析)</tag>
         <tag>维</tag>
-        <tag>tips</tag>
-        <tag>沉迷于删删改改</tag>
-        <tag>图片</tag>
         <tag>coldplay</tag>
         <tag>诗</tag>
         <tag>linux</tag>
@@ -723,13 +741,13 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>树莓派</tag>
-        <tag>analysis(分析)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>树莓派</tag>
+        <tag>analysis(分析)</tag>
         <tag>未来</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
@@ -781,13 +799,13 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
@@ -827,8 +845,8 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>目标</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>目标</tag>
         <tag>video</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
@@ -892,7 +910,6 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>维</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>synthesis(综合)</tag>
@@ -900,6 +917,7 @@
         <tag>想象</tag>
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>维</tag>
         <tag>表情包</tag>
         <tag>对立</tag>
       </tags>
@@ -928,12 +946,12 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>tips</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>analysis(分析)</tag>
+        <tag>critique(批判)</tag>
         <tag>practical-science(实践科学)</tag>
         <tag>前额一冷</tag>
         <tag>bb-for-fun</tag>
@@ -975,16 +993,16 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>analysis(分析)</tag>
-        <tag>notnow</tag>
-        <tag>目标</tag>
-        <tag>critique(批判)</tag>
         <tag>association</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>analysis(分析)</tag>
+        <tag>notnow</tag>
+        <tag>目标</tag>
+        <tag>critique(批判)</tag>
         <tag>未来</tag>
         <tag>开心</tag>
         <tag>practical-science(实践科学)</tag>
@@ -1006,11 +1024,11 @@
         <category>raspberry-pi</category>
       </categories>
       <tags>
+        <tag>questions</tag>
+        <tag>tips</tag>
         <tag>树莓派</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
-        <tag>questions</tag>
-        <tag>tips</tag>
         <tag>music</tag>
         <tag>linux</tag>
         <tag>表情包</tag>
@@ -1025,10 +1043,10 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>notnow</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>notnow</tag>
         <tag>诗</tag>
         <tag>酒神</tag>
         <tag>love</tag>
@@ -1048,10 +1066,10 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>目标</tag>
         <tag>想象</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>目标</tag>
         <tag>星空</tag>
         <tag>未来</tag>
         <tag>epic</tag>
@@ -1073,8 +1091,8 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>critique(批判)</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>critique(批判)</tag>
         <tag>酒神</tag>
         <tag>学习</tag>
         <tag>悲伤</tag>
@@ -1090,14 +1108,14 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
-        <tag>维</tag>
-        <tag>critique(批判)</tag>
         <tag>after-physics(形而上学)</tag>
         <tag>想象</tag>
         <tag>真理</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
+        <tag>维</tag>
+        <tag>critique(批判)</tag>
         <tag>科幻</tag>
         <tag>未来</tag>
         <tag>光</tag>
@@ -1123,15 +1141,12 @@
   <entry>
     <title><![CDATA[浅谈学哲学 - 那珍贵的喜悦]]></title>
     <url>%2Fphilosophy%2Fhow%2F2016%2F12%2F29%2Fon-philosophy-of-learning.html</url>
-    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place[ar:Coldplay] [ti:In My Place] [al:A Rush Of Blood To The Head] [by:https://reuixiy.github.io] [length:3:48] [00:00.00]Coldplay - In My Place [00:33.23] [00:33.24]In my place, in my place [00:38.14]Were lines that I couldn't change [00:41.24]I was lost, oh yeah [00:47.53]I was lost, I was lost [00:50.98]Crossed lines I shouldn't have crossed [00:54.47]I was lost, oh yeah [00:59.55]Yeah, how long must you wait for it? [01:07.58]Yeah, how long must you pay for it? [01:14.16]Yeah, how long must you wait for it? [01:22.50]For it [01:40.09]I was scared, I was scared [01:44.05]Tired and under-prepared [01:47.03]But I'll wait for it [01:53.20]And if you go, if you go [01:57.13]Leave me down here on my own [02:00.20]Then I'll wait for you, yeah [02:05.50]Yeah, how long must you wait for it? [02:13.53]Yeah, how long must you pay for it? [02:20.11]Yeah, how long must you wait for it? [02:28.23]For it [02:58.12]Singing please, please, please [03:03.08]Come back and sing to me [03:06.36]To me, me [03:09.40]Come on and sing it out, now, now [03:16.21]Come on and sing it out to me, me [03:23.05]Come back and sing it [03:26.08]In my place, in my place [03:29.76]Were lines that I couldn't change [03:32.81]I was lost, oh yeah [03:37.42]Oh yeah var ap = new APlayer({ element: document.getElementById("aplayer7"), narrow: false, autoplay: false, showlrc: 2, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place[ar:Coldplay] [ti:In My Place] [al:A Rush Of Blood To The Head] [by:https://reuixiy.github.io] [length:3:48] [00:00.00]Coldplay - In My Place [00:33.23] [00:33.24]In my place, in my place [00:38.14]Were lines that I couldn't change [00:41.24]I was lost, oh yeah [00:47.53]I was lost, I was lost [00:50.98]Crossed lines I shouldn't have crossed [00:54.47]I was lost, oh yeah [00:59.55]Yeah, how long must you wait for it? [01:07.58]Yeah, how long must you pay for it? [01:14.16]Yeah, how long must you wait for it? [01:22.50]For it [01:40.09]I was scared, I was scared [01:44.05]Tired and under-prepared [01:47.03]But I'll wait for it [01:53.20]And if you go, if you go [01:57.13]Leave me down here on my own [02:00.20]Then I'll wait for you, yeah [02:05.50]Yeah, how long must you wait for it? [02:13.53]Yeah, how long must you pay for it? [02:20.11]Yeah, how long must you wait for it? [02:28.23]For it [02:58.12]Singing please, please, please [03:03.08]Come back and sing to me [03:06.36]To me, me [03:09.40]Come on and sing it out, now, now [03:16.21]Come on and sing it out to me, me [03:23.05]Come back and sing it [03:26.08]In my place, in my place [03:29.76]Were lines that I couldn't change [03:32.81]I was lost, oh yeah [03:37.42]Oh yeah var ap = new APlayer({ element: document.getElementById("aplayer8"), narrow: false, autoplay: false, showlrc: 2, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
       </categories>
       <tags>
-        <tag>bb-for-bb</tag>
-        <tag>好奇心</tag>
-        <tag>目标</tag>
         <tag>association</tag>
         <tag>synthesis(综合)</tag>
         <tag>questions</tag>
@@ -1140,6 +1155,9 @@
         <tag>tips</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>bb-for-bb</tag>
+        <tag>好奇心</tag>
+        <tag>目标</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
         <tag>music</tag>
@@ -1166,9 +1184,9 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>critique(批判)</tag>
         <tag>空间</tag>
         <tag>沉迷于删删改改</tag>
+        <tag>critique(批判)</tag>
         <tag>酒神</tag>
         <tag>quotes</tag>
         <tag>前额一冷</tag>
@@ -1187,11 +1205,11 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>沉迷于删删改改</tag>
+        <tag>图片</tag>
         <tag>好奇心</tag>
         <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>沉迷于删删改改</tag>
-        <tag>图片</tag>
         <tag>epic</tag>
         <tag>光</tag>
         <tag>诗</tag>
@@ -1209,9 +1227,9 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>目标</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>目标</tag>
         <tag>星空</tag>
         <tag>epic</tag>
         <tag>光</tag>
@@ -1269,10 +1287,10 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>目标</tag>
         <tag>想象</tag>
         <tag>沉迷于删删改改</tag>
         <tag>图片</tag>
+        <tag>目标</tag>
         <tag>星空</tag>
         <tag>光</tag>
         <tag>诗</tag>
@@ -1329,10 +1347,10 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>真理</tag>
         <tag>bb-for-bb</tag>
         <tag>目标</tag>
         <tag>critique(批判)</tag>
-        <tag>真理</tag>
         <tag>未来</tag>
         <tag>epic</tag>
         <tag>光</tag>
@@ -1359,10 +1377,10 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>bb-for-bb</tag>
-        <tag>目标</tag>
         <tag>想象</tag>
         <tag>图片</tag>
+        <tag>bb-for-bb</tag>
+        <tag>目标</tag>
         <tag>诗</tag>
         <tag>酒神</tag>
         <tag>更新</tag>
