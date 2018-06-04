@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://reuixiy.github.io/manifest.json</loc>
+    
+    <lastmod>2018-06-04T06:50:33.634Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://reuixiy.github.io/technology/computer/computer-aided-art/2018/05/30/speed-up-hexo.html</loc>
     
     <lastmod>2018-06-04T06:10:49.249Z</lastmod>
@@ -593,13 +600,6 @@
     <loc>https://reuixiy.github.io/philosophy/what/2017/03/12/0-or-others.html</loc>
     
     <lastmod>2017-12-26T08:56:05.885Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://reuixiy.github.io/images/manifest.json</loc>
-    
-    <lastmod>2017-11-16T10:07:25.000Z</lastmod>
     
   </url>
   
