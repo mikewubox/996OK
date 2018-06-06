@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Alexander the Great]]></title>
+    <url>%2Fbeautiful%2Fbb-for-fun%2F2018%2F06%2F06%2Falexander-the-great.html</url>
+    <content type="text"><![CDATA[阿喀琉斯万岁亚历山大万岁荣耀属于他们荣耀终结他们他们得以永生 生命追求永生永生止于生命永生生于荣耀生命追求荣耀生命需要荣耀 世界追求偶然偶然毁灭世界偶然来自未知世界待于发现世界待于改变 生命生于荣耀生命归于荣耀生命理解世界荣耀改变世界世界需要荣耀 荣耀发现世界荣耀创造世界荣耀分裂世界荣耀毁灭世界世界需要统一 荣耀归于个人个人毁灭世界理念归于世界统一需要理念世界需要理念 个人追求荣耀世界追求理念荣耀征服世界理念统一世界荣耀属于理念 More =&gt; civilization 看完电影《亚历山大大帝》后，将整个身心献给了痛苦与快乐并行的酒神，酒神随着脑海中回荡着的电影 BGM 不断跳跃。]]></content>
+      <categories>
+        <category>beautiful</category>
+        <category>bb-for-fun</category>
+      </categories>
+      <tags>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[加速 Hexo 博客]]></title>
     <url>%2Ftechnology%2Fcomputer%2Fcomputer-aided-art%2F2018%2F05%2F30%2Fspeed-up-hexo.html</url>
     <content type="text"><![CDATA[利用 InstantClick、hexo-service-worker、hexo-filter-optimize 让博客快如闪电 先体验：https://yixiuer.github.io/ ，然后操作 ~ InstantClick介绍请看官网：http://instantclick.io/ ，先下载压缩版的 instantclick.min.js（浏览器右键保存为），再放到~/blog/themes/next/source/js/src/下，然后添加代码： 文件位置：~/blog/themes/next/layout/_layout.swig1234+ &lt;script type="text/javascript" src= "/js/src/instantclick.min.js" data-no-instant&gt;&lt;/script&gt;+ &lt;script data-no-instant&gt;InstantClick.init();&lt;/script&gt;&lt;/body&gt;&lt;/html&gt; 去除顶部加载条： 文件位置：~/blog/themes/next/source/css/_custom/custom.styl123#instantclick { display: none;} 可能会有一些问题，比如与 FancyBox、Google Analytics 等等的兼容问题，解决方法自行查看文档或 Google。 Hexo 插件主要利用两个插件： hexo-service-worker hexo-filter-optimize 先在站点文件夹根目录安装： 所在目录：~/blog/1npm install hexo-service-worker hexo-filter-optimize --save 然后在站点配置文件中配置： 文件位置：~/blog/_config.yml123456789101112131415161718192021222324252627282930313233# offline config passed to sw-precache.service_worker: maximumFileSizeToCacheInBytes: 5242880 staticFileGlobs: - public/**/*.{js,html,css,png,jpg,gif,svg,eot,ttf,woff,woff2} stripPrefix: public verbose: truefilter_optimize: enable: true # remove static resource query string # - like `?v=1.0.0` remove_query_string: true # remove the surrounding comments in each of the bundled files remove_comments: true css: enable: true # bundle loaded css file into the one bundle: true # use a script block to load css elements dynamically delivery: true # make specific css content inline into the html page # - only support the full path # - default is ['css/main.css'] inlines: excludes: js: # bundle loaded js file into the one bundle: true excludes: # set the priority of this plugin, # lower means it will be executed first, default is 10 priority: 12 最后deploy到 Github 上查看效果，Enjoy it ! ~]]></content>
@@ -35,9 +48,9 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x8BD7;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
-        <tag>&#x8BD7;</tag>
         <tag>untitled</tag>
       </tags>
   </entry>
@@ -80,8 +93,8 @@
       </categories>
       <tags>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x81EA;&#x7701;</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>&#x81EA;&#x7701;</tag>
       </tags>
   </entry>
   <entry>
@@ -121,15 +134,15 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>&#x771F;&#x7406;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>epic</tag>
         <tag>quotes</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>philosophy</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
-        <tag>&#x771F;&#x7406;</tag>
+        <tag>philosophy</tag>
         <tag>&#x5B64;&#x72EC;</tag>
       </tags>
   </entry>
@@ -188,10 +201,10 @@
       </categories>
       <tags>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x8BD7;</tag>
         <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>untitled</tag>
       </tags>
@@ -205,49 +218,49 @@
         <category>why</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>notnow</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>questions</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>association</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>&#x6781;&#x9650;</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[《冰与火之歌》 - 1]]></title>
     <url>%2Fbeautiful%2Fnotnow%2F2018%2F01%2F11%2Fa-song-of-ice-and-fire.html</url>
-    <content type="text"><![CDATA[将近两个月看完《冰与火之歌》五卷…… 权力的游戏列王的纷争冰雪的风暴群鸦的盛宴魔龙的狂舞 拼命把溜出来的肠子塞回肚子里，乌鸦啄食着被钉城墙上蛆虫蠕动的头颅，动不动就调情啪啪啪还啊啊啊…… 眼睁睁看着自认为的主角一个又一个的突然变成了群鸦的盛宴，一个又一个人物的眼睛才看清列王的纷争，一个又一个人物的嘴与心的谎言才看清权力的游戏，而这一个又一个人物却都是自己！冰雪的风暴与魔龙的狂舞却在自己的脑阔中同时上演，自己的脑阔在冰与火之歌中冲突到爆炸！ 经历过《神曲》地狱到天堂的过去之旅，遨游过「阿西莫夫」那浩瀚无垠的未来宇宙，体会过《浮士德》对理想的渴望，享受过「尼采」那日神阿波罗的至高喜悦和酒神狄俄尼索斯的狂欢，歌唱过 Coldplay 那珍贵的喜悦，却第一次在《冰与火之歌》谎言的游戏中爆炸！ 言语如风风伤不了你可一阵风让你在凛冬中尖叫而非寒冷 凛冬将至可那是谎言这不是谎言这就是权力的游戏《查拉图斯特拉如是说》 var ap = new APlayer({ element: document.getElementById("aplayer-oGksBigh"), narrow: false, autoplay: false, showlrc: 3, music: { title: "The Scientist (Live)", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20The%20Scientist%20%28Live%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-the-scientist.jpg", lrc: "https://reuixiy.github.io/uploads/lyrics/coldplay-the-scientist-live.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[将近两个月看完《冰与火之歌》五卷…… 权力的游戏列王的纷争冰雪的风暴群鸦的盛宴魔龙的狂舞 拼命把溜出来的肠子塞回肚子里，乌鸦啄食着被钉城墙上蛆虫蠕动的头颅，动不动就调情啪啪啪还啊啊啊…… 眼睁睁看着自认为的主角一个又一个的突然变成了群鸦的盛宴，一个又一个人物的眼睛才看清列王的纷争，一个又一个人物的嘴与心的谎言才看清权力的游戏，而这一个又一个人物却都是自己！冰雪的风暴与魔龙的狂舞却在自己的脑阔中同时上演，自己的脑阔在冰与火之歌中冲突到爆炸！ 经历过《神曲》地狱到天堂的过去之旅，遨游过「阿西莫夫」那浩瀚无垠的未来宇宙，体会过《浮士德》对理想的渴望，享受过「尼采」那日神阿波罗的至高喜悦和酒神狄俄尼索斯的狂欢，歌唱过 Coldplay 那珍贵的喜悦，却第一次在《冰与火之歌》谎言的游戏中爆炸！ 言语如风风伤不了你可一阵风让你在凛冬中尖叫而非寒冷 凛冬将至可那是谎言这不是谎言这就是权力的游戏《查拉图斯特拉如是说》 var ap = new APlayer({ element: document.getElementById("aplayer-MpJGauUi"), narrow: false, autoplay: false, showlrc: 3, music: { title: "The Scientist (Live)", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20The%20Scientist%20%28Live%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-the-scientist.jpg", lrc: "https://reuixiy.github.io/uploads/lyrics/coldplay-the-scientist-live.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>beautiful</category>
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>love</tag>
         <tag>music</tag>
         <tag>&#x661F;&#x7A7A;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>coldplay</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>&#x9ED1;&#x6697;</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
+        <tag>&#x300A;&#x51B0;&#x4E0E;&#x706B;&#x4E4B;&#x6B4C;&#x300B;</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x5047;&#x8C61;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>kindle</tag>
-        <tag>&#x300A;&#x51B0;&#x4E0E;&#x706B;&#x4E4B;&#x6B4C;&#x300B;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x963F;&#x897F;&#x83AB;&#x592B;</tag>
         <tag>&#x6B7B;&#x4EA1;</tag>
         <tag>&#x5947;&#x5E7B;</tag>
+        <tag>&#x5047;&#x8C61;</tag>
       </tags>
   </entry>
   <entry>
@@ -282,31 +295,31 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>&#x7EF4;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x9152;&#x795E;</tag>
         <tag>&#x7535;&#x5F71;</tag>
         <tag>love</tag>
         <tag>music</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>questions</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
         <tag>shape</tag>
         <tag>&#x5DE5;&#x5177;</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
-        <tag>&#x771F;&#x7406;</tag>
-        <tag>&#x6218;&#x4E89;</tag>
-        <tag>&#x810A;&#x9AD3;&#x51B0;&#x51C9;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x6B7B;&#x4EA1;</tag>
         <tag>&#x5947;&#x5E7B;</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>&#x6218;&#x4E89;</tag>
+        <tag>&#x810A;&#x9AD3;&#x51B0;&#x51C9;</tag>
         <tag>technology</tag>
         <tag>&#x6280;&#x672F;&#x6050;&#x60E7;</tag>
         <tag>&#x5C0F;&#x738B;&#x5B50;</tag>
@@ -324,16 +337,16 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>&#x771F;&#x7406;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>epic</tag>
         <tag>quotes</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>philosophy</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
-        <tag>&#x771F;&#x7406;</tag>
+        <tag>philosophy</tag>
         <tag>&#x6218;&#x4E89;</tag>
       </tags>
   </entry>
@@ -346,21 +359,21 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>hexo</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x7EF4;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>linux</tag>
-        <tag>questions</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>shape</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
-        <tag>&#x771F;&#x7406;</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
         <tag>technology</tag>
         <tag>&#x5206;&#x7C7B;</tag>
         <tag>why</tag>
@@ -376,27 +389,27 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x77E5;&#x8BC6;</tag>
         <tag>&#x5B66;&#x4E60;</tag>
         <tag>shape</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
         <tag>&#x5047;&#x8C61;</tag>
-        <tag>&#x771F;&#x7406;</tag>
         <tag>internet</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
         <tag>technology</tag>
         <tag>&#x77E5;&#x8BC6;&#x5E73;&#x53F0;</tag>
         <tag>&#x5206;&#x7C7B;</tag>
@@ -415,8 +428,8 @@
         <category>system-software</category>
       </categories>
       <tags>
-        <tag>linux</tag>
         <tag>questions</tag>
+        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -443,11 +456,11 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>love</tag>
-        <tag>&#x5F00;&#x5FC3;</tag>
-        <tag>&#x8BD7;</tag>
         <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x8BD7;</tag>
+        <tag>love</tag>
+        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>bb-for-fun</tag>
         <tag>&#x7AE5;&#x8BDD;</tag>
       </tags>
@@ -480,9 +493,9 @@
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>linux</tag>
-        <tag>quotes</tag>
         <tag>&#x540E;&#x8111;&#x4E00;&#x51C9;</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
+        <tag>quotes</tag>
         <tag>&#x66F4;&#x65B0;</tag>
       </tags>
   </entry>
@@ -515,12 +528,16 @@
   <entry>
     <title><![CDATA[生于战争 死于和平]]></title>
     <url>%2Fphilosophy%2Fhow%2F2017%2F09%2F25%2Fborn-in-war-and-died-in-peace.html</url>
-    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 var ap = new APlayer({ element: document.getElementById("aplayer-zOvoRwTs"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/klaus-badelt-barbossa-is-hungry.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[生于忧患 死于安乐没有和平 唯有战争黑暗中才能看到光芒战争中才有天堂和平“天堂”的光芒只有虚假 “天堂”的光芒 - 1娱乐在和平时代兴起游戏在娱乐市场火热战争在游戏题材不灭 “光芒”中的人 - 1游戏是因为无聊娱乐是因为无聊无聊是因为和平 光芒中的人 - 1兴起是因为和平火热是因为娱乐不灭是因为战争 var ap = new APlayer({ element: document.getElementById("aplayer-tuTBfPbF"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Barbossa Is Hungry", author: "Klaus Badelt", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Klaus%20Badelt%20-%20Barbossa%20Is%20Hungry.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/klaus-badelt-barbossa-is-hungry.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
       </categories>
       <tags>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x7535;&#x5F71;</tag>
@@ -529,17 +546,13 @@
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>quotes</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x9ED1;&#x6697;</tag>
         <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x5047;&#x8C61;</tag>
-        <tag>&#x771F;&#x7406;</tag>
         <tag>&#x6218;&#x4E89;</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
         <tag>&#x6613;</tag>
         <tag>&#x52A0;&#x52D2;&#x6BD4;&#x6D77;&#x76D7;</tag>
       </tags>
@@ -595,24 +608,24 @@
   <entry>
     <title><![CDATA[Now My Feet Won't Touch The Ground]]></title>
     <url>%2Fbeautiful%2Fbb-for-fun%2F2017%2F09%2F09%2FNow-My-Feet-Won-t-Touch-The-Ground.html</url>
-    <content type="text"><![CDATA[小时候斜望着夜空中的星光我要到那里去！你这样仰头笑着回答家长的问题——宝宝，你长大后想干什么呢？ 学会了阅读学会了书写于是你低头学习着那些深奥的知识我会是你的骄傲！你这样对家长许下了承诺 学会了说话学会了行走于是你有了一些朋友友谊多么可贵！双手紧握 你不学习对得起父母吗？你不努力对得起朋友吗？你不继续对得起那个跨越下面阶梯的自己吗？象牙塔开始质问哭泣的你于是你的双脚从窗户慢慢回缩 Let me goPush my boat from the highest cliff to the sea belowRocks awaitingYou wait a lifetime to be foundNow my feet won’t touch the ground… var ap = new APlayer({ element: document.getElementById("aplayer-iSqgQwzE"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Now My Feet Won't Touch The Ground", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-now-my-feet-won-t-touch-the-ground.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[小时候斜望着夜空中的星光我要到那里去！你这样仰头笑着回答家长的问题——宝宝，你长大后想干什么呢？ 学会了阅读学会了书写于是你低头学习着那些深奥的知识我会是你的骄傲！你这样对家长许下了承诺 学会了说话学会了行走于是你有了一些朋友友谊多么可贵！双手紧握 你不学习对得起父母吗？你不努力对得起朋友吗？你不继续对得起那个跨越下面阶梯的自己吗？象牙塔开始质问哭泣的你于是你的双脚从窗户慢慢回缩 Let me goPush my boat from the highest cliff to the sea belowRocks awaitingYou wait a lifetime to be foundNow my feet won’t touch the ground… var ap = new APlayer({ element: document.getElementById("aplayer-sCulOgTW"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Now My Feet Won't Touch The Ground", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Now%20My%20Feet%20Won%27t%20Touch%20The%20Ground.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-prospekt%27s-march-ep.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-now-my-feet-won-t-touch-the-ground.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>beautiful</category>
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>&#x7EF4;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>music</tag>
         <tag>coldplay</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x77E5;&#x8BC6;</tag>
         <tag>&#x5B66;&#x4E60;</tag>
       </tags>
@@ -627,16 +640,16 @@
         <category>zeronet</category>
       </categories>
       <tags>
+        <tag>questions</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>music</tag>
         <tag>video</tag>
         <tag>&#x672A;&#x6765;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>linux</tag>
-        <tag>questions</tag>
         <tag>&#x66F4;&#x65B0;</tag>
         <tag>bb-for-fun</tag>
-        <tag>philosophy</tag>
         <tag>&#x770B;&#x4E66;</tag>
+        <tag>philosophy</tag>
         <tag>how</tag>
         <tag>bitcoin</tag>
         <tag>&#x53BB;&#x4E2D;&#x5FC3;&#x5316;</tag>
@@ -668,7 +681,7 @@
   <entry>
     <title><![CDATA[突如其来的小壁虎]]></title>
     <url>%2Fbeautiful%2Fnotnow%2F2017%2F08%2F27%2Fa-little-gecko-come-suddenly.html</url>
-    <content type="text"><![CDATA[昨天早上上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了～ bb - for - bb看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图： 这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因，我猜它在洗手间门口也许就是为了水而来吧…… 小视频晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 [1]来监控它，晚上偷录个小视频，哈哈哈嗝～ 小视频 - 1(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。 小视频 - 2(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。 小视频 - 3(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 欣赏一下这优雅的步伐～ 小视频 - 4(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来都想逃走的两个小家伙。 小视频 - 5(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 这……我没看懂哎…… 其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s …… 最后？虫子还在，小壁虎还在……为啥虫子还在？不造…… bb - for - fun看着视频观察一下这个小家伙还是蛮有意思的： 等我走了半个多小时，才开始行动，有耐心。 一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。 渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。 一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～ var ap = new APlayer({ element: document.getElementById("aplayer-qsjmndQA"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-paradise.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); Yeah, it could be Paradise… 1.Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。 ↩]]></content>
+    <content type="text"><![CDATA[昨天早上上午起床刷完牙洗完脸，一打开门，发现有个可爱的小东东以极其夸张的步伐远离我……噫，好久没见过小动物了～ bb - for - bb看到后，当然赶紧先看看，是只小壁虎，不到我的小拇指大。嘿嘿嘿，赶紧空出个瓶子抓住它。再上图： 这图可以看到皮肤颜色是灰的，看起来比较干燥，不过一会皮肤变黑了，更好看了一点。估计是我在瓶子里倒了点水的原因，我猜它在洗手间门口也许就是为了水而来吧…… 小视频晚上睡觉前，突然想到中午百度的时候，说这小家伙是晚上出来觅食的，于是抓了只小虫子放进去。就在这时，脑阔突然抽搐一下，可以用抽屉里以前折腾过的树莓派 [1]来监控它，晚上偷录个小视频，哈哈哈嗝～ 小视频 - 1(function(){var player = new DPlayer({"container":document.getElementById("dplayer10"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-1.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 第一次出镜，从叶子后面直奔摄像头的这边，无视虫子，应该是被红外灯吸引。 小视频 - 2(function(){var player = new DPlayer({"container":document.getElementById("dplayer11"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-2.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来是要吃左上角的虫子，但是在瓶子顶部内边沿转了一圈。 小视频 - 3(function(){var player = new DPlayer({"container":document.getElementById("dplayer12"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-3.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 欣赏一下这优雅的步伐～ 小视频 - 4(function(){var player = new DPlayer({"container":document.getElementById("dplayer13"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-4.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 看起来都想逃走的两个小家伙。 小视频 - 5(function(){var player = new DPlayer({"container":document.getElementById("dplayer14"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/a-little-gecko-come-suddenly-5.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 这……我没看懂哎…… 其实，晚上一共录了 51 个视频，这里挑出几个有代表的来。关于视频，这个叫 motion 的监控软件是捕捉到有动作（画面变化）就开始记录的，然后生成视频，视频右下角有时间，可以看出有时视频的 1 s 并非真实的 1 s …… 最后？虫子还在，小壁虎还在……为啥虫子还在？不造…… bb - for - fun看着视频观察一下这个小家伙还是蛮有意思的： 等我走了半个多小时，才开始行动，有耐心。 一开始在意的不是食物，而是新鲜事物（红外灯），对它来说就是最危险。 渴望自由，一直在顶部内边沿尝试逃出去，哈哈哈待会我就给你自由。 一直对小动物感兴趣，蝴蝶、蜜蜂（虽然被蛰过）、鸟、蟋蟀、螳螂、鱼、龟、小鸡、小鸭子和小狗等等。怎么说，感觉有些小家伙很有灵性，有时候不是我接触它们，而是它们主动接触我。当自己的眼睛看着它们时，内心幻想着和它们交流，而它们也仿佛懂得自己似的～ var ap = new APlayer({ element: document.getElementById("aplayer-MiFLXEYP"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Paradise", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-paradise.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); Yeah, it could be Paradise… 1.Raspberry Pi（中文名为“树莓派”，简写为 RPi，或者 RasPi / RPI）是为学习计算机编程教育而设计，只有信用卡大小的微型电脑，其系统基于 Linux。别看其外表“娇小”，内“心”却很强大，视频、音频等功能通通皆有，可谓是“麻雀虽小，五脏俱全”。 ↩]]></content>
       <categories>
         <category>beautiful</category>
         <category>notnow</category>
@@ -678,8 +691,8 @@
         <tag>bb-for-bb</tag>
         <tag>music</tag>
         <tag>video</tag>
-        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>coldplay</tag>
+        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>&#x540E;&#x8111;&#x4E00;&#x51C9;</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
         <tag>shape</tag>
@@ -692,7 +705,7 @@
   <entry>
     <title><![CDATA[重建博客 - rm 的悲剧]]></title>
     <url>%2Fbeautiful%2Fnotnow%2F2017%2F08%2F21%2Frebuild-this-blog-due-to-rm.html</url>
-    <content type="text"><![CDATA[2017.08.07 下午，昏昏欲睡的我，还在折腾电脑的驱动。紧张地 Google 解决方法，直接 Copy 一条命令回车，没想到这一操作就宣告了我博客的死亡…… 死亡的味道回车后，过了很久，当时也没太在意，继续操作。一会重启系统，感觉画风不对，桌面变了，后脑勺一凉，开终端，ls一看，没了，我的“家”都没了…… 机智的我赶紧敲了一条history命令，看到（别问我为啥还能看到，神特么知道）： 1rm -rf ~/ .local/…… 发现了没，~/后面多了个空格，卧槽！那个网站上贴这行代码的人！￥%×%%&amp;×%&amp;×%&amp;×￥%……#%……&amp;×%&amp;（×……&amp;+）——+（——）（&amp;（×！ 删而后重建之后试着恢复数据，无奈失败。把自己的“家”都给删了，半年多在这系统上的努力都废了，特别是博客文件夹，想到还要从 0 开始弄，头皮发麻…… 无奈归无奈，还好我电脑双系统，第二天就进 Windows 下载镜像烧 U 盘，重装系统，顺便（当然没那么顺便）把引导由 BIOS + MBR 改为 UEFI + GPT。 最后终于进了新 Linux 系统，更新系统，解决驱动问题，装软件。接下来就是重新搭建 Hexo，优化 NexT 主题，将网站上的 38 篇文章全部写成 Markdown 文档。 折腾新成果 博客方面 规范了 Markdown 文档，可以更美观的使用 emoji，添加 404 页面 ，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 查看。 系统方面 装了最新的 Wine QQ ，深刻了解数据的重要性和rm的可怕…… 其它方面 熟悉了 UEFI + GPT，自己重装系统的能力又得到了巨大提升…… 那来首歌吧 var ap = new APlayer({ element: document.getElementById("aplayer-sblmihge"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/oasis-live-forever.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 来个小视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer15"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[2017.08.07 下午，昏昏欲睡的我，还在折腾电脑的驱动。紧张地 Google 解决方法，直接 Copy 一条命令回车，没想到这一操作就宣告了我博客的死亡…… 死亡的味道回车后，过了很久，当时也没太在意，继续操作。一会重启系统，感觉画风不对，桌面变了，后脑勺一凉，开终端，ls一看，没了，我的“家”都没了…… 机智的我赶紧敲了一条history命令，看到（别问我为啥还能看到，神特么知道）： 1rm -rf ~/ .local/…… 发现了没，~/后面多了个空格，卧槽！那个网站上贴这行代码的人！￥%×%%&amp;×%&amp;×%&amp;×￥%……#%……&amp;×%&amp;（×……&amp;+）——+（——）（&amp;（×！ 删而后重建之后试着恢复数据，无奈失败。把自己的“家”都给删了，半年多在这系统上的努力都废了，特别是博客文件夹，想到还要从 0 开始弄，头皮发麻…… 无奈归无奈，还好我电脑双系统，第二天就进 Windows 下载镜像烧 U 盘，重装系统，顺便（当然没那么顺便）把引导由 BIOS + MBR 改为 UEFI + GPT。 最后终于进了新 Linux 系统，更新系统，解决驱动问题，装软件。接下来就是重新搭建 Hexo，优化 NexT 主题，将网站上的 38 篇文章全部写成 Markdown 文档。 折腾新成果 博客方面 规范了 Markdown 文档，可以更美观的使用 emoji，添加 404 页面 ，使用插件使音乐支持歌词，视频支持弹幕，等等……更多点击 打造个性超赞博客Hexo+NexT+GithubPages的超深度优化 查看。 系统方面 装了最新的 Wine QQ ，深刻了解数据的重要性和rm的可怕…… 其它方面 熟悉了 UEFI + GPT，自己重装系统的能力又得到了巨大提升…… 那来首歌吧 var ap = new APlayer({ element: document.getElementById("aplayer-TqSDubyX"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/oasis-live-forever.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 来个小视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer15"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Mr.Bean%27s%20Holiday%20%28Crash%20-%20Matt%20Willis%29%20HD.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>notnow</category>
@@ -706,8 +719,8 @@
         <tag>linux</tag>
         <tag>&#x540E;&#x8111;&#x4E00;&#x51C9;</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
-        <tag>&#x60B2;&#x4F24;</tag>
         <tag>&#x6B7B;&#x4EA1;</tag>
+        <tag>&#x60B2;&#x4F24;</tag>
         <tag>&#x5934;&#x76AE;&#x53D1;&#x9EBB;</tag>
         <tag>technology</tag>
         <tag>&#x6613;</tag>
@@ -723,11 +736,11 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>bb-for-bb</tag>
         <tag>coldplay</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>quotes</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>shape</tag>
       </tags>
   </entry>
@@ -740,19 +753,19 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>&#x9ED1;&#x6697;</tag>
         <tag>shape</tag>
-        <tag>association</tag>
+        <tag>&#x9ED1;&#x6697;</tag>
+        <tag>&#x6B7B;&#x4EA1;</tag>
         <tag>&#x6218;&#x4E89;</tag>
         <tag>&#x60B2;&#x4F24;</tag>
         <tag>&#x810A;&#x9AD3;&#x51B0;&#x51C9;</tag>
-        <tag>&#x6B7B;&#x4EA1;</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
         <tag>why</tag>
       </tags>
   </entry>
@@ -765,10 +778,10 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>questions</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>&#x7535;&#x5F71;</tag>
-        <tag>questions</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
         <tag>shape</tag>
         <tag>&#x4E0B;&#x8F7D;</tag>
@@ -786,17 +799,17 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>questions</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
         <tag>quotes</tag>
-        <tag>&#x81EA;&#x7701;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x81EA;&#x7701;</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x6613;</tag>
       </tags>
@@ -810,14 +823,14 @@
         <category>what</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>notnow</tag>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>bb-for-fun</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x771F;&#x7406;</tag>
         <tag>&#x91CF;&#x5B50;</tag>
         <tag>&#x8F9E;</tag>
       </tags>
@@ -831,42 +844,42 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>tips</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>quotes</tag>
         <tag>&#x540E;&#x8111;&#x4E00;&#x51C9;</tag>
-        <tag>&#x81EA;&#x7701;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>quotes</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>&#x81EA;&#x7701;</tag>
         <tag>bb-for-fun</tag>
-        <tag>philosophy</tag>
-        <tag>association</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x5047;&#x8C61;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>kindle</tag>
-        <tag>tips</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
+        <tag>&#x5047;&#x8C61;</tag>
+        <tag>philosophy</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Windows Media Player + 音乐可视化 + 音乐倒放]]></title>
     <url>%2Ftechnology%2Fcomputer%2Fcomputer-aided-art%2F2017%2F06%2F18%2Fmusic-visualization.html</url>
-    <content type="text"><![CDATA[利用 Windows 自带的多媒体播放器 Windows Media Player，呈现多彩，超强空间感的音乐可视化效果，另外还有音乐倒放～ 前言Windows Media Player 是 Windows 自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的 SRS（Sound Retrieval System）环绕立体音效听一些歌（比如 Taylor Swift 的 《1989》 里面的歌）超赞，空间感十足。 预览给出自己录的两个视频（渣渣电脑，录的有点卡），先看看效果，戴上耳机哦～ 音效(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() Taylor Swift - Style 原版： var ap = new APlayer({ element: document.getElementById("aplayer-YKSJCoFe"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Style", author: "Taylor Swift", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Taylor%20Swift%20-%20Style.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/taylor-swift-1989.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/taylor-swift-style.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 倒放(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() Coldplay - True Love 正序： var ap = new APlayer({ element: document.getElementById("aplayer-HtPgUdTC"), narrow: false, autoplay: false, showlrc: 3, music: { title: "True Love", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20True%20Love.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-true-love.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-true-love.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 可视化要下载的话，官网点 这里 ，如下图，随便点一个下载Free Trial版就行，选 Windows Media Player，然后可能要填个表，邮箱年龄啥的，乱填一下就好了。 或者直接下载我压缩好的一个压缩包，里面有 Aeon、G-Force 和 WhiteCap，点击下载 音乐可视化.zip (44.5 MB)，要其它请去官网下载。 倒放把一首歌倒着放，感觉很怪，但有时也很赞。接触到这个，是因为 Coldplay 一首最深情的 The Scientist 正序版 MV ，正序的 MV，倒序 的音乐，却仍是满满的深情。用下面这个软件可以实现把一首歌倒序，当然如果你用其它音频处理的软件也行，只要你会就行。 首先点击下载 GoldWaveCN.zip (11.0 MB)，然后解压缩啥的自己鼓捣，双击.exe结尾的程序打开，最后按下图操作： bb - for - fun空间巨浪席卷大脑，nothing but a shape, can you understand it?]]></content>
+    <content type="text"><![CDATA[利用 Windows 自带的多媒体播放器 Windows Media Player，呈现多彩，超强空间感的音乐可视化效果，另外还有音乐倒放～ 前言Windows Media Player 是 Windows 自带的多媒体播放器，虽然长的土里土气，但是支持音乐可视化的插件，有自带的音效插件。用它听歌，还是别有一番风味，特别是自带的 SRS（Sound Retrieval System）环绕立体音效听一些歌（比如 Taylor Swift 的 《1989》 里面的歌）超赞，空间感十足。 预览给出自己录的两个视频（渣渣电脑，录的有点卡），先看看效果，戴上耳机哦～ 音效(function(){var player = new DPlayer({"container":document.getElementById("dplayer4"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_29_24.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() Taylor Swift - Style 原版： var ap = new APlayer({ element: document.getElementById("aplayer-BtEuHRFT"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Style", author: "Taylor Swift", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Taylor%20Swift%20-%20Style.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/taylor-swift-1989.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/taylor-swift-style.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 倒放(function(){var player = new DPlayer({"container":document.getElementById("dplayer5"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Windows%20Media%20Player%202017_6_18%2015_39_15.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() Coldplay - True Love 正序： var ap = new APlayer({ element: document.getElementById("aplayer-BRqxsMlL"), narrow: false, autoplay: false, showlrc: 3, music: { title: "True Love", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20True%20Love.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-true-love.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-true-love.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); 可视化要下载的话，官网点 这里 ，如下图，随便点一个下载Free Trial版就行，选 Windows Media Player，然后可能要填个表，邮箱年龄啥的，乱填一下就好了。 或者直接下载我压缩好的一个压缩包，里面有 Aeon、G-Force 和 WhiteCap，点击下载 音乐可视化.zip (44.5 MB)，要其它请去官网下载。 倒放把一首歌倒着放，感觉很怪，但有时也很赞。接触到这个，是因为 Coldplay 一首最深情的 The Scientist 正序版 MV ，正序的 MV，倒序 的音乐，却仍是满满的深情。用下面这个软件可以实现把一首歌倒序，当然如果你用其它音频处理的软件也行，只要你会就行。 首先点击下载 GoldWaveCN.zip (11.0 MB)，然后解压缩啥的自己鼓捣，双击.exe结尾的程序打开，最后按下图操作： bb - for - fun空间巨浪席卷大脑，nothing but a shape, can you understand it?]]></content>
       <categories>
         <category>technology</category>
         <category>computer</category>
         <category>computer-aided-art</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
         <tag>love</tag>
         <tag>music</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
         <tag>quotes</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
         <tag>beautiful</tag>
         <tag>share</tag>
         <tag>computer-aided-art</tag>
@@ -887,24 +900,24 @@
         <category>computer-aided-art</category>
       </categories>
       <tags>
+        <tag>tips</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>hexo</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x7EF4;</tag>
-        <tag>coldplay</tag>
         <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>coldplay</tag>
         <tag>linux</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
         <tag>&#x66F4;&#x65B0;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x5B66;&#x4E60;</tag>
         <tag>share</tag>
         <tag>&#x4E0B;&#x8F7D;</tag>
         <tag>bb-for-fun</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
-        <tag>tips</tag>
         <tag>internet</tag>
         <tag>&#x77E5;&#x8BC6;&#x5E73;&#x53F0;</tag>
         <tag>&#x5206;&#x7C7B;</tag>
@@ -919,19 +932,19 @@
         <category>how</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>tips</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x6811;&#x8393;&#x6D3E;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>&#x672A;&#x6765;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>linux</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
         <tag>&#x5DE5;&#x5177;</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
-        <tag>tips</tag>
-        <tag>&#x771F;&#x7406;</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>why</tag>
         <tag>&#x4EBA;&#x5DE5;&#x667A;&#x80FD;</tag>
         <tag>bitcoin</tag>
@@ -947,10 +960,10 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>&#x661F;&#x7A7A;</tag>
-        <tag>epic</tag>
         <tag>&#x60F3;&#x8C61;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x661F;&#x7A7A;</tag>
+        <tag>epic</tag>
       </tags>
   </entry>
   <entry>
@@ -962,8 +975,8 @@
         <category>notnow</category>
       </categories>
       <tags>
-        <tag>&#x7F8E;&#x666F;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x7F8E;&#x666F;</tag>
         <tag>&#x6444;&#x5F71;</tag>
         <tag>&#x53D1;&#x5446;</tag>
       </tags>
@@ -977,23 +990,23 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>&#x7EF4;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>love</tag>
         <tag>epic</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>quotes</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>&#x9ED1;&#x6697;</tag>
-        <tag>association</tag>
         <tag>&#x770B;&#x4E66;</tag>
         <tag>kindle</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>Einstein</tag>
         <tag>&#x5E73;&#x884C;</tag>
         <tag>untitled</tag>
@@ -1009,31 +1022,31 @@
       </categories>
       <tags>
         <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x8FBE;&#xB7;&#x82AC;&#x5947;</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Coldplay - Lost+ ft. Jay-Z]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F04%2F28%2Fcoldplay-lost%2B.html</url>
-    <content type="text"><![CDATA[太喜欢 Coldplay 的这首歌和这个 MV 了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～但发现最困难的还是翻译，这才是脑力活……Anyway，很兴奋，开心～ 视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 歌词Coldplay - Lost+ ft. Jay-Z字幕制作：Worm-35（网易云音乐账号） Okay!Okay! Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost不意味着我失败了 Doesn’t mean I’ll stop不意味着我会停下脚步 Doesn’t mean I’m across不意味着我会错过 Just because I’m hurting我只不过是疼痛着 Doesn’t mean I’m hurt不意味着我受伤了 Doesn’t mean I didn’t get what I deserved不意味着我没有得到自己应得的 No better and no worse这样不算更好，也没更坏 I just got lost!我只是迷茫着 Every river that I tried to cross每条我尝试了要去跨过的河流都被锁住了 Every door I ever tried was locked每扇我曾尝试了想要去打开的门都被锁住了 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 You might be a big fish你可能是条大鱼 In a little pond在小小的池塘里 Doesn’t mean you’ve won但这不意味着你是赢家 ‘Cause along will come因未来可能会有 A bigger one另外一条更大的鱼出现 And you’ll be lost!然后你将感到迷茫 Every river that you tried to cross每条你尝试了要去跨过的河流都消失不见了 Every gun you ever held went off每把你曾紧握的枪都消失不见了 Oh and I’m just waiting til the firing’s stoppedOh, 我只不过在等待直到热火散尽的瞬间 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 [Jay-Z rap][Jay-Z rap] Aha, I got you, uhAha, 我懂了, uh With the same sword they knight you那把他们封给你的剑 They gon’ goodnight you with他们也会用它给你说晚安 Shit, that’s only half if they like youShit, 如果他们喜欢你但也可能只有一半 That ain’t even a half what they might do事实上那甚至不到他们可能做的一半 Don’t believe me? Ask Michael不相信我？问问迈克尔·杰克逊吧 See Martin, see Malcolm看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀） See Biggie, see Pac看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命） See success and its outcome看看成功和成功的后果 See Jesus, see Judas看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀） See Caesar, see Brutus看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀） See success is like suicide看看成名好像就已预定自杀 Suicide, it’s a suicide自杀，是的，是自杀 If you succeed prepare to be crucified如果你红了要有被钉死在十字架上的准备 Media meddles媒体的骚扰 Niggaz sue you, you settle小人的起诉，这些你都得面对 Every step you take向成功迈出的每一小步 They remind you, you ghetto他们就会提醒你，你永远是个穷鬼 So it’s tough being Bobby Brown所以成为鲍比·布朗（美国流行乐歌星）不容易 To be Bobby then you have to be Bobby now要成为Bobby你就必去承受Bobby现在承受的（吸毒） And the question is, is to have had and lost问题就在于，曾经拥有却失去 Better than not having at all?要比一无所有要好吗？ Because…因为… Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh Oh Oh Oh OhOh Oh Oh Oh Oh Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost!不意味着我失败了 打个小广告字幕制作软件是 Arctime ，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的 网易云音乐歌单 ，初中到现在的歌单～]]></content>
+    <content type="text"><![CDATA[太喜欢 Coldplay 的这首歌和这个 MV 了，喜欢到第一次尝试制作中英字幕ヾ(≧O≦)〃～但发现最困难的还是翻译，这才是脑力活……Anyway，很兴奋，开心～ 视频(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Coldplay%20-%20Lost%2B%20ft.%20Jay-Z.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() 歌词Coldplay - Lost+ ft. Jay-Z字幕制作：Worm-35（网易云音乐账号） Okay!Okay! Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost不意味着我失败了 Doesn’t mean I’ll stop不意味着我会停下脚步 Doesn’t mean I’m across不意味着我会错过 Just because I’m hurting我只不过是疼痛着 Doesn’t mean I’m hurt不意味着我受伤了 Doesn’t mean I didn’t get what I deserved不意味着我没有得到自己应得的 No better and no worse这样不算更好，也没更坏 I just got lost!我只是迷茫着 Every river that I tried to cross每条我尝试了要去跨过的河流都被锁住了 Every door I ever tried was locked每扇我曾尝试了想要去打开的门都被锁住了 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 You might be a big fish你可能是条大鱼 In a little pond在小小的池塘里 Doesn’t mean you’ve won但这不意味着你是赢家 ‘Cause along will come因未来可能会有 A bigger one另外一条更大的鱼出现 And you’ll be lost!然后你将感到迷茫 Every river that you tried to cross每条你尝试了要去跨过的河流都消失不见了 Every gun you ever held went off每把你曾紧握的枪都消失不见了 Oh and I’m just waiting til the firing’s stoppedOh, 我只不过在等待直到热火散尽的瞬间 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 [Jay-Z rap][Jay-Z rap] Aha, I got you, uhAha, 我懂了, uh With the same sword they knight you那把他们封给你的剑 They gon’ goodnight you with他们也会用它给你说晚安 Shit, that’s only half if they like youShit, 如果他们喜欢你但也可能只有一半 That ain’t even a half what they might do事实上那甚至不到他们可能做的一半 Don’t believe me? Ask Michael不相信我？问问迈克尔·杰克逊吧 See Martin, see Malcolm看看马丁·路德·金，看看马尔克姆·利托（美国黑人民权运动领导，都被刺杀） See Biggie, see Pac看看Biggie，看看Pac（两位美国说唱之神，但都被夺去生命） See success and its outcome看看成功和成功的后果 See Jesus, see Judas看看耶稣，看看犹大（出卖耶稣让耶稣被钉十字架，最后自杀） See Caesar, see Brutus看看凯撒，看看布鲁图斯（凯撒待他如儿子，暗杀凯撒，最后自杀） See success is like suicide看看成名好像就已预定自杀 Suicide, it’s a suicide自杀，是的，是自杀 If you succeed prepare to be crucified如果你红了要有被钉死在十字架上的准备 Media meddles媒体的骚扰 Niggaz sue you, you settle小人的起诉，这些你都得面对 Every step you take向成功迈出的每一小步 They remind you, you ghetto他们就会提醒你，你永远是个穷鬼 So it’s tough being Bobby Brown所以成为鲍比·布朗（美国流行乐歌星）不容易 To be Bobby then you have to be Bobby now要成为Bobby你就必去承受Bobby现在承受的（吸毒） And the question is, is to have had and lost问题就在于，曾经拥有却失去 Better than not having at all?要比一无所有要好吗？ Because…因为… Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh and I’m just waiting til the shine wears offOh, 我只不过想等着外面的强光褪去 Oh Oh Oh Oh OhOh Oh Oh Oh Oh Just because I’m losing我只不过是迷茫着 Doesn’t mean I’m lost!不意味着我失败了 打个小广告字幕制作软件是 Arctime ，很棒的一个软件，操作超级简单。另外喜欢英语歌的同学可以看看我的 网易云音乐歌单 ，初中到现在的歌单～]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
       </categories>
       <tags>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>music</tag>
         <tag>video</tag>
         <tag>epic</tag>
-        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>coldplay</tag>
         <tag>&#x5149;</tag>
+        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>system-software</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
       </tags>
   </entry>
   <entry>
@@ -1045,13 +1058,13 @@
         <category>how</category>
       </categories>
       <tags>
-        <tag>&#x79D1;&#x5E7B;</tag>
-        <tag>&#x672A;&#x6765;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
         <tag>association</tag>
         <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x79D1;&#x5E7B;</tag>
+        <tag>&#x672A;&#x6765;</tag>
         <tag>&#x4EBA;&#x5DE5;&#x667A;&#x80FD;</tag>
         <tag>&#x5927;&#x8111;</tag>
         <tag>computer</tag>
@@ -1067,16 +1080,16 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
         <tag>association</tag>
-        <tag>tips</tag>
-        <tag>&#x771F;&#x7406;</tag>
         <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>tips</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
       </tags>
   </entry>
   <entry>
@@ -1088,22 +1101,22 @@
         <category>what</category>
       </categories>
       <tags>
-        <tag>&#x7EF4;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>questions</tag>
-        <tag>&#x8868;&#x60C5;&#x5305;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>association</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
-        <tag>tips</tag>
         <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>tips</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x7EF4;</tag>
+        <tag>&#x8868;&#x60C5;&#x5305;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[Danny MacAskill’s Wee Day Out]]></title>
     <url>%2Fbeautiful%2Fshare%2F2017%2F03%2F11%2Fdanny-macaskills-wee-day-out.html</url>
-    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer1"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
+    <content type="text"><![CDATA[(function(){var player = new DPlayer({"container":document.getElementById("dplayer2"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/Danny%20MacAskill%E2%80%99s%20Wee%20Day%20Out.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})()]]></content>
       <categories>
         <category>beautiful</category>
         <category>share</category>
@@ -1124,18 +1137,18 @@
         <category>why</category>
       </categories>
       <tags>
-        <tag>analysis(&#x5206;&#x6790;)</tag>
-        <tag>critique(&#x6279;&#x5224;)</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>bb-for-fun</tag>
         <tag>association</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
-        <tag>&#x5047;&#x8C61;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>tips</tag>
         <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>analysis(&#x5206;&#x6790;)</tag>
+        <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>bb-for-fun</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
+        <tag>&#x5047;&#x8C61;</tag>
         <tag>&#x6559;&#x6761;</tag>
         <tag>&#x8D2B;&#x5BCC;&#x5206;&#x5316;</tag>
         <tag>&#x5E73;&#x7B49;</tag>
@@ -1151,15 +1164,15 @@
         <category>share</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>love</tag>
         <tag>music</tag>
         <tag>video</tag>
         <tag>coldplay</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
       </tags>
   </entry>
   <entry>
@@ -1171,6 +1184,12 @@
         <category>why</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>tips</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>analysis(&#x5206;&#x6790;)</tag>
         <tag>notnow</tag>
         <tag>&#x76EE;&#x6807;</tag>
@@ -1178,14 +1197,8 @@
         <tag>&#x7535;&#x5F71;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>&#x5F00;&#x5FC3;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
-        <tag>tips</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>&#x5927;&#x8111;</tag>
         <tag>&#x6781;&#x9650;</tag>
         <tag>&#x65F6;&#x95F4;</tag>
@@ -1195,21 +1208,21 @@
   <entry>
     <title><![CDATA[我的小 Web 服务器 - 树莓派 搭建个人博客遇到的问题]]></title>
     <url>%2Ftechnology%2Fembedded%2Fraspberry-pi%2F2017%2F02%2F02%2Fraspberry-pi-wordpress-blog-questions.html</url>
-    <content type="text"><![CDATA[bb - for - bb宝宝只想用树莓派搭建个人博客玩玩啊，特么为啥如此麻烦？遇到的问题，百度，Google，最后还是解决了，～ 现将问题收集如下，希望对看到的人有用。我用树莓派搭建的网站的架构：Linux (Raspbian) + Nginx + MySQL + PHP + WordPress。 未能找到 WordPress 内容目录找到 WordPress 的根目录，找到wp-config.php文件，在文件最后添加如下代码： 12345/** Override default file permissions */if(is_admin()) {add_filter('filesystem_method', create_function('$a', 'return "direct";' ));define( 'FS_CHMOD_DIR', 0751 );} WordPress 需要访问您网页服务器的权限，请输入您的 FTP 登录凭据以继续在wp-config.php文件中添加： 123define("FS_METHOD","direct");define("FS_CHMOD_DIR", 0777);define("FS_CHMOD_FILE", 0777); 安装主题失败，无法创建目录1$ sudo chmod -R 777 /var/www/html/ 在 WordPress 中使用裁剪图片功能时，出现：“在裁剪您的图像时发生了错误。”12$ sudo apt-get update$ sudo apt-get install php5-gd 删除自豪的使用 WordPress编辑： 1wp-content/themes/twentyseventeen/template-parts/footer/site-info.php 上传文件失败，提示一个 http 错误https://www.luozhengrong.com/servers/nginx/234.html WordPress 如何去除 Google 字体？https://www.zhihu.com/question/24762608?sort=created WordPress 建站中 15 个常见的错误（启用缓存插件）https://www.wpdaxue.com/wp-15-common-mistakes.html 秘诀：善用 Google有些东西还真是百度半天一脸懵逼，Google 一下瞬间解决，为啥？ Google 能搜到比较新的个人博客的页面 Google 不卖药 技术嘛，很多东东都有人玩过了，玩过了的大神很多都会写自己的教程，放在自己的博客上。能自己写博客，质量要好点，还有些比较新的东东，大神的博客不会让你失望。 可是 Google 被墙了啊，这里推荐一下 老D的hosts ，不过估计能看到这篇文章的人，都已具备这样的能力。 为你点首歌 var ap = new APlayer({ element: document.getElementById("aplayer-JbmoKKJi"), narrow: false, autoplay: false, showlrc: 3, music: { title: "The Saltwater Room", author: "Owl City", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Owl%20City%20-%20The%20Saltwater%20Room.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/owl-city-hot-air-balloon.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/owl-city-the-saltwater-room.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[bb - for - bb宝宝只想用树莓派搭建个人博客玩玩啊，特么为啥如此麻烦？遇到的问题，百度，Google，最后还是解决了，～ 现将问题收集如下，希望对看到的人有用。我用树莓派搭建的网站的架构：Linux (Raspbian) + Nginx + MySQL + PHP + WordPress。 未能找到 WordPress 内容目录找到 WordPress 的根目录，找到wp-config.php文件，在文件最后添加如下代码： 12345/** Override default file permissions */if(is_admin()) {add_filter('filesystem_method', create_function('$a', 'return "direct";' ));define( 'FS_CHMOD_DIR', 0751 );} WordPress 需要访问您网页服务器的权限，请输入您的 FTP 登录凭据以继续在wp-config.php文件中添加： 123define("FS_METHOD","direct");define("FS_CHMOD_DIR", 0777);define("FS_CHMOD_FILE", 0777); 安装主题失败，无法创建目录1$ sudo chmod -R 777 /var/www/html/ 在 WordPress 中使用裁剪图片功能时，出现：“在裁剪您的图像时发生了错误。”12$ sudo apt-get update$ sudo apt-get install php5-gd 删除自豪的使用 WordPress编辑： 1wp-content/themes/twentyseventeen/template-parts/footer/site-info.php 上传文件失败，提示一个 http 错误https://www.luozhengrong.com/servers/nginx/234.html WordPress 如何去除 Google 字体？https://www.zhihu.com/question/24762608?sort=created WordPress 建站中 15 个常见的错误（启用缓存插件）https://www.wpdaxue.com/wp-15-common-mistakes.html 秘诀：善用 Google有些东西还真是百度半天一脸懵逼，Google 一下瞬间解决，为啥？ Google 能搜到比较新的个人博客的页面 Google 不卖药 技术嘛，很多东东都有人玩过了，玩过了的大神很多都会写自己的教程，放在自己的博客上。能自己写博客，质量要好点，还有些比较新的东东，大神的博客不会让你失望。 可是 Google 被墙了啊，这里推荐一下 老D的hosts ，不过估计能看到这篇文章的人，都已具备这样的能力。 为你点首歌 var ap = new APlayer({ element: document.getElementById("aplayer-qvZVBQBF"), narrow: false, autoplay: false, showlrc: 3, music: { title: "The Saltwater Room", author: "Owl City", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Owl%20City%20-%20The%20Saltwater%20Room.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/owl-city-hot-air-balloon.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/owl-city-the-saltwater-room.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>technology</category>
         <category>embedded</category>
         <category>raspberry-pi</category>
       </categories>
       <tags>
+        <tag>questions</tag>
+        <tag>tips</tag>
         <tag>&#x6811;&#x8393;&#x6D3E;</tag>
         <tag>wordpress</tag>
         <tag>bb-for-bb</tag>
         <tag>music</tag>
         <tag>linux</tag>
-        <tag>questions</tag>
         <tag>&#x8868;&#x60C5;&#x5305;</tag>
-        <tag>tips</tag>
       </tags>
   </entry>
   <entry>
@@ -1221,13 +1234,13 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>notnow</tag>
-        <tag>love</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
+        <tag>notnow</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
+        <tag>love</tag>
         <tag>&#x6444;&#x5F71;</tag>
         <tag>&#x53D1;&#x5446;</tag>
         <tag>&#x7AE5;&#x8BDD;</tag>
@@ -1238,25 +1251,25 @@
   <entry>
     <title><![CDATA[给我起个名字吧 - 6]]></title>
     <url>%2Fbeautiful%2Fbb-for-fun%2F2017%2F01%2F17%2Funtitled-6.html</url>
-    <content type="text"><![CDATA[品味一种纯糖果，各式口感竟皆有单曲循环却病躺，随机播放即变换困于倦于这现实，拥抱梦想何不试星辰大海应忽现，近处视界皆将变 var ap = new APlayer({ element: document.getElementById("aplayer-mqmlNXjU"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Always In My Head", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Always%20In%20My%20Head.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-ghost-stories.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-always-in-my-head.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[品味一种纯糖果，各式口感竟皆有单曲循环却病躺，随机播放即变换困于倦于这现实，拥抱梦想何不试星辰大海应忽现，近处视界皆将变 var ap = new APlayer({ element: document.getElementById("aplayer-zblSvpDC"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Always In My Head", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Always%20In%20My%20Head.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-ghost-stories.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-always-in-my-head.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>beautiful</category>
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>love</tag>
         <tag>music</tag>
         <tag>&#x661F;&#x7A7A;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
         <tag>coldplay</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
         <tag>untitled</tag>
       </tags>
   </entry>
@@ -1269,8 +1282,8 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x9152;&#x795E;</tag>
         <tag>&#x5B66;&#x4E60;</tag>
         <tag>&#x60B2;&#x4F24;</tag>
@@ -1286,29 +1299,29 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>&#x7EF4;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>&#x79D1;&#x5E7B;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>quotes</tag>
         <tag>&#x66F4;&#x65B0;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x77E5;&#x8BC6;</tag>
         <tag>&#x5B66;&#x4E60;</tag>
         <tag>shape</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x963F;&#x897F;&#x83AB;&#x592B;</tag>
-        <tag>after-physics(&#x5F62;&#x800C;&#x4E0A;&#x5B66;)</tag>
         <tag>&#x6781;&#x9650;</tag>
         <tag>&#x5E73;&#x884C;</tag>
         <tag>untitled</tag>
@@ -1319,36 +1332,36 @@
   <entry>
     <title><![CDATA[浅谈学哲学 - 那珍贵的喜悦]]></title>
     <url>%2Fphilosophy%2Fhow%2F2016%2F12%2F29%2Fon-philosophy-of-learning.html</url>
-    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place var ap = new APlayer({ element: document.getElementById("aplayer-RHplHLys"), narrow: false, autoplay: false, showlrc: 3, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-in-my-place.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
+    <content type="text"><![CDATA[question想细细读读哲学，不知道买哪样的书好…… tips因人而异。我读了一些，图书馆借的，自己买的纸质的，电子盗版的，各种各样，有名著，也有一些普通读物，杂七杂八。 但是首先，既然想细细读读哲学，肯定是有某种好奇心吧，记住这种好奇心，以及这种好奇心带来的兴趣，带来的等等（好奇心的子集）。 哲学史我一开始看的时候，就特别想了解它的源头。所以感觉首先要对哲学史（已知世界，非局部）有了解，这样脑中能有一些观点（“砖块”），所以可以读一些哲学史的书（批判性的读）。 这期间对自己好奇的（包含子集）肯定会记忆深刻，所以不用过于焦虑，担心自己记不住看过的东东（记住的是自己好奇的，想细细读读哲学是因为某种好奇，这结果没毛病）。 名著然后可以读一些自己感兴趣的名著，以及一些经典名著，比如《老子》，亚里士多德的《形而上学》，等等。 association | shape期间，可能由于好奇心，加上想象，于是拿这些“砖块”做一些东东——创新（一些些东东能创造多大的东东呢？）。 甚至想把“砖块”拆解成原子（原子还能拆解么？），或者想研究“砖块”的外表形状（虽然摸不着，但它难道没有神秘的美和力量？）。 bb - 1这过程啊，顺从那好奇心，发挥着那想象，酒神狄俄尼索斯的狂欢，日神阿波罗的至高喜悦，此乐何极！ bb - 2本来已经睡着了，但楞是被打王者的室友吵醒了，心情烦躁。打开 QQ 看看，看到这消息，想回一下，躺在床上，拿着手机，戴着耳机，听着 Coldplay 的 In My Place。码着码着，就码了一个半小时的字，心情也趋于平静～ 2016-12-29 02:43:05 Coldplay - In My Place var ap = new APlayer({ element: document.getElementById("aplayer-UeQgGYRc"), narrow: false, autoplay: false, showlrc: 3, music: { title: "In My Place", author: "Coldplay", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20In%20My%20Place.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-in-my-place.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/coldplay-in-my-place.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap);]]></content>
       <categories>
         <category>philosophy</category>
         <category>how</category>
       </categories>
       <tags>
+        <tag>association</tag>
+        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
+        <tag>questions</tag>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>tips</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>bb-for-bb</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>music</tag>
         <tag>epic</tag>
-        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>coldplay</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>questions</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>&#x56FE;&#x7247;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>beautiful</tag>
         <tag>shape</tag>
         <tag>bb-for-fun</tag>
-        <tag>association</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>tips</tag>
-        <tag>synthesis(&#x7EFC;&#x5408;)</tag>
         <tag>&#x6781;&#x9650;</tag>
         <tag>&#x7F57;&#x7D20;</tag>
       </tags>
@@ -1362,14 +1375,14 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x7A7A;&#x95F4;</tag>
         <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>critique(&#x6279;&#x5224;)</tag>
         <tag>&#x9152;&#x795E;</tag>
         <tag>quotes</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x7A7A;&#x95F4;</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x60B2;&#x4F24;</tag>
         <tag>untitled</tag>
       </tags>
@@ -1383,16 +1396,16 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x597D;&#x5947;&#x5FC3;</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x8BD7;</tag>
         <tag>love</tag>
         <tag>epic</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x9ED1;&#x6697;</tag>
       </tags>
   </entry>
@@ -1405,15 +1418,15 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>&#x661F;&#x7A7A;</tag>
         <tag>epic</tag>
-        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x5F00;&#x5FC3;</tag>
         <tag>&#x9ED1;&#x6697;</tag>
         <tag>untitled</tag>
       </tags>
@@ -1428,8 +1441,8 @@
       </categories>
       <tags>
         <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x81EA;&#x7701;</tag>
         <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
+        <tag>&#x81EA;&#x7701;</tag>
         <tag>philosophy</tag>
         <tag>how</tag>
         <tag>&#x9009;&#x62E9;</tag>
@@ -1444,12 +1457,12 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
-        <tag>music</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>quotes</tag>
         <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>music</tag>
+        <tag>quotes</tag>
         <tag>&#x97F3;&#x4E50;&#x53EF;&#x89C6;&#x5316;</tag>
         <tag>shape</tag>
         <tag>&#x53D1;&#x5446;</tag>
@@ -1465,14 +1478,14 @@
         <category>bb-for-fun</category>
       </categories>
       <tags>
+        <tag>&#x60F3;&#x8C61;</tag>
+        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
+        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>&#x661F;&#x7A7A;</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x6C89;&#x8FF7;&#x4E8E;&#x5220;&#x5220;&#x6539;&#x6539;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x60F3;&#x8C61;</tag>
-        <tag>&#x56FE;&#x7247;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x60B2;&#x4F24;</tag>
       </tags>
@@ -1486,12 +1499,12 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>love</tag>
-        <tag>&#x661F;&#x7A7A;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>&#x60F3;&#x8C61;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
+        <tag>love</tag>
+        <tag>&#x661F;&#x7A7A;</tag>
         <tag>&#x62DC;&#x4F26;</tag>
       </tags>
   </entry>
@@ -1509,8 +1522,8 @@
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
         <tag>quotes</tag>
-        <tag>&#x81EA;&#x7701;</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
+        <tag>&#x81EA;&#x7701;</tag>
         <tag>bb-for-fun</tag>
         <tag>&#x6027;&#x683C;</tag>
         <tag>&#x6559;&#x6761;</tag>
@@ -1525,23 +1538,23 @@
         <category>notnow</category>
       </categories>
       <tags>
+        <tag>&#x771F;&#x7406;</tag>
         <tag>bb-for-bb</tag>
         <tag>&#x76EE;&#x6807;</tag>
         <tag>critique(&#x6279;&#x5224;)</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
         <tag>&#x672A;&#x6765;</tag>
         <tag>epic</tag>
         <tag>&#x5149;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x9152;&#x795E;</tag>
         <tag>quotes</tag>
         <tag>practical-science(&#x5B9E;&#x8DF5;&#x79D1;&#x5B66;)</tag>
-        <tag>philosophy</tag>
-        <tag>&#x5BF9;&#x7ACB;</tag>
+        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
-        <tag>&#x67E5;&#x62C9;&#x56FE;&#x65AF;&#x7279;&#x62C9;</tag>
-        <tag>&#x771F;&#x7406;</tag>
+        <tag>&#x5BF9;&#x7ACB;</tag>
         <tag>&#x6B7B;&#x4EA1;</tag>
+        <tag>philosophy</tag>
         <tag>&#x5C0F;&#x738B;&#x5B50;</tag>
         <tag>how</tag>
       </tags>
@@ -1555,14 +1568,14 @@
         <category>share</category>
       </categories>
       <tags>
-        <tag>bb-for-bb</tag>
-        <tag>&#x76EE;&#x6807;</tag>
-        <tag>&#x8BD7;</tag>
-        <tag>&#x9152;&#x795E;</tag>
-        <tag>&#x66F4;&#x65B0;</tag>
-        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x60F3;&#x8C61;</tag>
         <tag>&#x56FE;&#x7247;</tag>
+        <tag>bb-for-bb</tag>
+        <tag>&#x76EE;&#x6807;</tag>
+        <tag>&#x9152;&#x795E;</tag>
+        <tag>&#x8BD7;</tag>
+        <tag>&#x66F4;&#x65B0;</tag>
+        <tag>&#x524D;&#x989D;&#x4E00;&#x51B7;</tag>
         <tag>&#x4E0B;&#x8F7D;</tag>
         <tag>&#x5C3C;&#x91C7;</tag>
         <tag>&#x770B;&#x4E66;</tag>
@@ -1572,7 +1585,7 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2Funcategorized%2F2010%2F01%2F01%2Ftest.html</url>
-    <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer-XabWTsAm"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music var ap = new APlayer({ element: document.getElementById("aplayer-lgdPyinT"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/oasis-live-forever.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() https://reuixiy.github.io/404.html emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456{% gp 4-3 %}![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4){% endgp %} 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果：]]></content>
+    <content type="text"><![CDATA[for testing something new only playlist var options = {"narrow":false,"autoplay":false,"showlrc":3,"mutex":true,"music":[{"title":"Paradise","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Paradise%20%281%29.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-paradise.jpg","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-paradise.lrc"},{"title":"Fix You","author":"Coldplay","url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Coldplay%20-%20Fix%20You.mp3","pic":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/coldplay-fix-you.png","lrc":"https://reuixiy.github.io/uploads/lyrics/coldplay-fix-you.lrc"}]}; options.element = document.getElementById("aplayer-dAwjVmyh"); var ap = new APlayer(options); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); music var ap = new APlayer({ element: document.getElementById("aplayer-lbMWQntp"), narrow: false, autoplay: false, showlrc: 3, music: { title: "Live Forever", author: "Oasis", url: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music/Oasis%20-%20Live%20Forever.mp3", pic: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/music-cover/oasis-live-forever.jpg", lrc: "https://yixiuer.oss-cn-shanghai.aliyuncs.com/lyrics/oasis-live-forever.lrc" } }); window.aplayers || (window.aplayers = []); window.aplayers.push(ap); video(function(){var player = new DPlayer({"container":document.getElementById("dplayer6"),"video":{"url":"https://yixiuer.oss-cn-shanghai.aliyuncs.com/Video/404bg.mp4"}});window.dplayers||(window.dplayers=[]);window.dplayers.push(player);})() https://reuixiy.github.io/404.html emoji 1\:joy\: image有标题（title）的图片～ 1![photo_alt](photo_url "photo_title") https://github.com/iissnan/hexo-theme-next/pull/279 galleryFront-matter： 1234567photos:- photo_url_1- photo_url_2- photo_url_3- photo_url_4- photo_url_5- photo_url_6 效果： group-picturesFront-matter： 1type: picture Usage： 123456{% gp 4-3 %}![photo_alt_1](photo_url_1)![photo_alt_2](photo_url_2)![photo_alt_3](photo_url_3)![photo_alt_4](photo_url_4){% endgp %} 效果： https://github.com/iissnan/hexo-theme-next/blob/master/scripts/tags/group-pictures.js linkFront-matter： 1link: url 效果： quote？阅读主题的源代码发现的：~/blog/themes/next/layout/_macro/post.swig，有没有不确定，用法不确定…… Front-matter： 1type: quote 效果：]]></content>
       <tags>
         <tag>hexo</tag>
         <tag>music</tag>
