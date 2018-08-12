@@ -10,3 +10,4 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 Sitemap: https://reuixiy.github.io/sitemap.xml
+Sitemap: https://reuixiy.github.io/baidusitemap.xml
