@@ -9,5 +9,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /movies-for-chanjuan/
 Sitemap: https://reuixiy.github.io/sitemap.xml
 Sitemap: https://reuixiy.github.io/baidusitemap.xml
